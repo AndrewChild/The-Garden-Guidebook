@@ -1,0 +1,72 @@
+\documentclass[10pt]{report}
+ \renewcommand{\familydefault}{\sfdefault}
+\usepackage[a4paper,margin=1cm,bottom=0.5cm,top=1.5cm]{geometry}
+\usepackage{enumitem}
+\usepackage[explicit]{titlesec}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{lipsum}
+\usepackage{pifont}
+\usepackage{framed}
+\usepackage{caption}
+\usepackage{bookmark}
+\usepackage{xcolor}
+\usepackage{dblfloatfix}
+\graphicspath{ {./images/} }
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\setlength\parindent{0pt}
+\setenumerate{leftmargin=*}
+\renewcommand{\labelenumi}{\textbf{\arabic{enumi}}}
+\renewcommand{\labelenumii}{\arabic{enumi}\alph{enumii}}
+
+\setcounter{topnumber}{1}
+\setcounter{bottomnumber}{1}
+\setcounter{totalnumber}{3}
+
+\titleformat{\chapter}[display]{\normalfont\color{white} \begin {shaded*}\bfseries}{\Huge#1}{0pt}{\end{shaded*}}
+\titleformat{\section}[hang]{\normalfont\color{white}}{\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}{0pt}{}
+
+\newcommand{\halfPic}[2]{
+  \begin{figure}[h]
+    \centering
+      \captionsetup{singlelinecheck=false, labelformat=empty}
+      \includegraphics[width=0.8\linewidth]{#1}
+      \caption{\textbf{#2}}
+  \end{figure}
+}
+\newcommand{\fullPic}[2]{
+  \begin{figure*}[tbh]
+    \centering
+      \captionsetup{singlelinecheck=false, labelformat=empty}
+      \includegraphics[width=0.8\textwidth]{#1}
+      \caption{\textbf{#2}}
+  \end{figure*}
+}
+\newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
+
+\begin{document}
+%\title{}
+%\author{}
+%\date{}
+\title{The Garden Boulders: Local Boulders Guidebook Builder Proof of Concept v0.6}
+\author{Andrew Child}
+\date{2022-07-05}
+\maketitle
+
+\newcommand\chapterColor{MidnightBlue}
+\input{intro}
+\twocolumn
+\renewcommand\chapterColor{BrickRed}
+\input{areas/The Garden Main}
+\renewcommand\chapterColor{BurntOrange}
+\input{areas/Upper Garden}
+\renewcommand\chapterColor{PineGreen}
+\input{areas/Pink Tag Boulders}
+\renewcommand\chapterColor{RoyalPurple}
+\input{areas/Quartzville Creek}
+\end{document}
