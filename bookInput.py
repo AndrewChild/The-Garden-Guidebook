@@ -86,12 +86,8 @@ bookSubAreas = {
         name='Roadside Area',
         parent=bookAreas['garden'],
     ),
-    'azainFront': Subarea(
-        name='Azain Frontside',
-        parent=bookAreas['garden'],
-    ),
-    'azainBack': Subarea(
-        name='Azain Backside',
+    'azain': Subarea(
+        name='Azain',
         parent=bookAreas['garden'],
     ),
     'entranceUpper': Subarea(
@@ -224,22 +220,32 @@ bookBoulders = {
     ),
     'theGood': Boulder(
         name='The Good',
-        parent=bookSubAreas['azainFront'],
+        parent=bookSubAreas['azain'],
         description=''
     ),
     'nextGood': Boulder(
         name='Next to The Good',
-        parent=bookSubAreas['azainFront'],
-        description=''
-    ),
-    'azainFront': Boulder(
-        name='Azain Front Side',
-        parent=bookSubAreas['azainFront'],
+        parent=bookSubAreas['azain'],
         description=''
     ),
     'nightCrawler': Boulder(
         name='Night Crawler',
-        parent=bookSubAreas['azainFront'],
+        parent=bookSubAreas['azain'],
+        description=''
+    ),
+    'azainFront': Boulder(
+        name='Azain Front Side',
+        parent=bookSubAreas['azain'],
+        description=''
+    ),
+    'azainBack': Boulder(
+        name='Azain Back Side',
+        parent=bookSubAreas['azain'],
+        description=''
+    ),
+    'chockStone': Boulder(
+        name='Chockstone Highball',
+        parent=bookSubAreas['azain'],
         description=''
     ),
     'intro': Boulder(
@@ -508,6 +514,12 @@ bookRoutes = {
         parent=bookBoulders['methLab'],
         description='PLACEHOLDER'
     ),
+    'swollen': Route(
+        name='Swollen Member',
+        parent=bookBoulders['swollen'],
+        grade=3,
+        description=''
+    ),
     'slamDunk': Route(
         name='Slam Dunk',
         parent=bookBoulders['eBoulder'],
@@ -525,6 +537,108 @@ bookRoutes = {
         grade=9,
         description='Start matched on a good flat rail low to the ground with some awkward feet options. Cross into a '
                     'comfortable crimp and fire up left before coming back right to a flat jug. Pretty classic as far as low balls go!'),
+    'bitchin': Route(
+        name='Bitchin Corners',
+        parent=bookBoulders['bitchin'],
+    ),
+    'theGood': Route(
+        name='The Good',
+        parent=bookBoulders['theGood'],
+        grade=3,
+        rating=3,
+        description='Start matched on a juggy flake on the right side of the boulder\'s downhill face.'
+    ),
+    'another': Route(
+        name='Another',
+        parent=bookBoulders['theGood'],
+        grade=3,
+        rating=2,
+        serious=1,
+        description='start with opposing sidepulls on the center of the boulder\'s downhill face. Traverse to the left '
+                    'arete and ascend using delecate feet and unideal hands. Mind the boulder at the bottom'
+    ),
+    'nextGood': Route(
+        name='Next To the Good',
+        parent=bookBoulders['nextGood'],
+        serious=1,
+    ),
+    'groundUp': Route(
+        name='Ground Up Blowie',
+        parent=bookBoulders['azainFront'],
+        rating=3,
+        grade=5,
+    ),
+    'intoTheLight': Route(
+        name='Into the Light',
+        parent=bookBoulders['azainFront'],
+    ),
+    'azainCrack': Route(
+        name='Azain Crack',
+        parent=bookBoulders['azainFront'],
+    ),
+    'nightCrawler': Route(
+        name='Night Crawler',
+        parent=bookBoulders['nightCrawler'],
+        grade=10,
+    ),
+    'locksmith': Route(
+        name='Locksmith',
+        parent=bookBoulders['azainBack'],
+        grade=4,
+        rating=5,
+        serious=2,
+    ),
+    'brainHaemorrhage': Route(
+        name='Brain Haemorrhage',
+        parent=bookBoulders['azainBack'],
+    ),
+    'philanthropy': Route(
+        name='Philanthropy',
+        parent=bookBoulders['azainBack'],
+    ),
+    'fullStokes': Route(
+        name='Full Stokes',
+        parent=bookBoulders['azainBack'],
+    ),
+    'gardenProj': Route(
+        name='Garden Project',
+        parent=bookBoulders['azainBack'],
+        description='Project. Sit start at the base of the low roof and climb into garden variety or Full Stokes. Once '
+                    'climbed this will be one of the hardes routes in Oregon'
+    ),
+    'gardenVariety': Route(
+        name='Garden Variety',
+        parent=bookBoulders['azainBack'],
+    ),
+    'arboretum': Route(
+        name='The Arboretum',
+        parent=bookBoulders['azainBack'],
+        grade=11,
+    ),
+    'otherBernd': Route(
+        name='The Other Bernd',
+        parent=bookBoulders['azainBack'],
+    ),
+    'siren': Route(
+        name='The Siren',
+        parent=bookBoulders['azainBack'],
+        grade=5,
+        rating=5,
+    ),
+    'bagTricks': Route(
+        name='Bag of Tricks',
+        parent=bookBoulders['azainBack'],
+    ),
+    'gumbySlab': Route(
+        name='Gumby Slab',
+        parent=bookBoulders['azainBack'],
+        grade=1,
+        rating=4,
+    ),
+    'chockStone': Route(
+        name='Chockstone Highball',
+        parent=bookBoulders['chockStone'],
+    ),
 }
 bookVariations = {
     'mrBigglesworth': Variation(
@@ -572,6 +686,11 @@ bookVariations = {
         description='Sit down start at the lowest available holds and climb into Smackdown. This was literally '
                     'unearthed when a local climber yarded a large rock out from the landing of Smackdown using a '
                     'chain and come along. The device broke in the process inspiring the name of the route.'),
+    'bitchinSit': Variation(
+        name='Bitchin Corners Sit',
+        parent=bookRoutes['bitchin'],
+        grade=6,
+    ),
 }
 bookTopos = {
     'miniMe': Topo(

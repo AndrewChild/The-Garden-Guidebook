@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  5 JUL 2022 17:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  6 JUL 2022 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -358,7 +358,11 @@ rs
 \f@nch@O@olf=\skip61
 \f@nch@O@orf=\skip62
 )
-No file guideBook.aux.
+(C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guidebook\guideBook.aux
+
+LaTeX Warning: Label `sa:Entrance Area' multiply defined.
+
+)
 \openout1 = `guideBook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
@@ -379,6 +383,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -567,6 +572,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
 [4 <../maps/topos/miniMe2_c.png> <./Image/AustinPowers.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.60004pt, for example:
@@ -605,16 +614,16 @@ Chapter 5.
 
 
 ])
-(C:\Users\anchi\Desktop\projects\guidebook\The Garden Guidebook\guideBook.aux)
+(C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guidebook\guideBook.aux)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12459 strings out of 478354
- 209773 string characters out of 2837118
- 615351 words of memory out of 3000000
- 30608 multiletter control sequences out of 15000+600000
+ 12506 strings out of 478354
+ 210503 string characters out of 2837118
+ 618270 words of memory out of 3000000
+ 30632 multiletter control sequences out of 15000+600000
  475789 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,12n,91p,402b,724s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -630,10 +639,10 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Use
 rs/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.p
 fb>
-Output written on "C:\Users\anchi\Desktop\projects\guidebook\The Garden Guidebo
-ok\guideBook.pdf" (10 pages, 62623922 bytes).
+Output written on C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guideboo
+k\guideBook.pdf (10 pages, 62627778 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 500000)
- 177 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 264 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
