@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  6 JUL 2022 13:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  6 JUL 2022 22:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -459,25 +459,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/anchi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 (intro.tex
 Chapter 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 8.
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-10.
-(C:\Users\anchi\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
-File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 \clearpage
-                [1
+l.8 \clearpage
+               [1
 
 ]) (areas/The Garden Main.tex
 Chapter 2.
-<../maps/subarea/fightClub_c.png, id=19, 1927.2pt x 1393.205pt>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
+<../maps/subarea/fightClub_c.png, id=16, 1927.2pt x 1393.205pt>
 File: ../maps/subarea/fightClub_c.png Graphic file (type png)
 <use ../maps/subarea/fightClub_c.png>
 Package pdftex.def Info: ../maps/subarea/fightClub_c.png  used on input line 44
@@ -486,7 +482,7 @@ Package pdftex.def Info: ../maps/subarea/fightClub_c.png  used on input line 44
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../maps/subarea/undertow_c.png, id=21, 1393.205pt x 1555.8125pt>
+<../maps/subarea/undertow_c.png, id=18, 1393.205pt x 1555.8125pt>
 File: ../maps/subarea/undertow_c.png Graphic file (type png)
 <use ../maps/subarea/undertow_c.png>
 Package pdftex.def Info: ../maps/subarea/undertow_c.png  used on input line 45.
@@ -495,7 +491,7 @@ Package pdftex.def Info: ../maps/subarea/undertow_c.png  used on input line 45.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Image/FightClub2.jpg, id=22, 966.9726pt x 1049.6013pt>
+<./Image/FightClub2.jpg, id=19, 966.9726pt x 1049.6013pt>
 File: ./Image/FightClub2.jpg Graphic file (type jpg)
 <use ./Image/FightClub2.jpg>
 Package pdftex.def Info: ./Image/FightClub2.jpg  used on input line 49.
@@ -510,12 +506,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  <../maps/subarea/fightClub_c.png>]
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 76.
-<../maps/topos/miniMe2_c.png, id=45, 1927.2pt x 1284.8pt>
+<../maps/topos/miniMe2_c.png, id=42, 1927.2pt x 1284.8pt>
 File: ../maps/topos/miniMe2_c.png Graphic file (type png)
 <use ../maps/topos/miniMe2_c.png>
 Package pdftex.def Info: ../maps/topos/miniMe2_c.png  used on input line 80.
 (pdftex.def)             Requested size: 432.48355pt x 288.32256pt.
-<./Image/Undertow.jpg, id=46, 967.4544pt x 1449.2544pt>
+<./Image/Undertow.jpg, id=43, 967.4544pt x 1449.2544pt>
 File: ./Image/Undertow.jpg Graphic file (type jpg)
 <use ./Image/Undertow.jpg>
 Package pdftex.def Info: ./Image/Undertow.jpg  used on input line 126.
@@ -524,7 +520,7 @@ Package pdftex.def Info: ./Image/Undertow.jpg  used on input line 126.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Image/Octurnal.jpg, id=47, 1449.2544pt x 967.4544pt>
+<./Image/Octurnal.jpg, id=44, 1449.2544pt x 967.4544pt>
 File: ./Image/Octurnal.jpg Graphic file (type jpg)
 <use ./Image/Octurnal.jpg>
 Package pdftex.def Info: ./Image/Octurnal.jpg  used on input line 136.
@@ -532,7 +528,7 @@ Package pdftex.def Info: ./Image/Octurnal.jpg  used on input line 136.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Image/Smackdown.jpg, id=48, 1449.2544pt x 967.4544pt>
+<./Image/Smackdown.jpg, id=45, 1449.2544pt x 967.4544pt>
 File: ./Image/Smackdown.jpg Graphic file (type jpg)
 <use ./Image/Smackdown.jpg>
 Package pdftex.def Info: ./Image/Smackdown.jpg  used on input line 140.
@@ -613,29 +609,26 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12497 strings out of 478354
- 210276 string characters out of 2837118
+ 12472 strings out of 478354
+ 209580 string characters out of 2837118
  617270 words of memory out of 3000000
- 30625 multiletter control sequences out of 15000+600000
- 475789 words of font info for 49 fonts, out of 8000000 for 9000
+ 30606 multiletter control sequences out of 15000+600000
+ 475148 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,12n,91p,402b,592s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\anchi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
-1000.pk><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmss10.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmss12.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/anchi/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/anchi/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/anchi/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Use
-rs/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.p
-fb>
+<C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr10.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmss10.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmss12.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/anchi/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/anchi/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/anchi/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/an
+chi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
 Output written on C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guideboo
-k\guideBook.pdf (10 pages, 60266693 bytes).
+k\guideBook.pdf (10 pages, 60256306 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
- 164 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 248 PDF objects out of 1000 (max. 8388607)
+ 94 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
