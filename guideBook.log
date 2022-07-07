@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  6 JUL 2022 12:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  6 JUL 2022 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -515,35 +515,27 @@ File: ../maps/topos/miniMe2_c.png Graphic file (type png)
 <use ../maps/topos/miniMe2_c.png>
 Package pdftex.def Info: ../maps/topos/miniMe2_c.png  used on input line 80.
 (pdftex.def)             Requested size: 432.48355pt x 288.32256pt.
-<./Image/AustinPowers.jpg, id=46, 966.9726pt x 778.107pt>
-File: ./Image/AustinPowers.jpg Graphic file (type jpg)
-<use ./Image/AustinPowers.jpg>
-Package pdftex.def Info: ./Image/AustinPowers.jpg  used on input line 84.
-(pdftex.def)             Requested size: 212.24176pt x 170.78038pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./Image/Undertow.jpg, id=47, 967.4544pt x 1449.2544pt>
+<./Image/Undertow.jpg, id=46, 967.4544pt x 1449.2544pt>
 File: ./Image/Undertow.jpg Graphic file (type jpg)
 <use ./Image/Undertow.jpg>
-Package pdftex.def Info: ./Image/Undertow.jpg  used on input line 127.
+Package pdftex.def Info: ./Image/Undertow.jpg  used on input line 126.
 (pdftex.def)             Requested size: 212.24176pt x 317.93028pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Image/Octurnal.jpg, id=48, 1449.2544pt x 967.4544pt>
+<./Image/Octurnal.jpg, id=47, 1449.2544pt x 967.4544pt>
 File: ./Image/Octurnal.jpg Graphic file (type jpg)
 <use ./Image/Octurnal.jpg>
-Package pdftex.def Info: ./Image/Octurnal.jpg  used on input line 137.
+Package pdftex.def Info: ./Image/Octurnal.jpg  used on input line 136.
 (pdftex.def)             Requested size: 212.24176pt x 141.67232pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Image/Smackdown.jpg, id=49, 1449.2544pt x 967.4544pt>
+<./Image/Smackdown.jpg, id=48, 1449.2544pt x 967.4544pt>
 File: ./Image/Smackdown.jpg Graphic file (type jpg)
 <use ./Image/Smackdown.jpg>
-Package pdftex.def Info: ./Image/Smackdown.jpg  used on input line 141.
+Package pdftex.def Info: ./Image/Smackdown.jpg  used on input line 140.
 (pdftex.def)             Requested size: 212.24176pt x 141.67232pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -558,9 +550,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (4.088pt too wide) in paragraph at lines 156--160
+Overfull \hbox (4.088pt too wide) in paragraph at lines 155--159
 \OT1/cmss/m/n/10 Start stand-ing with left hand gas-ton and right hand jug side
 pull.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--186
+
  []
 
 
@@ -571,11 +568,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[4 <../maps/topos/miniMe2_c.png> <./Image/AustinPowers.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 185--187
-
- []
-
+[4 <../maps/topos/miniMe2_c.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.60004pt, for example:
@@ -620,13 +613,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12506 strings out of 478354
- 210503 string characters out of 2837118
- 618270 words of memory out of 3000000
- 30632 multiletter control sequences out of 15000+600000
+ 12497 strings out of 478354
+ 210276 string characters out of 2837118
+ 617270 words of memory out of 3000000
+ 30625 multiletter control sequences out of 15000+600000
  475789 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,12n,91p,402b,724s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 86i,12n,91p,402b,592s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\anchi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
 1000.pk><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
@@ -640,9 +633,9 @@ rs/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.p
 fb>
 Output written on C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guideboo
-k\guideBook.pdf (10 pages, 62627778 bytes).
+k\guideBook.pdf (10 pages, 60266693 bytes).
 PDF statistics:
- 264 PDF objects out of 1000 (max. 8388607)
- 96 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 262 PDF objects out of 1000 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
+ 164 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -157,9 +157,9 @@ bookBoulders = {
         parent=bookSubAreas['fightClub'],
         description='A short pointy boulder with a flat landing is nearly freestanding on the downhill side of the '
                     'Fight Club zone',
-        photos=[
-        bookPhotos['austinPowers']
-            ],
+        # photos=[
+        # bookPhotos['austinPowers']
+        #     ],
     ),
     'trust': Boulder(
         name='Trust',
