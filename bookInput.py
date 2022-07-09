@@ -7,28 +7,6 @@ book = Book(
     name='The Garden Boulders: Local Boulders Guidebook Builder Proof of Concept v0.6',
     author='Andrew Child',
 )
-bookPhotos = {
-    'austinPowers': Photo(
-        name='Austin Powers',
-        fileName='AustinPowers.jpg',
-        description='Carson cranking across the face on Austin Powers.'),
-    'undertow': Photo(
-        name='Undertow',
-        fileName='Undertow.jpg',
-        description='Rob on Undertow'),
-    'fightClub': Photo(
-        name='Fight Club',
-        fileName='FightClub2.jpg',
-        description='Michael near the top of Fight Club.'),
-    'octurnal': Photo(
-        name='Octurnal',
-        fileName='Octurnal.jpg',
-        description='Carson landing the big throw on Octurnal. Classic!'),
-    'smackdown': Photo(
-        name='Smackdown',
-        fileName='Smackdown.jpg',
-        description='Andrew posting up at the start of Smackdown'),
-}
 bookAreas = {
     'garden': Area(
         name='The Garden Main',
@@ -67,20 +45,14 @@ bookSubAreas = {
         parent=bookAreas['garden'],
         description='Located in the southwest corner of the Garden main, The Fight Club zone is home to the '
                     'namesake V8 test piece as well as several other quality lines. Flat landings and easy access '
-                    'make this a nice spot to spend some time',
-        photos=[
-        bookPhotos['fightClub'],
-        ]
+                    'make this a nice spot to spend some time'
     ),
     'methLab': Subarea(
         name='Meth Lab',
         parent=bookAreas['garden'],
         description='Easily the most recognizable feature at the Garden, the Meth Lab boulder towers over all other stones in the '
                     'main area. Most climbs for this zone are located in a secluded natural amphitheater on the '
-                    'uphill side of the boulder.',
-        photos=[
-        bookPhotos['octurnal'],
-        ]
+                    'uphill side of the boulder.'
     ),
     'roadSide': Subarea(
         name='Roadside Area',
@@ -157,9 +129,6 @@ bookBoulders = {
         parent=bookSubAreas['fightClub'],
         description='A short pointy boulder with a flat landing is nearly freestanding on the downhill side of the '
                     'Fight Club zone',
-        # photos=[
-        # bookPhotos['austinPowers']
-        #     ],
     ),
     'trust': Boulder(
         name='Trust',
@@ -181,17 +150,11 @@ bookBoulders = {
         name='Undertow',
         parent=bookSubAreas['fightClub'],
         description='Realatively off the beaten path as far as classic garden boulders goes. Follow a faint trail '
-                    'upill past the trust boulder.',
-        photos=[
-        bookPhotos['undertow']
-            ],
+                    'upill past the trust boulder.'
     ),
     'methLab': Boulder(
         name='Meth Lab',
         parent=bookSubAreas['methLab'],
-        photos=[
-            bookPhotos['smackdown'],
-        ]
     ),
     'swollen': Boulder(
         name='Swollen Member',
@@ -691,6 +654,33 @@ bookVariations = {
         parent=bookRoutes['bitchin'],
         grade=6,
     ),
+}
+bookPhotos = {
+    'austinPowers': Photo(
+        name='Austin Powers',
+        fileName='AustinPowers.jpg',
+        parent=bookBoulders['miniMe'],
+        description='Carson cranking across the face on Austin Powers.'),
+    'undertow': Photo(
+        name='Undertow',
+        fileName='Undertow.jpg',
+        parent=bookBoulders['undertow'],
+        description='Rob on Undertow'),
+    'fightClub': Photo(
+        name='Fight Club',
+        fileName='FightClub2.jpg',
+        parent=bookBoulders['fightClub'],
+        description='Michael near the top of Fight Club.'),
+    'octurnal': Photo(
+        name='Octurnal',
+        fileName='Octurnal.jpg',
+        parent=bookBoulders['methLab'],
+        description='Carson landing the big throw on Octurnal. Classic!'),
+    'smackdown': Photo(
+        name='Smackdown',
+        fileName='Smackdown.jpg',
+        parent=bookBoulders['methLab'],
+        description='Andrew posting up at the start of Smackdown'),
 }
 bookTopos = {
     'miniMe': Topo(
