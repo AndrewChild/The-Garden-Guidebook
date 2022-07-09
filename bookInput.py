@@ -685,7 +685,7 @@ bookPhotos = {
 bookTopos = {
     'miniMe': Topo(
         name='miniMe',
-        boulder=bookBoulders['miniMe'],
+        parent=bookBoulders['miniMe'],
         fileName='miniMe2.svg',
         size='f',
         description='Routes on Mini Me, Trust, and Tyler Durten',
@@ -708,7 +708,7 @@ bookTopos = {
 bookSubAreaMaps = {
     'fightClub': SubAreaMap(
         name='Fight Club area map',
-        subArea=bookSubAreas['fightClub'],
+        parent=bookSubAreas['fightClub'],
         fileName='fightClub.svg',
         description='Fight Club Area Map',
         routes={
@@ -727,7 +727,7 @@ bookSubAreaMaps = {
     ),
     'undertow': SubAreaMap(
         name='Undertow area map',
-        subArea=bookSubAreas['fightClub'],
+        parent=bookSubAreas['fightClub'],
         fileName='undertow.svg',
         description='Undertow area map',
         routes={
