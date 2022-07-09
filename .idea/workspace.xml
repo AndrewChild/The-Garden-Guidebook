@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dacbb936-7651-4702-a4e9-c76dfd552508" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guideBook.aux" beforeDir="false" afterPath="$PROJECT_DIR$/guideBook.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guideBook.log" beforeDir="false" afterPath="$PROJECT_DIR$/guideBook.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guideBook.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/guideBook.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/guideBook.tex" beforeDir="false" afterPath="$PROJECT_DIR$/sections/guideBook.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/intro.tex" beforeDir="false" afterPath="$PROJECT_DIR$/sections/intro.tex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +19,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2Ba2Q83ejPa6rhRRUlvGChguj8a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,14 +74,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/bookInput.py</url>
-          <line>746</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/bookInput.py</url>
-          <line>749</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/../LocalBoulders/dataStructure.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
