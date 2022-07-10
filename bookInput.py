@@ -62,6 +62,10 @@ bookSubAreas = {
         name='Azain',
         parent=bookAreas['garden'],
     ),
+    'bigFred': Subarea(
+        name='Big Fred',
+        parent=bookAreas['garden'],
+    ),
     'entranceUpper': Subarea(
         name='Entrance Area',
         parent=bookAreas['upperGarden'],
@@ -155,11 +159,12 @@ bookBoulders = {
     'methLab': Boulder(
         name='Meth Lab',
         parent=bookSubAreas['methLab'],
+        description='Routes listed in counter clockwise order beginning under the large prow of the downhill face.'
     ),
     'swollen': Boulder(
         name='Swollen Member',
         parent=bookSubAreas['methLab'],
-        description='A small prow just out of the hill side above the Meth Lab boulder at a provocative angle.'
+        description='A small prow just out of the hill side above the Meth Lab boulder protrudes at a provocative angle.'
     ),
     'eBoulder': Boulder(
         name='E\'s Boulder',
@@ -174,7 +179,7 @@ bookBoulders = {
     'bitchin': Boulder(
         name='Bitchin Corners',
         parent=bookSubAreas['roadSide'],
-        description=''
+        description='A neet angular face sits on the downhill of an otherwise unremarkable boulder.'
     ),
     'roadside': Boulder(
         name='Roadside',
@@ -184,26 +189,36 @@ bookBoulders = {
     'theGood': Boulder(
         name='The Good',
         parent=bookSubAreas['azain'],
-        description=''
+        description='Continuing up the main trail from Boys in the Woods leads to a good boulder with two routes on the downhill face.'
     ),
     'nextGood': Boulder(
         name='Next to The Good',
         parent=bookSubAreas['azain'],
-        description=''
+        description='A slender boulder hangs off the ground to the left of the Good.'
     ),
     'nightCrawler': Boulder(
         name='Night Crawler',
         parent=bookSubAreas['azain'],
-        description=''
+        description='This iconic double arete boulder hangs like a throne near the top of the Azain formation.'
     ),
     'azainFront': Boulder(
         name='Azain Front Side',
         parent=bookSubAreas['azain'],
-        description=''
+        description='The tall walls of the Azain front side are located just off the main trail behind The Good.'
     ),
     'azainBack': Boulder(
         name='Azain Back Side',
         parent=bookSubAreas['azain'],
+        description='Continuing up the main trail will bring you between the Azain and Big Fred boulders to the Azain backside.'
+    ),
+    'bigFred': Boulder(
+        name='Big Fred',
+        parent=bookSubAreas['bigFred'],
+        description=''
+    ),
+    'angryGrandma': Boulder(
+        name='Angry Grandma',
+        parent=bookSubAreas['bigFred'],
         description=''
     ),
     'chockStone': Boulder(
@@ -438,7 +453,9 @@ bookRoutes = {
     'leaveJesus': Route(
         name='Leave It to Jesus',
         parent=bookBoulders['methLab'],
-        description='PLACEHOLDER'
+        rating=3,
+        grade=1,
+        description='Stand start on a high blocky edge. Crank one move and post up for a fun huck.'
     ),
     'smackdown': Route(
         name='Smackdown',
@@ -481,7 +498,10 @@ bookRoutes = {
         name='Swollen Member',
         parent=bookBoulders['swollen'],
         grade=3,
-        description=''
+        rating=3,
+        description='A classic hazing route. Start hugging the underside of the block underside with good hand holds '
+                    'on each side of the stubby prow. Manuver youself into a less scandelous orientation using toe '
+                    'hooks, heel hooks and  all manner of dirty tricks.'
     ),
     'slamDunk': Route(
         name='Slam Dunk',
@@ -530,6 +550,9 @@ bookRoutes = {
         parent=bookBoulders['azainFront'],
         rating=3,
         grade=5,
+        description='Start at the base of a horizontal finger crack climb up left around a dabby tree and onto an easy '
+                    'slab. This route was named as an omage to the first ascent when the top out was cleaned via '
+                    'leafblower from a stance mid route.'
     ),
     'intoTheLight': Route(
         name='Into the Light',
@@ -550,10 +573,14 @@ bookRoutes = {
         grade=4,
         rating=5,
         serious=2,
+        description='Sit start with a juggy left hand sidebpull and right hand on an undercling edge. Pull a few '
+                    'crimpy moves until you can reach a good hold on the arete. Rock over onto the slab and quest to '
+                    'the top. Be sure to clean the upper section before attempting this rig.'
     ),
     'brainHaemorrhage': Route(
         name='Brain Haemorrhage',
         parent=bookBoulders['azainBack'],
+        description='Start as for locksmith and traverse right into philanthropy'
     ),
     'philanthropy': Route(
         name='Philanthropy',
@@ -597,10 +624,23 @@ bookRoutes = {
         parent=bookBoulders['azainBack'],
         grade=1,
         rating=4,
+        description='Stand start in the center of the face. This can be scary if not used to climbing outdoors.',
     ),
     'chockStone': Route(
         name='Chockstone Highball',
         parent=bookBoulders['chockStone'],
+    ),
+    'bigFred': Route(
+        name='Big Fred',
+        parent=bookBoulders['bigFred'],
+    ),
+    'angryMom': Route(
+        name='Angry Mom',
+        parent=bookBoulders['angryGrandma'],
+    ),
+    'angryGrandma': Route(
+        name='Angry Grandma',
+        parent=bookBoulders['angryGrandma'],
     ),
 }
 bookVariations = {
@@ -660,26 +700,36 @@ bookPhotos = {
         name='Austin Powers',
         fileName='AustinPowers.jpg',
         parent=bookBoulders['miniMe'],
+        route=bookRoutes['austinPowers'],
+        credit='Andrew Child',
         description='Carson cranking across the face on Austin Powers.'),
     'undertow': Photo(
         name='Undertow',
         fileName='Undertow.jpg',
         parent=bookBoulders['undertow'],
+        route=bookRoutes['undertow'],
+        credit='Andrew Child',
         description='Rob on Undertow'),
     'fightClub': Photo(
         name='Fight Club',
         fileName='FightClub2.jpg',
         parent=bookBoulders['fightClub'],
+        route=bookRoutes['fightClub'],
+        credit='Andrew Child',
         description='Michael near the top of Fight Club.'),
     'octurnal': Photo(
         name='Octurnal',
         fileName='Octurnal.jpg',
         parent=bookBoulders['methLab'],
+        route=bookRoutes['octurnal'],
+        credit='Andrew Child',
         description='Carson landing the big throw on Octurnal. Classic!'),
     'smackdown': Photo(
         name='Smackdown',
         fileName='Smackdown.jpg',
         parent=bookBoulders['methLab'],
+        route=bookRoutes['smackdown'],
+        credit='Carson Dension',
         description='Andrew posting up at the start of Smackdown'),
 }
 bookTopos = {

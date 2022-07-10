@@ -31,20 +31,20 @@
 \titleformat{\chapter}[display]{\normalfont\color{white} \begin {shaded*}\bfseries}{\Huge#1}{0pt}{\end{shaded*}}
 \titleformat{\section}[hang]{\normalfont\color{white}}{\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}{0pt}{}
 
-\newcommand{\halfPic}[2]{
+\newcommand{\halfPic}[3]{
   \begin{figure}[h]
     \centering
       \captionsetup{singlelinecheck=false, labelformat=empty}
-      \includegraphics[width=0.8\linewidth]{#1}
-      \caption{\textbf{#2}}
+      \includegraphics[width=0.8\linewidth]{#2}
+      \caption{\textbf{#3#1}}
   \end{figure}
 }
-\newcommand{\fullPic}[2]{
+\newcommand{\fullPic}[3]{
   \begin{figure*}[tbh]
     \centering
       \captionsetup{singlelinecheck=false, labelformat=empty}
-      \includegraphics[width=0.8\textwidth]{#1}
-      \caption{\textbf{#2}}
+      \includegraphics[width=0.8\textwidth]{#2}
+      \caption{\textbf{#3#1}}
   \end{figure*}
 }
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
@@ -55,7 +55,7 @@
 %\date{}
 \title{The Garden Boulders: Local Boulders Guidebook Builder Proof of Concept v0.6}
 \author{Andrew Child}
-\date{2022-07-08}
+\date{2022-07-09}
 \maketitle
 
 \newcommand\chapterColor{MidnightBlue}
