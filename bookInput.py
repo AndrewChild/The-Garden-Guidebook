@@ -573,14 +573,9 @@ bookRoutes = {
         grade=4,
         rating=5,
         serious=2,
-        description='Sit start with a juggy left hand sidebpull and right hand on an undercling edge. Pull a few '
+        description='Also known as Hula. Sit start with a juggy left hand sidebpull and right hand on an undercling edge. Pull a few '
                     'crimpy moves until you can reach a good hold on the arete. Rock over onto the slab and quest to '
                     'the top. Be sure to clean the upper section before attempting this rig.'
-    ),
-    'brainHaemorrhage': Route(
-        name='Brain Haemorrhage',
-        parent=bookBoulders['azainBack'],
-        description='Start as for locksmith and traverse right into philanthropy'
     ),
     'philanthropy': Route(
         name='Philanthropy',
@@ -693,6 +688,11 @@ bookVariations = {
         name='Bitchin Corners Sit',
         parent=bookRoutes['bitchin'],
         grade=6,
+    ),
+    'brainHaemorrhage': Variation(
+        name='Brain Haemorrhage',
+        parent=bookRoutes['locksmith'],
+        description='Start as for locksmith and traverse right into philanthropy'
     ),
 }
 bookPhotos = {

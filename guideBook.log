@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  9 JUL 2022 22:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  9 JUL 2022 22:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -452,31 +452,43 @@ Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 60.
+(Font)              <12> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 60.
+(Font)              <8> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 60.
+(Font)              <6> on input line 57.
  [1
 
 {C:/Users/anchi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 (intro.tex
 Chapter 1.
-
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+) (areas/The Garden Main.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.8 \clearpage
-               [1
+l.2 \chapter
+            {The Garden Main}\label{a:The Garden Main} [1
 
-]) (areas/The Garden Main.tex
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 16.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
+
+[2
+
+]
 Chapter 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 7.
-<./maps/subarea/fightClub_c.png, id=18, 1927.2pt x 1393.205pt>
+<./maps/subarea/fightClub_c.png, id=28, 1927.2pt x 1393.205pt>
 File: ./maps/subarea/fightClub_c.png Graphic file (type png)
 <use ./maps/subarea/fightClub_c.png>
 Package pdftex.def Info: ./maps/subarea/fightClub_c.png  used on input line 44.
@@ -485,7 +497,7 @@ Package pdftex.def Info: ./maps/subarea/fightClub_c.png  used on input line 44.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./maps/subarea/undertow_c.png, id=20, 1393.205pt x 1555.8125pt>
+<./maps/subarea/undertow_c.png, id=30, 1393.205pt x 1555.8125pt>
 File: ./maps/subarea/undertow_c.png Graphic file (type png)
 <use ./maps/subarea/undertow_c.png>
 Package pdftex.def Info: ./maps/subarea/undertow_c.png  used on input line 45.
@@ -493,7 +505,7 @@ Package pdftex.def Info: ./maps/subarea/undertow_c.png  used on input line 45.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/FightClub2.jpg, id=21, 966.9726pt x 1049.6013pt>
+<./images/FightClub2.jpg, id=31, 966.9726pt x 1049.6013pt>
 File: ./images/FightClub2.jpg Graphic file (type jpg)
 <use ./images/FightClub2.jpg>
 Package pdftex.def Info: ./images/FightClub2.jpg  used on input line 59.
@@ -501,20 +513,18 @@ Package pdftex.def Info: ./images/FightClub2.jpg  used on input line 59.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2
-
-
+[3
 
  <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/subarea/f
 ightClub_c.png>]
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 76.
-<./maps/topos/miniMe2_c.png, id=44, 1927.2pt x 1284.8pt>
+<./maps/topos/miniMe2_c.png, id=55, 1927.2pt x 1284.8pt>
 File: ./maps/topos/miniMe2_c.png Graphic file (type png)
 <use ./maps/topos/miniMe2_c.png>
 Package pdftex.def Info: ./maps/topos/miniMe2_c.png  used on input line 80.
 (pdftex.def)             Requested size: 432.48355pt x 288.32256pt.
-<./images/AustinPowers.jpg, id=45, 966.9726pt x 778.107pt>
+<./images/AustinPowers.jpg, id=56, 966.9726pt x 778.107pt>
 File: ./images/AustinPowers.jpg Graphic file (type jpg)
 <use ./images/AustinPowers.jpg>
 Package pdftex.def Info: ./images/AustinPowers.jpg  used on input line 84.
@@ -523,7 +533,7 @@ Package pdftex.def Info: ./images/AustinPowers.jpg  used on input line 84.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/Undertow.jpg, id=47, 967.4544pt x 1449.2544pt>
+<./images/Undertow.jpg, id=58, 967.4544pt x 1449.2544pt>
 File: ./images/Undertow.jpg Graphic file (type jpg)
 <use ./images/Undertow.jpg>
 Package pdftex.def Info: ./images/Undertow.jpg  used on input line 127.
@@ -531,7 +541,7 @@ Package pdftex.def Info: ./images/Undertow.jpg  used on input line 127.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/Octurnal.jpg, id=49, 1449.2544pt x 967.4544pt>
+<./images/Octurnal.jpg, id=60, 1449.2544pt x 967.4544pt>
 File: ./images/Octurnal.jpg Graphic file (type jpg)
 <use ./images/Octurnal.jpg>
 Package pdftex.def Info: ./images/Octurnal.jpg  used on input line 140.
@@ -544,13 +554,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[3 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/subarea
+[4 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/subarea
 /undertow_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guideboo
 k/images/FightClub2.jpg>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/Smackdown.jpg, id=73, 1449.2544pt x 967.4544pt>
+<./images/Smackdown.jpg, id=82, 1449.2544pt x 967.4544pt>
 File: ./images/Smackdown.jpg Graphic file (type jpg)
 <use ./images/Smackdown.jpg>
 Package pdftex.def Info: ./images/Smackdown.jpg  used on input line 141.
@@ -572,7 +582,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[4 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/topos/m
+[5 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/topos/m
 iniMe2_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/i
 mages/AustinPowers.jpg>]
 
@@ -583,7 +593,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[5 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/images/Under
+[6 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/images/Under
 tow.jpg> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/images
 /Octurnal.jpg>]
 
@@ -594,53 +604,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[6 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/images/Smack
+[7 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/images/Smack
 down.jpg>]) (areas/Upper Garden.tex
 Chapter 3.
-[7
+[8
 
 
 
 ]) (areas/Pink Tag Boulders.tex
 Chapter 4.
-[8
+[9
 
 
 
 ]) (areas/Quartzville Creek.tex
 Chapter 5.
-[9
+[10
 
 
 
 ]) (index.tex
 Chapter 6.
-
-LaTeX Warning: Reference `rt:Angry Grandma' on page 10 undefined on input line 
-8.
+[11
 
 
-LaTeX Warning: Reference `rt:Angry Mom' on page 10 undefined on input line 9.
-
-
-LaTeX Warning: Reference `rt:Big Fred' on page 10 undefined on input line 14.
-
-[10
-
-
-]
-
-LaTeX Warning: Reference `rt:Big Fred' on page 11 undefined on input line 140.
-
-
-LaTeX Warning: Reference `rt:Angry Mom' on page 11 undefined on input line 141.
-
-
-
-LaTeX Warning: Reference `rt:Angry Grandma' on page 11 undefined on input line 
-142.
-
-)
+])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.60004pt, for example:
@@ -649,25 +637,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[11
+[12
 
 ]
 (C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guidebook\guideBook.aux)
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12564 strings out of 478354
- 210367 string characters out of 2837118
- 632405 words of memory out of 3000000
- 30686 multiletter control sequences out of 15000+600000
+ 12576 strings out of 478354
+ 210464 string characters out of 2837118
+ 632473 words of memory out of 3000000
+ 30691 multiletter control sequences out of 15000+600000
  475148 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,12n,91p,402b,724s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 86i,12n,91p,538b,724s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmr10.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmss10.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
@@ -678,9 +663,9 @@ rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/anchi/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/an
 chi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
 Output written on C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guideboo
-k\guideBook.pdf (12 pages, 62651918 bytes).
+k\guideBook.pdf (13 pages, 62658795 bytes).
 PDF statistics:
- 422 PDF objects out of 1000 (max. 8388607)
- 106 named destinations out of 1000 (max. 500000)
- 209 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 458 PDF objects out of 1000 (max. 8388607)
+ 113 named destinations out of 1000 (max. 500000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
