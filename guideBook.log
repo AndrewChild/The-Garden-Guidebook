@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  9 JUL 2022 22:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  9 JUL 2022 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -466,13 +466,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
-) (areas/The Garden Main.tex
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2 \chapter
-            {The Garden Main}\label{a:The Garden Main} [1
+l.32 
+      [1
 
 
 ]
@@ -486,7 +486,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-]
+]) (areas/The Garden Main.tex
 Chapter 2.
 <./maps/subarea/fightClub_c.png, id=28, 1927.2pt x 1393.205pt>
 File: ./maps/subarea/fightClub_c.png Graphic file (type png)
@@ -514,6 +514,7 @@ Package pdftex.def Info: ./images/FightClub2.jpg  used on input line 59.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3
+
 
  <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/subarea/f
 ightClub_c.png>]
@@ -628,7 +629,7 @@ Chapter 6.
 [11
 
 
-])
+]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.60004pt, for example:
@@ -639,7 +640,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [12
 
-]
+])
 (C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guidebook\guideBook.aux)
 
 LaTeX Warning: There were multiply-defined labels.
@@ -663,7 +664,7 @@ rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/anchi/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/an
 chi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
 Output written on C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guideboo
-k\guideBook.pdf (13 pages, 62658795 bytes).
+k\guideBook.pdf (13 pages, 62658785 bytes).
 PDF statistics:
  458 PDF objects out of 1000 (max. 8388607)
  113 named destinations out of 1000 (max. 500000)
