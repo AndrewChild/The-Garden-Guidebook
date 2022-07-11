@@ -4,7 +4,7 @@ from dataStructure import *
 
 
 book = Book(
-    name='The Garden Boulders: Local Boulders Guidebook Builder Proof of Concept v0.6',
+    name=r'The Garden Boulders',
     author='Andrew Child',
 )
 bookAreas = {
@@ -637,6 +637,55 @@ bookRoutes = {
         name='Farely Prep',
         parent=bookBoulders['farley'],
         grade=9, ), #unconfirmed     
+    'ponyBoy': Route(
+        name='Pony Boy',
+        parent=bookBoulders['ponyBoy'],
+        grade=2, 
+        rating=0,), 
+    'monorail': Route(
+        name='Monorail Project',
+        parent=bookBoulders['monorail'],
+        description='Project. Start on the far right and traverse left along the lip.'), 
+    'uglyFace': Route(
+        name='Ugly Face',
+        parent=bookBoulders['yoMamma'],
+        grade=0, 
+        serious=1,
+        rating=1,), 
+    'binding': Route(
+        name='Binding of Isaac',
+        parent=bookBoulders['yoMamma'],
+        grade=2, 
+        serious=1,
+        rating=3,), 
+    'mossBoss': Route(
+        name='Moss Boss',
+        parent=bookBoulders['mossBoss'],
+        grade=3, 
+        rating=2,), 
+    'tendies': Route(
+        name='Chicken Tendies',
+        parent=bookBoulders['fourPointFive'],
+        grade=1, 
+        rating=1,), 
+    'teenageLibertarians': Route(
+        name='Teenage Libertarians',
+        parent=bookBoulders['fourPointFive'],
+        grade=4, 
+        rating=4,), 
+    'falcon': Route(
+        name='Falcon\'s Reach',
+        parent=bookBoulders['fourPointFive'],
+        grade=3, 
+        rating=2,), 
+    'almonds': Route(
+        name='Unsalted Almonds',
+        parent=bookBoulders['dabRig'],
+        grade=8,),  #Unconfirmed
+    'dankCommander': Route(
+        name='Dank Commander',
+        parent=bookBoulders['dabRig'],
+        grade=4, ), #Unconfirmed
 }
 bookVariations = {
     'mrBigglesworth': Variation(

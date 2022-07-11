@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  11 JUL 2022 10:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  11 JUL 2022 10:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -617,7 +617,6 @@ Chapter 5.
 [11
 
 
-
 ]) (index.tex
 Chapter 6.
 [12
@@ -639,10 +638,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12614 strings out of 478354
- 210934 string characters out of 2837118
- 631947 words of memory out of 3000000
- 30713 multiletter control sequences out of 15000+600000
+ 12634 strings out of 478354
+ 211191 string characters out of 2837118
+ 641151 words of memory out of 3000000
+ 30723 multiletter control sequences out of 15000+600000
  475148 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,12n,91p,538b,725s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -656,9 +655,9 @@ rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/anchi/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/an
 chi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
 Output written on C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guideboo
-k\guideBook.pdf (14 pages, 62670416 bytes).
+k\guideBook.pdf (14 pages, 62674608 bytes).
 PDF statistics:
- 511 PDF objects out of 1000 (max. 8388607)
- 129 named destinations out of 1000 (max. 500000)
+ 543 PDF objects out of 1000 (max. 8388607)
+ 139 named destinations out of 1000 (max. 500000)
  265 words of extra memory for PDF output out of 10000 (max. 10000000)
 
