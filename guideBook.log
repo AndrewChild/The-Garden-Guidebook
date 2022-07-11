@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  11 JUL 2022 10:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  11 JUL 2022 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -554,18 +554,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 iniMe2_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/i
 mages/AustinPowers.jpg> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-G
 uidebook/images/Undertow.jpg>]
-<./images/Octurnal.jpg, id=89, 1449.2544pt x 967.4544pt>
+<./maps/topos/smackdown_c.png, id=89, 1332.98pt x 1289.81876pt>
+File: ./maps/topos/smackdown_c.png Graphic file (type png)
+<use ./maps/topos/smackdown_c.png>
+Package pdftex.def Info: ./maps/topos/smackdown_c.png  used on input line 155.
+(pdftex.def)             Requested size: 212.24176pt x 205.3518pt.
+<./maps/topos/octurnal_c.png, id=90, 1549.79pt x 1287.81125pt>
+File: ./maps/topos/octurnal_c.png Graphic file (type png)
+<use ./maps/topos/octurnal_c.png>
+Package pdftex.def Info: ./maps/topos/octurnal_c.png  used on input line 156.
+(pdftex.def)             Requested size: 212.24176pt x 176.36226pt.
+<./maps/topos/octurnal2_c.png, id=91, 1084.05pt x 1286.8075pt>
+File: ./maps/topos/octurnal2_c.png Graphic file (type png)
+<use ./maps/topos/octurnal2_c.png>
+Package pdftex.def Info: ./maps/topos/octurnal2_c.png  used on input line 157.
+(pdftex.def)             Requested size: 212.24176pt x 251.93765pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/Octurnal.jpg, id=92, 1449.2544pt x 967.4544pt>
 File: ./images/Octurnal.jpg Graphic file (type jpg)
 <use ./images/Octurnal.jpg>
-Package pdftex.def Info: ./images/Octurnal.jpg  used on input line 158.
-(pdftex.def)             Requested size: 212.24176pt x 141.67232pt.
-<./images/Smackdown.jpg, id=91, 1449.2544pt x 967.4544pt>
-File: ./images/Smackdown.jpg Graphic file (type jpg)
-<use ./images/Smackdown.jpg>
-Package pdftex.def Info: ./images/Smackdown.jpg  used on input line 159.
+Package pdftex.def Info: ./images/Octurnal.jpg  used on input line 161.
 (pdftex.def)             Requested size: 212.24176pt x 141.67232pt.
 
-Overfull \hbox (4.088pt too wide) in paragraph at lines 174--178
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/Smackdown.jpg, id=94, 1449.2544pt x 967.4544pt>
+File: ./images/Smackdown.jpg Graphic file (type jpg)
+<use ./images/Smackdown.jpg>
+Package pdftex.def Info: ./images/Smackdown.jpg  used on input line 162.
+(pdftex.def)             Requested size: 212.24176pt x 141.67232pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (4.088pt too wide) in paragraph at lines 177--181
 \OT1/cmss/m/n/10 Start stand-ing with left hand gas-ton and right hand jug side
 pull.
  []
@@ -578,9 +603,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[6 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/images/Octur
-nal.jpg> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/images
-/Smackdown.jpg>]
+[6 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/topos/s
+mackdown_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook
+/maps/topos/octurnal_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Gard
+en-Guidebook/maps/topos/octurnal2_c.png> <C:/Users/anchi/Desktop/projects/guide
+book/The-Garden-Guidebook/images/Octurnal.jpg>]
+<./maps/topos/swollen_c.png, id=117, 993.7125pt x 945.5325pt>
+File: ./maps/topos/swollen_c.png Graphic file (type png)
+<use ./maps/topos/swollen_c.png>
+Package pdftex.def Info: ./maps/topos/swollen_c.png  used on input line 202.
+(pdftex.def)             Requested size: 212.24176pt x 201.94376pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./maps/topos/enchilada_c.png, id=118, 1289.81876pt x 1606.0pt>
+File: ./maps/topos/enchilada_c.png Graphic file (type png)
+<use ./maps/topos/enchilada_c.png>
+Package pdftex.def Info: ./maps/topos/enchilada_c.png  used on input line 210.
+(pdftex.def)             Requested size: 212.24176pt x 264.26791pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.60004pt, for example:
@@ -589,7 +633,44 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[7]
+[7 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/images/Smack
+down.jpg> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/
+topos/swollen_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guid
+ebook/maps/topos/enchilada_c.png>]
+<./maps/topos/nightcrawler_c.png, id=137, 1289.81876pt x 1466.47874pt>
+File: ./maps/topos/nightcrawler_c.png Graphic file (type png)
+<use ./maps/topos/nightcrawler_c.png>
+Package pdftex.def Info: ./maps/topos/nightcrawler_c.png  used on input line 28
+0.
+(pdftex.def)             Requested size: 212.24176pt x 241.30963pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/blowie.jpg, id=138, 2601.72pt x 3902.58pt>
+File: ./images/blowie.jpg Graphic file (type jpg)
+<use ./images/blowie.jpg>
+Package pdftex.def Info: ./images/blowie.jpg  used on input line 291.
+(pdftex.def)             Requested size: 212.24176pt x 318.34628pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./maps/topos/arboretum_c.png, id=140, 1234.6125pt x 1284.8pt>
+File: ./maps/topos/arboretum_c.png Graphic file (type png)
+<use ./maps/topos/arboretum_c.png>
+Package pdftex.def Info: ./maps/topos/arboretum_c.png  used on input line 300.
+(pdftex.def)             Requested size: 212.24176pt x 220.86366pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./maps/topos/siren_c.png, id=141, 1289.81876pt x 1220.56pt>
+File: ./maps/topos/siren_c.png Graphic file (type png)
+<use ./maps/topos/siren_c.png>
+Package pdftex.def Info: ./maps/topos/siren_c.png  used on input line 301.
+(pdftex.def)             Requested size: 212.24176pt x 200.8436pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.60004pt, for example:
@@ -598,31 +679,46 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[8
+[8 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/topos/n
+ightcrawler_c.png>]
 
-]) (areas/Pink Tag Boulders.tex
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 16.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
+
+[9 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/images/blowi
+e.jpg> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/top
+os/arboretum_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guide
+book/maps/topos/siren_c.png>]) (areas/Pink Tag Boulders.tex
 Chapter 3.
-[9
+[10
 
 
 
 ]) (areas/Upper Garden.tex
 Chapter 4.
-[10
+[11
 
 
 
 ]) (areas/Quartzville Creek.tex
 Chapter 5.
-[11
+[12
 
 
 ]) (index.tex
 Chapter 6.
-[12
+[13
 
 
 ]
+Overfull \hbox (10.17148pt too wide) in paragraph at lines 195--203
+[] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.60004pt, for example:
@@ -631,20 +727,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[13])
+[14])
 (C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guidebook\guideBook.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12634 strings out of 478354
- 211191 string characters out of 2837118
- 641151 words of memory out of 3000000
- 30723 multiletter control sequences out of 15000+600000
+ 12708 strings out of 478354
+ 213210 string characters out of 2837118
+ 641243 words of memory out of 3000000
+ 30778 multiletter control sequences out of 15000+600000
  475148 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,12n,91p,538b,725s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 86i,12n,91p,538b,670s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmr10.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmss10.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
@@ -655,9 +751,9 @@ rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/anchi/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/an
 chi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
 Output written on C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guideboo
-k\guideBook.pdf (14 pages, 62674608 bytes).
+k\guideBook.pdf (15 pages, 98332478 bytes).
 PDF statistics:
- 543 PDF objects out of 1000 (max. 8388607)
- 139 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 572 PDF objects out of 1000 (max. 8388607)
+ 149 named destinations out of 1000 (max. 500000)
+ 310 words of extra memory for PDF output out of 10000 (max. 10000000)
 

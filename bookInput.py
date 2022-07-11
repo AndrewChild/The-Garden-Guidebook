@@ -4,7 +4,7 @@ from dataStructure import *
 
 
 book = Book(
-    name=r'The Garden Boulders',
+    name='The Garden Boulders: Local Boulders Guidebook Builder Proof of Concept v0.6',
     author='Andrew Child',
 )
 bookAreas = {
@@ -524,7 +524,7 @@ bookRoutes = {
         parent=bookBoulders['nextGood'],
         grade=3, #unconfirmed
         serious=1,),
-    'groundUp': Route(
+    'blowie': Route(
         name='Ground Up Blowie',
         parent=bookBoulders['azainFront'],
         rating=3,
@@ -792,6 +792,13 @@ bookPhotos = {
         route=bookRoutes['smackdown'],
         credit='Carson Dension',
         description='Andrew posting up at the start of Smackdown'),
+    'blowie': Photo(
+        name='Ground up Blowie',
+        fileName='blowie.jpg',
+        parent=bookBoulders['azainFront'],
+        route=bookRoutes['blowie'],
+        credit='Michael Gardener Brown',
+        description='Andrew strugling to finde a finger lock on Ground up Blowie'),
 }
 bookTopos = {
     'miniMe': Topo(
@@ -813,6 +820,114 @@ bookTopos = {
             'path2048': bookRoutes['trust'],
             'path2050': bookRoutes['tylerDurten'],
             'path291-0': bookVariations['durtenDyno'],
+        }),
+    'arboretum': Topo(
+        name='arboretum',
+        parent=bookBoulders['azainBack'],
+        fileName='arboretum.svg',
+        size='h',
+        description='Routes on the Azain Backside',
+        routes={
+            'path501': bookRoutes['gardenVariety'],
+            'path505': bookRoutes['gardenProj'],
+            'path293': bookRoutes['arboretum'],
+            'path349': bookRoutes['otherBernd'],
+            'path512': bookRoutes['gardenVariety'],
+            'path510': bookRoutes['gardenProj'],
+            'path508': bookRoutes['arboretum'],
+            'path508-1': bookRoutes['otherBernd'],
+        }),
+    'enchilada': Topo(
+        name='enchilada',
+        parent=bookBoulders['eBoulder'],
+        fileName='enchilada.svg',
+        size='h',
+        description='Enchilada',
+        routes={
+            'path848': bookRoutes['enchilada'],
+            'path902': bookRoutes['enchilada'],
+        }),
+    'nightCrawler': Topo(
+        name='nightCrawler',
+        parent=bookBoulders['nightCrawler'],
+        fileName='nightcrawler.svg',
+        size='h',
+        description='Night Crawler',
+        routes={
+            'path1342': bookRoutes['nightCrawler'],
+            'path1396': bookRoutes['nightCrawler'],
+        }),
+    'smackdown': Topo(
+        name='smackdown',
+        parent=bookBoulders['methLab'],
+        fileName='smackdown.svg',
+        size='h',
+        description='Meth Lab backside',
+        routes={
+            'path5330': bookRoutes['smackdown'],
+            'path5340': bookRoutes['heisenburg'],
+            'path5332': bookVariations['harborFreight'],
+            'path5334': bookRoutes['smackdown'],
+            'path5334-8': bookRoutes['heisenburg'],
+            'path5336': bookVariations['harborFreight'],
+        }),
+    'octurnal': Topo(
+        name='octurnal',
+        parent=bookBoulders['methLab'],
+        fileName='octurnal.svg',
+        size='h',
+        description='Meth Lab backside',
+        routes={
+            'path1586': bookRoutes['octurnal'],
+            'path2313': bookVariations['octurnalCenter'],
+            'path2362': bookVariations['octurnalDirect'],
+            'path2305': bookRoutes['guillotine'],
+            'path2364': bookRoutes['octurnal'],
+            'path2372': bookRoutes['octurnal'],
+            'path2368': bookVariations['octurnalCenter'],
+            'path2366': bookVariations['octurnalDirect'],
+            'path2370': bookRoutes['guillotine'],
+        }),
+    'octurnal2': Topo(
+        name='octurnal2',
+        parent=bookBoulders['methLab'],
+        fileName='octurnal2.svg',
+        size='h',
+        description='Meth Lab across from E\'s',
+        routes={
+            'path3553': bookRoutes['twoBlows'],
+            'path3604': bookVariations['octurnalDirect'],
+            'path3608': bookRoutes['twoBlows'],
+            'path3606': bookVariations['octurnalDirect'],
+        }),
+    'siren': Topo(
+        name='siren',
+        parent=bookBoulders['azainBack'],
+        fileName='siren.svg',
+        size='h',
+        description='The Siren',
+        routes={
+            'path5162': bookVariations['sirenStand'],
+            'path4111': bookRoutes['siren'],
+            'path4117': bookRoutes['gumbyArete'],
+            'path4212': bookRoutes['otherBernd'],
+            'path4115': bookVariations['bagTricks'],
+            'path4175': bookRoutes['siren'],
+            'path4175-8': bookRoutes['gumbyArete'],
+            'path4175-8-6': bookRoutes['otherBernd'],
+            'path4175-2': bookVariations['bagTricks'],
+            'path4175-8-6-6': bookVariations['sirenStand'],
+        }),
+    'swollen': Topo(
+        name='swollen',
+        parent=bookBoulders['swollen'],
+        fileName='swollen.svg',
+        size='h',
+        description='Swollen Member',
+        routes={
+            'path5504': bookRoutes['swollen'],
+            'path5506': bookRoutes['swollen'],
+            'path5508': bookRoutes['swollen'],
         }),
 }
 bookSubAreaMaps = {

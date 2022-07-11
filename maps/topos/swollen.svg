@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg5375"
+   width="990.40002"
+   height="942.08002"
+   viewBox="0 0 990.40002 942.08002"
+   sodipodi:docname="swollen.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5379" />
+  <sodipodi:namedview
+     id="namedview5377"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.89907437"
+     inkscape:cx="458.8052"
+     inkscape:cy="471.59614"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5381" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g5381">
+    <image
+       width="990.40002"
+       height="942.08002"
+       preserveAspectRatio="none"
+       xlink:href="swollen.jpg"
+       id="image5383" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.001;stroke-miterlimit:2.9;stroke-dasharray:20.0021, 10.001"
+       d="m 339.23779,627.31184 c 0,0 57.83726,-16.68382 30.03088,-67.84756 C 341.4623,508.30055 256.93091,450.46329 242.4716,398.1873 228.01228,345.91132 219.11424,225.78777 219.11424,225.78777"
+       id="path5504" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.001;stroke-miterlimit:2.9;stroke-dasharray:20.0021, 10.001"
+       d="m 568.36232,521.64761 c 0,0 -113.45001,70.07207 -212.4407,18.90833"
+       id="path5506"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.001;stroke-miterlimit:2.9;stroke-dasharray:20.0021, 10.001"
+       id="path5508"
+       cx="283.62503"
+       cy="461.02972"
+       rx="40.04118"
+       ry="27.250248" />
+  </g>
+</svg>

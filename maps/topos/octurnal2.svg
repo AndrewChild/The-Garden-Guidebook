@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg3424"
+   width="1080.64"
+   height="1282.5601"
+   viewBox="0 0 1080.64 1282.5601"
+   sodipodi:docname="octurnal2.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3428" />
+  <sodipodi:namedview
+     id="namedview3426"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.66039792"
+     inkscape:cx="491.37041"
+     inkscape:cy="642.03715"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3430" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g3430">
+    <image
+       width="1080.64"
+       height="1282.5601"
+       preserveAspectRatio="none"
+       xlink:href="octurnal2.jpg"
+       id="image3432" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006;stroke-dasharray:20.0013, 10.0006"
+       d="m 651.12258,1175.0491 c 0,0 -121.13909,-25.7421 -252.87784,-74.1977 -131.73876,-48.4556 -216.53611,-80.2546 -199.87949,-145.36687 16.65663,-65.11226 52.95928,-44.48038 84.79736,-121.13908 37.7554,-90.90623 -7.57119,-242.27817 -25.74206,-283.16261"
+       id="path3553"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006;stroke-dasharray:20.0013, 10.0006"
+       d="m 902.48618,861.60174 c 0,0 -54.51259,-45.42716 -36.34172,-104.48246 18.17086,-59.0553 105.99669,-140.82419 113.56789,-211.9934 7.57119,-71.16921 -15.14239,-342.21791 -15.14239,-342.21791"
+       id="path3604" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006;stroke-dasharray:20.0013, 10.0006"
+       id="path3606"
+       cx="346.76062"
+       cy="1079.6521"
+       rx="30.284771"
+       ry="33.313248" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006;stroke-dasharray:20.0013, 10.0006"
+       id="path3608"
+       cx="972.14117"
+       cy="570.86792"
+       rx="34.827488"
+       ry="36.341724" />
+  </g>
+</svg>
