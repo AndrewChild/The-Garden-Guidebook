@@ -4,7 +4,7 @@ from dataStructure import *
 
 
 book = Book(
-    name='The Garden Boulders: Local Boulders Guidebook Builder Proof of Concept v0.6',
+    name='The Garden Boulders',
     author='Andrew Child',
 )
 bookAreas = {
@@ -57,7 +57,7 @@ bookSubAreas = {
         name='Big Fred',
         parent=bookAreas['garden'],),
     'pinkTag': Subarea(
-        name='Pink Tag',
+        name='',
         parent=bookAreas['pinkTag'],),
     'entranceUpper': Subarea(
         name='Entrance Area',
@@ -407,7 +407,7 @@ bookRoutes = {
         parent=bookBoulders['methLab'],
         serious=3,
         description='The obvious prow on the front of the Meth Lab boulder has top rope anchors but a route up it has '
-                    'likely never been free\'ed even on TR. The ethics of climbing this behemoth are contentious but '
+                    'likely never been free\'ed by any means. The ethics of climbing this behemoth are contentious but '
                     'in my opion it is fair game to bolt as a sport route. If you have the desire to do so consider '
                     'working it out on TR first before placing new equipment.'),
     'dontBlow': Route(
@@ -681,7 +681,7 @@ bookRoutes = {
     'almonds': Route(
         name='Unsalted Almonds',
         parent=bookBoulders['dabRig'],
-        grade=8,),  #Unconfirmed
+        grade=7,),  #Unconfirmed
     'dankCommander': Route(
         name='Dank Commander',
         parent=bookBoulders['dabRig'],
@@ -730,7 +730,7 @@ bookVariations = {
         name='Harbor Freight',
         parent=bookRoutes['smackdown'],
         grade=8,
-        description='Sit down start at the lowest available holds and climb into Smackdown. This was literally '
+        description='Sit down start with hands matched on a blocky undercling, climb into Smackdown. This variation was literally '
                     'unearthed when a local climber yarded a large rock out from the landing of Smackdown using a '
                     'chain and come along. The device broke in the process inspiring the name of the route.'),
     'bitchinSit': Variation(
@@ -785,13 +785,13 @@ bookPhotos = {
         route=bookRoutes['octurnal'],
         credit='Andrew Child',
         description='Carson landing the big throw on Octurnal. Classic!'),
-    'smackdown': Photo(
-        name='Smackdown',
-        fileName='Smackdown.jpg',
-        parent=bookBoulders['methLab'],
-        route=bookRoutes['smackdown'],
-        credit='Carson Dension',
-        description='Andrew posting up at the start of Smackdown'),
+    # 'smackdown': Photo(
+        # name='Smackdown',
+        # fileName='Smackdown.jpg',
+        # parent=bookBoulders['methLab'],
+        # route=bookRoutes['smackdown'],
+        # credit='Carson Dension',
+        # description='Andrew posting up at the start of Smackdown'),
     'blowie': Photo(
         name='Ground up Blowie',
         fileName='blowie.jpg',
@@ -895,8 +895,8 @@ bookTopos = {
         size='h',
         description='Meth Lab across from E\'s',
         routes={
-            'path3553': bookRoutes['twoBlows'],
-            'path3604': bookVariations['octurnalDirect'],
+            'path3604': bookRoutes['twoBlows'],
+            'path3553': bookVariations['octurnalDirect'],
             'path3608': bookRoutes['twoBlows'],
             'path3606': bookVariations['octurnalDirect'],
         }),

@@ -7,12 +7,31 @@
       <change beforePath="$PROJECT_DIR$/guideBook.aux" beforeDir="false" afterPath="$PROJECT_DIR$/guideBook.aux" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guideBook.log" beforeDir="false" afterPath="$PROJECT_DIR$/guideBook.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/guideBook.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/guideBook.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mainBanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/miniMeTopo - Copy.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/miniMeTopo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/miniMeTopo_c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/miniMeTopo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/arboretum_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/arboretum_c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/arboretum_c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/arboretum_c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/enchilada_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/enchilada_c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/enchilada_c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/enchilada_c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/miniMe2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/miniMe2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/miniMe2_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/miniMe2_c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/miniMe2_c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/miniMe2_c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/nightcrawler_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/nightcrawler_c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/nightcrawler_c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/nightcrawler_c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/octurnal2_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/octurnal2_c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/octurnal2_c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/octurnal2_c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/octurnal_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/octurnal_c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/octurnal_c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/octurnal_c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/siren.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/siren.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/siren_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/siren_c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/siren_c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/siren_c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/smackdown_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/smackdown_c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/smackdown_c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/smackdown_c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/swollen_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/swollen_c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/topos/swollen_c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/topos/swollen_c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/areas/Pink Tag Boulders.tex" beforeDir="false" afterPath="$PROJECT_DIR$/sections/areas/Pink Tag Boulders.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/areas/Quartzville Creek.tex" beforeDir="false" afterPath="$PROJECT_DIR$/sections/areas/Quartzville Creek.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sections/areas/The Garden Main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/sections/areas/The Garden Main.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/areas/Upper Garden.tex" beforeDir="false" afterPath="$PROJECT_DIR$/sections/areas/Upper Garden.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sections/guideBook.tex" beforeDir="false" afterPath="$PROJECT_DIR$/sections/guideBook.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sections/index.tex" beforeDir="false" afterPath="$PROJECT_DIR$/sections/index.tex" afterDir="false" />
     </list>
@@ -36,14 +55,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/anchi/Desktop/projects/guidebook/LocalBoulders&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/anchi/Desktop/projects/guidebook/LocalBoulders"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guidebook" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bookInput">
+    <configuration name="Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="The-Garden-Guidebook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guidebook\Histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bookInput" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="The-Garden-Guidebook" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +115,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="The-Garden-Guidebook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Histogram" />
+        <item itemvalue="Python.scratch" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,11 +158,18 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../LocalBoulders/dataStructure.py</url>
-          <line>264</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
