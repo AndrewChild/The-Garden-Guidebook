@@ -20,9 +20,9 @@ bookAreas = {
         parent=book,
         description='Just across the road from the main area lay a few boulders on the banks of the River',),
     'upperGarden': Area(
-        name='Upper Garden',
+        name='Armageddon',
         parent=book,
-        description='Just up the road from the main area lays a talus field. Lack of shade, blackberries, poison '
+        description='Also known as the upper garden, this area is just up the road from the main area lays a talus field. Lack of shade, blackberries, poison '
                     'oak, and a 3 minute approach all make this area less desireable and less traveled then the Main',),
     'quartzville': Area(
         name='Quartzville Creek',
@@ -279,7 +279,7 @@ bookRoutes = {
         name='Boys in the Woods',
         parent=bookBoulders['boysWoods'],
         grade=4,
-        rating=3,
+        rating=2,
         description='Start on a low jug just before the scoop at the lowest part of the boulder. Climb up the left '
                     'arete of the scoop until you can flop in. Some may consider this an eliminate since, with '
                     'difficulty, you could also just mantle directly into the scoop.',),
@@ -299,13 +299,13 @@ bookRoutes = {
         name='Tree Slab',
         parent=bookBoulders['treeSlab'],
         grade=1,
-        rating=3,
+        rating=2,
         description='Climb the center of the slab.'),
     'trust': Route(
         name='Trust',
         parent=bookBoulders['trust'],
         grade=2,
-        rating=4,
+        rating=3,
         description='Sit start in compression on a hanging refrigerator block. Climb straight up through a slopeing '
                     'ledge to the top. Look for the juggy crack ~1ft inset from the lip.'),
     'miniMe': Route(
@@ -319,12 +319,12 @@ bookRoutes = {
         name='Austin Powers',
         parent=bookBoulders['miniMe'],
         grade=5,
-        rating=2,
+        rating=1,
         description='Start as for Mini Me but move right into top of Dr. Evil'),
     'drEvil': Route(
         name='Dr. Evil',
         parent=bookBoulders['miniMe'],
-        rating=2,
+        rating=1,
         grade=3,
         description='sit start on lowest holds of a compressiony arete with left foot over a small rock. '
                     'Pull some tricky moves to gain better holds either rolling onto the right hand slab early or '
@@ -347,7 +347,7 @@ bookRoutes = {
     'daryl': Route(
         name='Daryl Philbin',
         parent=bookBoulders['office'],
-        rating=4,
+        rating=3,
         grade=1,
         serious=1,
         description='Starting at the Center of the block climb left on good holds to the arete. Climb up the arete '
@@ -357,21 +357,21 @@ bookRoutes = {
     'vince': Route(
         name='Vince',
         parent=bookBoulders['crashTest'],
-        rating=3,
+        rating=2,
         grade=2,
         description='Squat start on good edges. Navigate a crescent shaped sidpull rail to a delicate top out. Make '
                     'sure to clean the top out before attempting.'),
     'ear': Route(
         name='The Ear',
         parent=bookBoulders['fightClub'],
-        rating=4,
+        rating=3,
         grade=2,
         description='Start on the arete at the far right end of the boulder. Climb straight up through tricky holds '
                     'to a heady top out.'),
     'fightClub': Route(
         name='Fight Club',
         parent=bookBoulders['fightClub'],
-        rating=4,
+        rating=3,
         grade=8,
         description='Area classic, this rig is a feather in any would be crushers cap. Start on the far right arete as for Ear. '
                     'Traverse across the angle change and top out above a bubbly crimp rail on the overhanging face.'),
@@ -382,7 +382,7 @@ bookRoutes = {
     'eDirty': Route(
         name='E\'s Dirty B',
         parent=bookBoulders['eDirty'],
-        rating=3,
+        rating=2,
         grade=5,
         description='Start on a lumpy flake in the back of a small cave. Using slopeing edges out right and a '
                     'difficult undercling navigate out of the cave trending right at the lip to a jug. The final '
@@ -425,13 +425,13 @@ bookRoutes = {
     'leaveJesus': Route(
         name='Leave It to Jesus',
         parent=bookBoulders['methLab'],
-        rating=3,
+        rating=2,
         grade=1,
         description='Stand start on a high blocky edge. Crank one move and post up for a fun huck.'),
     'smackdown': Route(
         name='Smackdown',
         parent=bookBoulders['methLab'],
-        rating=4,
+        rating=2,
         grade=7,
         description='Start standing with left hand gaston and right hand jug sidepull. Crank some powerful moves on bad feet '
                     'and follow the line of crimps to a top out left'),
@@ -448,13 +448,13 @@ bookRoutes = {
     'guillotine': Route(
         name='Guillotine',
         parent=bookBoulders['methLab'],
-        rating=3,
+        rating=2,
         grade=4,
         description='Start underclinging on the hanging \"Guillotine blade\" flake left of Octurnal. Climb straight up.'),
     'octurnal': Route(
         name='Octurnal',
         parent=bookBoulders['methLab'],
-        rating=5,
+        rating=3,
         grade=7,
         description='For many this is THE local test piece in the area. Start sitting '
                     'with left hand on a sloping triangular rib and right hand on a slopey cripm at the arete. Crank a few hard '
@@ -468,7 +468,7 @@ bookRoutes = {
         name='Swollen Member',
         parent=bookBoulders['swollen'],
         grade=3,
-        rating=3,
+        rating=2,
         description='A classic hazing route. Start hugging the underside of the block underside with good hand holds '
                     'on each side of the stubby prow. Manuver youself into a less scandelous orientation using toe '
                     'hooks, heel hooks and  all manner of dirty tricks.'),
@@ -478,13 +478,13 @@ bookRoutes = {
         grade=7, #unconfirmed
         description='PLACEHOLDER'),
     'e7': Route(
-        name='E\'s V7',
+        name='E\'s',
         parent=bookBoulders['eBoulder'],
         grade=7, #unconfirmed
         description='PLACEHOLDER'),
     'enchilada': Route(
         name='Enchilada',
-        rating=3,
+        rating=2,
         parent=bookBoulders['eBoulder'],
         grade=9,
         description='Start matched on a good flat rail low to the ground with some awkward feet options. Cross into a '
@@ -509,13 +509,13 @@ bookRoutes = {
         name='The Good',
         parent=bookBoulders['theGood'],
         grade=3,
-        rating=3,
+        rating=2,
         description='Start matched on a juggy flake on the right side of the boulder\'s downhill face.'),
     'another': Route(
         name='Another',
         parent=bookBoulders['theGood'],
         grade=3,
-        rating=2,
+        rating=1,
         serious=1,
         description='start with opposing sidepulls on the center of the boulder\'s downhill face. Traverse to the left '
                     'arete and ascend using delecate feet and unideal hands. Mind the boulder at the bottom'),
@@ -527,7 +527,7 @@ bookRoutes = {
     'blowie': Route(
         name='Ground Up Blowie',
         parent=bookBoulders['azainFront'],
-        rating=3,
+        rating=2,
         grade=5,
         description='Start at the base of a horizontal finger crack climb up left around a dabby tree and onto an easy '
                     'slab. This route was named as an omage to the first ascent when the top out was cleaned via '
@@ -547,7 +547,7 @@ bookRoutes = {
         name='Locksmith',
         parent=bookBoulders['azainBack'],
         grade=4,
-        rating=5,
+        rating=3,
         serious=2,
         description='Also known as Hula. Sit start with a juggy left hand sidebpull and right hand on an undercling edge. Pull a few '
                     'crimpy moves until you can reach a good hold on the arete. Rock over onto the slab and quest to '
@@ -581,19 +581,19 @@ bookRoutes = {
         name='The Siren',
         parent=bookBoulders['azainBack'],
         grade=5,
-        rating=5,),
+        rating=3,),
     'gumbyArete': Route(
         name='Gumby Arete',
         parent=bookBoulders['azainBack'],
         grade=2,
-        rating=3,
+        rating=2,
         description='Stand start on underclings at the left side of the face. Challenge yourself by staying on the '
                     'Arete the whole way up or bail onto the ledge out right and top as for Gumby Slab.',),
     'gumbySlab': Route(
         name='Gumby Slab',
         parent=bookBoulders['azainBack'],
         grade=1,
-        rating=4,
+        rating=3,
         description='Stand start in the center of the face. This can be scary if not used to climbing outdoors.',),
     'chockStone': Route(
         name='Chockstone Highball',
@@ -657,12 +657,12 @@ bookRoutes = {
         parent=bookBoulders['yoMamma'],
         grade=2, 
         serious=1,
-        rating=3,), 
+        rating=2,), 
     'mossBoss': Route(
         name='Moss Boss',
         parent=bookBoulders['mossBoss'],
         grade=3, 
-        rating=2,), 
+        rating=1,), 
     'tendies': Route(
         name='Chicken Tendies',
         parent=bookBoulders['fourPointFive'],
@@ -672,12 +672,12 @@ bookRoutes = {
         name='Teenage Libertarians',
         parent=bookBoulders['fourPointFive'],
         grade=4, 
-        rating=4,), 
+        rating=3,), 
     'falcon': Route(
         name='Falcon\'s Reach',
         parent=bookBoulders['fourPointFive'],
         grade=3, 
-        rating=2,), 
+        rating=1,), 
     'almonds': Route(
         name='Unsalted Almonds',
         parent=bookBoulders['dabRig'],
@@ -715,14 +715,14 @@ bookVariations = {
         name='Direct Exit',
         parent=bookRoutes['octurnal'],
         grade=7,
-        rating=5,
+        rating=3,
         description='Of all the Octurnal exits this one has the most interesting moves. Climb Octurnal to the ledge '
                     'then pull some tricky moves to round the right arete. Continue on through a heads up top out.'),
     'octurnalCenter': Variation(
         name='Center Exit',
         parent=bookRoutes['octurnal'],
         grade=7,
-        rating=4,
+        rating=2,
         description='The easiest top option for this boulder involves pulling through a suprisingly good side pull '
                     'above the left end of the ledge. For years this variation livided in moss covered obscurity '
                     'climbing it will make you wonder why the awkward pumpfest traverse exit is the default line'),
@@ -730,6 +730,7 @@ bookVariations = {
         name='Harbor Freight',
         parent=bookRoutes['smackdown'],
         grade=8,
+        rating=3,
         description='Sit down start with hands matched on a blocky undercling, climb into Smackdown. This variation was literally '
                     'unearthed when a local climber yarded a large rock out from the landing of Smackdown using a '
                     'chain and come along. The device broke in the process inspiring the name of the route.'),
@@ -746,24 +747,24 @@ bookVariations = {
         name='The Siren Stand Start',
         parent=bookRoutes['siren'],
         grade=3,
-        rating=3,
+        rating=2,
         description='Start with your left hand on the left arete and right hand on a good sidepull just above the sit '
                     'start holds.',),
     'bagTricks': Variation(
         name='Bag of Tricks',
         parent=bookRoutes['gumbySlab'],
         grade=3,
-        rating=2,
+        rating=1,
         description='Start as for Siren and traverse right topping on either Gumby Arete or Gumby Slab.'),
 }
 bookPhotos = {
-    'austinPowers': Photo(
-        name='Austin Powers',
-        fileName='AustinPowers.jpg',
-        parent=bookBoulders['miniMe'],
-        route=bookRoutes['austinPowers'],
-        credit='Andrew Child',
-        description='Carson cranking across the face on Austin Powers.'),
+    # 'austinPowers': Photo(
+    #     name='Austin Powers',
+    #     fileName='AustinPowers.jpg',
+    #     parent=bookBoulders['miniMe'],
+    #     route=bookRoutes['austinPowers'],
+    #     credit='Andrew Child',
+    #     description='Carson cranking across the face on Austin Powers.'),
     'undertow': Photo(
         name='Undertow',
         fileName='Undertow.jpg',
