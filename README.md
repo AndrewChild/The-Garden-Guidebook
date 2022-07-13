@@ -4,6 +4,7 @@
 # ToDo:
 - Add routes for areas outside garden main
 - fill in route info
+- Area Map
 - sub area maps
 - topos
 - intro

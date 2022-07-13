@@ -5,7 +5,9 @@ from dataStructure import *
 
 book = Book(
     name='The Garden Boulders',
-    author='Andrew Child',
+    collaborators=['Andrew Child'],
+    repo='https://github.com/AndrewChild/The-Garden-Guidebook',
+    dl='https://github.com/AndrewChild/The-Garden-Guidebook/raw/main/guideBook.pdf',
 )
 bookAreas = {
     'garden': Area(
@@ -396,12 +398,18 @@ bookRoutes = {
         name='Undertow',
         parent=bookBoulders['undertow'],
         grade=3,
-        description='PLACEHOLDER'),
-    'tidepool': Route(
-        name='Tide Pool',
+        rating=3,
+        description='Start on two boob shaped slopers at head height. Climb straight up using face holds and the right '
+                    'arete.'),
+    'riptide': Route(
+        name='Riptide',
         parent=bookBoulders['undertow'],
         grade=3,
-        description='PLACEHOLDER'),
+        rating=2,
+        description='Start as for undertow but trend right around the corner to a juggy hueco top out.'),
+    'tidepool': Route(
+        name='Tidepool',
+        parent=bookBoulders['undertow'],),
     'methLab': Route(
         name='Meth Lab Project',
         parent=bookBoulders['methLab'],
@@ -707,6 +715,20 @@ bookVariations = {
         grade=2,
         rating=1,
         description='Avoid the committing moves at the lip by traversing left early.'),
+    'undertowSit': Variation(
+        name='Undertow Sit',
+        parent=bookRoutes['undertow'],
+        grade=6, #unconfirmed
+        description='Sit start with left hand in a slopey dish and right hand on a low sidepull. Pull some bizzare '
+                    'moves to join into Undertow.'),
+    'undertowSitRight': Variation(
+        name='Undertow Sit Right',
+        parent=bookRoutes['undertow'],
+        grade=7,
+        rating=3,
+        description='Sit start in the scoop ~4ft right of Undertow dit with left hand on a borken sidepull and right '
+                    'hand on a low undercling, climb into undertow. At one point this line was simply refered to as '
+                    'Undertow, for this book modern naming standards have been conserved.'),
     'jesusSit': Variation(
         name='Leave it to Jesus Sit',
         parent=bookRoutes['leaveJesus'],
@@ -734,6 +756,10 @@ bookVariations = {
         description='Sit down start with hands matched on a blocky undercling, climb into Smackdown. This variation was literally '
                     'unearthed when a local climber yarded a large rock out from the landing of Smackdown using a '
                     'chain and come along. The device broke in the process inspiring the name of the route.'),
+    'intoTheLight': Variation(
+        name='Into the Light Sit',
+        parent=bookRoutes['intoTheLight'],
+        grade=9,),
     'bitchinSit': Variation(
         name='Bitchin Corners Sit',
         parent=bookRoutes['bitchin'],
@@ -765,13 +791,13 @@ bookPhotos = {
     #     route=bookRoutes['austinPowers'],
     #     credit='Andrew Child',
     #     description='Carson cranking across the face on Austin Powers.'),
-    'undertow': Photo(
-        name='Undertow',
-        fileName='Undertow.jpg',
+    'riptide': Photo(
+        name='Riptide',
+        fileName='Riptide.jpg',
         parent=bookBoulders['undertow'],
-        route=bookRoutes['undertow'],
+        route=bookRoutes['riptide'],
         credit='Andrew Child',
-        description='Rob on Undertow'),
+        description='Rob on Riptide'),
     'fightClub': Photo(
         name='Fight Club',
         fileName='FightClub2.jpg',
