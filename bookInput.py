@@ -13,25 +13,31 @@ bookAreas = {
     'garden': Area(
         name='The Garden Main',
         parent=book,
-        description='The Garden Main bouldering area is true to its name. A lush green space features moss covered '
-                    'boulders situated under a dense canopy. The area is visible from the road, though weirdly '
-                    'easy to miss at first pass, look for the boulders on the left (uphill) side about 3.5 miles '
-                    'down queartzville road.',),
+        gps='44.44076010641458, -122.5752659013521',
+        description='Located about 3.5 miles down quatzville road from highway 20, park in the Gravel pull out where the road bends '
+                    'left just before you reach the boulders. The Garden Main bouldering area is true to its name. '
+                    'A lush green space features moss covered '
+                    'boulders situated under a dense canopy.',),
     'pinkTag': Area(
         name='Pink Tag Boulders',
         parent=book,
-        description='Just across the road from the main area lay a few boulders on the banks of the River',),
+        gps='44.43998124232581, -122.57539325959186',
+        description='Just across the road from the main area lay a few boulders on the banks of the River. See driving '
+                    'directions for the Garden Main area.',),
     'upperGarden': Area(
         name='Armageddon',
         parent=book,
-        description='Also known as the upper garden, this area is just up the road from the main area lays a talus field. Lack of shade, blackberries, poison '
-                    'oak, and a 3 minute approach all make this area less desireable and less traveled then the Main',),
+        gps='44.43959094940084, -122.58215256842753',
+        description='Located about 3.2 miles down quatzville road from highway 20, park in the Gravel pull out where the road bends '
+                    'about 0.1 miles before you reach a turnoff to a gravel road (which leads to the boulders). This '
+                    'area is also known as the upper garden. The lack of shade, the blackberries, the poison '
+                    'oak, and the 3 minute approach all make this area less desirable and less traveled then the Main',),
     'quartzville': Area(
         name='Quartzville Creek',
         parent=book,
         description='About an hour further down the road from the main area there are a few interesting boulders '
                     'in a creek. Generally lower temperatures, free camping, and pleasant swimming holes make this '
-                    'a nice mid summer spot'),
+                    'a nice mid summer spot.'),
 }
 bookSubAreas = {
     'entranceMain': Subarea(
@@ -72,10 +78,21 @@ bookSubAreas = {
         parent=bookAreas['upperGarden'],),
     'redneckRiviera': Subarea(
         name='Redneck Riviera',
-        parent=bookAreas['quartzville'],),
+        parent=bookAreas['quartzville'],
+        gps='44.570410945356336, -122.4060701729652',
+        description='Redneck rivierra is located on Quartzville road apporximately 20.6 miles from highway 20 park in '
+                    'the gravel pull out on the creek side of the road. This '
+                    'is a nice spot with good swimming access and a few established routes on both sides of the river. '
+                    'The locals like to use this spot to pan for gold. In my experience they are friendly and willing '
+                    'to share the space.'),
     'minersCamp': Subarea(
         name='Old Miner\'s Camp',
-        parent=bookAreas['quartzville'],),
+        parent=bookAreas['quartzville'],
+        gps='44.58651338802075, -122.35033857932665',
+        description='Located on Quartzville approximately 24.8 miles from highway 20, the old miner\'s camp is a '
+                    'popular group campsite there are a few good sized boulders in the river only one boulder has '
+                    'established lines on it. Park either at the camp day use area or on the side of the road '
+                    'immediately above the Dab Rig boulder.'),
 }
 bookBoulders = {
     'turtleShell': Boulder(

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  12 JUL 2022 21:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.26)  13 JUL 2022 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -347,6 +347,14 @@ Package: supertabular 2020/02/02 v4.1g the supertabular environment
 \ST@dimen=\dimen180
 \ST@pbox=\box54
 )
+(C:\Users\anchi\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen181
+\WF@size=\dimen182
+\c@WF@wrappedlines=\count284
+\WF@box=\box55
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+)
 (C:\Users\anchi\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
 rs
@@ -367,24 +375,24 @@ LaTeX Warning: Label `sa:Entrance Area' multiply defined.
 )
 \openout1 = `guideBook.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -424,17 +432,17 @@ LaTeX Font Info:    ... okay on input line 55.
 (C:\Users\anchi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count284
-\scratchdimen=\dimen181
-\scratchbox=\box55
-\nofMPsegments=\count285
-\nofMParguments=\count286
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count287
-\MPscratchDim=\dimen182
-\MPnumerator=\count288
-\makeMPintoPDFobject=\count289
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count285
+\scratchdimen=\dimen183
+\scratchbox=\box56
+\nofMPsegments=\count286
+\nofMParguments=\count287
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count288
+\MPscratchDim=\dimen184
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
+\everyMPtoPDFconversion=\toks22
 )
 (C:\Users\anchi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -449,14 +457,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: supertabular package is loaded.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 55.
+Package hyperref Info: Link coloring OFF on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 59.
+(Font)              <12> on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 59.
+(Font)              <8> on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 59.
+(Font)              <6> on input line 78.
 
 
 LaTeX Warning: No \author given.
@@ -466,18 +475,18 @@ LaTeX Warning: No \author given.
 {C:/Users/anchi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 (acknowledgements.tex
 Chapter 1.
+<./maps/qr/The Garden Boulders_qr.png, id=10, 451.6875pt x 451.6875pt>
+File: ./maps/qr/The Garden Boulders_qr.png Graphic file (type png)
+<use ./maps/qr/The Garden Boulders_qr.png>
+Package pdftex.def Info: ./maps/qr/The Garden Boulders_qr.png  used on input li
+ne 5.
+(pdftex.def)             Requested size: 119.38472pt x 119.38646pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
-<./maps/qr/The Garden Boulders_qr.png, id=11, 451.6875pt x 451.6875pt>
-File: ./maps/qr/The Garden Boulders_qr.png Graphic file (type png)
-<use ./maps/qr/The Garden Boulders_qr.png>
-Package pdftex.def Info: ./maps/qr/The Garden Boulders_qr.png  used on input li
-ne 9.
-(pdftex.def)             Requested size: 265.3012pt x 265.31474pt.
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-14.
+9.
 (C:\Users\anchi\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -485,7 +494,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.16 \clearpage
+l.11 \clearpage
                 [1
 
 
@@ -550,48 +559,54 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]) (areas/The Garden Main.tex
 Chapter 3.
-<./maps/plots/The Garden Main.png, id=42, 462.528pt x 346.896pt>
+<./maps/qr/The Garden Main_qr.png, id=42, 451.6875pt x 451.6875pt>
+File: ./maps/qr/The Garden Main_qr.png Graphic file (type png)
+<use ./maps/qr/The Garden Main_qr.png>
+Package pdftex.def Info: ./maps/qr/The Garden Main_qr.png  used on input line 5
+.
+(pdftex.def)             Requested size: 119.38472pt x 119.38646pt.
+<./maps/plots/The Garden Main.png, id=45, 462.528pt x 346.896pt>
 File: ./maps/plots/The Garden Main.png Graphic file (type png)
 <use ./maps/plots/The Garden Main.png>
-Package pdftex.def Info: ./maps/plots/The Garden Main.png  used on input line 7
+Package pdftex.def Info: ./maps/plots/The Garden Main.png  used on input line 9
 .
 (pdftex.def)             Requested size: 265.3012pt x 198.98726pt.
-<./maps/subarea/fightClub_c.png, id=44, 1927.2pt x 1393.205pt>
+<./maps/subarea/fightClub_c.png, id=47, 1927.2pt x 1393.205pt>
 File: ./maps/subarea/fightClub_c.png Graphic file (type png)
 <use ./maps/subarea/fightClub_c.png>
-Package pdftex.def Info: ./maps/subarea/fightClub_c.png  used on input line 57.
+Package pdftex.def Info: ./maps/subarea/fightClub_c.png  used on input line 59.
 
 (pdftex.def)             Requested size: 212.24176pt x 153.4231pt.
-<./maps/subarea/undertow_c.png, id=45, 1393.205pt x 1555.8125pt>
+<./maps/subarea/undertow_c.png, id=48, 1393.205pt x 1555.8125pt>
 File: ./maps/subarea/undertow_c.png Graphic file (type png)
 <use ./maps/subarea/undertow_c.png>
-Package pdftex.def Info: ./maps/subarea/undertow_c.png  used on input line 58.
+Package pdftex.def Info: ./maps/subarea/undertow_c.png  used on input line 60.
 (pdftex.def)             Requested size: 212.24176pt x 236.99399pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4
 
 
- <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/plots/The
- Garden Main.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebo
-ok/maps/subarea/fightClub_c.png>]
-<./images/FightClub2.jpg, id=63, 966.9726pt x 1049.6013pt>
+ <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/qr/The Ga
+rden Main_qr.png (PNG copy)> <C:/Users/anchi/Desktop/projects/guidebook/The-Gar
+den-Guidebook/maps/plots/The Garden Main.png>]
+<./images/FightClub2.jpg, id=66, 966.9726pt x 1049.6013pt>
 File: ./images/FightClub2.jpg Graphic file (type jpg)
 <use ./images/FightClub2.jpg>
-Package pdftex.def Info: ./images/FightClub2.jpg  used on input line 81.
+Package pdftex.def Info: ./images/FightClub2.jpg  used on input line 80.
 (pdftex.def)             Requested size: 212.24176pt x 230.36847pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 98.
-<./maps/topos/miniMe2_c.png, id=65, 1927.2pt x 1284.8pt>
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 97.
+<./maps/topos/miniMe2_c.png, id=68, 1927.2pt x 1284.8pt>
 File: ./maps/topos/miniMe2_c.png Graphic file (type png)
 <use ./maps/topos/miniMe2_c.png>
-Package pdftex.def Info: ./maps/topos/miniMe2_c.png  used on input line 102.
+Package pdftex.def Info: ./maps/topos/miniMe2_c.png  used on input line 101.
 (pdftex.def)             Requested size: 432.48355pt x 288.32256pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.60004pt, for example:
@@ -601,14 +616,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
 [5 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/subarea
-/undertow_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guideboo
-k/images/FightClub2.jpg>]
-<./images/Tidepool.jpg, id=86, 967.4544pt x 1449.2544pt>
-File: ./images/Tidepool.jpg Graphic file (type jpg)
-<use ./images/Tidepool.jpg>
-Package pdftex.def Info: ./images/Tidepool.jpg  used on input line 148.
+/fightClub_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebo
+ok/maps/subarea/undertow_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-
+Garden-Guidebook/images/FightClub2.jpg>]
+<./images/Riptide.jpg, id=88, 967.4544pt x 1449.2544pt>
+File: ./images/Riptide.jpg Graphic file (type jpg)
+<use ./images/Riptide.jpg>
+Package pdftex.def Info: ./images/Riptide.jpg  used on input line 147.
 (pdftex.def)             Requested size: 212.24176pt x 317.93028pt.
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./maps/topos/smackdown_c.png, id=90, 1332.98pt x 1289.81876pt>
+File: ./maps/topos/smackdown_c.png Graphic file (type png)
+<use ./maps/topos/smackdown_c.png>
+Package pdftex.def Info: ./maps/topos/smackdown_c.png  used on input line 165.
+(pdftex.def)             Requested size: 212.24176pt x 205.3518pt.
+<./maps/topos/octurnal_c.png, id=91, 1549.79pt x 1287.81125pt>
+File: ./maps/topos/octurnal_c.png Graphic file (type png)
+<use ./maps/topos/octurnal_c.png>
+Package pdftex.def Info: ./maps/topos/octurnal_c.png  used on input line 166.
+(pdftex.def)             Requested size: 212.24176pt x 176.36226pt.
+<./maps/topos/octurnal2_c.png, id=92, 1084.05pt x 1286.8075pt>
+File: ./maps/topos/octurnal2_c.png Graphic file (type png)
+<use ./maps/topos/octurnal2_c.png>
+Package pdftex.def Info: ./maps/topos/octurnal2_c.png  used on input line 167.
+(pdftex.def)             Requested size: 212.24176pt x 251.93765pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images/Octurnal.jpg, id=93, 1449.2544pt x 967.4544pt>
+File: ./images/Octurnal.jpg Graphic file (type jpg)
+<use ./images/Octurnal.jpg>
+Package pdftex.def Info: ./images/Octurnal.jpg  used on input line 171.
+(pdftex.def)             Requested size: 212.24176pt x 141.67232pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.60004pt, for example:
@@ -618,32 +666,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
 [6 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/topos/m
-iniMe2_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/i
-mages/Tidepool.jpg>]
-<./maps/topos/smackdown_c.png, id=102, 1332.98pt x 1289.81876pt>
-File: ./maps/topos/smackdown_c.png Graphic file (type png)
-<use ./maps/topos/smackdown_c.png>
-Package pdftex.def Info: ./maps/topos/smackdown_c.png  used on input line 165.
-(pdftex.def)             Requested size: 212.24176pt x 205.3518pt.
-<./maps/topos/octurnal_c.png, id=103, 1549.79pt x 1287.81125pt>
-File: ./maps/topos/octurnal_c.png Graphic file (type png)
-<use ./maps/topos/octurnal_c.png>
-Package pdftex.def Info: ./maps/topos/octurnal_c.png  used on input line 166.
-(pdftex.def)             Requested size: 212.24176pt x 176.36226pt.
-<./maps/topos/octurnal2_c.png, id=104, 1084.05pt x 1286.8075pt>
-File: ./maps/topos/octurnal2_c.png Graphic file (type png)
-<use ./maps/topos/octurnal2_c.png>
-Package pdftex.def Info: ./maps/topos/octurnal2_c.png  used on input line 167.
-(pdftex.def)             Requested size: 212.24176pt x 251.93765pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./images/Octurnal.jpg, id=105, 1449.2544pt x 967.4544pt>
-File: ./images/Octurnal.jpg Graphic file (type jpg)
-<use ./images/Octurnal.jpg>
-Package pdftex.def Info: ./images/Octurnal.jpg  used on input line 171.
-(pdftex.def)             Requested size: 212.24176pt x 141.67232pt.
+iniMe2_c.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -661,21 +684,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[7 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/topos/s
-mackdown_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook
-/maps/topos/octurnal_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Gard
-en-Guidebook/maps/topos/octurnal2_c.png> <C:/Users/anchi/Desktop/projects/guide
-book/The-Garden-Guidebook/images/Octurnal.jpg>]
-<./maps/topos/swollen_c.png, id=127, 993.7125pt x 945.5325pt>
+[7 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/images/Ripti
+de.jpg> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/to
+pos/smackdown_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guid
+ebook/maps/topos/octurnal_c.png>]
+<./maps/topos/swollen_c.png, id=134, 993.7125pt x 945.5325pt>
 File: ./maps/topos/swollen_c.png Graphic file (type png)
 <use ./maps/topos/swollen_c.png>
 Package pdftex.def Info: ./maps/topos/swollen_c.png  used on input line 211.
 (pdftex.def)             Requested size: 212.24176pt x 201.94376pt.
-<./maps/topos/enchilada_c.png, id=128, 1289.81876pt x 1606.0pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./maps/topos/enchilada_c.png, id=135, 1289.81876pt x 1606.0pt>
 File: ./maps/topos/enchilada_c.png Graphic file (type png)
 <use ./maps/topos/enchilada_c.png>
 Package pdftex.def Info: ./maps/topos/enchilada_c.png  used on input line 219.
 (pdftex.def)             Requested size: 212.24176pt x 264.26791pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -685,39 +713,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[8 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/topos/s
-wollen_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/m
-aps/topos/enchilada_c.png>]
-<./maps/topos/nightcrawler_c.png, id=148, 1289.81876pt x 1466.47874pt>
+[8 <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/topos/o
+cturnal2_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook
+/images/Octurnal.jpg> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Gui
+debook/maps/topos/swollen_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The
+-Garden-Guidebook/maps/topos/enchilada_c.png>]
+<./maps/topos/nightcrawler_c.png, id=153, 1289.81876pt x 1466.47874pt>
 File: ./maps/topos/nightcrawler_c.png Graphic file (type png)
 <use ./maps/topos/nightcrawler_c.png>
 Package pdftex.def Info: ./maps/topos/nightcrawler_c.png  used on input line 28
-9.
+7.
 (pdftex.def)             Requested size: 212.24176pt x 241.30963pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/blowie.jpg, id=149, 2601.72pt x 3902.58pt>
+<./images/blowie.jpg, id=154, 2601.72pt x 3902.58pt>
 File: ./images/blowie.jpg Graphic file (type jpg)
 <use ./images/blowie.jpg>
-Package pdftex.def Info: ./images/blowie.jpg  used on input line 300.
+Package pdftex.def Info: ./images/blowie.jpg  used on input line 298.
 (pdftex.def)             Requested size: 212.24176pt x 318.34628pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./maps/topos/arboretum_c.png, id=151, 1234.6125pt x 1284.8pt>
+<./maps/topos/arboretum_c.png, id=156, 1234.6125pt x 1284.8pt>
 File: ./maps/topos/arboretum_c.png Graphic file (type png)
 <use ./maps/topos/arboretum_c.png>
-Package pdftex.def Info: ./maps/topos/arboretum_c.png  used on input line 309.
+Package pdftex.def Info: ./maps/topos/arboretum_c.png  used on input line 312.
 (pdftex.def)             Requested size: 212.24176pt x 220.86366pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./maps/topos/siren_c.png, id=152, 1289.81876pt x 1220.56pt>
+<./maps/topos/siren_c.png, id=157, 1289.81876pt x 1220.56pt>
 File: ./maps/topos/siren_c.png Graphic file (type png)
 <use ./maps/topos/siren_c.png>
-Package pdftex.def Info: ./maps/topos/siren_c.png  used on input line 310.
+Package pdftex.def Info: ./maps/topos/siren_c.png  used on input line 313.
 (pdftex.def)             Requested size: 212.24176pt x 200.8436pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -745,50 +775,67 @@ ie.jpg> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/to
 pos/arboretum_c.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guid
 ebook/maps/topos/siren_c.png>]) (areas/Pink Tag Boulders.tex
 Chapter 4.
-<./maps/plots/Pink Tag Boulders.png, id=196, 462.528pt x 346.896pt>
+<./maps/qr/Pink Tag Boulders_qr.png, id=202, 451.6875pt x 451.6875pt>
+File: ./maps/qr/Pink Tag Boulders_qr.png Graphic file (type png)
+<use ./maps/qr/Pink Tag Boulders_qr.png>
+Package pdftex.def Info: ./maps/qr/Pink Tag Boulders_qr.png  used on input line
+ 5.
+(pdftex.def)             Requested size: 119.38472pt x 119.38646pt.
+<./maps/plots/Pink Tag Boulders.png, id=205, 462.528pt x 346.896pt>
 File: ./maps/plots/Pink Tag Boulders.png Graphic file (type png)
 <use ./maps/plots/Pink Tag Boulders.png>
 Package pdftex.def Info: ./maps/plots/Pink Tag Boulders.png  used on input line
- 7.
+ 9.
 (pdftex.def)             Requested size: 265.3012pt x 198.98726pt.
 [11
 
 
-
- <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/plots/Pin
-k Tag Boulders.png>]) (areas/Armageddon.tex
+ <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/qr/Pink T
+ag Boulders_qr.png (PNG copy)> <C:/Users/anchi/Desktop/projects/guidebook/The-G
+arden-Guidebook/maps/plots/Pink Tag Boulders.png>]) (areas/Armageddon.tex
 Chapter 5.
-<./maps/plots/Armageddon.png, id=211, 462.528pt x 346.896pt>
+<./maps/qr/Armageddon_qr.png, id=221, 451.6875pt x 451.6875pt>
+File: ./maps/qr/Armageddon_qr.png Graphic file (type png)
+<use ./maps/qr/Armageddon_qr.png>
+Package pdftex.def Info: ./maps/qr/Armageddon_qr.png  used on input line 5.
+(pdftex.def)             Requested size: 119.38472pt x 119.38646pt.
+<./maps/plots/Armageddon.png, id=224, 462.528pt x 346.896pt>
 File: ./maps/plots/Armageddon.png Graphic file (type png)
 <use ./maps/plots/Armageddon.png>
-Package pdftex.def Info: ./maps/plots/Armageddon.png  used on input line 7.
+Package pdftex.def Info: ./maps/plots/Armageddon.png  used on input line 9.
 (pdftex.def)             Requested size: 265.3012pt x 198.98726pt.
 [12
 
 
-
- <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/plots/Arm
-ageddon.png>]) (areas/Quartzville Creek.tex
+ <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/qr/Armage
+ddon_qr.png (PNG copy)> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-G
+uidebook/maps/plots/Armageddon.png>]) (areas/Quartzville Creek.tex
 Chapter 6.
-<./maps/plots/Quartzville Creek.png, id=223, 462.528pt x 346.896pt>
+<./maps/plots/Quartzville Creek.png, id=237, 462.528pt x 346.896pt>
 File: ./maps/plots/Quartzville Creek.png Graphic file (type png)
 <use ./maps/plots/Quartzville Creek.png>
 Package pdftex.def Info: ./maps/plots/Quartzville Creek.png  used on input line
- 7.
+ 8.
 (pdftex.def)             Requested size: 265.3012pt x 198.98726pt.
+<./maps/qr/Redneck Riviera_qr.png, id=238, 451.6875pt x 451.6875pt>
+File: ./maps/qr/Redneck Riviera_qr.png Graphic file (type png)
+<use ./maps/qr/Redneck Riviera_qr.png>
+Package pdftex.def Info: ./maps/qr/Redneck Riviera_qr.png  used on input line 1
+2.
+(pdftex.def)             Requested size: 119.38472pt x 119.38646pt.
+<./maps/qr/Old Miner's Camp_qr.png, id=241, 451.6875pt x 451.6875pt>
+File: ./maps/qr/Old Miner's Camp_qr.png Graphic file (type png)
+<use ./maps/qr/Old Miner's Camp_qr.png>
+Package pdftex.def Info: ./maps/qr/Old Miner's Camp_qr.png  used on input line 
+56.
+(pdftex.def)             Requested size: 119.38472pt x 119.38646pt.
 [13
 
 
  <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guidebook/maps/plots/Qua
-rtzville Creek.png>]) (index.tex
-Chapter 7.
-[14
-
-
-]
-
-LaTeX Warning: Reference `pt:Tidepool' on page 15 undefined on input line 201.
-
+rtzville Creek.png> <C:/Users/anchi/Desktop/projects/guidebook/The-Garden-Guide
+book/maps/qr/Redneck Riviera_qr.png (PNG copy)> <C:/Users/anchi/Desktop/project
+s/guidebook/The-Garden-Guidebook/maps/qr/Old Miner's Camp_qr.png (PNG copy)>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.60004pt, for example:
@@ -797,23 +844,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
 
-[15])
+[14
+
+]) (index.tex
+Chapter 7.
+[15
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 16.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-4.60004pt}.
+
+[16])
 (C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guidebook\guideBook.aux)
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12767 strings out of 478354
- 215152 string characters out of 2837118
- 650228 words of memory out of 3000000
- 30822 multiletter control sequences out of 15000+600000
+ 12884 strings out of 478354
+ 217771 string characters out of 2837118
+ 653617 words of memory out of 3000000
+ 30922 multiletter control sequences out of 15000+600000
  475489 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,13n,91p,588b,721s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 86i,13n,91p,588b,720s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\anchi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
 1000.pk><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb><C:/Users/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
@@ -825,9 +885,9 @@ ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/anchi
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
 ers/anchi/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
 Output written on C:\Users\anchi\Desktop\projects\guidebook\The-Garden-Guideboo
-k\guideBook.pdf (16 pages, 85932157 bytes).
+k\guideBook.pdf (17 pages, 85944346 bytes).
 PDF statistics:
- 594 PDF objects out of 1000 (max. 8388607)
- 155 named destinations out of 1000 (max. 500000)
- 322 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 627 PDF objects out of 1000 (max. 8388607)
+ 163 named destinations out of 1000 (max. 500000)
+ 347 words of extra memory for PDF output out of 10000 (max. 10000000)
 
