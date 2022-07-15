@@ -42,7 +42,9 @@ bookAreas = {
 bookSubAreas = {
     'entranceMain': Subarea(
         name='Entrance Area',
-        parent=bookAreas['garden'],),
+        parent=bookAreas['garden'],
+        description='A cluster of boulders situated inbetween the two main trails.'
+    ),
     'fightClub': Subarea(
         name='Fight Club',
         parent=bookAreas['garden'],
@@ -60,7 +62,9 @@ bookSubAreas = {
         parent=bookAreas['garden']),
     'azain': Subarea(
         name='Azain',
-        parent=bookAreas['garden'],),
+        parent=bookAreas['garden'],
+        description='Azain is a jumbled collection of rocks which forms the highest point of the Garden main.',
+        ),
     'bigFred': Subarea(
         name='Big Fred',
         parent=bookAreas['garden'],),
@@ -98,7 +102,8 @@ bookBoulders = {
     'turtleShell': Boulder(
         name='Turtle Shell Boulder',
         parent=bookSubAreas['entranceMain'],
-        description='A short boulder with a low angle offwidth crack.'),
+        description='A short boulder with a low angle offwidth crack. If approaching on the fight club trail this is '
+                    'the first boulder that you will encounter'),
     'toiletBowl': Boulder(
         name='Toilet Bowl',
         parent=bookSubAreas['entranceMain'],
@@ -106,7 +111,8 @@ bookBoulders = {
     'boysWoods': Boulder(
         name='Boys In the Woods',
         parent=bookSubAreas['entranceMain'],
-        description='A low boulder with an identifiable scoop on the downhill side is located right on the main trail.'),
+        description='A low boulder with an identifiable scoop on the downhill side is located on the main trail '
+                    'roughly 150ft uphill from the road.'),
     'treeSlab': Boulder(
         name='Tree Slab',
         parent=bookSubAreas['entranceMain'],
@@ -148,7 +154,7 @@ bookBoulders = {
     'trust': Boulder(
         name='Trust',
         parent=bookSubAreas['fightClub'],
-        description='The Trust boulder sits on an elevated platform behind Mini Me and to the Left of Tyler Durten'),
+        description='The Trust boulder sits on an terrace behind Mini Me and to the Left of Tyler Durten'),
     'eDirty': Boulder(
         name='E\'s Dirty B',
         parent=bookSubAreas['fightClub'],
@@ -187,7 +193,7 @@ bookBoulders = {
         name='Big',
         parent=bookSubAreas['big'],
         description='The "Big" boulder is a large moss covered boulder on the eastern boundary of the Garden Main '
-                    'area, in previous resources this has also been erroneously called "roadside"'),
+                    'area, in other guides this has also been called "roadside", and "North Block"'),
     'hueco': Boulder(
         name='Hueco Wabo',
         parent=bookSubAreas['big'],
@@ -345,7 +351,7 @@ bookRoutes = {
         parent=bookBoulders['miniMe'],
         rating=1,
         grade=3,
-        description='sit start on lowest holds of a compressiony arete with left foot over a small rock. '
+        description='sit start in compression with left hand on a low sloper sidepull and right hand on the arete. '
                     'Pull some tricky moves to gain better holds either rolling onto the right hand slab early or '
                     'staying on the arete the whole way.'),
     'tylerDurten': Route(
@@ -403,7 +409,7 @@ bookRoutes = {
         parent=bookBoulders['eDirty'],
         rating=2,
         grade=5,
-        description='Start on a lumpy flake in the back of a small cave. Using slopeing edges out right and a '
+        description='Start with hands matched on a lumpy flake in the back of a small cave. Using slopeing edges out right and a '
                     'difficult undercling navigate out of the cave trending right at the lip to a jug. The final '
                     'slab quest is an enjoyable and easy top out.',),
     'sillySteep': Route(
@@ -431,7 +437,7 @@ bookRoutes = {
         name='Meth Lab Project',
         parent=bookBoulders['methLab'],
         serious=3,
-        description='The obvious prow on the front of the Meth Lab boulder has top rope anchors but a route up it has '
+        description='The obvious prow on the front of the Meth Lab boulder has a bolted top rope anchor but a route up it has '
                     'likely never been free\'ed by any means. The ethics of climbing this behemoth are contentious but '
                     'in my opion it is fair game to bolt as a sport route. If you have the desire to do so consider '
                     'working it out on TR first before placing new equipment.'),
@@ -481,7 +487,7 @@ bookRoutes = {
         parent=bookBoulders['methLab'],
         rating=3,
         grade=7,
-        description='For many this is THE local test piece in the area. Start sitting '
+        description='For many this is THE local test piece. Start sitting '
                     'with left hand on a sloping triangular rib and right hand on a slopey cripm at the arete. Crank a few hard '
                     'moves to gain the lip then traverse left through the lightning bolt hold to a pumpy top out. Originally known as \"Tom\'s phsychadelic trip\".'),
     'twoBlows': Route(
@@ -543,7 +549,7 @@ bookRoutes = {
         rating=1,
         serious=1,
         description='start with opposing sidepulls on the center of the boulder\'s downhill face. Traverse to the left '
-                    'arete and ascend using delecate feet and unideal hands. Mind the boulder at the bottom'),
+                    'arete and ascend using delecate feet and unideal hands. Mind the uneven landing.'),
     'nextGood': Route(
         name='Next To the Good',
         parent=bookBoulders['nextGood'],
@@ -554,7 +560,7 @@ bookRoutes = {
         parent=bookBoulders['azainFront'],
         rating=2,
         grade=5,
-        description='Start at the base of a horizontal finger crack climb up left around a dabby tree and onto an easy '
+        description='Start at the base of a diagonal finger crack. Follow the crack around a dabby tree and onto an easy '
                     'slab. This route was named as an omage to the first ascent when the top out was cleaned via '
                     'leafblower from a stance mid route.'),
     'intoTheLight': Route(
@@ -589,7 +595,7 @@ bookRoutes = {
         name='Garden Project',
         parent=bookBoulders['azainBack'],
         description='Project. Sit start at the base of the low roof and climb into garden variety or Full Stokes. Once '
-                    'climbed this will be one of the hardes routes in Oregon'),
+                    'climbed this will be one of the hardes routes in Oregon.'),
     'gardenVariety': Route(
         name='Garden Variety',
         parent=bookBoulders['azainBack'],
@@ -606,7 +612,8 @@ bookRoutes = {
         name='The Siren',
         parent=bookBoulders['azainBack'],
         grade=5,
-        rating=3,),
+        rating=3,
+        description='Sit start at the base of the prow with one hand on an incut ledge and the other on the slopey rib below. Climb the prow using a few different beta options. This route is also refered to as "Witch Hunt".'),
     'gumbyArete': Route(
         name='Gumby Arete',
         parent=bookBoulders['azainBack'],
@@ -717,10 +724,11 @@ bookVariations = {
         name='Mr. Bigglesworth',
         parent=bookRoutes['drEvil'],
         grade=1,
-        rating=1,
-        description='Start on good crimps right of the arete just before the angle change, continue straight up or '
-                    'move left onto the arete. Authors note: other guides identify several other variations on '
-                    'this route, I am of the opinion that further variations are overly restrictive'),
+        rating=2,
+        description='Start on your choice of waist high holds, climb straight up the right face or '
+                    'stay left on the arete. Authors note: other guides identify several other variations on '
+                    'this route, this book intentionally omits other variations in preference of encouraging '
+                    'climbers to find their own beta.'),
     'durtenDyno': Variation(
         name='Tyler Durten Dyno',
         parent=bookRoutes['tylerDurten'],
@@ -743,7 +751,7 @@ bookVariations = {
         parent=bookRoutes['undertow'],
         grade=7,
         rating=3,
-        description='Sit start in the scoop ~4ft right of Undertow dit with left hand on a borken sidepull and right '
+        description='Sit start in the scoop ~4ft right of Undertow sit with left hand on a borken sidepull and right '
                     'hand on a low undercling, climb into undertow. At one point this line was simply refered to as '
                     'Undertow, for this book modern naming standards have been conserved.'),
     'jesusSit': Variation(
@@ -763,8 +771,8 @@ bookVariations = {
         grade=7,
         rating=2,
         description='The easiest top option for this boulder involves pulling through a suprisingly good side pull '
-                    'above the left end of the ledge. For years this variation livided in moss covered obscurity '
-                    'climbing it will make you wonder why the awkward pumpfest traverse exit is the default line'),
+                    'above the left end of the ledge. For years this variation livided in moss covered obscurity. '
+                    'Climbing it will make you wonder why the awkward pumpfest traverse exit is the default line'),
     'harborFreight': Variation(
         name='Harbor Freight',
         parent=bookRoutes['smackdown'],
