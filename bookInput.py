@@ -418,7 +418,7 @@ bookRoutes = {
         name='Dr. Evil',
         parent=bookBoulders['miniMe'],
         rating=2,
-        grade=3,
+        grade=4,
         description='sit start in compression with left hand on a low sloper sidepull and right hand on the arete. '
                     'Pull some tricky moves to gain better holds either rolling onto the right hand slab early or '
                     'staying on the arete the whole way.'),
@@ -510,7 +510,7 @@ bookRoutes = {
         name='Car Alarm Traverse',
         parent=bookBoulders['carAlarm'],
         grade=2,
-        rating=1,
+        rating=2,
         description='Stand start with hands on an incut rail at the far left end of the wall. Traverse right to pup truck staying below the lip the whole time. The reverse goes at the same grade.'),
     'whiteRhino': Route(
         name='White Rhino',
@@ -731,14 +731,14 @@ bookRoutes = {
         name='Philanthropy',
         parent=bookBoulders['azainBack'],
         grade=4, ), #unconfirmed
-    'fullStokes': Route(
-        name='Full Stokes',
+    'fullStroke': Route(
+        name='Full Stroke',
         parent=bookBoulders['azainBack'],
         grade=2, ), #unconfirmed
     'gardenProj': Route(
         name='Garden Project',
         parent=bookBoulders['azainBack'],
-        description='Project. Sit start at the base of the low roof and climb into garden variety or Full Stokes. Once '
+        description='Project. Sit start at the base of the low roof and climb into garden variety or Full Stroke. Once '
                     'climbed this will be one of the hardes routes in Oregon.'),
     'gardenVariety': Route(
         name='Garden Variety',
@@ -875,7 +875,7 @@ bookVariations = {
         name='Panic Button Variation',
         parent=bookRoutes['panicButton'],
         grade=2,
-        rating=1,
+        rating=2,
         description='Sit start and pull into the start of Panic Button instead of topping right head left over the techy slab.'
         ),
     'mrBigglesworth': Variation(
@@ -1373,8 +1373,8 @@ bookTopos = {
             'path1850': bookRoutes['drEvil'],
             'path1846': bookRoutes['austinPowers'],
             'path1852': bookRoutes['austinPowers'],
-            'path1848': bookVariations['mrBigglesworth'],
-            'path1854': bookVariations['mrBigglesworth'],
+            'path1848': bookRoutes['miniMe'],
+            'path1854': bookRoutes['miniMe'],
         }),
     'office': Topo(
         name='Office',
