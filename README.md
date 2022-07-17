@@ -18,3 +18,4 @@
 - Where should topo lines start, at the hand holds or from the base (from the base looks better but hand holds is sometimes informative)
 - numbering based on sub areas or area?
 - In general what to do with unknown routes. Make up a name or asign generic name (Problem A, etc).
+- Reorganize subareas and boulders into a logical order.
