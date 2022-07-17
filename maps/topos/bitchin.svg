@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg873"
+   width="1925.12"
+   height="1285.12"
+   viewBox="0 0 1925.12 1285.12"
+   sodipodi:docname="bitchin.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs877" />
+  <sodipodi:namedview
+     id="namedview875"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.88887883"
+     inkscape:cx="856.69719"
+     inkscape:cy="688.50779"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g879" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g879">
+    <image
+       width="1925.12"
+       height="1285.12"
+       preserveAspectRatio="none"
+       xlink:href="bitchin.jpg"
+       id="image881" />
+    <path
+       d="M 1167.9095,899.17368 C 1068.2709,857.78323 1013.3512,749.33287 1005.2936,643.04661"
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1014" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="m 1005.1841,642.79259 c -3.7507,-49.47412 2.6523,-98.47934 19.4252,-140.03398 45.0018,-110.35166 66.8224,-108.18856 85.9145,-243.42426 7.8633,-55.69831 -1.591,-70.00437 -1.591,-70.00437"
+       id="path1002"
+       sodipodi:nodetypes="ccsc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1029"
+       cx="1028.2616"
+       cy="496.13062"
+       rx="18.000204"
+       ry="19.125216" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1031"
+       cx="1080.5747"
+       cy="833.63446"
+       rx="17.437696"
+       ry="21.375242" />
+  </g>
+</svg>

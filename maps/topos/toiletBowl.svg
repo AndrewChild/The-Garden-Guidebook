@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1255"
+   width="1568.96"
+   height="1285.12"
+   viewBox="0 0 1568.96 1285.12"
+   sodipodi:docname="toiletBowl.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1259" />
+  <sodipodi:namedview
+     id="namedview1257"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.65908242"
+     inkscape:cx="736.63017"
+     inkscape:cy="643.31863"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1261" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1261">
+    <image
+       width="1568.96"
+       height="1285.12"
+       preserveAspectRatio="none"
+       xlink:href="toiletBowl.jpg"
+       id="image1263" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 849.66611,864.83872 C 813.25185,660.0085 795.04472,426.35032 811.73459,374.76345"
+       id="path1752" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 333.7974,737.38881 C 505.24788,614.49067 707.04358,430.9021 804.14828,430.9021 c 97.1047,0 59.17318,45.51783 191.17485,15.17261 132.00167,-30.34522 232.14087,-60.69044 238.20997,-86.48387"
+       id="path1754" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1756"
+       cx="809.45868"
+       cy="562.90381"
+       rx="26.552067"
+       ry="22.758913" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1758"
+       cx="479.45444"
+       cy="627.38739"
+       rx="21.241653"
+       ry="22.000284" />
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg735"
+   width="904.64001"
+   height="789.44"
+   viewBox="0 0 904.64001 789.44"
+   sodipodi:docname="baldo.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs739" />
+  <sodipodi:namedview
+     id="namedview737"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.0729124"
+     inkscape:cx="422.68128"
+     inkscape:cy="395.18602"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g741" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g741">
+    <image
+       width="904.64001"
+       height="789.44"
+       preserveAspectRatio="none"
+       xlink:href="baldo.jpg"
+       id="image743" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 421.28321,480.00189 C 312.23424,428.73955 199.4571,408.23462 203.18527,346.71981 c 3.72817,-61.5148 91.34016,-96.00038 125.82573,-210.6416 14.69824,-48.861702 13.0486,-82.019745 13.0486,-82.019745"
+       id="path862"
+       sodipodi:nodetypes="cssc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path864"
+       cx="284.27295"
+       cy="227.41837"
+       rx="13.048595"
+       ry="12.116552" />
+  </g>
+</svg>

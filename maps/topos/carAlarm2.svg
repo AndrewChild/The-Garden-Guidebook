@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg697"
+   width="1925.12"
+   height="1285.12"
+   viewBox="0 0 1925.12 1285.12"
+   sodipodi:docname="carAlarm2.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs701" />
+  <sodipodi:namedview
+     id="namedview699"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.62853225"
+     inkscape:cx="910.85223"
+     inkscape:cy="642.76734"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g703" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g703">
+    <image
+       width="1925.12"
+       height="1285.12"
+       preserveAspectRatio="none"
+       xlink:href="carAlarm2.jpg"
+       id="image705" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="m 405.70711,828.9153 c 28.63815,-135.2357 58.8673,-179.78393 28.63815,-227.51418 -30.22916,-47.73025 -55.6853,-79.55041 -54.09429,-114.5526"
+       id="path824"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 505.94063,1015.0633 C 563.21692,820.96026 852.78043,480.48449 999.15319,335.70274 1114.0854,222.01981 1194.8472,57.276297 1194.8472,57.276297"
+       id="path851"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 863.91749,474.12046 C 894.14664,423.2082 927.55782,362.74988 859.14446,321.38367 790.73111,280.01745 704.81666,295.92754 687.31557,260.92535 669.81448,225.92317 674.5875,232.28721 674.5875,232.28721"
+       id="path857" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path859"
+       cx="814.59625"
+       cy="301.49606"
+       rx="17.501091"
+       ry="19.887604" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path861"
+       cx="705.61218"
+       cy="675.383"
+       rx="23.06962"
+       ry="27.842644" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path863"
+       cx="446.27783"
+       cy="642.76733"
+       rx="16.705587"
+       ry="17.501091" />
+  </g>
+</svg>

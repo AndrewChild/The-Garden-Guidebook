@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg620"
+   width="1285.12"
+   height="1612.8"
+   viewBox="0 0 1285.12 1612.8"
+   sodipodi:docname="locksmith.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs624" />
+  <sodipodi:namedview
+     id="namedview622"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.5251736"
+     inkscape:cx="579.80828"
+     inkscape:cy="807.35209"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g626" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g626">
+    <image
+       width="1285.12"
+       height="1612.8"
+       preserveAspectRatio="none"
+       xlink:href="locksmith.jpg"
+       id="image628" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 656.92564,1376.6876 C 517.92398,1157.7124 407.48431,942.54548 487.45787,769.26944 567.43142,595.99341 750.22812,632.17192 698.81655,489.362 647.40498,346.55208 281.81158,205.64629 302.75703,102.82314"
+       id="path1894" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="m 569.33555,1235.7819 c -49.50744,-87.5901 112.34381,-207.5505 209.45456,-171.372 97.11074,36.1786 272.29089,62.8364 272.29089,-59.0281"
+       id="path1896" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1898"
+       cx="551.24628"
+       cy="336.07935"
+       rx="33.322315"
+       ry="29.51405" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1900"
+       cx="878.75708"
+       cy="1090.1157"
+       rx="42.842976"
+       ry="48.555374" />
+  </g>
+</svg>

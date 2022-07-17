@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1001"
+   width="1285.12"
+   height="1628.16"
+   viewBox="0 0 1285.12 1628.16"
+   sodipodi:docname="office.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1005" />
+  <sodipodi:namedview
+     id="namedview1003"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.52021913"
+     inkscape:cx="579.56346"
+     inkscape:cy="661.2598"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1007" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1007">
+    <image
+       width="1285.12"
+       height="1628.16"
+       preserveAspectRatio="none"
+       xlink:href="office.jpg"
+       id="image1009" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 734.30595,1122.6039 C 724.69461,899.62089 330.6299,936.14396 296.0291,705.47194 261.42829,474.79992 415.20964,297.95136 438.27685,194.14895 461.34405,90.346543 461.34405,74.968408 461.34405,74.968408"
+       id="path1834"
+       sodipodi:nodetypes="cssc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 922.68809,1132.2152 C 901.54316,989.96743 963.0557,745.83954 978.43383,667.0266 993.81193,588.21366 995.73423,528.62339 947.67756,467.11085 899.62089,405.59831 884.24276,328.70763 843.87515,313.3295"
+       id="path1836"
+       sodipodi:nodetypes="cssc" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1838"
+       cx="430.58777"
+       cy="870.78687"
+       r="21.144936" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1840"
+       cx="952.48322"
+       cy="791.01282"
+       rx="27.872869"
+       ry="25.950603" />
+  </g>
+</svg>

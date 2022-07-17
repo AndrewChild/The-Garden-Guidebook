@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg876"
+   width="1925.12"
+   height="1285.12"
+   viewBox="0 0 1925.12 1285.12"
+   sodipodi:docname="eDirty.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs880" />
+  <sodipodi:namedview
+     id="namedview878"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.62853225"
+     inkscape:cx="910.85223"
+     inkscape:cy="642.76734"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g882" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g882">
+    <image
+       width="1925.12"
+       height="1285.12"
+       preserveAspectRatio="none"
+       xlink:href="eDirty.jpg"
+       id="image884" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 785.95808,836.87034 C 747.77388,719.13573 658.67742,593.44608 706.40767,499.57659 754.13792,405.70711 784.36707,405.70711 910.05672,367.52291 1035.7464,329.33871 1110.5238,342.06678 1091.4317,299.10955 1072.3396,256.15233 1015.0633,195.69402 941.87689,167.05587 868.69051,138.41772 849.59841,155.91881 766.86598,112.96159 684.13355,70.004363 661.85944,57.276297 661.85944,57.276297"
+       id="path1003" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1005"
+       cx="890.16913"
+       cy="373.09143"
+       rx="27.842644"
+       ry="24.660627" />
+  </g>
+</svg>

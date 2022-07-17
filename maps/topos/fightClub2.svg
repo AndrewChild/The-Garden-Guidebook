@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1166"
+   width="882.23999"
+   height="1285.12"
+   viewBox="0 0 882.23999 1285.12"
+   sodipodi:docname="fightClub2.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1170" />
+  <sodipodi:namedview
+     id="namedview1168"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.65908242"
+     inkscape:cx="392.21195"
+     inkscape:cy="643.31863"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1172" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1172">
+    <image
+       width="882.23999"
+       height="1285.12"
+       preserveAspectRatio="none"
+       xlink:href="fightClub2.jpg"
+       id="image1174" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 242.76175,758.63046 C 201.7957,664.56028 241.24449,453.66101 280.69327,379.31523 320.14205,304.96944 361.1081,91.035655 361.1081,91.035655"
+       id="path1293" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 171.45048,898.21846 C 321.65931,716.14715 433.93662,688.83646 575.04189,663.04302 716.14715,637.24958 787.45841,432.41936 785.94115,373.24619"
+       id="path1297" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="m 740.42333,869.3905 c -62.2077,-50.06961 -27.3107,-300.41766 -27.3107,-300.41766"
+       id="path1299" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1301"
+       cx="744.21649"
+       cy="873.94226"
+       rx="25.034805"
+       ry="21.241653" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1303"
+       cx="515.11011"
+       cy="675.18109"
+       rx="26.552067"
+       ry="25.793436" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1305"
+       cx="261.72751"
+       cy="425.59167"
+       rx="28.069326"
+       ry="22.000284" />
+  </g>
+</svg>

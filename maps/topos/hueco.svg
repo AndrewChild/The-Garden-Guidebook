@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg366"
+   width="1285.12"
+   height="1482.5601"
+   viewBox="0 0 1285.12 1482.5601"
+   sodipodi:docname="hueco.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs370" />
+  <sodipodi:namedview
+     id="namedview368"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.57130906"
+     inkscape:cx="585.49745"
+     inkscape:cy="742.15521"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g372" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g372">
+    <image
+       width="1285.12"
+       height="1482.5601"
+       preserveAspectRatio="none"
+       xlink:href="hueco.jpg"
+       id="image374" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       d="M 810.41949,1302.2724 C 824.42242,1114.9832 714.14936,952.19914 731.65302,770.16107 749.15668,588.123 764.90997,626.63105 715.89972,460.34628 666.88947,294.0615 635.38288,327.31845 656.38728,267.80601"
+       id="path1918" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
+       id="path1920"
+       cx="744.78076"
+       cy="650.26099"
+       rx="25.380308"
+       ry="18.378843" />
+  </g>
+</svg>
