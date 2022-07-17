@@ -1531,25 +1531,25 @@ bookSubAreaMaps = {
             'path3073-988': bookRoutes['ear'],
             'path3073-3': bookRoutes['daryl'],
         }),
-    'undertow': SubAreaMap(
-        name='Undertow area map',
-        parent=bookSubAreas['fightClub'],
-        fileName='undertow.svg',
-        description='Undertow area map',
-        routes={
-            'path3073': bookRoutes['eDirty'],
-            'path3073-9': bookRoutes['sillySteep'],
-            'path3073-4': bookRoutes['undertow'],
-            'path3073-94': bookRoutes['tidepool'],
-            'path3073-1': bookRoutes['trust'],
-            'path3073-0': bookRoutes['tylerDurten'],
-            'path3073-6': bookRoutes['drEvil'],
-            'path3073-998': bookRoutes['austinPowers'],
-            'path3073-8': bookRoutes['fightClubLeft'],
-            'path3073-988': bookRoutes['ear'],
-            'path3073-3': bookRoutes['daryl'],
-        }
-    )
+#    'undertow': SubAreaMap(
+#        name='Undertow area map',
+#        parent=bookSubAreas['undertow'],
+#        fileName='undertow.svg',
+#        description='Undertow area map',
+#        routes={
+#            'path3073': bookRoutes['eDirty'],
+#            'path3073-9': bookRoutes['sillySteep'],
+#            'path3073-4': bookRoutes['undertow'],
+#            'path3073-94': bookRoutes['tidepool'],
+#            'path3073-1': bookRoutes['trust'],
+#            'path3073-0': bookRoutes['tylerDurten'],
+#            'path3073-6': bookRoutes['drEvil'],
+#            'path3073-998': bookRoutes['austinPowers'],
+#            'path3073-8': bookRoutes['fightClubLeft'],
+#            'path3073-988': bookRoutes['ear'],
+#            'path3073-3': bookRoutes['daryl'],
+#        }
+#    )
 }
 
 
