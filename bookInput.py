@@ -154,15 +154,15 @@ bookBoulders = {
         parent=bookSubAreas['fightClub'],
         description='Just to the left of the fight club boulder is a tall wall with few features other than a '
                     'distinctive crimp rail at eye level.'),
+    'trust': Boulder(
+        name='Trust',
+        parent=bookSubAreas['fightClub'],
+        description='The Trust boulder sits on an terrace behind Mini Me and to the Left of Tyler Durten'),
     'miniMe': Boulder(
         name='Mini Me',
         parent=bookSubAreas['fightClub'],
         description='A short pointy boulder with a flat landing is nearly freestanding on the downhill side of the '
                     'Fight Club zone',),
-    'trust': Boulder(
-        name='Trust',
-        parent=bookSubAreas['fightClub'],
-        description='The Trust boulder sits on an terrace behind Mini Me and to the Left of Tyler Durten'),
     'eDirty': Boulder(
         name='E\'s Dirty B',
         parent=bookSubAreas['fightClub'],
