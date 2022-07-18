@@ -103,11 +103,6 @@ bookSubAreas = {
                     'immediately above the Dab Rig boulder.'),
 }
 bookBoulders = {
-    'turtleShell': Boulder(
-        name='Turtle Shell Boulder',
-        parent=bookSubAreas['entranceMain'],
-        description='A short boulder with a low angle offwidth crack. If approaching on the fight club trail this is '
-                    'the first boulder that you will encounter'),
     'toiletBowl': Boulder(
         name='Toilet Bowl',
         parent=bookSubAreas['entranceMain'],
@@ -121,18 +116,27 @@ bookBoulders = {
         name='Tree Slab',
         parent=bookSubAreas['entranceMain'],
         description='A narrow slab just uphill and to the right of the Boys in the Woods boulder.'),
-    'allSorts': Boulder(
-        name='All Sorts of Ease',
-        parent=bookSubAreas['entranceMain'],
-        description='A low angle slab under the Meth Lab prow'),
     'tonsil': Boulder(
         name='Tonsil',
         parent=bookSubAreas['entranceMain'],
         description='A small hanging prow wedged under a larger hanging prow, which is itself wedged under the Meth Lab prow (a very big hanging prow).'),
+    'allSorts': Boulder(
+        name='All Sorts of Ease',
+        parent=bookSubAreas['entranceMain'],
+        description='A low angle slab under the Meth Lab prow'),
     'threeStar': Boulder(
         name='Three Star Ledge',
         parent=bookSubAreas['entranceMain'],
         description='Angular boulder in the rocky landscape between the two entrance trails.'),
+    'overhand': Boulder(
+        name='Overhand',
+        parent=bookSubAreas['entranceMain'],
+        description='a short prow in the rocky landscape between the two entrance trails.'),
+    'turtleShell': Boulder(
+        name='Turtle Shell Boulder',
+        parent=bookSubAreas['entranceMain'],
+        description='A short boulder with a low angle offwidth crack. If approaching on the fight club trail this is '
+                    'the first boulder that you will encounter'),
     'office': Boulder(
         name='The Office',
         parent=bookSubAreas['fightClub'],
@@ -370,16 +374,20 @@ bookRoutes = {
         grade=2,
         rating=2,
         description='Stand start with hands matched on the ledge. Chuck out to the left arete and follow it to the apex of the boulder. The small boulders at the base are off.'),
+    'overhand': Route(
+        name='Overhand',
+        parent=bookBoulders['overhand'],
+        grade=7,),  # unconfirmed
     'allSorts': Route(
         name='All Sorts of Ease',
         parent=bookBoulders['allSorts'],
-        grade=0,
+        grade='B',
         rating=2,
-        description='Climb the left side of the face on good holds. Fun, but V0 is generous.'),      
+        description='Climb the left side of the face on good holds. Fun.'),      
     'shadowGiants': Route(
         name='In the Shadow of Giants',
         parent=bookBoulders['allSorts'],
-        grade=1,
+        grade=2,
         rating=1,
         description='Stand start with wide hands. Left hand on thin pinch at head height and right hang on a slightly higher small lumpy edge with a thumb catch. Pull a few delicate moves to gain the lip. A sit start looks doable, but unpleasant.'),  
     'tonsil': Route(
@@ -553,7 +561,7 @@ bookRoutes = {
     'dontBlow': Route(
         name='Don\'t Blow the Jug',
         parent=bookBoulders['methLab'],
-        grade=2,
+        grade='2+',
         rating=2,
         serious=1,
         description='Start at the base of the wide crack. Climb inverted in the offwidth until you can make use of a jug to '
@@ -562,7 +570,7 @@ bookRoutes = {
         name='Trust Issues',
         parent=bookBoulders['methLab'],
         serious=2,
-        grade=8, #unconfirmed
+        grade='8+', #unconfirmed
         description='PLACEHOLDER'),
     'leaveJesus': Route(
         name='Leave It to Jesus',
@@ -926,7 +934,7 @@ bookVariations = {
     'octurnalCenter': Variation(
         name='Octurnal Center Exit',
         parent=bookRoutes['octurnal'],
-        grade=6,
+        grade='6/7',
         rating=2,
         description='The easiest top option for this boulder involves pulling through a suprisingly good side pull '
                     'above the left end of the ledge. For years this variation livided in moss covered obscurity. '
@@ -1059,6 +1067,16 @@ bookTopos = {
         routes={
             'path862': bookRoutes['baldo'],
             'path864': bookRoutes['baldo'],
+        }),
+    'overhand': Topo(
+        name='Overhand',
+        parent=bookBoulders['overhand'],
+        fileName='overhand.svg',
+        size='h',
+        description='Overhand',
+        routes={
+            'path293': bookRoutes['overhand'],
+            'path443': bookRoutes['overhand'],
         }),
     'hueco': Topo(
         name='Hueco Wabo',
@@ -1214,6 +1232,22 @@ bookTopos = {
             'path1342': bookRoutes['nightCrawler'],
             'path1396': bookRoutes['nightCrawler'],
         }),
+    'methLab': Topo(
+        name='Jesus',
+        parent=bookBoulders['methLab'],
+        fileName='jesus.svg',
+        size='h',
+        description='Methlab East Face',
+        routes={
+            'path1908': bookRoutes['dontBlow'],
+            'path1910': bookRoutes['dontBlow'],
+            'path1906': bookRoutes['trustIssues'],
+            'path1912': bookRoutes['trustIssues'],
+            'path1902': bookRoutes['leaveJesus'],
+            'path1916': bookRoutes['leaveJesus'],
+            'path1904': bookVariations['jesusSit'],
+            'path1914': bookVariations['jesusSit'],
+        }),
     'smackdown': Topo(
         name='smackdown',
         parent=bookBoulders['methLab'],
@@ -1319,22 +1353,6 @@ bookTopos = {
             'path1676': bookRoutes['gumbyArete'],
             'path1563': bookRoutes['gumbySlab'],
             'path1674': bookRoutes['gumbySlab'],
-        }),
-    'methLab': Topo(
-        name='Jesus',
-        parent=bookBoulders['methLab'],
-        fileName='jesus.svg',
-        size='h',
-        description='Methlab East Face',
-        routes={
-            'path1908': bookRoutes['dontBlow'],
-            'path1910': bookRoutes['dontBlow'],
-            'path1906': bookRoutes['trustIssues'],
-            'path1912': bookRoutes['trustIssues'],
-            'path1902': bookRoutes['leaveJesus'],
-            'path1916': bookRoutes['leaveJesus'],
-            'path1904': bookVariations['jesusSit'],
-            'path1914': bookVariations['jesusSit'],
         }),
 #    'methLab2': Topo(
 #        name='Meth Lab',
