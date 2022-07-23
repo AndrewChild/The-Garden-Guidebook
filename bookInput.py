@@ -1589,4 +1589,7 @@ bookSubAreaMaps = {
 
 
 if __name__ == '__main__':
+    book.paths['LaTeXTemplates'] = '../LocalBoulders/templates/'
+    book.paths['LaTeXOut'] = './sections/'
+    book.paths['pdf'] = './'
     book.gen()
