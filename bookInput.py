@@ -495,9 +495,11 @@ bookRoutes = {
     'sillySteep': Route(
         name='Silly Steep Mantle',
         parent=bookBoulders['sillySteep'],
-        grade=3,
+        grade=4,
         rating=2,
-        description='Stand start on a high juggy edge below the lip. Figure out how to get your body over the top.'),
+        description='Stand start with good compression holds in the roof. Make a hard pull to the juggy edge below the '
+                    'lip and figure out how to get your body over the top. Starting from the juggy edge knocks the '
+                    'grade down to V2/3.'),
     'undertow': Route(
         name='Undertow',
         parent=bookBoulders['undertow'],
@@ -541,9 +543,9 @@ bookRoutes = {
     'compRoute': Route(
         name='Comp Route',
         parent=bookBoulders['carAlarm'],
-        grade=1,
-        rating=2,
-        description='stand start with hands on an undercling at knee height. Using some tricky holds and ramp for your left foot lunge out and left to a jug rail at the lip.'),
+        grade=0,
+        rating=1,
+        description='stand start with hands on an undercling at knee height. Using some tricky holds and a good left foot lunge out and left to a jug rail at the lip.'),
     'panicButton': Route(
         name='Panic Button',
         parent=bookBoulders['carAlarm'],
@@ -594,7 +596,7 @@ bookRoutes = {
         name='Learys Lunge',
         parent=bookBoulders['methLab'],
         grade=9, #unconfirmed
-        description='PLACEHOLDER'),
+        description='Start as for Heiserburg and dyno up and right to juggy holds at the lip.'),
     'guillotine': Route(
         name='Guillotine',
         parent=bookBoulders['methLab'],
@@ -738,11 +740,20 @@ bookRoutes = {
     'philanthropy': Route(
         name='Philanthropy',
         parent=bookBoulders['azainBack'],
-        grade=4, ), #unconfirmed
+        grade=4,
+        rating=1,
+        serious=2,
+        description='Stand start with wide hands, left on a crimp sloper and right on a crimp sidepull. Pull a few '
+                    'techy moves to gain good jugs and rock over onto the slab. follow the path of least resistance or '
+                    'least moss to the top.'),
     'fullStroke': Route(
         name='Full Stroke',
         parent=bookBoulders['azainBack'],
-        grade=2, ), #unconfirmed
+        grade=2,
+        rating=2,
+        serious=1,
+        description='Stand start on a jug flake. Trend left to a high top in a shallow chimney.'
+    ),
     'gardenProj': Route(
         name='Garden Project',
         parent=bookBoulders['azainBack'],
@@ -779,6 +790,12 @@ bookRoutes = {
         grade=1,
         rating=3,
         description='Stand start in the center of the face. This can be scary if not used to climbing outdoors.',),
+    'gumbyCrack': Route(
+        name='Gumby Crack',
+        parent=bookBoulders['azainBack'],
+        grade=0,
+        rating=2,
+        description='Climb the well featured wall to the right of Gumby slab from a stand start.',),
     'chockStone': Route(
         name='Chockstone Highball',
         parent=bookBoulders['chockStone'],
