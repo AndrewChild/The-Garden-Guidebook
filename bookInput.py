@@ -112,6 +112,10 @@ bookBoulders = {
         parent=bookSubAreas['entranceMain'],
         description='A low boulder with an identifiable scoop on the downhill side is located on the main trail '
                     'roughly 150ft uphill from the road.'),
+    'goodWarm': Boulder(
+        name='The Good Warmup',
+        parent=bookSubAreas['entranceMain'],
+        description='A tiny finshaped boulder on the main trail.'),
     'treeSlab': Boulder(
         name='Tree Slab',
         parent=bookSubAreas['entranceMain'],
@@ -368,6 +372,10 @@ bookRoutes = {
         grade=1,
         rating=2,
         description='Climb the center of the slab from a stand start.'),
+    'goodWarm': Route(
+        name='The Good Warm Up',
+        parent=bookBoulders['goodWarm'],
+        grade=0), # unconfirmed
     'threeStar': Route(
         name='Three Star Ledge',
         parent=bookBoulders['threeStar'],
@@ -595,7 +603,8 @@ bookRoutes = {
     'learys': Route(
         name='Learys Lunge',
         parent=bookBoulders['methLab'],
-        grade=9, #unconfirmed
+        grade=9, 
+        rating=3,
         description='Start as for Heiserburg and dyno up and right to juggy holds at the lip.'),
     'guillotine': Route(
         name='Guillotine',
@@ -924,13 +933,13 @@ bookVariations = {
         rating=1,
         description='Avoid the committing moves at the lip by traversing left early.'),
     'undertowSit': Variation(
-        name='Undertow Sit',
+        name='Spray Against the Undertow',
         parent=bookRoutes['undertow'],
         grade=6, #unconfirmed
         description='Sit start with left hand in a slopey dish and right hand on a low sidepull. Pull some bizzare '
                     'moves to join into Undertow.'),
     'undertowSitRight': Variation(
-        name='Undertow Sit Right',
+        name='Undertow Sit Start',
         parent=bookRoutes['undertow'],
         grade=7,
         rating=3,
@@ -938,7 +947,7 @@ bookVariations = {
                     'hand on a low undercling, climb into undertow. At one point this line was simply refered to as '
                     'Undertow, for this book modern naming standards have been conserved.'),
     'jesusSit': Variation(
-        name='Leave it to Jesus Sit',
+        name='Leave it to Jesus Sit Start',
         parent=bookRoutes['leaveJesus'],
         grade=8, ), #unconfirmed
     'octurnalDirect': Variation(
@@ -965,14 +974,14 @@ bookVariations = {
                     'unearthed when a local climber yarded a large rock out from the landing of Smackdown using a '
                     'chain and come along. The device broke in the process inspiring the name of the route.'),
     'innerSanctumSit': Variation(
-        name='Inner Sanctum Sit',
+        name='Inner Sanctum Sit Start',
         parent=bookRoutes['innerSanctum'],
         grade=3,
         rating=1,
         description='Sit start with left hand on a diagonal undercling rail and right hand on a low diagonal side pull edge. Doesn\'t add much to the stand start.'
     ),
     'intoTheLight': Variation(
-        name='Into the Light Sit',
+        name='Into the Light Assis',
         parent=bookRoutes['intoTheLight'],
         grade=9,),
     'bitchinSit': Variation(
