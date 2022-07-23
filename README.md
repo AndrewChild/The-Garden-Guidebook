@@ -9,6 +9,8 @@
 - topos
 - intro
 - add icon for unconfirmed grades
+- split azain into more boulders
+  -azain, locksmith, azain roof/garden overhang, gumby?
 
 # specific issues
 - should pink tag just be a subarea of the garden proper. Since the parking is the same the only difference between pink tag and another side area is that its across the road. seems a little arbitrary.
