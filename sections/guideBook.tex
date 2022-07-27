@@ -16,10 +16,8 @@
 \usepackage{amssymb}
 \usepackage[section]{placeins}
 \graphicspath{ {../} }
-\usepackage{etoolbox}
-\makeatletter
-\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
-\makeatother
+\usepackage{multicol}
+\usepackage{wrapfig}
 
 
 \usepackage{fancyhdr}
@@ -37,42 +35,45 @@
 \titleformat{\chapter}[display]{\normalfont\color{white} \begin {shaded*}\bfseries}{\Huge#1}{0pt}{\end{shaded*}}
 \titleformat{\section}[hang]{\normalfont\color{white}}{\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}{0pt}{}
 
-\newcommand{\halfPic}[3]{
-  \begin{figure}[h]
-    \centering
-      \captionsetup{singlelinecheck=false, labelformat=empty}
-      \includegraphics[width=0.8\linewidth]{#2}
-      \caption{\textbf{#3#1}}
-  \end{figure}
+\newcommand{\formatChapter}[1]{
+\colorlet{shadecolor}{\chapterColor}
+\chapter{#1}
+\markboth{\color{white}#1 \protect\thepage \hspace{4pt}}{}
+\lhead{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
 }
-\newcommand{\fullPic}[3]{
-  \begin{figure*}[htb]
-    \centering
-      \captionsetup{singlelinecheck=false, labelformat=empty}
-      \includegraphics[width=0.8\textwidth]{#2}
-      \caption{\textbf{#3#1}}
-  \end{figure*}
+\newcommand{\halfPic}[2]{
+  \begin{center}
+  \includegraphics[width=0.9\linewidth]{#1}
+  \end{center}
+}
+\newcommand{\fullPic}[2]{
+\end{multicols*}
+    \begin{figure*}[htb]
+      \centering
+        \captionsetup{singlelinecheck=false, labelformat=empty}
+        \includegraphics[width=\textwidth]{#1}
+        \caption{\textbf{#2}}
+    \end{figure*}
+  \begin{multicols*}{2}
 }
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
 \newcommand{\hlink}[2]{
 \underline{\textcolor{blue}{\href{#1}{#2}}}
 }
 \newcommand{\qrcode}[3]{
-  \begin{figure}[h]
-    \centering
-      \captionsetup{labelformat=empty}
-      \includegraphics[width=0.45\linewidth]{#1}
-      \caption{\hlink{#2}{#3}}
-  \end{figure}
+  \begin{center}
+  \includegraphics[width=0.45\linewidth]{#1}
+  \newline
+  \hlink{#2}{#3}
+  \end{center}
 }
 
 \begin{document}
 \title{The Garden Boulders}
-\date{2022-07-26}
+\date{2022-07-27}
 \maketitle
 
 \newcommand\chapterColor{MidnightBlue}
-\twocolumn
 \input{acknowledgements}
 \input{intro}
 \renewcommand\chapterColor{BrickRed}

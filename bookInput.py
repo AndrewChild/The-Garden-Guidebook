@@ -1262,7 +1262,7 @@ bookTopos = {
         name='Jesus',
         parent=bookBoulders['methLab'],
         fileName='jesus.svg',
-        size='h',
+        size='f',
         description='Methlab East Face',
         routes={
             'path1908': bookRoutes['dontBlow'],
@@ -1292,7 +1292,7 @@ bookTopos = {
         name='octurnal',
         parent=bookBoulders['methLab'],
         fileName='octurnal.svg',
-        size='h',
+        size='f',
         description='Meth Lab backside',
         routes={
             'path952': bookRoutes['learys'],
@@ -1561,7 +1561,7 @@ bookAreaMaps = {
         name='The Garden Main Area Overview',
         parent=bookAreas['garden'],
         fileName='Garden.png',
-        size='h',
+        size='f',
         description='The Garden Main Area Overview',
     )
 }
