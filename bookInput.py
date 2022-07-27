@@ -1556,6 +1556,15 @@ bookTopos = {
             'path952': bookRoutes['tidepool'],
         }),
 }
+bookAreaMaps = {
+    'main': AreaMap(
+        name='The Garden Main Area Overview',
+        parent=bookAreas['garden'],
+        fileName='Garden.png',
+        size='h',
+        description='The Garden Main Area Overview',
+    )
+}
 bookSubAreaMaps = {
     'fightClub': SubAreaMap(
         name='Fight Club area map',
