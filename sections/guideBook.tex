@@ -18,6 +18,7 @@
 \graphicspath{ {../} }
 \usepackage{multicol}
 \usepackage{wrapfig}
+\usepackage{changepage} 
 
 
 \usepackage{fancyhdr}
@@ -47,14 +48,14 @@
   \end{center}
 }
 \newcommand{\fullPic}[2]{
-\end{multicols*}
+\end{multicols}
     \begin{figure*}[htb]
       \centering
         \captionsetup{singlelinecheck=false, labelformat=empty}
         \includegraphics[width=\textwidth]{#1}
         \caption{\textbf{#2}}
     \end{figure*}
-  \begin{multicols*}{2}
+\begin{multicols}{2}
 }
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
 \newcommand{\hlink}[2]{

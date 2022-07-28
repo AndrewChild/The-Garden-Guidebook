@@ -8,6 +8,7 @@ book = Book(
     collaborators=['Andrew Child'],
     repo='https://github.com/AndrewChild/The-Garden-Guidebook',
     dl='https://github.com/AndrewChild/The-Garden-Guidebook/raw/main/guideBook.pdf',
+    options={'topos_attached_to_routes': True},
 )
 bookAreas = {
     'garden': Area(
@@ -1141,7 +1142,7 @@ bookTopos = {
         name='The Good',
         parent=bookBoulders['theGood'],
         fileName='good.svg',
-        size='h',
+        size='f',
         description='The Good',
         routes={
             'path1453': bookRoutes['theGood'],
@@ -1196,7 +1197,7 @@ bookTopos = {
         name='Car Alarm Downhill Side',
         parent=bookBoulders['carAlarm'],
         fileName='carAlarm.svg',
-        size='h',
+        size='f',
         description='Car Alarm Downhill Side',
         routes={
             'path674': bookRoutes['carAlarmTraverse'],
@@ -1226,7 +1227,7 @@ bookTopos = {
         name='Boys in the Woods',
         parent=bookBoulders['boysWoods'],
         fileName='BITW.svg',
-        size='h',
+        size='f',
         description='Boys in the Woods and Tree Slab',
         routes={
             'path300': bookRoutes['boysInTheWoods'],
@@ -1335,7 +1336,7 @@ bookTopos = {
         name='arboretum',
         parent=bookBoulders['azainBack'],
         fileName='arboretum.svg',
-        size='h',
+        size='f',
         description='Routes on the Azain Backside',
         routes={
             'path501': bookRoutes['gardenVariety'],
