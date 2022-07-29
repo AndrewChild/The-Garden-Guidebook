@@ -1,6 +1,6 @@
 \documentclass[10pt]{report}
  \renewcommand{\familydefault}{\sfdefault}
-\usepackage[a4paper,margin=1cm,bottom=0.5cm,top=1.5cm]{geometry}
+\usepackage[a5paper,margin=1cm,bottom=0.5cm,top=1.5cm]{geometry}
 \usepackage{enumitem}
 \usepackage[explicit]{titlesec}
 \usepackage{graphicx}
@@ -49,10 +49,10 @@
 }
 \newcommand{\fullPic}[2]{
 \end{multicols*}
-    \begin{figure*}[htb]
+    \begin{figure*}[hb]
       \centering
         \captionsetup{singlelinecheck=false, labelformat=empty}
-        \includegraphics[width=\textwidth]{#1}
+        \includegraphics[width=0.8\textwidth]{#1}
         \caption{\textbf{#2}}
     \end{figure*}
 \begin{multicols*}{2}
@@ -71,7 +71,7 @@
 
 \begin{document}
 \title{The Garden Boulders}
-\date{2022-07-27}
+\date{2022-07-28}
 \maketitle
 
 \newcommand\chapterColor{MidnightBlue}
