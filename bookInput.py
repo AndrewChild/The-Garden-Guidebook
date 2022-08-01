@@ -8,6 +8,7 @@ book = Book(
     collaborators=['Andrew Child'],
     repo='https://github.com/AndrewChild/The-Garden-Guidebook',
     dl='https://github.com/AndrewChild/The-Garden-Guidebook/raw/main/guideBook.pdf',
+    options={'topos_attached_to_routes': True},
 )
 bookAreas = {
     'garden': Area(
@@ -319,19 +320,19 @@ bookRoutes = {
         rating=1,
         description='Climb the wide crack from a stand start.'
         ),
-    'donatello': Route(
-        name='Donatello',
-        parent=bookBoulders['turtleShell'],
-        grade=1,
-        rating=1,
-        description='start on a flat ledge where the rock angle changes. Slap a low angle arete until you can hike your feet up. Only somewhat distinct from Leonardo.'
-        ),
     'leonardo': Route(
         name='Leonardo',
         parent=bookBoulders['turtleShell'],
         grade=3,
         rating=1,
         description='Lay down start with hands lon a low broken flake. With difficulty pull off the ground and slap a slopey ledge traverse up and left until you can rock over onto the downhill face. Sort of like a worse version of boys in the woods.'
+        ),
+    'donatello': Route(
+        name='Donatello',
+        parent=bookBoulders['turtleShell'],
+        grade=1,
+        rating=1,
+        description='start on a flat ledge where the rock angle changes. Slap a low angle arete until you can hike your feet up. Only somewhat distinct from Leonardo.'
         ),
     'toilet': Route(
         name='Toilet Bowl',
@@ -1141,7 +1142,7 @@ bookTopos = {
         name='The Good',
         parent=bookBoulders['theGood'],
         fileName='good.svg',
-        size='h',
+        size='f',
         description='The Good',
         routes={
             'path1453': bookRoutes['theGood'],
@@ -1196,7 +1197,7 @@ bookTopos = {
         name='Car Alarm Downhill Side',
         parent=bookBoulders['carAlarm'],
         fileName='carAlarm.svg',
-        size='h',
+        size='f',
         description='Car Alarm Downhill Side',
         routes={
             'path674': bookRoutes['carAlarmTraverse'],
@@ -1226,7 +1227,7 @@ bookTopos = {
         name='Boys in the Woods',
         parent=bookBoulders['boysWoods'],
         fileName='BITW.svg',
-        size='h',
+        size='f',
         description='Boys in the Woods and Tree Slab',
         routes={
             'path300': bookRoutes['boysInTheWoods'],
@@ -1262,7 +1263,7 @@ bookTopos = {
         name='Jesus',
         parent=bookBoulders['methLab'],
         fileName='jesus.svg',
-        size='h',
+        size='f',
         description='Methlab East Face',
         routes={
             'path1908': bookRoutes['dontBlow'],
@@ -1292,7 +1293,7 @@ bookTopos = {
         name='octurnal',
         parent=bookBoulders['methLab'],
         fileName='octurnal.svg',
-        size='h',
+        size='f',
         description='Meth Lab backside',
         routes={
             'path952': bookRoutes['learys'],
@@ -1335,7 +1336,7 @@ bookTopos = {
         name='arboretum',
         parent=bookBoulders['azainBack'],
         fileName='arboretum.svg',
-        size='h',
+        size='f',
         description='Routes on the Azain Backside',
         routes={
             'path501': bookRoutes['gardenVariety'],
@@ -1556,25 +1557,71 @@ bookTopos = {
             'path952': bookRoutes['tidepool'],
         }),
 }
+bookAreaMaps = {
+    'main': AreaMap(
+        name='The Garden Main Area Overview',
+        parent=bookAreas['garden'],
+        fileName='Garden.png',
+        size='f',
+        description='The Garden Main Area Overview',
+    )
+}
 bookSubAreaMaps = {
+    'entranceMain': SubAreaMap(
+        name='Entrance Area map',
+        parent=bookSubAreas['entranceMain'],
+        fileName='entranceMain.svg',
+        description='Entrance Area map',
+        routes={
+        'path1767': bookRoutes['toiletTraverse'],
+        'path1769': bookRoutes['toilet'],
+        'path1771': bookRoutes['donatello'],
+        'path1773': bookRoutes['leonardo'],
+        'path1775': bookRoutes['raphael'],
+        'path1777': bookRoutes['overhand'],
+        'path1779': bookRoutes['threeStar'],
+        'path1781': bookRoutes['allSorts'],
+        'path1783': bookRoutes['shadowGiants'],
+        'path1785': bookRoutes['tonsil'],
+        'path1787': bookRoutes['boysInTheWoods'],
+        'path1789': bookRoutes['shinyJerry'],
+        'path1791': bookRoutes['treeSlab'],
+        }),
     'fightClub': SubAreaMap(
-        name='Fight Club area map',
+        name='Fight Club Area map',
         parent=bookSubAreas['fightClub'],
         fileName='fightClub.svg',
-        description='Fight Club Area Map',
+        description='Fight Club Area map',
         routes={
-            'path3073': bookRoutes['eDirty'],
-            'path3073-9': bookRoutes['sillySteep'],
-            'path3073-4': bookRoutes['undertow'],
-            'path3073-94': bookRoutes['tidepool'],
-            'path3073-1': bookRoutes['trust'],
-            'path3073-0': bookRoutes['tylerDurten'],
-            'path3073-6': bookRoutes['drEvil'],
-            'path3073-998': bookRoutes['austinPowers'],
-            'path3073-8': bookRoutes['fightClubLeft'],
-            'path3073-988': bookRoutes['ear'],
-            'path3073-3': bookRoutes['daryl'],
+        'path4077': bookRoutes['eDirty'],
+        'path1519': bookRoutes['jim'],
+        'path1517': bookRoutes['daryl'],
+        'path1515': bookRoutes['vince'],
+        'path1513': bookRoutes['ear'],
+        'path1511': bookRoutes['fightClubLeft'],
+        'path1509': bookRoutes['tylerDurten'],
+        'path1507': bookRoutes['trust'],
+        'path1505': bookRoutes['austinPowers'],
+        'path1503': bookRoutes['drEvil'],
         }),
+#    'fightClub': SubAreaMap(
+#        name='Fight Club Area map',
+#        parent=bookSubAreas['fightClub'],
+#        fileName='fightClub.svg',
+#        description='Fight Club Area Map',
+#        routes={
+#            'path3073': bookRoutes['eDirty'],
+#            'path3073-9': bookRoutes['sillySteep'],
+#            'path3073-4': bookRoutes['undertow'],
+#            'path3073-94': bookRoutes['tidepool'],
+#            'path3073-1': bookRoutes['trust'],
+#            'path3073-0': bookRoutes['tylerDurten'],
+#            'path3073-6': bookRoutes['drEvil'],
+#            'path3073-998': bookRoutes['austinPowers'],
+#            'path3073-8': bookRoutes['fightClubLeft'],
+#            'path3073-988': bookRoutes['ear'],
+#            'path3073-3': bookRoutes['daryl'],
+#        }),
 #    'undertow': SubAreaMap(
 #        name='Undertow area map',
 #        parent=bookSubAreas['undertow'],
