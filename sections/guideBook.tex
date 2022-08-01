@@ -1,6 +1,6 @@
 \documentclass[10pt]{report}
  \renewcommand{\familydefault}{\sfdefault}
-\usepackage[a5paper,margin=1cm,bottom=0.5cm,top=1.5cm]{geometry}
+\usepackage[a5paper,margin=0.5cm,bottom=0.5cm,top=1.5cm]{geometry}
 \usepackage{enumitem}
 \usepackage[explicit]{titlesec}
 \usepackage{graphicx}
@@ -26,6 +26,7 @@
 
 \setlength\parindent{0pt}
 \setenumerate{leftmargin=*}
+\setlength{\tabcolsep}{3pt}
 \renewcommand{\labelenumi}{\textbf{\arabic{enumi}}}
 \renewcommand{\labelenumii}{\arabic{enumi}\alph{enumii}}
 
@@ -34,6 +35,7 @@
 \setcounter{totalnumber}{4}
 
 \titleformat{\chapter}[display]{\normalfont\color{white} \begin {shaded*}\bfseries}{\Huge#1}{0pt}{\end{shaded*}}
+\titlespacing*{\chapter}{0pt}{0pt}{5pt}
 \titleformat{\section}[hang]{\normalfont\color{white}}{\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}{0pt}{}
 
 \newcommand{\formatChapter}[1]{
@@ -64,14 +66,15 @@
 \newcommand{\qrcode}[3]{
   \begin{center}
   \includegraphics[width=0.45\linewidth]{#1}
-  \newline
+  \end{center}
+  \begin{center}
   \hlink{#2}{#3}
   \end{center}
 }
 
 \begin{document}
 \title{The Garden Boulders}
-\date{2022-07-28}
+\date{2022-07-31}
 \maketitle
 
 \newcommand\chapterColor{MidnightBlue}
