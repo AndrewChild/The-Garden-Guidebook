@@ -50,15 +50,13 @@
   \end{center}
 }
 \newcommand{\fullPic}[2]{
-\end{multicols*}
-    \begin{figure*}[hb]
+\end{multicols}
+  \begin{center}
       \centering
-        \captionsetup{singlelinecheck=false, labelformat=empty}
         \includegraphics[width=0.8\textwidth]{#1}
-        \caption{\textbf{#2}}
 	\rule{\textwidth}{1pt}
-    \end{figure*}
-\begin{multicols*}{2}
+  \end{center}
+\begin{multicols}{2}
 }
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
 \newcommand{\hlink}[2]{
