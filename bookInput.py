@@ -190,10 +190,12 @@ bookBoulders = {
         name='Chockstone Highball',
         parent=bookSubAreas['undertow'],
         description=''),
-    'methLab': Boulder(
-        name='Meth Lab',
-        parent=bookSubAreas['methLab'],
-        description='Routes listed in counter clockwise order beginning under the large prow of the downhill face.'),
+    'methLabFront': Boulder(
+        name='Meth Lab Front Side',
+        parent=bookSubAreas['methLab'],),
+    'methLabBack': Boulder(
+        name='Meth Lab Back Side',
+        parent=bookSubAreas['methLab'],),
     'swollen': Boulder(
         name='Swollen Member',
         parent=bookSubAreas['methLab'],
@@ -592,7 +594,7 @@ bookRoutes = {
         description='Stand start just to the left of a rounded corner with feet on a blocky protrusion and not much for hands. Climb up and along the rounded corner.'),
     'methLab': Route(
         name='Meth Lab Project',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabFront'],
         serious=3,
         description='The obvious prow on the front of the Meth Lab boulder has a bolted top rope anchor but a route up it has '
                     'likely never been free\'ed by any means. The ethics of climbing this behemoth are contentious but '
@@ -600,7 +602,7 @@ bookRoutes = {
                     'working it out on TR first before placing new equipment.'),
     'dontBlow': Route(
         name='Don\'t Blow the Jug',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabFront'],
         grade='2+',
         rating=2,
         serious=1,
@@ -608,45 +610,45 @@ bookRoutes = {
                     'squeeze into the crack. Walk through the crack to the far side of the boulder.'),
     'trustIssues': Route(
         name='Trust Issues',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabFront'],
         serious=2,
         grade='8+',
         description='PLACEHOLDER'),
     'leaveJesus': Route(
         name='Leave It to Jesus',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabFront'],
         rating=3,
         grade=2,
         description='Also known as Showboat. Start with hands on sloping edges. Use one or two intermediate holds to reposition yourself and make a long pull to the lip. Short but brilliant.'),
     'smackdown': Route(
         name='Smackdown',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         rating=2,
         grade=7,
         description='Start standing with left hand gaston and right hand jug sidepull. Crank some powerful moves on bad feet '
                     'and follow the line of crimps to a top out left'),
     'heisenburg': Route(
         name='Heisenburg',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         grade=9,
         grade_unconfirmed=True,
         description='PLACEHOLDER'),
     'learys': Route(
         name='Learys Lunge',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         grade=9, 
         rating=3,
         description='Start as for Heiserburg and dyno up and right to juggy holds at the lip.'),
     'guillotine': Route(
         name='Guillotine',
         name_unconfirmed=True,
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         rating=2,
         grade=4,
         description='Start underclinging on the hanging \"Guillotine blade\" flake left of Octurnal. Climb straight up.'),
     'octurnal': Route(
         name='Octurnal',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         rating=3,
         grade=7,
         description='For many this is THE local test piece. Start sitting '
@@ -654,7 +656,7 @@ bookRoutes = {
                     'moves to gain the lip then traverse left through the lightning bolt hold to a pumpy top out. Originally known as \"Tom\'s phsychadelic trip\".'),
     'twoBlows': Route(
         name='Two Blows One Stroke',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         grade=6,
         description='PLACEHOLDER'),
     'swollen': Route(
@@ -1139,14 +1141,14 @@ bookPhotos = {
     'octurnal': Photo(
         name='Octurnal',
         fileName='Octurnal.jpg',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         route=bookRoutes['octurnal'],
         credit='Andrew Child',
         description='Carson landing the big throw on Octurnal. Classic!'),
     # 'smackdown': Photo(
         # name='Smackdown',
         # fileName='Smackdown.jpg',
-        # parent=bookBoulders['methLab'],
+        # parent=bookBoulders['methLabBack'],
         # route=bookRoutes['smackdown'],
         # credit='Carson Dension',
         # description='Andrew posting up at the start of Smackdown'),
@@ -1159,26 +1161,6 @@ bookPhotos = {
         description='Andrew strugling to finde a finger lock on Ground up Blowie'),
 }
 bookTopos = {
-#    'miniMe': Topo(
-#        name='miniMe',
-#        parent=bookBoulders['miniMe'],
-#        fileName='miniMe2.svg',
-#        size='f',
-#        description='Routes on Mini Me, Trust, and Tyler Durten',
-#        routes={
-#            'path302': bookRoutes['miniMe'],
-#            'path355': bookRoutes['austinPowers'],
-#            'path406': bookRoutes['drEvil'],
-#            'path963': bookRoutes['trust'],
-#            'path965': bookRoutes['tylerDurten'],
-#            'path4734': bookVariations['durtenDyno'],
-#            'path1264': bookRoutes['miniMe'],
-#            'path291': bookRoutes['austinPowers'],
-#            'path2046': bookRoutes['drEvil'],
-#            'path2048': bookRoutes['trust'],
-#            'path2050': bookRoutes['tylerDurten'],
-#            'path291-0': bookVariations['durtenDyno'],
-#        }),
     'bitchin': Topo(
         name='Bitchin Corners',
         parent=bookBoulders['bitchin'],
@@ -1367,7 +1349,7 @@ bookTopos = {
         }),
     'methLab': Topo(
         name='Jesus',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabFront'],
         fileName='jesus.svg',
         size='f',
         description='Methlab East Face',
@@ -1383,7 +1365,7 @@ bookTopos = {
         }),
     'smackdown': Topo(
         name='smackdown',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         fileName='smackdown.svg',
         size='h',
         description='Meth Lab backside',
@@ -1397,7 +1379,7 @@ bookTopos = {
         }),
     'octurnal': Topo(
         name='octurnal',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         fileName='octurnal.svg',
         size='f',
         description='Meth Lab backside',
@@ -1416,7 +1398,7 @@ bookTopos = {
         }),
     'octurnal2': Topo(
         name='octurnal2',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         fileName='octurnal2.svg',
         size='h',
         description='Meth Lab across from E\'s',
@@ -1442,7 +1424,7 @@ bookTopos = {
         name='arboretum',
         parent=bookBoulders['azainBack'],
         fileName='arboretum.svg',
-        size='f',
+        size='h',
         description='Routes on the Azain Backside',
         routes={
             'path501': bookRoutes['gardenVariety'],
@@ -1487,31 +1469,6 @@ bookTopos = {
             'path1563': bookRoutes['gumbySlab'],
             'path1674': bookRoutes['gumbySlab'],
         }),
-#    'methLab2': Topo(
-#        name='Meth Lab',
-#        parent=bookBoulders['methLab'],
-#        fileName='Methlab.svg',
-#        size='h',
-#        description='Meth Lab uphill face',
-#        routes={
-#            'path1856': bookRoutes['smackdown'],
-#            'path1874': bookRoutes['smackdown'],
-#            'path1876': bookVariations['harborFreight'],
-#            'path1858': bookRoutes['heisenburg'],
-#            'path1878': bookRoutes['heisenburg'],
-#            'path1860': bookRoutes['learys'],
-#            'path1880': bookRoutes['learys'],
-#            'path1866': bookRoutes['guillotine'],
-#            'path1884': bookRoutes['guillotine'],
-#            'path1864': bookRoutes['octurnal'],
-#            'path1886': bookRoutes['octurnal'],
-#            'path1868': bookVariations['octurnalCenter'],
-#            'path1888': bookVariations['octurnalCenter'],
-#            'path1862': bookVariations['octurnalDirect'],
-#            'path1890': bookVariations['octurnalDirect'],
-#            'path1872': bookRoutes['e7'],
-#            'path1892': bookRoutes['e7'],
-#        }),
     'miniMe3': Topo(
         name='Mini Me 3',
         parent=bookBoulders['miniMe'],
@@ -1539,17 +1496,6 @@ bookTopos = {
             'path1836': bookRoutes['jim'],
             'path1840': bookRoutes['jim'],
         }),
-#    'swollen': Topo(
-#        name='swollen',
-#        parent=bookBoulders['swollen'],
-#        fileName='swollen.svg',
-#        size='h',
-#        description='Swollen Member',
-#        routes={
-#            'path5504': bookRoutes['swollen'],
-#            'path5506': bookRoutes['swollen'],
-#            'path5508': bookRoutes['swollen'],
-#        }),
     'swollen2': Topo(
         name='swollen',
         parent=bookBoulders['swollen'],
@@ -1646,7 +1592,7 @@ bookTopos = {
         name='Undertow2',
         parent=bookBoulders['undertow'],
         fileName='undertow2.svg',
-        size='h',
+        size='f',
         description='Undertow East face',
         routes={
             'path932': bookRoutes['sillySteep'],
@@ -1702,6 +1648,7 @@ bookSubAreaMaps = {
         parent=bookSubAreas['fightClub'],
         fileName='fightClub.svg',
         description='Fight Club Area map',
+        size='f',
         routes={
         'path4077': bookRoutes['eDirty'],
         'path1519': bookRoutes['jim'],
@@ -1770,6 +1717,7 @@ bookSubAreaMaps = {
         parent=bookSubAreas['azain'],
         fileName='azain.svg',
         description='Azain area map',
+        size='f',
         routes={
             'path738': bookRoutes['gumbyCrack'],
             'path736': bookRoutes['gumbySlab'],
