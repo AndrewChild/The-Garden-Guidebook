@@ -338,7 +338,7 @@ bookRoutes = {
         description='start on a flat ledge where the rock angle changes. Slap a low angle arete until you can hike your feet up. Only somewhat distinct from Leonardo.'
         ),
     'toilet': Route(
-        name='Toilet Bowl TEST TEST TEST TEST TEST',
+        name='Toilet Bowl',
         parent=bookBoulders['toiletBowl'],
         grade=1,
         rating=1,
@@ -1661,6 +1661,10 @@ bookTopos = {
             'path948': bookRoutes['riptide'],
             'path940': bookRoutes['tidepool'],
             'path952': bookRoutes['tidepool'],
+            'path1309': bookRoutes['simpleMath'],
+            'path1305': bookRoutes['simpleMath'],
+            'path1307': bookVariations['shakeOut'],
+            'path748': bookVariations['shakeOut'],
         }),
 }
 bookAreaMaps = {
@@ -1759,6 +1763,7 @@ bookSubAreaMaps = {
             'path5662': bookRoutes['hueco'],
             'path5660': bookRoutes['bernd'],
             'path5658': bookRoutes['bitchin'],
+            'path5658-4': bookRoutes['smol'],
         }),
     'azain': SubAreaMap(
         name='Azain area map',
@@ -1793,6 +1798,7 @@ bookSubAreaMaps = {
         routes={
             'path714': bookRoutes['angryGrandma'],
             'path712': bookRoutes['angryMom'],
+            'path712-6': bookRoutes['easyGrandma'],
             'path710': bookRoutes['bigFred'],
         }),
 }
