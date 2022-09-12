@@ -19,6 +19,7 @@
 \usepackage{multicol}
 \usepackage{wrapfig}
 \usepackage{changepage} 
+\usepackage{needspace}
 
 
 \usepackage{fancyhdr}
@@ -45,26 +46,28 @@
 \lhead{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
 }
 \newcommand{\halfPic}[2]{
+  \setbox0=\hbox{\includegraphics[width=0.9\linewidth]{#1}}% Store image in \box0
+  \needspace{\ht0}% Need at least the height of \box0
   \begin{center}
   \includegraphics[width=0.9\linewidth]{#1}
   \end{center}
 }
 \newcommand{\fullPic}[2]{
-\end{multicols*}
-    \begin{figure*}[hb]
+\end{multicols}
+  \begin{center}
       \centering
-        \captionsetup{singlelinecheck=false, labelformat=empty}
         \includegraphics[width=0.8\textwidth]{#1}
-        \caption{\textbf{#2}}
-	\rule{\textwidth}{1pt}
-    \end{figure*}
-\begin{multicols*}{2}
+  \end{center}
+\raggedcolumns
+\begin{multicols}{2}
 }
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
 \newcommand{\hlink}[2]{
 \underline{\textcolor{blue}{\href{#1}{#2}}}
 }
 \newcommand{\qrcode}[3]{
+  \setbox0=\hbox{\includegraphics[width=0.45\linewidth]{#1}}% Store image in \box0
+  \needspace{\ht0}% Need at least the height of \box0
   \begin{center}
   \includegraphics[width=0.45\linewidth]{#1}
   \end{center}
@@ -75,7 +78,7 @@
 
 \begin{document}
 \title{The Garden Boulders}
-\date{2022-07-31}
+\date{2022-09-11}
 \maketitle
 
 \newcommand\chapterColor{MidnightBlue}

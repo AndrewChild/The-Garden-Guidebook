@@ -8,7 +8,6 @@
 - sub area maps
 - topos
 - intro
-- add icon for unconfirmed grades
 - split azain into more boulders
   -azain, locksmith, azain roof/garden overhang, gumby?
 

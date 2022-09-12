@@ -190,10 +190,12 @@ bookBoulders = {
         name='Chockstone Highball',
         parent=bookSubAreas['undertow'],
         description=''),
-    'methLab': Boulder(
-        name='Meth Lab',
-        parent=bookSubAreas['methLab'],
-        description='Routes listed in counter clockwise order beginning under the large prow of the downhill face.'),
+    'methLabFront': Boulder(
+        name='Meth Lab Front Side',
+        parent=bookSubAreas['methLab'],),
+    'methLabBack': Boulder(
+        name='Meth Lab Back Side',
+        parent=bookSubAreas['methLab'],),
     'swollen': Boulder(
         name='Swollen Member',
         parent=bookSubAreas['methLab'],
@@ -214,17 +216,20 @@ bookBoulders = {
         name='Bitchin Corners',
         parent=bookSubAreas['big'],
         description='A neet angular face sits on the downhill of an otherwise unremarkable boulder.'),
-    'big': Boulder(
-        name='Big',
-        parent=bookSubAreas['big'],
-        description='The "Big" boulder is a large moss covered boulder on the eastern boundary of the Garden Main '
-                    'area, in other guides this has also been called "roadside", and "North Block"'),
     'hueco': Boulder(
         name='Hueco Wabo',
         parent=bookSubAreas['big'],
         description='An aesthetic boulder sits well off the beaten path'),
     'baldo': Boulder(
         name='Baldo',
+        parent=bookSubAreas['big'],),
+    'big': Boulder(
+        name='Big',
+        parent=bookSubAreas['big'],
+        description='The "Big" boulder is a large moss covered boulder on the eastern boundary of the Garden Main '
+                    'area, in other guides this has also been called "roadside", and "North Block"'),
+    'small': Boulder(
+        name='Small',
         parent=bookSubAreas['big'],),
     'theGood': Boulder(
         name='The Good',
@@ -345,7 +350,7 @@ bookRoutes = {
         parent=bookBoulders['toiletBowl'],
         grade=0,
         rating=2,
-        description='Starting on a good rail at the lower left of the boulder. Travers the lip topping out at the highest point or continue all the way until the boulder recedes into the hill'
+        description='Starting on a good rail at the lower left of the boulder. Travers the lip topping out at the highest point or continue all the way until the boulder recedes into the hill',
         ),
     'boysInTheWoods': Route(
         name='Boys in the Woods',
@@ -358,13 +363,13 @@ bookRoutes = {
     'cubaGooding': Route(
         name='Cuba Gooding',
         parent=bookBoulders['boysWoods'],
-        grade=5, #unconfirmed
+        grade=5,
         description='Start as for Boys in the Woods but climb right along the lip of the scoop until you can reach the '
                     'holds at the top of Ice Cubes Shiny Jerry Curl'),
     'shinyJerry': Route(
         name='Ice Cubes Shiny Jerry Curl',
         parent=bookBoulders['boysWoods'],
-        grade=6, #unconfirmed
+        grade=6,
         description='Start on a low sloping edge and pull some sneaky moves to gain a knife edge crimp at eye level. '
                     'Continue straight up.'),
     'treeSlab': Route(
@@ -376,7 +381,10 @@ bookRoutes = {
     'goodWarm': Route(
         name='The Good Warm Up',
         parent=bookBoulders['goodWarm'],
-        grade=0), # unconfirmed
+        grade=0,
+        rating=1,
+        description='Sit start with hands matched on good rail. Climb the short face using both aretes. Also known as '
+                    'Shark Fin.'),
     'threeStar': Route(
         name='Three Star Ledge',
         parent=bookBoulders['threeStar'],
@@ -386,7 +394,8 @@ bookRoutes = {
     'overhand': Route(
         name='Overhand',
         parent=bookBoulders['overhand'],
-        grade=7,),  # unconfirmed
+        grade=7,
+        grade_unconfirmed=True),
     'allSorts': Route(
         name='All Sorts of Ease',
         parent=bookBoulders['allSorts'],
@@ -398,19 +407,26 @@ bookRoutes = {
         parent=bookBoulders['allSorts'],
         grade=2,
         rating=1,
-        description='Stand start with wide hands. Left hand on thin pinch at head height and right hang on a slightly higher small lumpy edge with a thumb catch. Pull a few delicate moves to gain the lip. A sit start looks doable, but unpleasant.'),  
+        description='Stand start with wide hands. Left hand on thin pinch at head height and right hang on a slightly '
+                    'higher small lumpy edge with a thumb catch. Pull a few delicate moves to gain the lip. A sit '
+                    'start looks doable, but unpleasant.'),
     'tonsil': Route(
         name='Tonsil',
         parent=bookBoulders['tonsil'],
         grade=4,
         rating=2,
-        description='Step off the boulder below to gain high starting holds. Begin in compression with right hand on a vertical side pull sloper on the blunt right corner and left hand on a juggy undercling.  Shorter climbers will have difficulty reaching the starting holds. After establishing the rock below is off.'),   
+        description='Step off the boulder below to gain high starting holds. Begin in compression with right hand on a '
+                    'vertical side pull sloper on the blunt right corner and left hand on a juggy undercling.  Shorter '
+                    'climbers will have difficulty reaching the starting holds. After establishing the rock below is '
+                    'off.'),
     'leftTonsil': Route(
-        name='Unknown Left of Tonsil',
+        name='Gingiva',
+        name_unconfirmed=True,
         parent=bookBoulders['tonsil'],
         grade=2,
-        rating=0,
-        description='Climbs the boulder below Tonsil. Sit start with low holds on the right arete. Pull a few awkward moves into a cramped top out.'),     
+        rating=1,
+        description='Climbs the boulder below Tonsil. Sit start with low holds on the right arete. Pull a few awkward '
+                    'moves into a cramped top out.'),
     'trust': Route(
         name='Trust',
         parent=bookBoulders['trust'],
@@ -453,7 +469,8 @@ bookRoutes = {
         serious=2,
         description='Starting on the right edge of the block climb climb the right corner over a rocky landing. Either '
                     'pull some harder moves to stay on the downhill face or round the corner to the right and pull '
-                    'some easier moves over a worse landing. Grade and rating unconfirmed.'),
+                    'some easier moves over a worse landing. Grade and rating unconfirmed.',
+        grade_unconfirmed=True),
     'daryl': Route(
         name='Daryl Philbin',
         parent=bookBoulders['office'],
@@ -492,6 +509,8 @@ bookRoutes = {
     'brewmaster': Route(
         name='Brewmaster',
         parent=bookBoulders['fightClub'],
+        grade=5,
+        rating=2,
         description='PLACEHOLDER'),
     'eDirty': Route(
         name='E\'s Dirty B',
@@ -518,13 +537,22 @@ bookRoutes = {
                     'arete.'),
     'riptide': Route(
         name='Riptide',
+        name_unconfirmed=True,
         parent=bookBoulders['undertow'],
         grade=3,
         rating=2,
         description='Start as for undertow but trend right around the corner to a juggy hueco top out.'),
+    'simpleMath': Route(
+        name='Simple Math',
+        parent=bookBoulders['undertow'],
+        grade=3,
+        grade_unconfirmed=True,
+        description='Stand start with knobby holds at head height. Follow the diagonal seam up and right.'),
     'tidepool': Route(
         name='Tidepool',
-        parent=bookBoulders['undertow'],),
+        parent=bookBoulders['undertow'],
+        grade=3,
+        grade_unconfirmed=True,),
     'carAlarmTraverse': Route(
         name='Car Alarm Traverse',
         parent=bookBoulders['carAlarm'],
@@ -533,6 +561,7 @@ bookRoutes = {
         description='Stand start with hands on an incut rail at the far left end of the wall. Traverse right to pup truck staying below the lip the whole time. The reverse goes at the same grade.'),
     'whiteRhino': Route(
         name='White Rhino',
+        name_unconfirmed=True,
         parent=bookBoulders['carAlarm'],
         grade=1,
         rating=1,
@@ -551,19 +580,21 @@ bookRoutes = {
         description='squat start on a blunt corner with right hand on a diagonal crimp and left hand in a shallow pocket.'),
     'compRoute': Route(
         name='Comp Route',
+        name_unconfirmed=True,
         parent=bookBoulders['carAlarm'],
         grade=0,
         rating=1,
         description='stand start with hands on an undercling at knee height. Using some tricky holds and a good left foot lunge out and left to a jug rail at the lip.'),
     'panicButton': Route(
         name='Panic Button',
+        name_unconfirmed=True,
         parent=bookBoulders['carAlarm'],
         grade=0,
         rating=1,
         description='Stand start just to the left of a rounded corner with feet on a blocky protrusion and not much for hands. Climb up and along the rounded corner.'),
     'methLab': Route(
         name='Meth Lab Project',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabFront'],
         serious=3,
         description='The obvious prow on the front of the Meth Lab boulder has a bolted top rope anchor but a route up it has '
                     'likely never been free\'ed by any means. The ethics of climbing this behemoth are contentious but '
@@ -571,7 +602,7 @@ bookRoutes = {
                     'working it out on TR first before placing new equipment.'),
     'dontBlow': Route(
         name='Don\'t Blow the Jug',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabFront'],
         grade='2+',
         rating=2,
         serious=1,
@@ -579,43 +610,45 @@ bookRoutes = {
                     'squeeze into the crack. Walk through the crack to the far side of the boulder.'),
     'trustIssues': Route(
         name='Trust Issues',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabFront'],
         serious=2,
-        grade='8+', #unconfirmed
+        grade='8+',
         description='PLACEHOLDER'),
     'leaveJesus': Route(
         name='Leave It to Jesus',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabFront'],
         rating=3,
         grade=2,
         description='Also known as Showboat. Start with hands on sloping edges. Use one or two intermediate holds to reposition yourself and make a long pull to the lip. Short but brilliant.'),
     'smackdown': Route(
         name='Smackdown',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         rating=2,
         grade=7,
         description='Start standing with left hand gaston and right hand jug sidepull. Crank some powerful moves on bad feet '
                     'and follow the line of crimps to a top out left'),
     'heisenburg': Route(
         name='Heisenburg',
-        parent=bookBoulders['methLab'],
-        grade=9, #unconfirmed
+        parent=bookBoulders['methLabBack'],
+        grade=9,
+        grade_unconfirmed=True,
         description='PLACEHOLDER'),
     'learys': Route(
         name='Learys Lunge',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         grade=9, 
         rating=3,
         description='Start as for Heiserburg and dyno up and right to juggy holds at the lip.'),
     'guillotine': Route(
         name='Guillotine',
-        parent=bookBoulders['methLab'],
+        name_unconfirmed=True,
+        parent=bookBoulders['methLabBack'],
         rating=2,
         grade=4,
         description='Start underclinging on the hanging \"Guillotine blade\" flake left of Octurnal. Climb straight up.'),
     'octurnal': Route(
         name='Octurnal',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         rating=3,
         grade=7,
         description='For many this is THE local test piece. Start sitting '
@@ -623,8 +656,8 @@ bookRoutes = {
                     'moves to gain the lip then traverse left through the lightning bolt hold to a pumpy top out. Originally known as \"Tom\'s phsychadelic trip\".'),
     'twoBlows': Route(
         name='Two Blows One Stroke',
-        parent=bookBoulders['methLab'],
-        grade=6, #unconfirmed
+        parent=bookBoulders['methLabBack'],
+        grade=6,
         description='PLACEHOLDER'),
     'swollen': Route(
         name='Swollen Member',
@@ -636,6 +669,7 @@ bookRoutes = {
                     'hooks, heel hooks and  all manner of dirty tricks.'),
     'innerSanctum': Route(
         name='Inner Sanctum',
+        name_unconfirmed=True,
         parent=bookBoulders['innerSanctum'],
         rating=2,
         grade=1,
@@ -643,14 +677,22 @@ bookRoutes = {
         description='Stand start with left hand on a slopey ledge and right hand on a diagonal incut seam. Pull yourself onto the ledge and climb a tenuous slab using a blunt corner for your right hand.'),
     'outerSanctum': Route(
         name='Outer Sanctum',
+        name_unconfirmed=True,
         parent=bookBoulders['innerSanctum'],
         rating=1,
         grade=1,
         description='Start as for Inner Sanctum but pull yourself around the blunt corner into a mossy scoop. Continue right to an easy top out.'),
+    'hourglass': Route(
+        name='Hourglass of the Santiam',
+        name_unconfirmed=True,
+        parent=bookBoulders['eBoulder'],
+        rating=2,
+        grade=4,
+        description='Starts with a low right hand incut and climbs a short off vertrical face over low ramp. Sit start on the ramp for style points.'),
     'slamDunk': Route(
         name='Slam Dunk',
         parent=bookBoulders['eBoulder'],
-        grade=7, #unconfirmed
+        grade=7,
         description='PLACEHOLDER'),
     'e7': Route(
         name='E\'s',
@@ -664,10 +706,19 @@ bookRoutes = {
         grade=9,
         description='Start matched on a good flat rail low to the ground with some awkward feet options. Cross into a '
                     'comfortable crimp and fire up left before coming back right to a flat jug. Pretty classic as far as low balls go!'),
+    'bubbler': Route(
+        name='Bubbler',
+        parent=bookBoulders['bubbler'],
+        grade=5,
+        grade_unconfirmed=True,
+        description='This short boulder reportedly goes at V5, no idea how.'),
     'bitchin': Route(
         name='Bitchin Corners',
-        grade=2, #unconfirmed
-        parent=bookBoulders['bitchin'],),
+        grade=2,
+        rating=1,
+        parent=bookBoulders['bitchin'],
+        description='Stand start with left hand on a high diagonal crimp and right hand on an arete pinch.'
+    ),
     'baldo': Route(
         name='Frontside Baldo',
         parent=bookBoulders['baldo'],
@@ -677,13 +728,23 @@ bookRoutes = {
         ),
     'hueco': Route(
         name='Hueco Wabo',
-        grade=3, #unconfirmed
+        grade=3,
+        grade_unconfirmed=True,
         parent=bookBoulders['hueco'],
         description='Stand start on good side pull underclings pull some rad moves to an insecure, scary top out. It\'s possible to bail right at almost any point on this route, but that\'s no fun. A sit start might also exist but looks unfun. Grade unconfirmed.'),
     'bernd': Route(
         name='All Bernd Up',
-        grade=10, #unconfirmed
+        grade=10,
+        grade_unconfirmed=True,
         parent=bookBoulders['big'],),
+    'smol': Route(
+        name='Smol',
+        name_unconfirmed=True,
+        parent=bookBoulders['small'],
+        grade=2,
+        rating=1,
+        description='Sit start with left hand on good side pull pod. Right hand on crimp just below the angle chang. '
+                    'Pull a few bear huggy moves to get on to. Better than it looks.'),
     'theGoodSlab': Route(
         name='The Good Slab',
         parent=bookBoulders['theGood'],
@@ -730,7 +791,8 @@ bookRoutes = {
     'intoTheLight': Route(
         name='Into the Light',
         parent=bookBoulders['azainFront'],
-        grade=6, ), #unconfirmed
+        grade=6,
+        grade_unconfirmed=True, ),
     'azainCrack': Route(
         name='Azain Crack',
         parent=bookBoulders['azainFront'],),
@@ -772,7 +834,8 @@ bookRoutes = {
     'gardenVariety': Route(
         name='Garden Variety',
         parent=bookBoulders['azainBack'],
-        grade=7, ), #unconfirmed
+        grade=7,
+        grade_unconfirmed=True, ),
     'arboretum': Route(
         name='The Arboretum',
         parent=bookBoulders['azainBack'],
@@ -780,7 +843,8 @@ bookRoutes = {
     'otherBernd': Route(
         name='The Other Bernd',
         parent=bookBoulders['azainBack'],
-        grade=10, ), #unconfirmed
+        grade=10,
+        grade_unconfirmed=True, ),
     'siren': Route(
         name='The Siren',
         parent=bookBoulders['azainBack'],
@@ -809,45 +873,67 @@ bookRoutes = {
     'chockStone': Route(
         name='Chockstone Highball',
         parent=bookBoulders['chockStone'],
-        grade=4, ), #unconfirmed
+        grade=4,
+        grade_unconfirmed=True,),
     'bigFred': Route(
         name='Big Fred',
         parent=bookBoulders['bigFred'],),
+    'easyGrandma': Route(
+        name='Easy Grandma',
+        name_unconfirmed=True,
+        parent=bookBoulders['angryGrandma'],
+        grade=0,
+        rating=1,
+        description='Squat start on a juggy flake and climb using face holds the arete to a pyramid hold 12ft off the ground.'),
     'angryMom': Route(
         name='Angry Mom',
         parent=bookBoulders['angryGrandma'],
-        grade=2, ), #unconfirmed
+        grade=2,
+        rating=2,
+        serious=1,
+        description='Stand start over a ledge foot climb left around a flake then veer hard right towards the arete. '
+                    'Exciting. Starting on sharp crimps to the right adds variety but doesn\'t feel like a distinct '
+                    'route'),
     'angryGrandma': Route(
         name='Angry Grandma',
-        parent=bookBoulders['angryGrandma'],),
+        parent=bookBoulders['angryGrandma'],
+        grade=7,
+        grade_unconfirmed=True,),
     'territorial': Route(
         name='Territorial Pissings',
         parent=bookBoulders['tecnu'],
-        grade=5, ), #unconfirmed   
+        grade=5,
+        grade_unconfirmed=True, ),
     'jonah': Route(
         name='Jonah\'s Dab Rig',
         parent=bookBoulders['jonahDab'],
-        grade=9, ), #unconfirmed
+        grade=9,
+        grade_unconfirmed=True,),
     'workshop': Route(
         name='Workshop 68',
         parent=bookBoulders['jonahDab'],
-        grade=11, ), #unconfirmed
+        grade=11,
+        grade_unconfirmed=True,),
     'socialismo': Route(
         name='Socialismo',
         parent=bookBoulders['jonahDab'],
-        grade=10, ), #unconfirmed
+        grade=10,
+        grade_unconfirmed=True,),
     'knowledge': Route(
         name='Knowledge is Good',
         parent=bookBoulders['farley'],
-        grade=7, ), #unconfirmed
+        grade=7,
+        grade_unconfirmed=True,),
     'leLemet': Route(
         name='Le Lemet',
         parent=bookBoulders['farley'],
-        grade=9, ), #unconfirmed
+        grade=9,
+        grade_unconfirmed=True,),
     'fraley': Route(
         name='Farely Prep',
         parent=bookBoulders['farley'],
-        grade=9, ), #unconfirmed     
+        grade=9,
+        grade_unconfirmed=True,),
     'ponyBoy': Route(
         name='Pony Boy',
         parent=bookBoulders['ponyBoy'],
@@ -892,11 +978,13 @@ bookRoutes = {
     'almonds': Route(
         name='Unsalted Almonds',
         parent=bookBoulders['dabRig'],
-        grade=7,),  #Unconfirmed
+        grade=7,
+        grade_unconfirmed=True,),
     'dankCommander': Route(
         name='Dank Commander',
         parent=bookBoulders['dabRig'],
-        grade=4, ), #Unconfirmed
+        grade=4,
+        grade_unconfirmed=True,),
 }
 bookVariations = {
     'threeStar': Variation(
@@ -908,6 +996,7 @@ bookVariations = {
         ),
     'panicButton': Variation(
         name='Panic Button Variation',
+        name_unconfirmed=True,
         parent=bookRoutes['panicButton'],
         grade=2,
         rating=2,
@@ -936,7 +1025,7 @@ bookVariations = {
     'undertowSit': Variation(
         name='Spray Against the Undertow',
         parent=bookRoutes['undertow'],
-        grade=6, #unconfirmed
+        grade=6,
         description='Sit start with left hand in a slopey dish and right hand on a low sidepull. Pull some bizzare '
                     'moves to join into Undertow.'),
     'undertowSitRight': Variation(
@@ -947,10 +1036,17 @@ bookVariations = {
         description='Sit start in the scoop ~4ft right of Undertow sit with left hand on a borken sidepull and right '
                     'hand on a low undercling, climb into undertow. At one point this line was simply refered to as '
                     'Undertow, for this book modern naming standards have been conserved.'),
+    'shakeOut': Variation(
+        name='Shake it Out',
+        parent=bookRoutes['riptide'],
+        grade=3,
+        rating=1,
+        description='Stand start as for Simple Math and climb straight up into riptide.'),
     'jesusSit': Variation(
         name='Leave it to Jesus Sit Start',
         parent=bookRoutes['leaveJesus'],
-        grade=8, ), #unconfirmed
+        grade=8,
+        grade_unconfirmed=True,),
     'octurnalDirect': Variation(
         name='Octurnal Direct Exit',
         parent=bookRoutes['octurnal'],
@@ -966,6 +1062,12 @@ bookVariations = {
         description='The easiest top option for this boulder involves pulling through a suprisingly good side pull '
                     'above the left end of the ledge. For years this variation livided in moss covered obscurity. '
                     'Climbing it will make you wonder why the awkward pumpfest traverse exit is the default line'),
+    'sweetHome': Variation(
+        name='Sweethome Traverse',
+        parent=bookRoutes['octurnal'],
+        grade='4',
+        rating=2,
+        description='Climb Octurnal from the ledge.'),
     'harborFreight': Variation(
         name='Harbor Freight',
         parent=bookRoutes['smackdown'],
@@ -976,6 +1078,7 @@ bookVariations = {
                     'chain and come along. The device broke in the process inspiring the name of the route.'),
     'innerSanctumSit': Variation(
         name='Inner Sanctum Sit Start',
+        name_unconfirmed=True,
         parent=bookRoutes['innerSanctum'],
         grade=3,
         rating=1,
@@ -984,16 +1087,21 @@ bookVariations = {
     'intoTheLight': Variation(
         name='Into the Light Assis',
         parent=bookRoutes['intoTheLight'],
-        grade=9,),
+        grade=9,
+        grade_unconfirmed=True,),
     'bitchinSit': Variation(
         name='Bitchin Corners Sit',
         parent=bookRoutes['bitchin'],
-        grade=6,),
+        rating=2,
+        grade=6,
+        description='Sit start with hands matched on a sharp corner at the bottom of the right arete.'
+    ),
     'brainHaemorrhage': Variation(
         name='Brain Haemorrhage',
         parent=bookRoutes['locksmith'],
-        grade=7, #unconfirmed
-        description='Start as for locksmith and traverse right into philanthropy'),
+        grade=7,
+        description='Start as for locksmith and traverse right into philanthropy',
+        grade_unconfirmed=True,),
     'sirenStand': Variation(
         name='The Siren Stand Start',
         parent=bookRoutes['siren'],
@@ -1033,14 +1141,14 @@ bookPhotos = {
     'octurnal': Photo(
         name='Octurnal',
         fileName='Octurnal.jpg',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         route=bookRoutes['octurnal'],
         credit='Andrew Child',
         description='Carson landing the big throw on Octurnal. Classic!'),
     # 'smackdown': Photo(
         # name='Smackdown',
         # fileName='Smackdown.jpg',
-        # parent=bookBoulders['methLab'],
+        # parent=bookBoulders['methLabBack'],
         # route=bookRoutes['smackdown'],
         # credit='Carson Dension',
         # description='Andrew posting up at the start of Smackdown'),
@@ -1053,26 +1161,6 @@ bookPhotos = {
         description='Andrew strugling to finde a finger lock on Ground up Blowie'),
 }
 bookTopos = {
-#    'miniMe': Topo(
-#        name='miniMe',
-#        parent=bookBoulders['miniMe'],
-#        fileName='miniMe2.svg',
-#        size='f',
-#        description='Routes on Mini Me, Trust, and Tyler Durten',
-#        routes={
-#            'path302': bookRoutes['miniMe'],
-#            'path355': bookRoutes['austinPowers'],
-#            'path406': bookRoutes['drEvil'],
-#            'path963': bookRoutes['trust'],
-#            'path965': bookRoutes['tylerDurten'],
-#            'path4734': bookVariations['durtenDyno'],
-#            'path1264': bookRoutes['miniMe'],
-#            'path291': bookRoutes['austinPowers'],
-#            'path2046': bookRoutes['drEvil'],
-#            'path2048': bookRoutes['trust'],
-#            'path2050': bookRoutes['tylerDurten'],
-#            'path291-0': bookVariations['durtenDyno'],
-#        }),
     'bitchin': Topo(
         name='Bitchin Corners',
         parent=bookBoulders['bitchin'],
@@ -1261,7 +1349,7 @@ bookTopos = {
         }),
     'methLab': Topo(
         name='Jesus',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabFront'],
         fileName='jesus.svg',
         size='f',
         description='Methlab East Face',
@@ -1277,7 +1365,7 @@ bookTopos = {
         }),
     'smackdown': Topo(
         name='smackdown',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         fileName='smackdown.svg',
         size='h',
         description='Meth Lab backside',
@@ -1291,7 +1379,7 @@ bookTopos = {
         }),
     'octurnal': Topo(
         name='octurnal',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         fileName='octurnal.svg',
         size='f',
         description='Meth Lab backside',
@@ -1310,7 +1398,7 @@ bookTopos = {
         }),
     'octurnal2': Topo(
         name='octurnal2',
-        parent=bookBoulders['methLab'],
+        parent=bookBoulders['methLabBack'],
         fileName='octurnal2.svg',
         size='h',
         description='Meth Lab across from E\'s',
@@ -1336,7 +1424,7 @@ bookTopos = {
         name='arboretum',
         parent=bookBoulders['azainBack'],
         fileName='arboretum.svg',
-        size='f',
+        size='h',
         description='Routes on the Azain Backside',
         routes={
             'path501': bookRoutes['gardenVariety'],
@@ -1381,31 +1469,6 @@ bookTopos = {
             'path1563': bookRoutes['gumbySlab'],
             'path1674': bookRoutes['gumbySlab'],
         }),
-#    'methLab2': Topo(
-#        name='Meth Lab',
-#        parent=bookBoulders['methLab'],
-#        fileName='Methlab.svg',
-#        size='h',
-#        description='Meth Lab uphill face',
-#        routes={
-#            'path1856': bookRoutes['smackdown'],
-#            'path1874': bookRoutes['smackdown'],
-#            'path1876': bookVariations['harborFreight'],
-#            'path1858': bookRoutes['heisenburg'],
-#            'path1878': bookRoutes['heisenburg'],
-#            'path1860': bookRoutes['learys'],
-#            'path1880': bookRoutes['learys'],
-#            'path1866': bookRoutes['guillotine'],
-#            'path1884': bookRoutes['guillotine'],
-#            'path1864': bookRoutes['octurnal'],
-#            'path1886': bookRoutes['octurnal'],
-#            'path1868': bookVariations['octurnalCenter'],
-#            'path1888': bookVariations['octurnalCenter'],
-#            'path1862': bookVariations['octurnalDirect'],
-#            'path1890': bookVariations['octurnalDirect'],
-#            'path1872': bookRoutes['e7'],
-#            'path1892': bookRoutes['e7'],
-#        }),
     'miniMe3': Topo(
         name='Mini Me 3',
         parent=bookBoulders['miniMe'],
@@ -1433,17 +1496,6 @@ bookTopos = {
             'path1836': bookRoutes['jim'],
             'path1840': bookRoutes['jim'],
         }),
-#    'swollen': Topo(
-#        name='swollen',
-#        parent=bookBoulders['swollen'],
-#        fileName='swollen.svg',
-#        size='h',
-#        description='Swollen Member',
-#        routes={
-#            'path5504': bookRoutes['swollen'],
-#            'path5506': bookRoutes['swollen'],
-#            'path5508': bookRoutes['swollen'],
-#        }),
     'swollen2': Topo(
         name='swollen',
         parent=bookBoulders['swollen'],
@@ -1540,7 +1592,7 @@ bookTopos = {
         name='Undertow2',
         parent=bookBoulders['undertow'],
         fileName='undertow2.svg',
-        size='h',
+        size='f',
         description='Undertow East face',
         routes={
             'path932': bookRoutes['sillySteep'],
@@ -1555,6 +1607,10 @@ bookTopos = {
             'path948': bookRoutes['riptide'],
             'path940': bookRoutes['tidepool'],
             'path952': bookRoutes['tidepool'],
+            'path1309': bookRoutes['simpleMath'],
+            'path1305': bookRoutes['simpleMath'],
+            'path1307': bookVariations['shakeOut'],
+            'path748': bookVariations['shakeOut'],
         }),
 }
 bookAreaMaps = {
@@ -1592,6 +1648,7 @@ bookSubAreaMaps = {
         parent=bookSubAreas['fightClub'],
         fileName='fightClub.svg',
         description='Fight Club Area map',
+        size='f',
         routes={
         'path4077': bookRoutes['eDirty'],
         'path1519': bookRoutes['jim'],
@@ -1604,43 +1661,94 @@ bookSubAreaMaps = {
         'path1505': bookRoutes['austinPowers'],
         'path1503': bookRoutes['drEvil'],
         }),
-#    'fightClub': SubAreaMap(
-#        name='Fight Club Area map',
-#        parent=bookSubAreas['fightClub'],
-#        fileName='fightClub.svg',
-#        description='Fight Club Area Map',
-#        routes={
-#            'path3073': bookRoutes['eDirty'],
-#            'path3073-9': bookRoutes['sillySteep'],
-#            'path3073-4': bookRoutes['undertow'],
-#            'path3073-94': bookRoutes['tidepool'],
-#            'path3073-1': bookRoutes['trust'],
-#            'path3073-0': bookRoutes['tylerDurten'],
-#            'path3073-6': bookRoutes['drEvil'],
-#            'path3073-998': bookRoutes['austinPowers'],
-#            'path3073-8': bookRoutes['fightClubLeft'],
-#            'path3073-988': bookRoutes['ear'],
-#            'path3073-3': bookRoutes['daryl'],
-#        }),
-#    'undertow': SubAreaMap(
-#        name='Undertow area map',
-#        parent=bookSubAreas['undertow'],
-#        fileName='undertow.svg',
-#        description='Undertow area map',
-#        routes={
-#            'path3073': bookRoutes['eDirty'],
-#            'path3073-9': bookRoutes['sillySteep'],
-#            'path3073-4': bookRoutes['undertow'],
-#            'path3073-94': bookRoutes['tidepool'],
-#            'path3073-1': bookRoutes['trust'],
-#            'path3073-0': bookRoutes['tylerDurten'],
-#            'path3073-6': bookRoutes['drEvil'],
-#            'path3073-998': bookRoutes['austinPowers'],
-#            'path3073-8': bookRoutes['fightClubLeft'],
-#            'path3073-988': bookRoutes['ear'],
-#            'path3073-3': bookRoutes['daryl'],
-#        }
-#    )
+    'undertow': SubAreaMap(
+        name='Undertow area map',
+        parent=bookSubAreas['undertow'],
+        fileName='undertow.svg',
+        description='Undertow area map',
+        routes={
+            'path1244': bookRoutes['sillySteep'],
+            'path1246': bookRoutes['undertow'],
+            'path1248': bookRoutes['tidepool'],
+            'path1250': bookRoutes['chockStone'],
+            'path1252': bookRoutes['carAlarmTraverse'],
+            'path1254': bookRoutes['twoTon'],
+            'path1256': bookRoutes['pupTruck'],
+            'path1258': bookRoutes['compRoute'],
+            'path1260': bookRoutes['panicButton'],
+        }),
+    'methLab': SubAreaMap(
+        name='Meth Lab area map',
+        parent=bookSubAreas['methLab'],
+        fileName='methLab.svg',
+        description='Meth Lab area map',
+        routes={
+            'path760': bookRoutes['dontBlow'],
+            'path762': bookRoutes['trustIssues'],
+            'path764': bookRoutes['leaveJesus'],
+            'path766': bookRoutes['smackdown'],
+            'path768': bookRoutes['heisenburg'],
+            'path770': bookRoutes['guillotine'],
+            'path772': bookRoutes['octurnal'],
+            'path774': bookRoutes['twoBlows'],
+            'path776': bookRoutes['e7'],
+            'path778': bookRoutes['enchilada'],
+            'path780': bookRoutes['swollen'],
+            'path782': bookRoutes['innerSanctum'],
+            'path784': bookRoutes['bubbler'],
+            'path4341': bookRoutes['methLab'],
+            'path426': bookRoutes['slamDunk'],
+            'path428': bookRoutes['hourglass'],
+        }),
+    'big': SubAreaMap(
+        name='Big area map',
+        parent=bookSubAreas['big'],
+        fileName='big.svg',
+        description='Big area map',
+        routes={
+            'path5664': bookRoutes['baldo'],
+            'path5662': bookRoutes['hueco'],
+            'path5660': bookRoutes['bernd'],
+            'path5658': bookRoutes['bitchin'],
+            'path5658-4': bookRoutes['smol'],
+        }),
+    'azain': SubAreaMap(
+        name='Azain area map',
+        parent=bookSubAreas['azain'],
+        fileName='azain.svg',
+        description='Azain area map',
+        size='f',
+        routes={
+            'path738': bookRoutes['gumbyCrack'],
+            'path736': bookRoutes['gumbySlab'],
+            'path734': bookRoutes['gumbyArete'],
+            'path732': bookRoutes['siren'],
+            'path730': bookRoutes['gardenVariety'],
+            'path728': bookRoutes['arboretum'],
+            'path726': bookRoutes['fullStroke'],
+            'path724': bookRoutes['philanthropy'],
+            'path722': bookRoutes['locksmith'],
+            'path720': bookRoutes['blowie'],
+            'path718': bookRoutes['nightCrawler'],
+            'path716': bookRoutes['theGoodSlab'],
+            'path714': bookRoutes['theGood'],
+            'path712': bookRoutes['another'],
+            'path710': bookRoutes['snakesMartyrs'],
+            'path708': bookRoutes['nextGood'],
+            'path740': bookRoutes['intoTheLight'],
+            'path742': bookRoutes['azainCrack'],
+        }),
+    'bigFred': SubAreaMap(
+        name='Big Fred area map',
+        parent=bookSubAreas['bigFred'],
+        fileName='bigFred.svg',
+        description='Big Fred area map',
+        routes={
+            'path714': bookRoutes['angryGrandma'],
+            'path712': bookRoutes['angryMom'],
+            'path712-6': bookRoutes['easyGrandma'],
+            'path710': bookRoutes['bigFred'],
+        }),
 }
 
 
