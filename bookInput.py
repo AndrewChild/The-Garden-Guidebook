@@ -686,7 +686,7 @@ bookRoutes = {
         name='Hourglass of the Santiam',
         name_unconfirmed=True,
         parent=bookBoulders['eBoulder'],
-        rating=4,
+        rating=2,
         grade=4,
         description='Starts with a low right hand incut and climbs a short off vertrical face over low ramp. Sit start on the ramp for style points.'),
     'slamDunk': Route(
