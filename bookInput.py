@@ -23,12 +23,14 @@ bookAreas = {
         name='Pink Tag Boulders',
         parent=book,
         gps='44.43998124232581, -122.57539325959186',
+        incomplete=True,
         description='Just across the road from the main area lay a few boulders on the banks of the River. See driving '
                     'directions for the Garden Main area.',),
     'upperGarden': Area(
         name='Armageddon',
         parent=book,
         gps='44.43959094940084, -122.58215256842753',
+        incomplete=True,
         description='Located about 3.2 miles down quatzville road from highway 20, park in the Gravel pull out where the road bends '
                     'about 0.1 miles before you reach a turnoff to a gravel road (which leads to the boulders). This '
                     'area is also known as the upper garden. The lack of shade, the blackberries, the poison '
@@ -36,6 +38,7 @@ bookAreas = {
     'quartzville': Area(
         name='Quartzville Creek',
         parent=book,
+        incomplete=True,
         description='About an hour further down the road from the main area there are a few interesting boulders '
                     'in a creek. Generally lower temperatures, free camping, and pleasant swimming holes make this '
                     'a nice mid summer spot.'),
