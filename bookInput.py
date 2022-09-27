@@ -298,23 +298,23 @@ bookBoulders = {
     'ponyBoy': Boulder(
         name='Pony Boy',
         parent=bookSubAreas['redneckRiviera'],
-        description=''),
+        description='A small boulder sits on the far bank of the river upriver from the parking.'),
     'monorail': Boulder(
         name='Monorail',
         parent=bookSubAreas['redneckRiviera'],
-        description=''),
+        description='Low boulder just below the parking area with an obvious sharp lip that spans the entire downhill face.'),
     'yoMamma': Boulder(
         name='Yo Mamma Boulder',
         parent=bookSubAreas['redneckRiviera'],
-        description=''),
+        description='Yo Mamma is bigger than any of the other boulders in this area. Look for it across the river and downstream from the parking.'),
     'mossBoss': Boulder(
         name='Moss Boss',
         parent=bookSubAreas['redneckRiviera'],
-        description=''),
+        description='A large mossy boulder on the roadside of the river and downstream of the parking area.'),
     'fourPointFive': Boulder(
         name='The 4.5',
         parent=bookSubAreas['redneckRiviera'],
-        description=''),
+        description='A clean overhanging face points downhill the river downstream and across the river from the parking.'),
     'dabRig': Boulder(
         name='The Dab Rig',
         parent=bookSubAreas['minersCamp'],
@@ -421,7 +421,7 @@ bookRoutes = {
         description='Step off the boulder below to gain high starting holds. Begin in compression with right hand on a '
                     'vertical side pull sloper on the blunt right corner and left hand on a juggy undercling.  Shorter '
                     'climbers will have difficulty reaching the starting holds. After establishing the rock below is '
-                    'off.'),
+                    'off. Starting lower seems doable but much harder.'),
     'leftTonsil': Route(
         name='Gingiva',
         name_unconfirmed=True,
@@ -508,13 +508,13 @@ bookRoutes = {
     'fightClubLeft': Route(
         name='Fight Club Left',
         parent=bookBoulders['fightClub'],
-        description='PLACEHOLDER'),
+        description='A popular local project. Sit start with hands matched low on the left arete of the overhanging boulder. Climb across the overhang topping as for fightclub. Unclear if this has ever been climbed.'),
     'brewmaster': Route(
         name='Brewmaster',
         parent=bookBoulders['fightClub'],
         grade=5,
         rating=2,
-        description='PLACEHOLDER'),
+        description='Often mistaken for fight club left. Sit start in the same spot but climb up the arete. Starting a move or two in brings the grade down a bit.'),
     'eDirty': Route(
         name='E\'s Dirty B',
         parent=bookBoulders['eDirty'],
@@ -555,7 +555,7 @@ bookRoutes = {
         name='Tidepool',
         parent=bookBoulders['undertow'],
         grade=3,
-        grade_unconfirmed=True,),
+        grade_unconfirmed=True),
     'carAlarmTraverse': Route(
         name='Car Alarm Traverse',
         parent=bookBoulders['carAlarm'],
@@ -615,8 +615,8 @@ bookRoutes = {
         name='Trust Issues',
         parent=bookBoulders['methLabFront'],
         serious=2,
-        grade='8+',
-        description='PLACEHOLDER'),
+        grade='8',
+        description='Sit start at the base of a diagonal crack. Proceed up and left over a subpar landing.'),
     'leaveJesus': Route(
         name='Leave It to Jesus',
         parent=bookBoulders['methLabFront'],
@@ -635,13 +635,8 @@ bookRoutes = {
         parent=bookBoulders['methLabBack'],
         grade=9,
         grade_unconfirmed=True,
-        description='PLACEHOLDER'),
-    'learys': Route(
-        name='Learys Lunge',
-        parent=bookBoulders['methLabBack'],
-        grade=9, 
-        rating=3,
-        description='Start as for Heiserburg and dyno up and right to juggy holds at the lip.'),
+        description='Sit start with opposing sidepulls on a low flake. follow a slopey rib possibly making use of small'
+                    ' holds further left.'),
     'guillotine': Route(
         name='Guillotine',
         name_unconfirmed=True,
@@ -696,19 +691,22 @@ bookRoutes = {
         name='Slam Dunk',
         parent=bookBoulders['eBoulder'],
         grade=7,
-        description='PLACEHOLDER'),
+        description='Sit start with hands matching on a crimp rail on the lower right hand side of a small overhang. '
+                    'Pull a few moves into the namesake slam dunk maneuver followed by an easy top out.'),
     'e7': Route(
         name='E\'s',
         parent=bookBoulders['eBoulder'],
-        grade=7, #unconfirmed
-        description='PLACEHOLDER'),
+        grade=7,
+        grade_unconfirmed=True,
+        description='Stand start with hands matched on a chest high crimp rail. Pull a few enormous moves to a '
+                    'big ledge.'),
     'enchilada': Route(
         name='Enchilada',
         rating=2,
         parent=bookBoulders['eBoulder'],
         grade=9,
-        description='Start matched on a good flat rail low to the ground with some awkward feet options. Cross into a '
-                    'comfortable crimp and fire up left before coming back right to a flat jug. Pretty classic as far as low balls go!'),
+        description='Low ball. Sit start with hands matched on a crimp rail. Thrutch your way through a few hard moves '
+                    'to a low top.'),
     'bubbler': Route(
         name='Bubbler',
         parent=bookBoulders['bubbler'],
@@ -838,11 +836,13 @@ bookRoutes = {
         name='Garden Variety',
         parent=bookBoulders['azainBack'],
         grade=7,
-        grade_unconfirmed=True, ),
+        grade_unconfirmed=True,
+        description='Reportedly there is a way to jump start the center of the overhanging face.'),
     'arboretum': Route(
         name='The Arboretum',
         parent=bookBoulders['azainBack'],
-        grade=11,),
+        grade=11,
+        description='Stand start with left hand on a big under cling and right in a small dish. Climb up and left.'),
     'otherBernd': Route(
         name='The Other Bernd',
         parent=bookBoulders['azainBack'],
@@ -901,7 +901,8 @@ bookRoutes = {
         name='Angry Grandma',
         parent=bookBoulders['angryGrandma'],
         grade=7,
-        grade_unconfirmed=True,),
+        grade_unconfirmed=True,
+        description='Reportedly the intimidating overhanging face on the angry grandma boulder goes at V7. Looks hard and scary.'),
     'territorial': Route(
         name='Territorial Pissings',
         parent=bookBoulders['tecnu'],
@@ -941,7 +942,9 @@ bookRoutes = {
         name='Pony Boy',
         parent=bookBoulders['ponyBoy'],
         grade=2, 
-        rating=0,), 
+        rating=0,
+        description='Sit start with hands matched in a juggy pocket on the overhanging face of the boulder. Climbing '
+                    'this thing is probably not worth getting your pads wet.'),
     'monorail': Route(
         name='Monorail Project',
         parent=bookBoulders['monorail'],
@@ -951,13 +954,15 @@ bookRoutes = {
         parent=bookBoulders['yoMamma'],
         grade=0, 
         serious=1,
-        rating=1,), 
+        rating=1,
+        description='Stand start on the left side of the west face of the boulder. This is also the down climb.'),
     'binding': Route(
         name='Binding of Isaac',
         parent=bookBoulders['yoMamma'],
         grade=2, 
         serious=1,
-        rating=2,), 
+        rating=2,
+        description='Stand start with a left hand sidepull about 5ft left of Ugly face.'),
     'mossBoss': Route(
         name='Moss Boss',
         parent=bookBoulders['mossBoss'],
@@ -967,17 +972,20 @@ bookRoutes = {
         name='Chicken Tendies',
         parent=bookBoulders['fourPointFive'],
         grade=1, 
-        rating=1,), 
+        rating=1,
+        description='Stand start with hands matched on a good crimp rail on the left side of the boulder. Climb straight up.'),
     'teenageLibertarians': Route(
         name='Teenage Libertarians',
         parent=bookBoulders['fourPointFive'],
         grade=4, 
-        rating=3,), 
+        rating=3,
+        description='Start as for chicken tendies but traverse right and ascend the tallest part of the boulder.'),
     'falcon': Route(
         name='Falcon\'s Reach',
         parent=bookBoulders['fourPointFive'],
         grade=3, 
-        rating=1,), 
+        rating=1,
+        description='Squat start on a juggy edge. Climb straight up.'),
     'almonds': Route(
         name='Unsalted Almonds',
         parent=bookBoulders['dabRig'],
@@ -1050,6 +1058,12 @@ bookVariations = {
         parent=bookRoutes['leaveJesus'],
         grade=8,
         grade_unconfirmed=True,),
+    'learys': Variation(
+        name='Learys Lunge',
+        parent=bookRoutes['heisenburg'],
+        grade=9,
+        rating=3,
+        description='Start as for Heiserburg and dyno up and right to juggy holds at the lip.'),
     'octurnalDirect': Variation(
         name='Octurnal Direct Exit',
         parent=bookRoutes['octurnal'],
@@ -1387,12 +1401,12 @@ bookTopos = {
         size='f',
         description='Meth Lab backside',
         routes={
-            'path952': bookRoutes['learys'],
+            'path952': bookVariations['learys'],
             'path1586': bookRoutes['octurnal'],
             'path2313': bookVariations['octurnalCenter'],
             'path2362': bookVariations['octurnalDirect'],
             'path2305': bookRoutes['guillotine'],
-            'path1163': bookRoutes['learys'],
+            'path1163': bookVariations['learys'],
             'path2364': bookRoutes['octurnal'],
             'path2372': bookRoutes['octurnal'],
             'path2368': bookVariations['octurnalCenter'],
