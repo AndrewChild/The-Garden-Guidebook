@@ -510,6 +510,7 @@ bookRoutes = {
         name='Fight Club 2',
         parent=bookBoulders['fightClub'],
         grade=10,
+        rating=2,
         description='Sit start with hands matched low on the left arete of the overhanging boulder. Climb across the overhang topping as for Fight Club.'),
     'brewmaster': Route(
         name='Brewmaster',
@@ -845,6 +846,7 @@ bookRoutes = {
         name='The Arboretum',
         parent=bookBoulders['azainBack'],
         grade=11,
+        rating=3,
         description='Stand start with left hand on a big under cling and right in a small dish. Climb up and left.'),
     'otherBernd': Route(
         name='The Other Bernd',
