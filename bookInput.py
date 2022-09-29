@@ -497,7 +497,8 @@ bookRoutes = {
         rating=3,
         grade=2,
         description='Start on the arete at the far right end of the boulder. Climb straight up through tricky holds '
-                    'to a heady top out.'),
+                    'to a heady top out. Veering onto the face instead of using the good holds on the right arete '
+                    'bumps the grade up to around V4.'),
     'fightClub': Route(
         name='Fight Club',
         parent=bookBoulders['fightClub'],
@@ -506,15 +507,17 @@ bookRoutes = {
         description='Area classic, this rig is a feather in any would be crushers cap. Start on the far right arete as for Ear. '
                     'Traverse across the angle change and top out above a bubbly crimp rail on the overhanging face.'),
     'fightClubLeft': Route(
-        name='Fight Club Left',
+        name='Fight Club 2',
         parent=bookBoulders['fightClub'],
-        description='A popular local project. Sit start with hands matched low on the left arete of the overhanging boulder. Climb across the overhang topping as for fightclub. Unclear if this has ever been climbed.'),
+        grade=10,
+        description='Sit start with hands matched low on the left arete of the overhanging boulder. Climb across the overhang topping as for Fight Club.'),
     'brewmaster': Route(
         name='Brewmaster',
         parent=bookBoulders['fightClub'],
         grade=5,
         rating=2,
-        description='Often mistaken for fight club left. Sit start in the same spot but climb up the arete. Starting a move or two in brings the grade down a bit.'),
+        description='Often mistaken for Fight Club 2. Sit start in the same spot but climb up the arete. Starting a '
+                    'move or two in brings the grade down a bit. This is also known as tool shed direct.'),
     'eDirty': Route(
         name='E\'s Dirty B',
         parent=bookBoulders['eDirty'],
@@ -880,7 +883,12 @@ bookRoutes = {
         grade_unconfirmed=True,),
     'bigFred': Route(
         name='Big Fred',
-        parent=bookBoulders['bigFred'],),
+        parent=bookBoulders['bigFred'],
+        grade=3,
+        grade_unconfirmed=True,
+        description='This highball has a storied legacy. It seems that at one point it was a well traveled classic but '
+                    'it has since faded into mossy obscurity. One (very controversial) bolt exists on the face so you '
+                    'could climb it as a sport route I guess.'),
     'easyGrandma': Route(
         name='Easy Grandma',
         name_unconfirmed=True,
@@ -1057,7 +1065,8 @@ bookVariations = {
         name='Leave it to Jesus Sit Start',
         parent=bookRoutes['leaveJesus'],
         grade=8,
-        grade_unconfirmed=True,),
+        grade_unconfirmed=True,
+        description='Sit start on razor crimps to the lower left of the stand start.'),
     'learys': Variation(
         name='Learys Lunge',
         parent=bookRoutes['heisenburg'],
@@ -1065,6 +1074,7 @@ bookVariations = {
         rating=3,
         description='Start as for Heiserburg and dyno up and right to juggy holds at the lip.'),
     'octurnalDirect': Variation(
+
         name='Octurnal Direct Exit',
         parent=bookRoutes['octurnal'],
         grade=7,
