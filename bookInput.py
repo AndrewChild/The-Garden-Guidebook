@@ -350,19 +350,19 @@ bookRoutes = {
         rating=1,
         description='Climb the wide crack from a stand start.'
         ),
-    'leonardo': Route(
-        name='Leonardo',
-        parent=bookBoulders['turtleShell'],
-        grade=3,
-        rating=1,
-        description='Lay down start with hands lon a low broken flake. With difficulty pull off the ground and slap a slopey ledge traverse up and left until you can rock over onto the downhill face. Sort of like a worse version of boys in the woods.'
-        ),
     'donatello': Route(
         name='Donatello',
         parent=bookBoulders['turtleShell'],
         grade=1,
         rating=1,
         description='start on a flat ledge where the rock angle changes. Slap a low angle arete until you can hike your feet up. Only somewhat distinct from Leonardo.'
+        ),
+    'leonardo': Route(
+        name='Leonardo',
+        parent=bookBoulders['turtleShell'],
+        grade=3,
+        rating=1,
+        description='Lay down start with hands lon a low broken flake. With difficulty pull off the ground and slap a slopey ledge traverse up and left until you can rock over onto the downhill face. Sort of like a worse version of boys in the woods.'
         ),
     'toilet': Route(
         name='Toilet Bowl',
@@ -388,14 +388,16 @@ bookRoutes = {
     'cubaGooding': Route(
         name='Cuba Gooding',
         parent=bookBoulders['boysWoods'],
-        grade=5,
-        description='Start as for Boys in the Woods but climb right along the lip of the scoop until you can reach the '
-                    'holds at the top of Ice Cubes Shiny Jerry Curl'),
+        grade=6,
+        rating=2,
+        description='Start as for Boys in the Woods but climb right along the lip of the scoop into the top of Ice '
+                    'Cubes Shiny Jerry Curl'),
     'shinyJerry': Route(
         name='Ice Cubes Shiny Jerry Curl',
         parent=bookBoulders['boysWoods'],
         grade=6,
-        description='Start on a low sloping edge and pull some sneaky moves to gain a knife edge crimp at eye level. '
+        rating=2,
+        description='Sit/lay start on a low sloping edge and pull some sneaky moves to gain a knife edge crimp at eye level. '
                     'Continue straight up.'),
     'treeSlab': Route(
         name='Tree Slab',
@@ -485,7 +487,7 @@ bookRoutes = {
         name='Tyler Durten',
         parent=bookBoulders['tylerDurten'],
         rating=1,
-        grade=3,
+        grade=2,
         description='Start on a henious crimp rail and punch out left to much better holds.'),
     'angelFace': Route(
         name='Angel Face',
@@ -662,13 +664,13 @@ bookRoutes = {
         name='Leave It to Jesus',
         parent=bookBoulders['methLabFront'],
         rating=3,
-        grade=2,
+        grade=1,
         description='Also known as Showboat. Start with hands on sloping edges. Use one or two intermediate holds to reposition yourself and make a long pull to the lip. Short but brilliant.'),
     'smackdown': Route(
         name='Smackdown',
         parent=bookBoulders['methLabBack'],
         rating=2,
-        grade=7,
+        grade=6,
         description='Start standing with left hand gaston and right hand jug sidepull. Crank some powerful moves on bad feet '
                     'and follow the line of crimps to a top out left'),
     'heisenburg': Route(
@@ -1078,7 +1080,7 @@ bookVariations = {
     'prowed': Variation(
         name='Prowed',
         parent=bookRoutes['tonsil'],
-        description='Climb tonsil but instead of doing the normal top out dyno to the top of the the boulder above it. '
+        description='Climb tonsil but instead of doing the normal top out, dyno to the top of the the boulder above it. '
                     'Reportedly this was an old school classic.'),
     'panicButton': Variation(
         name='Panic Button Variation',
@@ -1088,6 +1090,12 @@ bookVariations = {
         rating=2,
         description='Sit start and pull into the start of Panic Button instead of topping right head left over the techy slab.'
         ),
+    'ironCross': Variation(
+        name='Iron Cross',
+        parent=bookRoutes['trust'],
+        grade=2,
+        rating=1,
+        description='Avoid the committing moves at the lip by traversing left early.'),
     'mrBigglesworth': Variation(
         name='Mr. Bigglesworth',
         parent=bookRoutes['drEvil'],
@@ -1102,12 +1110,6 @@ bookVariations = {
         parent=bookRoutes['tylerDurten'],
         grade='?',
         description='It has been speculated that the dyno from the starting hold straight to the lip will go.'),
-    'ironCross': Variation(
-        name='Iron Cross',
-        parent=bookRoutes['trust'],
-        grade=2,
-        rating=1,
-        description='Avoid the committing moves at the lip by traversing left early.'),
     'undertowSit': Variation(
         name='Spray Against the Undertow',
         parent=bookRoutes['undertow'],
@@ -1124,7 +1126,7 @@ bookVariations = {
                     'Undertow, for this book modern naming standards have been conserved.'),
     'shakeOut': Variation(
         name='Shake it Out',
-        parent=bookRoutes['riptide'],
+        parent=bookRoutes['simpleMath'],
         grade=3,
         rating=1,
         description='Stand start as for Simple Math and climb straight up into riptide.'),
@@ -1164,9 +1166,9 @@ bookVariations = {
     'sweetHome': Variation(
         name='Sweethome Traverse',
         parent=bookRoutes['octernal'],
-        grade='4',
+        grade='3/4',
         rating=2,
-        description='Climb Octernal from the ledge.'),
+        description='Climb Octernal from the ledge. Starting one move lower (on the undercling) adds a grade.'),
     'harborFreight': Variation(
         name='Harbor Freight',
         parent=bookRoutes['smackdown'],
@@ -1666,10 +1668,10 @@ bookTopos = {
         routes={
             'path855': bookRoutes['raphael'],
             'path861': bookRoutes['raphael'],
-            'path857': bookRoutes['leonardo'],
-            'path863': bookRoutes['leonardo'],
-            'path859': bookRoutes['donatello'],
-            'path919': bookRoutes['donatello'],
+            'path857': bookRoutes['donatello'],
+            'path863': bookRoutes['donatello'],
+            'path859': bookRoutes['leonardo'],
+            'path919': bookRoutes['leonardo'],
         }),
     'undertow': Topo(
         name='Undertow',
