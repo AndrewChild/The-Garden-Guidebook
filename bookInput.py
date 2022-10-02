@@ -15,7 +15,7 @@ bookAreas = {
         name='The Garden Main',
         parent=book,
         gps='44.44076010641458, -122.5752659013521',
-        description='Located about 3.5 miles down quatzville road from highway 20, park in the Gravel pull out where the road bends '
+        description='Located about 3.5 miles down quatzville road from highway 20, park in the gravel pull out where the road bends '
                     'left just before you reach the boulders. The Garden Main bouldering area is true to its name. '
                     'A lush green space features moss covered '
                     'boulders situated under a dense canopy.',),
@@ -1476,6 +1476,7 @@ bookTopos = {
             'path1874': bookRoutes['smackdown'],
             'path1856': bookRoutes['smackdown'],
             'path1876': bookVariations['harborFreight'],
+            'path1856-2': bookVariations['harborFreight'],
             'path1878': bookRoutes['heisenburg'],
             'path1858': bookRoutes['heisenburg'],
             'path1880': bookVariations['learys'],
