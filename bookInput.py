@@ -397,12 +397,12 @@ bookRoutes = {
         parent=bookBoulders['boysWoods'],
         grade=6,
         rating=2,
-        description='Sit/lay start on a low sloping edge and pull some sneaky moves to gain a knife edge crimp at eye level. '
-                    'Continue straight up.'),
+        description='Sit start on a low sloping edge and pull some sneaky moves to gain sharp crimps in thin horizontal '
+                    'seams at eye level.'),
     'treeSlab': Route(
         name='Tree Slab',
         parent=bookBoulders['treeSlab'],
-        grade=1,
+        grade="1+",
         rating=2,
         description='Climb the center of the slab from a stand start.'),
     'goodWarm': Route(
@@ -484,10 +484,10 @@ bookRoutes = {
                     'Pull some tricky moves to gain better holds either rolling onto the right hand slab early or '
                     'staying on the arete the whole way.'),
     'tylerDurten': Route(
-        name='Tyler Durten',
+        name='Project Mayhem',
         parent=bookBoulders['tylerDurten'],
         rating=1,
-        grade=2,
+        grade="1+",
         description='Start on a henious crimp rail and punch out left to much better holds.'),
     'angelFace': Route(
         name='Angel Face',
@@ -516,8 +516,8 @@ bookRoutes = {
         name='Daryl Philbin',
         parent=bookBoulders['office'],
         rating=3,
-        grade=1,
-        serious=1,
+        grade="1/2",
+        serious=2,
         description='Starting at the Center of the block climb left on good holds to the arete. Climb up the arete '
                     'until you can reach good face holds up right and continue through a, thankfully, juggy top out. '
                     'Mind the rock at the base of the climb. Left and right alternative starts add a little variety but do '
@@ -533,7 +533,7 @@ bookRoutes = {
         name='The Ear',
         parent=bookBoulders['fightClub'],
         rating=3,
-        grade=2,
+        grade="2+",
         description='Start on the arete at the far right end of the boulder. Climb straight up through tricky holds '
                     'to a heady top out. Veering onto the face instead of using the good holds on the right arete '
                     'bumps the grade up to around V4.'),
@@ -748,8 +748,8 @@ bookRoutes = {
         rating=2,
         parent=bookBoulders['eBoulder'],
         grade=9,
-        description='Low ball. Sit start with hands matched on a crimp rail. Thrutch your way through a few hard moves '
-                    'to a low top.'),
+        description='Low ball. Sit start with hands matched on a crimp at the lower right of a crescent shaped rail. '
+                    'Thrutch your way through a few hard moves to a good jug followed by a \"still on\" top out.'),
     'bubbler': Route(
         name='Bubbler',
         parent=bookBoulders['bubbler'],
@@ -1080,7 +1080,8 @@ bookVariations = {
     'prowed': Variation(
         name='Prowed',
         parent=bookRoutes['tonsil'],
-        description='Climb tonsil but instead of doing the normal top out, dyno to the top of the the boulder above it. '
+        serious=2,
+        description='Climb tonsil but instead of doing the normal top out, countinue climbing the steep prow above it. '
                     'Reportedly this was an old school classic.'),
     'panicButton': Variation(
         name='Panic Button Variation',
