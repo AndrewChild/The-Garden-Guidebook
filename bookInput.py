@@ -1806,7 +1806,10 @@ bookSubAreaMaps = {
     'big': SubAreaMap(
         name='Big area map',
         parent=bookSubAreas['big'],
-        fileName='big.svg',
+        outFileName='big.svg',
+        fileName='Garden.svg',
+        path_i='./maps/area/',
+        path_o='./maps/area/',
         description='Big area map',
         routes={
             'path5664': bookRoutes['baldo'],
@@ -1815,11 +1818,16 @@ bookSubAreaMaps = {
             'path410': bookRoutes['hydroTube'],
             'path5658': bookRoutes['bitchin'],
             'path5658-4': bookRoutes['smol'],
-        }),
+        },
+        layers=['Big', 'Base'],
+        border='rect2027'),
     'azain': SubAreaMap(
         name='Azain area map',
         parent=bookSubAreas['azain'],
-        fileName='azain.svg',
+        outFileName='azain.svg',
+        fileName='Garden.svg',
+        path_i='./maps/area/',
+        path_o='./maps/area/',
         description='Azain area map',
         size='f',
         routes={
@@ -1841,7 +1849,9 @@ bookSubAreaMaps = {
             'path708': bookRoutes['nextGood'],
             'path740': bookRoutes['intoTheLight'],
             'path742': bookRoutes['azainCrack'],
-        }),
+        },
+        layers=['Azain', 'Base'],
+        border='rect1376'),
     'bigFred': SubAreaMap(
         name='Big Fred area map',
         parent=bookSubAreas['bigFred'],
