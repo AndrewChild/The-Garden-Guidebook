@@ -1806,7 +1806,7 @@ bookSubAreaMaps = {
     'big': SubAreaMap(
         name='Big area map',
         parent=bookSubAreas['big'],
-        outFileName='big.svg',
+        outFileName='big.png',
         fileName='Garden.svg',
         path_i='./maps/area/',
         path_o='./maps/area/',
@@ -1824,7 +1824,7 @@ bookSubAreaMaps = {
     'azain': SubAreaMap(
         name='Azain area map',
         parent=bookSubAreas['azain'],
-        outFileName='azain.svg',
+        outFileName='azain.png',
         fileName='Garden.svg',
         path_i='./maps/area/',
         path_o='./maps/area/',
