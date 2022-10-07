@@ -397,7 +397,6 @@ bookRoutes = {
         parent=bookBoulders['boysWoods'],
         grade=6,
         rating=2,
-        description='Sit start on a low sloping edge and pull some sneaky moves to gain sharp crimps in thin horizontal '
                     'seams at eye level.'),
     'treeSlab': Route(
         name='Tree Slab',
@@ -723,13 +722,13 @@ bookRoutes = {
         rating=1,
         grade=1,
         description='Start as for Inner Sanctum but pull yourself around the blunt corner into a mossy scoop. Continue right to an easy top out.'),
-    'hourglass': Route(
-        name='Hourglass of the Santiam',
+    'gargoyle': Route(
         name_unconfirmed=True,
         parent=bookBoulders['eBoulder'],
         rating=2,
-        grade=4,
-        description='Starts with a low right hand incut and climbs a short off vertrical face over low ramp. Sit start on the ramp for style points.'),
+        grade=3,
+        description='Starts with a low right hand incut and traverses left across the boulder before circling back '
+                    'along the lip before topping out. Sit start on the ramp for style points.'),
     'slamDunk': Route(
         name='Slam Dunk',
         parent=bookBoulders['eBoulder'],
@@ -1122,7 +1121,7 @@ bookVariations = {
         parent=bookRoutes['undertow'],
         grade=7,
         rating=3,
-        description='Sit start in the scoop ~4ft right of Undertow sit with left hand on a borken sidepull and right '
+        description='Sit start left hand on a borken sidepull and right '
                     'hand on a low undercling, climb into undertow. At one point this line was simply refered to as '
                     'Undertow, for this book modern naming standards have been conserved.'),
     'shakeOut': Variation(
@@ -1131,6 +1130,13 @@ bookVariations = {
         grade=3,
         rating=1,
         description='Stand start as for Simple Math and climb straight up into riptide.'),
+    'cubaGoodingVar': Variation(
+        name='Cuba Gooding Variation',
+        parent=bookRoutes['cubaGooding'],
+        grade=3,
+        rating=1,
+        name_unconfirmed=True,
+        description='Climb Cuba Gooding but use good holds to pull into the scoop and exit early.'),
     'jesusSit': Variation(
         name='Leave it to Jesus Sit Start',
         parent=bookRoutes['leaveJesus'],
@@ -1191,6 +1197,13 @@ bookVariations = {
         parent=bookRoutes['intoTheLight'],
         grade=9,
         grade_unconfirmed=True,),
+    'gargoyleD': Variation(
+        name='Gargoyle Direct',
+        name_unconfirmed=True,
+        parent=bookRoutes['gargoyle'],
+        rating=2,
+        grade=5,
+        description='Starts as for Gargoyle but climbs straight up. Harder than it looks'),
     'bitchinSit': Variation(
         name='Bitchin Corners Sit',
         parent=bookRoutes['bitchin'],
@@ -1428,6 +1441,8 @@ bookTopos = {
             'path462': bookRoutes['shinyJerry'],
             'path404': bookRoutes['treeSlab'],
             'path464': bookRoutes['treeSlab'],
+            'path480': bookVariations['cubaGoodingVar'],
+            'path426': bookVariations['cubaGoodingVar'],
         }),
     'enchilada': Topo(
         name='enchilada',
@@ -1801,7 +1816,7 @@ bookSubAreaMaps = {
             'path784': bookRoutes['bubbler'],
             'path4341': bookRoutes['methLab'],
             'path426': bookRoutes['slamDunk'],
-            'path428': bookRoutes['hourglass'],
+            'path428': bookRoutes['gargoyle'],
         }),
     'big': SubAreaMap(
         name='Big area map',
