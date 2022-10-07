@@ -206,10 +206,10 @@ bookBoulders = {
         name='Swollen Member',
         parent=bookSubAreas['methLab'],
         description='A small prow just out of the hill side above the Meth Lab boulder protrudes at a provocative angle.'),
-    'innerSanctum': Boulder(
-        name='Inner Sanctum',
+    'methLabHighball': Boulder(
+        name='Meth Lab Highball',
         parent=bookSubAreas['methLab'],
-        description='Slabby boulder to the left of Swollen Member.'),
+        description='Slabby boulder located to the left of Swollen Member. Not to be confused with the highballs on the actual Meth Lab boulder.'),
     'eBoulder': Boulder(
         name='E\'s Boulder',
         parent=bookSubAreas['methLab'],
@@ -391,12 +391,13 @@ bookRoutes = {
         grade=6,
         rating=2,
         description='Start as for Boys in the Woods but climb right along the lip of the scoop into the top of Ice '
-                    'Cubes Shiny Jerry Curl'),
+                    'Cubes Shiny Jerry Curl. Contrived.'),
     'shinyJerry': Route(
         name='Ice Cubes Shiny Jerry Curl',
         parent=bookBoulders['boysWoods'],
         grade=6,
         rating=2,
+        description='Sit start on a low sloping edge and make a huge reach to gain sharp crimps in thin horizontal '
                     'seams at eye level.'),
     'treeSlab': Route(
         name='Tree Slab',
@@ -707,22 +708,21 @@ bookRoutes = {
         description='A classic hazing route. Start hugging the underside of the block underside with good hand holds '
                     'on each side of the stubby prow. Manuver youself into a less scandelous orientation using toe '
                     'hooks, heel hooks and  all manner of dirty tricks.'),
-    'innerSanctum': Route(
-        name='Inner Sanctum',
-        name_unconfirmed=True,
-        parent=bookBoulders['innerSanctum'],
+    'methLabHighball': Route(
+        name='Meth Lab Highball',
+        parent=bookBoulders['methLabHighball'],
         rating=2,
         grade=1,
         serious=1,
         description='Stand start with left hand on a slopey ledge and right hand on a diagonal incut seam. Pull yourself onto the ledge and climb a tenuous slab using a blunt corner for your right hand.'),
-    'outerSanctum': Route(
-        name='Outer Sanctum',
-        name_unconfirmed=True,
-        parent=bookBoulders['innerSanctum'],
+    'methLabHighballR': Route(
+        name='Meth Lab Highball Right',
+        parent=bookBoulders['methLabHighball'],
         rating=1,
         grade=1,
-        description='Start as for Inner Sanctum but pull yourself around the blunt corner into a mossy scoop. Continue right to an easy top out.'),
+        description='Start as for Meth Lab Highball but pull yourself around the blunt corner into a mossy scoop. Continue right to an easy top out.'),
     'gargoyle': Route(
+        name='Gargoyle',
         name_unconfirmed=True,
         parent=bookBoulders['eBoulder'],
         rating=2,
@@ -1184,10 +1184,10 @@ bookVariations = {
         description='Sit down start with hands matched on a blocky undercling, climb into Smackdown. This variation was literally '
                     'unearthed when a local climber yarded a large rock out from the landing of Smackdown using a '
                     'chain and come along. The device broke in the process inspiring the name of the route.'),
-    'innerSanctumSit': Variation(
-        name='Inner Sanctum Sit Start',
+    'methLabHighballSit': Variation(
+        name='Meth Lab Highball Sit Start',
         name_unconfirmed=True,
-        parent=bookRoutes['innerSanctum'],
+        parent=bookRoutes['methLabHighball'],
         grade=3,
         rating=1,
         description='Sit start with left hand on a diagonal undercling rail and right hand on a low diagonal side pull edge. Doesn\'t add much to the stand start.'
@@ -1613,14 +1613,14 @@ bookTopos = {
         parent=bookBoulders['swollen'],
         fileName='swollen2.svg',
         size='h',
-        description='Swollen Member and Inner Sanctum',
+        description='Swollen Member and Meth Lab High Ball',
         routes={
-            'path1813': bookRoutes['innerSanctum'],
-            'path2042': bookRoutes['innerSanctum'],
-            'path1830': bookVariations['innerSanctumSit'],
-            'path2040': bookVariations['innerSanctumSit'],
-            'path1832': bookRoutes['outerSanctum'],
-            'path2044': bookRoutes['outerSanctum'],
+            'path1813': bookRoutes['methLabHighball'],
+            'path2042': bookRoutes['methLabHighball'],
+            'path1830': bookVariations['methLabHighballSit'],
+            'path2040': bookVariations['methLabHighballSit'],
+            'path1832': bookRoutes['methLabHighballR'],
+            'path2044': bookRoutes['methLabHighballR'],
             'path1760': bookRoutes['swollen'],
             'path1811': bookRoutes['swollen'],
             'path2046': bookRoutes['swollen'],
@@ -1812,7 +1812,7 @@ bookSubAreaMaps = {
             'path776': bookRoutes['e7'],
             'path778': bookRoutes['enchilada'],
             'path780': bookRoutes['swollen'],
-            'path782': bookRoutes['innerSanctum'],
+            'path782': bookRoutes['methLabHighball'],
             'path784': bookRoutes['bubbler'],
             'path4341': bookRoutes['methLab'],
             'path426': bookRoutes['slamDunk'],
