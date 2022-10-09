@@ -24,7 +24,8 @@ bookAreas = {
         parent=book,
         gps='44.43998124232581, -122.57539325959186',
         incomplete=True,
-        description='Just across the road from the main area lay a few boulders on the banks of the River. See driving '
+        description='Just across the road from the main area lay a few boulders on the banks of the River. Beware when '
+                    'the river is high the only climbable boulder in this area is the Tecnu boulder. See driving '
                     'directions for the Garden Main area.',),
     'upperGarden': Area(
         name='Armageddon',
@@ -32,9 +33,13 @@ bookAreas = {
         gps='44.43959094940084, -122.58215256842753',
         incomplete=True,
         description='Located about 3.2 miles down quatzville road from highway 20, park in the Gravel pull out where the road bends '
-                    'about 0.1 miles before you reach a turnoff to a gravel road (which leads to the boulders). This '
-                    'area is also known as the upper garden. The lack of shade, the blackberries, the poison '
-                    'oak, and the 3 minute approach all make this area less desirable and less traveled then the Main',),
+                    'about 0.1 miles before you reach a left hand turnoff to a gated logging road (MS-310). Follow the '
+                    'logging road approximately 200 yards up hill until it veers slightly to the right. Look for a '
+                    'trail that cuts right through a thin patch of trees to the boulder field (Note: there are a '
+                    'couple of trails and its worth getting on the most tred one as the others are unpleasent). The '
+                    'lack of shade, the blackberries, the poison oak (holy shit there is a lot of poison oak), and the '
+                    '3 minute approach all make this area less desirable and far less traveled then the Main. This '
+                    'area is also known as the upper garden.',),
     'quartzville': Area(
         name='Quartzville Creek',
         parent=book,
@@ -110,7 +115,8 @@ bookSubAreas = {
         description='Located on Quartzville approximately 24.8 miles from highway 20, the old miner\'s camp is a '
                     'popular group campsite there are a few good sized boulders in the river only one boulder has '
                     'established lines on it. Park either at the camp day use area or on the side of the road '
-                    'immediately above the Dab Rig boulder.'),
+                    'immediately above the Dab Rig boulder. Note: the dab rig boulder is typically underwater in the '
+                    'rainy season.'),
 }
 bookBoulders = {
     'toiletBowl': Boulder(
@@ -711,7 +717,9 @@ bookRoutes = {
         name='Two Blows One Stroke',
         parent=bookBoulders['methLabBack'],
         grade=6,
-        description='PLACEHOLDER'),
+        description='Sit start on two single pad edges just to the left of a right facing rib. Pop a left foot onto a '
+                    'third  slightly wider edge and crank a few moves to gain a good edge roughly 7ft off the ground. '
+                    'From here trend right into a flake.'),
     'swollen': Route(
         name='Swollen Member',
         parent=bookBoulders['swollen'],
@@ -867,7 +875,9 @@ bookRoutes = {
         name='Night Crawler',
         parent=bookBoulders['nightCrawler'],
         grade=10,
-        rating=2,),
+        rating=2,
+        description='Sit start at a juggy undercling on the right arete. Believe it or not this is a completely '
+                    'different boulder than Hula.'),
     'locksmith': Route(
         name='Locksmith',
         parent=bookBoulders['locksmith'],
@@ -952,6 +962,13 @@ bookRoutes = {
         parent=bookBoulders['chockStone'],
         grade=4,
         grade_unconfirmed=True,),
+    'zenKoan': Route(
+        name='Zen Koan',
+        parent=bookBoulders['zenKoan'],
+        grade=2,
+        rating=2,
+        name_unconfirmed=True,
+        description='Stand start with a blocky hold near the top of a short overhang. Meander your way to the top.',),
     'bigFred': Route(
         name='Big Fred',
         parent=bookBoulders['bigFred'],
@@ -1054,7 +1071,7 @@ bookRoutes = {
         parent=bookBoulders['bread'],
         grade=5,
         rating=2,
-        description='starting from two horizontal cracks a bizarre sequence leads you first left then right as you '
+        description='Starting from two horizontal cracks a bizarre sequence leads you first left then right as you '
                     'climb the rounded corner. Some but not all of the difficulty comes from the dab potential.'),
     'scratchSplif': Route(
         name='Scratch and Spliff Traverse',
@@ -1467,10 +1484,10 @@ bookTopos = {
         size='h',
         description='Fight Club Right Side',
         routes={
-            'path1143': bookRoutes['fightClub'],
-            'path1153': bookRoutes['fightClub'],
             'path1145': bookRoutes['ear'],
             'path1151': bookRoutes['ear'],
+            'path1143': bookRoutes['fightClub'],
+            'path1153': bookRoutes['fightClub'],
             'path1147': bookRoutes['vince'],
             'path1149': bookRoutes['vince'],
         }),
@@ -1481,10 +1498,10 @@ bookTopos = {
         size='h',
         description='Fight Club Left Side',
         routes={
-            'path1299': bookRoutes['fightClub'],
-            'path1301': bookRoutes['fightClub'],
             'path1297': bookRoutes['fightClubLeft'],
             'path1303': bookRoutes['fightClubLeft'],
+            'path1299': bookRoutes['fightClub'],
+            'path1301': bookRoutes['fightClub'],
             'path1293': bookRoutes['brewmaster'],
             'path1305': bookRoutes['brewmaster'],
         }),
@@ -1746,15 +1763,15 @@ bookTopos = {
         size='h',
         description='Tonsil',
         routes={
+            'path1686': bookRoutes['tonsil'],
+            'path1688': bookRoutes['tonsil'],
+            'path1696': bookRoutes['tonsil'],
             'path1680': bookRoutes['allSorts'],
             'path1690': bookRoutes['allSorts'],
             'path1682': bookRoutes['shadowGiants'],
             'path1692': bookRoutes['shadowGiants'],
             'path1684': bookRoutes['leftTonsil'],
             'path1694': bookRoutes['leftTonsil'],
-            'path1686': bookRoutes['tonsil'],
-            'path1688': bookRoutes['tonsil'],
-            'path1696': bookRoutes['tonsil'],
             'path716': bookVariations['prowed'],
             'path566': bookVariations['prowed'],
         }),
