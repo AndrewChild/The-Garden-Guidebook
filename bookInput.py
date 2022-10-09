@@ -306,11 +306,11 @@ bookBoulders = {
         name='Pumpkin Boulder',
         parent=bookSubAreas['entranceUpper'],
         description='This is the first boulder that you encounter when approaching the area.'),
-    'poisonOak': Boulder(
-        name='Surrounded by Poison Oak Boulder',
+    'baseball': Boulder(
+        name='Baseball Boulder',
         parent=bookSubAreas['entranceUpper'],
-        description='The name for this boulder was inspired by the fact that it is surrounded by poison oak. Approach '
-                    'with caution.'),
+        description='This is one of the few boulders that isn\'t covered in poison oak, but there is quite a lot of it '
+                    'sounding it. Approach with caution.'),
     'bread': Boulder(
         name='Bread Loaf',
         parent=bookSubAreas['breadLoaves'],
@@ -1039,16 +1039,16 @@ bookRoutes = {
         parent=bookBoulders['pumpkin'],
         description='Quality line on the uphill side of the boulder seems like it will go at around V7. Certainly '
                     'possible that this has been done before.'),
-    'spoLeft': Route(
-        name='SPO Left',
-        parent=bookBoulders['poisonOak'],
-        grade=3,
+    'baseball': Route(
+        name='Baseball',
+        parent=bookBoulders['baseball'],
+        grade='3-',
         rating=1,
         description='Sit start with a high left hand on a good dish around the blunt corner and a low right hand '
                     'pinch. Pull a powerful move to good edges and continue straight up.'),
-    'spoRight': Route(
-        name='SPO Right',
-        parent=bookBoulders['poisonOak'],
+    'bunt': Route(
+        name='Bunt',
+        parent=bookBoulders['baseball'],
         grade=1,
         rating=1,
         description='Sit start with both hands in a low bubbly pod. Climb straight up.'),
@@ -1111,6 +1111,19 @@ bookRoutes = {
         description='Squat start on a low ramp on the NW corner of the boulder using a left hand low on the arete and '
                     'a right hand side pull. Bump up the arete then Dyno to the lip. Dab potential creates a lot of '
                     'the difficulty.'),
+    'caliban': Route(
+        name='Caliban\'s War',
+        parent=bookBoulders['scratchSpliff'],
+        grade=6,
+        grade_unconfirmed=True,
+        description='Stand start with hand holds in a horizontal crack. Crank one move to the lip.'),
+    'stonedAge': Route(
+        name='Stoned Age',
+        parent=bookBoulders['scratchSpliff'],
+        grade=2,
+        grade_unconfirmed=True,
+        description='It looks like you could easily climb from the horizontal crack to a diagonal crack on the upper '
+                    'right, but the landing is very poor. Older guidebooks indicate that this has been done.'),
     'ponyBoy': Route(
         name='Pony Boy',
         parent=bookBoulders['ponyBoy'],
@@ -1573,6 +1586,40 @@ bookTopos = {
             'path848': bookRoutes['enchilada'],
             'path902': bookRoutes['enchilada'],
         }),
+    'eboulder2': Topo(
+        name='Slam dunk',
+        parent=bookBoulders['eBoulder'],
+        fileName='eboulder2.svg',
+        size='h',
+        description='Slam dunk',
+        routes={
+            'path1489': bookRoutes['slamDunk'],
+            'path1487': bookRoutes['slamDunk'],
+        }),
+    'eboulder3': Topo(
+        name='Gargoyle',
+        parent=bookBoulders['eBoulder'],
+        fileName='eboulder3.svg',
+        size='h',
+        description='Gargoyle',
+        routes={
+            'path1625': bookRoutes['gargoyle'],
+            'path1627': bookRoutes['gargoyle'],
+            'path1631': bookVariations['gargoyleD'],
+            'path1629': bookVariations['gargoyleD'],
+            'path1635': bookRoutes['slamDunk'],
+            'path1633': bookRoutes['slamDunk'],
+        }),
+    'koan': Topo(
+        name='Zen Koan',
+        parent=bookBoulders['zenKoan'],
+        fileName='koan.svg',
+        size='h',
+        description='Zen Koan',
+        routes={
+            'path1777': bookRoutes['zenKoan'],
+            'path1775': bookRoutes['zenKoan'],
+        }),
     'nightCrawler': Topo(
         name='nightCrawler',
         parent=bookBoulders['nightCrawler'],
@@ -1848,6 +1895,88 @@ bookTopos = {
             'path1305': bookRoutes['simpleMath'],
             'path1307': bookVariations['shakeOut'],
             'path748': bookVariations['shakeOut'],
+        }),
+    'baseball': Topo(
+        name='Baseball',
+        parent=bookBoulders['baseball'],
+        fileName='baseball.svg',
+        size='h',
+        description='Baseball',
+        routes={
+            'path349': bookRoutes['baseball'],
+            'path293': bookRoutes['baseball'],
+            'path351': bookRoutes['bunt'],
+            'path295': bookRoutes['bunt'],
+        }),
+    'breadLoaf': Topo(
+        name='Bread Loaf',
+        parent=bookBoulders['bread'],
+        fileName='breadLoaf.svg',
+        size='h',
+        description='Bread Loaf',
+        routes={
+            'path543': bookRoutes['buddha'],
+            'path1100': bookRoutes['buddha'],
+            'path1104': bookRoutes['breadTrav'],
+            'path1153': bookRoutes['breadTrav'],
+            'path1155': bookVariations['bakersD'],
+            'path1157': bookVariations['bakersD'],
+        }),
+    'breadLoaf2': Topo(
+        name='Bread Loaf2',
+        parent=bookBoulders['bread'],
+        fileName='breadLoaf2.svg',
+        size='h',
+        description='Bread Loaf 2',
+        routes={
+            'path1350': bookRoutes['worf'],
+            'path1348': bookRoutes['worf'],
+            'path1346': bookRoutes['worf'],
+        }),
+    'scratchSpliff': Topo(
+        name='Scratch and Spliff',
+        parent=bookBoulders['scratchSpliff'],
+        fileName='scratchSpliff.svg',
+        size='h',
+        description='Scratch and Spliff',
+        routes={
+            'path1921': bookRoutes['spliff'],
+            'path1919': bookRoutes['spliff'],
+            'path1925': bookRoutes['scratchSplif'],
+            'path1923': bookRoutes['scratchSplif'],
+            'path1917': bookRoutes['roach'],
+            'path1915': bookRoutes['roach'],
+            'path2515': bookRoutes['whatItsWorth'],
+            'path2513': bookRoutes['whatItsWorth'],
+        }),
+    'scratchSpliff2': Topo(
+        name='Scratch and Spliff 2',
+        parent=bookBoulders['scratchSpliff'],
+        fileName='scratchSpliff2.svg',
+        size='f',
+        description='Scratch and Spliff 2',
+        routes={
+            'path2067': bookRoutes['scratchSplif'],
+            'path2065': bookRoutes['scratchSplif'],
+            'path2080': bookRoutes['spliff'],
+            'path2075': bookRoutes['spliff'],
+            'path2077': bookRoutes['scratch'],
+            'path2073': bookRoutes['scratch'],
+            'path2071': bookVariations['lateStart'],
+            'path2069': bookVariations['lateStart'],
+        }),
+    'scratchSpliff3': Topo(
+        name='Scratch and Spliff 3',
+        parent=bookBoulders['scratchSpliff'],
+        fileName='scratchSpliff3.svg',
+        size='h',
+        description='Scratch and Spliff 3',
+        routes={
+            'path2226': bookRoutes['caliban'],
+            'path2224': bookRoutes['caliban'],
+            'path2222': bookRoutes['caliban'],
+            'path2228': bookRoutes['stonedAge'],
+            'path2230': bookRoutes['stonedAge'],
         }),
 }
 bookAreaMaps = {
