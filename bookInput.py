@@ -86,8 +86,11 @@ bookSubAreas = {
         name='Entrance Area',
         parent=bookAreas['upperGarden'],),
     'breadLoaves': Subarea(
-        name='The Bread Loaves',
-        parent=bookAreas['upperGarden'],),
+        name='The Bread Loaves/Scratch and Spliff',
+        parent=bookAreas['upperGarden'],
+        description='These two boulders are the area\'s main attraction. Historically some groups have called both '
+                    'boulders Scratch and Spliff while others called them both the Bread Loaves. The modern compromise '
+                    'seems to be that the upper boulder is Scratch and Spliff while the lower boulder is the Bread Loaf.'),
     'strangeLove': Subarea(
         name='Dr. Strangelove Area',
         parent=bookAreas['upperGarden'],),
@@ -196,6 +199,10 @@ bookBoulders = {
         name='Chockstone Highball',
         parent=bookSubAreas['undertow'],
         description=''),
+    'zenKoan': Boulder(
+        name='Zen Koan',
+        parent=bookSubAreas['undertow'],
+        description='A short boulder on the hillside inbetween Chockstone Highball and the Meth Lab.'),
     'methLabFront': Boulder(
         name='Meth Lab Front Side',
         parent=bookSubAreas['methLab'],),
@@ -289,16 +296,21 @@ bookBoulders = {
         name='Angry Grandma',
         parent=bookSubAreas['bigFred'],
         description='A secluded boulder can be approached by staying right at the fork when the main trail turns left around Big Fred.'),
-    'intro': Boulder(
-        name='Intro Boulder',
+    'pumpkin': Boulder(
+        name='Pumpkin Boulder',
         parent=bookSubAreas['entranceUpper'],
-        description=''),
-    'lowerBread': Boulder(
-        name='Lower Bread Loaf',
+        description='This is the first boulder that you encounter when approaching the area.'),
+    'poisonOak': Boulder(
+        name='Surrounded by Poison Oak Boulder',
+        parent=bookSubAreas['entranceUpper'],
+        description='The name for this boulder was inspired by the fact that it is surrounded by poison oak. Approach '
+                    'with caution.'),
+    'bread': Boulder(
+        name='Bread Loaf',
         parent=bookSubAreas['breadLoaves'],
         description=''),
-    'upperBread': Boulder(
-        name='Upper Bread Loaf',
+    'scratchSpliff': Boulder(
+        name='Scratch and Spliff',
         parent=bookSubAreas['breadLoaves'],
         description=''),
     'drStrange': Boulder(
@@ -1005,6 +1017,83 @@ bookRoutes = {
         parent=bookBoulders['farley'],
         grade=9,
         grade_unconfirmed=True,),
+    'pumpkinProj': Route(
+        name='Pumpkin Project',
+        parent=bookBoulders['pumpkin'],
+        description='Quality line on the uphill side of the boulder seems like it will go at around V7. Certainly '
+                    'possible that this has been done before.'),
+    'spoLeft': Route(
+        name='SPO Left',
+        parent=bookBoulders['poisonOak'],
+        grade=3,
+        rating=1,
+        description='Sit start with a high left hand on a good dish around the blunt corner and a low right hand '
+                    'pinch. Pull a powerful move to good edges and continue straight up.'),
+    'spoRight': Route(
+        name='SPO Right',
+        parent=bookBoulders['poisonOak'],
+        grade=1,
+        rating=1,
+        description='Sit start with both hands in a low bubbly pod. Climb straight up.'),
+    'buddha': Route(
+        name='Buddha\'s Belly',
+        parent=bookBoulders['bread'],
+        grade=4,
+        rating=2,
+        description='Stand start on two horizontal edges. Navigate your way to some good lumpy jugs midway up the ' 
+                    'route and either mantle or side pull your way to the top. Also called bread loaf left.'),
+    'breadTrav': Route(
+        name='Bread Loaf Traverse',
+        parent=bookBoulders['bread'],
+        grade=5,
+        rating=2,
+        description='stand start with hands matched in the left of two good pods in the lowest diagonal crack. Follow '
+                    'the crack system right with the help of a good hold under the roof. top along the arete. Dabby.'),
+    'worf': Route(
+        name='Worf',
+        parent=bookBoulders['bread'],
+        grade=5,
+        rating=2,
+        description='starting from two horizontal cracks a bizarre sequence leads you first left then right as you '
+                    'climb the rounded corner. Some but not all of the difficulty comes from the dab potential.'),
+    'scratchSplif': Route(
+        name='Scratch and Spliff Traverse',
+        parent=bookBoulders['scratchSpliff'],
+        grade=3,
+        rating=3,
+        description='Start at the far right of the major horizontal crack (as for Roach) and traverse all the way left '
+                    'topping out along a juggy vertical crack system.'),
+    'scratch': Route(
+        name='Scratch',
+        parent=bookBoulders['scratchSpliff'],
+        grade=4,
+        rating=2,
+        description='Stand start with right hand on a good hold in the horizontal crack and left hand wrapping around '
+                    'a juggy corner. Jump to a bubbly rail and tick tack your way to the top. Originally this route '
+                    'started as for Scratch and Spliff Traverse.'),
+    'spliff': Route(
+        name='Spliff',
+        parent=bookBoulders['scratchSpliff'],
+        grade=3,
+        rating=3,
+        serious=1,
+        description='Start on a large hanging flake. Climb straight up. Sit start seems possible but wouldn\'t add '
+                    'much to the experience.'),
+    'roach': Route(
+        name='Roach',
+        parent=bookBoulders['scratchSpliff'],
+        grade=0,
+        rating=2,
+        description='Stand start with a good edge in the horizantal crack..'),
+    'whatItsWorth': Route(
+        name='For What It\'s Worth',
+        parent=bookBoulders['scratchSpliff'],
+        grade=2,
+        rating=2,
+        name_unconfirmed=True,
+        description='Squat start on a low ramp on the NW corner of the boulder using a left hand low on the arete and '
+                    'a right hand side pull. Bump up the arete then Dyno to the lip. Dab potential creates a lot of '
+                    'the difficulty.'),
     'ponyBoy': Route(
         name='Pony Boy',
         parent=bookBoulders['ponyBoy'],
@@ -1230,6 +1319,19 @@ bookVariations = {
         grade=3,
         rating=1,
         description='Start as for Siren and traverse right topping on either Gumby Arete or Gumby Slab.'),
+    'bakersD': Variation(
+        name='Baker\'s Dozen',
+        parent=bookRoutes['breadTrav'],
+        grade=8,
+        grade_unconfirmed=True,
+        description='Start as for Buddha\'s Belly, traverse into the bread loaf traverse.'),
+    'lateStart': Variation(
+        name='Late Start',
+        parent=bookRoutes['scratchSplif'],
+        grade=2,
+        rating=2,
+        description='Sit start with juggy holds at the top of a low ramp. Climb straight up into the top of Scratch '
+                    'and Spliff Traverse.'),
 }
 bookPhotos = {
     # 'austinPowers': Photo(
