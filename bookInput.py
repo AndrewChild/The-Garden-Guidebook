@@ -870,7 +870,9 @@ bookRoutes = {
         grade_unconfirmed=True, ),
     'azainCrack': Route(
         name='Azain Crack',
-        parent=bookBoulders['azain'],),
+        parent=bookBoulders['azain'],
+        description='This isn\'t really a boulder but it is in the main area so it is included here. Climb the crack '
+                    'to easier terrain. There are bolts on the route after the crack as well as at the top.'),
     'nightCrawler': Route(
         name='Night Crawler',
         parent=bookBoulders['nightCrawler'],
