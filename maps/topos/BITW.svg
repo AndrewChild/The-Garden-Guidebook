@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2.564741"
-     inkscape:cx="874.35728"
-     inkscape:cy="580.95534"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="379"
+     inkscape:zoom="0.90677288"
+     inkscape:cx="1012.9328"
+     inkscape:cy="833.72586"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g138" />
   <g
@@ -93,5 +93,16 @@
        cy="516.23145"
        rx="27.293203"
        ry="29.632622" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.498898"
+       d="m 758.73465,913.12833 c 91.53339,-35.28999 50.72935,-92.63621 34.18717,-122.41213 -16.54218,-29.77593 -82.7109,-108.07558 -67.27153,-165.4218 15.43937,-57.34623 70.57997,-147.77681 73.8884,-180.86117 3.30844,-33.08436 -9.92531,-47.42091 -9.92531,-47.42091"
+       id="path426" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.498898"
+       id="path480"
+       cx="725.65027"
+       cy="657.82733"
+       rx="33.084358"
+       ry="25.916082" />
   </g>
 </svg>
