@@ -1720,7 +1720,12 @@ bookAreaMaps = {
     'main': AreaMap(
         name='The Garden Main Area Overview',
         parent=bookAreas['garden'],
-        fileName='Garden.png',
+        fileName='Garden.svg',
+        sub_areas={
+            'rect2027': bookSubAreas['big'],
+            'rect1376': bookSubAreas['azain'],
+        },
+        layers=['Base'],
         size='f',
         description='The Garden Main Area Overview',
     )
