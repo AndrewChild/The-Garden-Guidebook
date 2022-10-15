@@ -24,11 +24,12 @@ bookAreas = {
         parent=book,
         gps='44.43998124232581, -122.57539325959186',
         incomplete=True,
-        description='Just across the road from the main area lay a few boulders on the banks of the River. Beware when '
-                    'the river is high the only climbable boulder in this area is the Tecnu boulder. See driving '
+        description='Just across the road from the main area lay a few boulders on the banks of the River. Beware the '
+                    'water level can rise quickly blocking off access to some of the boulders in this area. Consult '
+                    'the USGS flow charts for below green peter damn to know when the river will be low. See driving '
                     'directions for the Garden Main area.',),
     'upperGarden': Area(
-        name='Armageddon',
+        name='Upper Garden',
         parent=book,
         gps='44.43959094940084, -122.58215256842753',
         incomplete=True,
@@ -36,10 +37,10 @@ bookAreas = {
                     'about 0.1 miles before you reach a left hand turnoff to a gated logging road (MS-310). Follow the '
                     'logging road approximately 200 yards up hill until it veers slightly to the right. Look for a '
                     'trail that cuts right through a thin patch of trees to the boulder field (Note: there are a '
-                    'couple of trails and its worth getting on the most tred one as the others are unpleasent). The '
-                    'lack of shade, the blackberries, the poison oak (holy shit there is a lot of poison oak), and the '
-                    '3 minute approach all make this area less desirable and far less traveled then the Main. This '
-                    'area is also known as the upper garden.',),
+                    'couple of trails and its worth getting on the most tread one as the others are unpleasant). There '
+                    'are a lot of small boulders in this area which have been climbed historically, but are not '
+                    'included in this guide because they are covered in poison oak. This '
+                    'area is also known as Armageddon.',),
     'quartzville': Area(
         name='Quartzville Creek',
         parent=book,
@@ -96,9 +97,6 @@ bookSubAreas = {
         description='These two boulders are the area\'s main attraction. Historically some groups have called both '
                     'boulders Scratch and Spliff while others called them both the Bread Loaves. The modern compromise '
                     'seems to be that the upper boulder is Scratch and Spliff while the lower boulder is the Bread Loaf.'),
-    'strangeLove': Subarea(
-        name='Dr. Strangelove Area',
-        parent=bookAreas['upperGarden'],),
     'redneckRiviera': Subarea(
         name='Redneck Riviera',
         parent=bookAreas['quartzville'],
@@ -318,22 +316,6 @@ bookBoulders = {
     'scratchSpliff': Boulder(
         name='Scratch and Spliff',
         parent=bookSubAreas['breadLoaves'],
-        description=''),
-    'drStrange': Boulder(
-        name='Dr. Strange Love',
-        parent=bookSubAreas['strangeLove'],
-        description=''),
-    'tecnu': Boulder(
-        name='Tecnu Boulder',
-        parent=bookSubAreas['pinkTag'],
-        description=''),
-    'jonahDab': Boulder(
-        name='Jonah\'s Dab Rig',
-        parent=bookSubAreas['pinkTag'],
-        description=''),
-    'farley': Boulder(
-        name='Farley Prep',
-        parent=bookSubAreas['pinkTag'],
         description=''),
     'ponyBoy': Boulder(
         name='Pony Boy',
@@ -810,7 +792,7 @@ bookRoutes = {
         grade=10,
         grade_unconfirmed=True,
         parent=bookBoulders['big'],
-        description='Follows a hanging knife flake. There used to be multiple holds along both sides of the flake, but '
+        description='Follows a hanging knife flake. Apparently there were multiple holds along both sides of the flake, but '
                     'they all broke off. It\'s unclear if this line has been climbed in it\'s current state.'),
     'smol': Route(
         name='Smol',
@@ -1001,41 +983,6 @@ bookRoutes = {
         grade=7,
         grade_unconfirmed=True,
         description='Reportedly the intimidating overhanging face on the angry grandma boulder goes at V7. Looks hard and scary.'),
-    'territorial': Route(
-        name='Territorial Pissings',
-        parent=bookBoulders['tecnu'],
-        grade=5,
-        grade_unconfirmed=True, ),
-    'jonah': Route(
-        name='Jonah\'s Dab Rig',
-        parent=bookBoulders['jonahDab'],
-        grade=9,
-        grade_unconfirmed=True,),
-    'workshop': Route(
-        name='Workshop 68',
-        parent=bookBoulders['jonahDab'],
-        grade=11,
-        grade_unconfirmed=True,),
-    'socialismo': Route(
-        name='Socialismo',
-        parent=bookBoulders['jonahDab'],
-        grade=10,
-        grade_unconfirmed=True,),
-    'knowledge': Route(
-        name='Knowledge is Good',
-        parent=bookBoulders['farley'],
-        grade=7,
-        grade_unconfirmed=True,),
-    'leLemet': Route(
-        name='Le Lemet',
-        parent=bookBoulders['farley'],
-        grade=9,
-        grade_unconfirmed=True,),
-    'fraley': Route(
-        name='Farely Prep',
-        parent=bookBoulders['farley'],
-        grade=9,
-        grade_unconfirmed=True,),
     'pumpkinProj': Route(
         name='Pumpkin Project',
         parent=bookBoulders['pumpkin'],
@@ -2213,6 +2160,26 @@ bookSubAreaMaps = {
             'path27116': bookRoutes['worf'],
             'path27114': bookRoutes['breadTrav'],
             'path27112': bookRoutes['buddha'],
+        }),
+    'redneck': SubAreaMap(
+        name='Redneck Riviera area map',
+        parent=bookSubAreas['redneckRiviera'],
+        fileName='redneck.svg',
+        path_i='./maps/area/',
+        path_o='./maps/area/',
+        layers=['Redneck', 'Base'],
+        border='rect3479',
+        size='h',
+        description='Redneck Riviera area map',
+        routes={
+            'path3423': bookRoutes['ponyBoy'],
+            'path3421': bookRoutes['monorail'],
+            'path3419': bookRoutes['uglyFace'],
+            'path3417': bookRoutes['binding'],
+            'path3415': bookRoutes['mossBoss'],
+            'path3413': bookRoutes['tendies'],
+            'path3411': bookRoutes['teenageLibertarians'],
+            'path3357': bookRoutes['falcon'],
         }),
 }
 
