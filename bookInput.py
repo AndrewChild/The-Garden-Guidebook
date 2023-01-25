@@ -1133,187 +1133,157 @@ bookRoutes = {
         grade=4,
         grade_unconfirmed=True,),
 }
-bookVariations = {
-    'threeStar': Variation(
-        name='Three Star Ledge Variation',
-        parent=bookRoutes['threeStar'],
-        grade=2,
-        rating=2,
-        description='Squat start with feet on the small boulder below 3 star (it\'s on this time!) and hands on opposing underclings.'),
-    'tonsilLow': Variation(
-        name='Tonsil Low Start',
-        parent=bookRoutes['tonsil'],
-        description='Climb tonsil from the obvious lower holds without using the boulder below it as a foot. Seems '
-                    'like it might go, but at a much harder grade.'),
-    'prowed': Variation(
-        name='Prowed',
-        parent=bookRoutes['tonsil'],
-        serious=2,
-        description='Climb tonsil but instead of doing the normal top out, countinue climbing the steep prow above it. '
-                    'Reportedly this was an old school classic.'),
-    'panicButton': Variation(
-        name='Panic Button Variation',
-        name_unconfirmed=True,
-        parent=bookRoutes['panicButton'],
-        grade=2,
-        rating=2,
-        description='Sit start and pull into the start of Panic Button instead of topping right head left over the techy slab.'
-        ),
-    'ironCross': Variation(
-        name='Iron Cross',
-        parent=bookRoutes['trust'],
-        grade=2,
-        rating=1,
-        description='Avoid the committing moves at the lip by traversing left early.'),
-    'mrBigglesworth': Variation(
-        name='Mr. Bigglesworth',
-        parent=bookRoutes['drEvil'],
-        grade=1,
-        rating=2,
-        description='Start on your choice of waist high holds, climb straight up the right face or '
-                    'stay left on the arete. Authors note: other guides identify several other variations on '
-                    'this route, this book intentionally omits other variations in preference of encouraging '
-                    'climbers to find their own beta.'),
-    'durtenDyno': Variation(
-        name='Tyler Durten Dyno',
-        parent=bookRoutes['tylerDurten'],
-        grade='?',
-        description='It has been speculated that the dyno from the starting hold straight to the lip will go.'),
-    'undertowSit': Variation(
-        name='Spray Against the Undertow',
-        parent=bookRoutes['undertow'],
-        grade=6,
-        description='Sit start with left hand in a slopey dish and right hand on a low sidepull. Pull some bizzare '
-                    'moves to join into Undertow.'),
-    'undertowSitRight': Variation(
-        name='Undertow Sit Start',
-        parent=bookRoutes['undertow'],
-        grade=7,
-        rating=3,
-        description='Sit start left hand on a borken sidepull and right '
-                    'hand on a low undercling, climb into undertow. At one point this line was simply refered to as '
-                    'Undertow, for this book modern naming standards have been conserved.'),
-    'shakeOut': Variation(
-        name='Shake it Out',
-        parent=bookRoutes['simpleMath'],
-        grade=3,
-        rating=1,
-        description='Stand start as for Simple Math and climb straight up into riptide.'),
-    'cubaGoodingVar': Variation(
-        name='Cuba Gooding Variation',
-        parent=bookRoutes['cubaGooding'],
-        grade=3,
-        rating=1,
-        name_unconfirmed=True,
-        description='Climb Cuba Gooding but use good holds to pull into the scoop and exit early.'),
-    'jesusSit': Variation(
-        name='Leave it to Jesus Sit Start',
-        parent=bookRoutes['leaveJesus'],
-        grade=7,
-        grade_unconfirmed=True,
-        description='Sit start on razor crimps to the lower left of the stand start.'),
-    'jesusLeft': Variation(
-        name='Leave it to Jesus Left',
-        parent=bookRoutes['leaveJesus'],
-        grade=10,
-        grade_unconfirmed=True,
-        description='Sit start as for Trust Issues and traverse right all the way into Leave it to Jesus.'),
-    'learys': Variation(
-        name='Learys Lunge',
-        parent=bookRoutes['heisenburg'],
-        grade=9,
-        rating=3,
-        description='Start as for Heiserburg and dyno up and right to juggy holds at the lip.'),
-    'octernalDirect': Variation(
-        name='Octernal Direct Exit',
-        parent=bookRoutes['octernal'],
-        grade=7,
-        rating=3,
-        description='Of all the Octernal exits this one has the most interesting moves. Climb Octernal to the ledge '
-                    'then pull some tricky moves to round the right arete. Continue on through a heads up top out.'),
-    'octernalCenter': Variation(
-        name='Octernal Center Exit',
-        parent=bookRoutes['octernal'],
-        grade='6/7',
-        rating=2,
-        description='The easiest top option for this boulder involves pulling through a suprisingly good side pull '
-                    'above the left end of the ledge. For years this variation livided in moss covered obscurity. '
-                    'Climbing it will make you wonder why the awkward pumpfest traverse exit is the default line'),
-    'sweetHome': Variation(
-        name='Sweethome Traverse',
-        parent=bookRoutes['octernal'],
-        grade='3/4',
-        rating=2,
-        description='Climb Octernal from the ledge. Starting one move lower (on the undercling) adds a grade.'),
-    'harborFreight': Variation(
-        name='Harbor Freight',
-        parent=bookRoutes['smackdown'],
-        grade=8,
-        rating=3,
-        description='Sit down start with hands matched on a blocky undercling, climb into Smackdown. This variation was literally '
-                    'unearthed when a local climber yarded a large rock out from the landing of Smackdown using a '
-                    'chain and come along. The device broke in the process inspiring the name of the route.'),
-    'methLabHighballSit': Variation(
-        name='Meth Lab Highball Sit Start',
-        name_unconfirmed=True,
-        parent=bookRoutes['methLabHighball'],
-        grade=3,
-        rating=1,
-        description='Sit start with left hand on a diagonal undercling rail and right hand on a low diagonal side pull edge. Doesn\'t add much to the stand start.'
-    ),
-    'intoTheLight': Variation(
-        name='Into the Light Assis',
-        parent=bookRoutes['intoTheLight'],
-        grade=9,
-        grade_unconfirmed=True,),
-    'gargoyleD': Variation(
-        name='Gargoyle Direct',
-        name_unconfirmed=True,
-        parent=bookRoutes['gargoyle'],
-        rating=2,
-        grade=5,
-        description='Starts as for Gargoyle but climbs straight up. Harder than it looks'),
-    'bitchinSit': Variation(
-        name='Bitchin Corners Sit',
-        parent=bookRoutes['bitchin'],
-        rating=2,
-        grade=6,
-        description='Sit start with hands matched on a sharp corner at the bottom of the right arete.'
-    ),
-    'brainHaemorrhage': Variation(
-        name='Brain Haemorrhage',
-        parent=bookRoutes['locksmith'],
-        grade=7,
-        description='Start as for locksmith and traverse right into philanthropy',
-        grade_unconfirmed=True,),
-    'sirenStand': Variation(
-        name='The Siren Stand Start',
-        parent=bookRoutes['siren'],
-        grade=3,
-        rating=2,
-        description='Start with your left hand on the left arete and right hand on a good sidepull just above the sit '
-                    'start holds.',),
-    'bagTricks': Variation(
-        name='Bag of Tricks',
-        parent=bookRoutes['gumbySlab'],
-        grade=3,
-        rating=1,
-        description='Start as for Siren and traverse right topping on either Gumby Arete or Gumby Slab.'),
-    'bakersD': Variation(
-        name='Baker\'s Dozen',
-        parent=bookRoutes['breadTrav'],
-        grade=8,
-        grade_unconfirmed=True,
-        description='Start as for Buddha\'s Belly, traverse into the bread loaf traverse.'),
-    'lateStart': Variation(
-        name='Late Start',
-        parent=bookRoutes['scratchSplif'],
-        grade=2,
-        rating=2,
-        name_unconfirmed=True,
-        description='Sit start with juggy holds at the top of a low ramp. Climb straight up into the top of Scratch '
-                    'and Spliff Traverse.'),
-}
+Variation(name='Three Star Ledge Variation',
+          parent=bookRoutes['threeStar'],
+          grade=2,
+          rating=2,
+          description='Squat start with feet on the small boulder below 3 star (it\'s on this time!) and hands on opposing underclings.')
+Variation(name='Tonsil Low Start',
+          parent=bookRoutes['tonsil'],
+          description='Climb tonsil from the obvious lower holds without using the boulder below it as a foot. Seems '
+                      'like it might go, but at a much harder grade.')
+Variation(name='Prowed',
+          parent=bookRoutes['tonsil'],
+          serious=2,
+          description='Climb tonsil but instead of doing the normal top out, countinue climbing the steep prow above it. '
+                'Reportedly this was an old school classic.')
+Variation(name='Panic Button Variation',
+          name_unconfirmed=True,
+          parent=bookRoutes['panicButton'],
+          grade=2,
+          rating=2,
+          description='Sit start and pull into the start of Panic Button instead of topping right head left over the techy slab.')
+Variation(name='Iron Cross',
+          parent=bookRoutes['trust'],
+          grade=2,
+          rating=1,
+          description='Avoid the committing moves at the lip by traversing left early.')
+Variation(name='Mr. Bigglesworth',
+          parent=bookRoutes['drEvil'],
+          grade=1,
+          rating=2,
+          description='Start on your choice of waist high holds, climb straight up the right face or '
+                'stay left on the arete. Authors note: other guides identify several other variations on '
+                'this route, this book intentionally omits other variations in preference of encouraging '
+                'climbers to find their own beta.')
+Variation(name='Tyler Durten Dyno',
+          parent=bookRoutes['tylerDurten'],
+          grade='?',
+          description='It has been speculated that the dyno from the starting hold straight to the lip will go.')
+Variation(name='Spray Against the Undertow',
+          parent=bookRoutes['undertow'],
+          grade=6,
+          description='Sit start with left hand in a slopey dish and right hand on a low sidepull. Pull some bizzare '
+                      'moves to join into Undertow.')
+Variation(name='Undertow Sit Start',
+          parent=bookRoutes['undertow'],
+          grade=7,
+          rating=3,
+          description='Sit start left hand on a borken sidepull and right '
+                      'hand on a low undercling, climb into undertow. At one point this line was simply refered to as '
+                      'Undertow, for this book modern naming standards have been conserved.')
+Variation(name='Shake it Out',
+          parent=bookRoutes['simpleMath'],
+          grade=3,
+          rating=1,
+          description='Stand start as for Simple Math and climb straight up into riptide.')
+Variation(name='Cuba Gooding Variation',
+          parent=bookRoutes['cubaGooding'],
+          grade=3,
+          rating=1,
+          name_unconfirmed=True,
+          description='Climb Cuba Gooding but use good holds to pull into the scoop and exit early.')
+Variation(name='Leave it to Jesus Sit Start',
+          parent=bookRoutes['leaveJesus'],
+          grade=7,
+          grade_unconfirmed=True,
+          description='Sit start on razor crimps to the lower left of the stand start.')
+Variation(name='Leave it to Jesus Left',
+          parent=bookRoutes['leaveJesus'],
+          grade=10,
+          grade_unconfirmed=True,
+          description='Sit start as for Trust Issues and traverse right all the way into Leave it to Jesus.')
+Variation(name='Learys Lunge',
+          parent=bookRoutes['heisenburg'],
+          grade=9,
+          rating=3,
+          description='Start as for Heiserburg and dyno up and right to juggy holds at the lip.')
+Variation(name='Octernal Direct Exit',
+          parent=bookRoutes['octernal'],
+          grade=7,
+          rating=3,
+          description='Of all the Octernal exits this one has the most interesting moves. Climb Octernal to the ledge '
+                      'then pull some tricky moves to round the right arete. Continue on through a heads up top out.')
+Variation(name='Octernal Center Exit',
+          parent=bookRoutes['octernal'],
+          grade='6/7',
+          rating=2,
+          description='The easiest top option for this boulder involves pulling through a suprisingly good side pull '
+                      'above the left end of the ledge. For years this variation livided in moss covered obscurity. '
+                      'Climbing it will make you wonder why the awkward pumpfest traverse exit is the default line')
+Variation(name='Sweethome Traverse',
+          parent=bookRoutes['octernal'],
+          grade='3/4',
+          rating=2,
+          description='Climb Octernal from the ledge. Starting one move lower (on the undercling) adds a grade.')
+Variation(name='Harbor Freight',
+          parent=bookRoutes['smackdown'],
+          grade=8,
+          rating=3,
+          description='Sit down start with hands matched on a blocky undercling, climb into Smackdown. This variation was literally '
+                      'unearthed when a local climber yarded a large rock out from the landing of Smackdown using a '
+                      'chain and come along. The device broke in the process inspiring the name of the route.')
+Variation(name='Meth Lab Highball Sit Start',
+          name_unconfirmed=True,
+          parent=bookRoutes['methLabHighball'],
+          grade=3,
+          rating=1,
+          description='Sit start with left hand on a diagonal undercling rail and right hand on a low diagonal side pull edge. Doesn\'t add much to the stand start.')
+Variation(name='Into the Light Assis',
+          parent=bookRoutes['intoTheLight'],
+          grade=9,
+          grade_unconfirmed=True,)
+Variation(name='Gargoyle Direct',
+          name_unconfirmed=True,
+          parent=bookRoutes['gargoyle'],
+          rating=2,
+          grade=5,
+          description='Starts as for Gargoyle but climbs straight up. Harder than it looks')
+Variation(name='Bitchin Corners Sit',
+          parent=bookRoutes['bitchin'],
+          rating=2,
+          grade=6,
+          description='Sit start with hands matched on a sharp corner at the bottom of the right arete.')
+Variation(name='Brain Haemorrhage',
+          parent=bookRoutes['locksmith'],
+          grade=7,
+          description='Start as for locksmith and traverse right into philanthropy',
+          grade_unconfirmed=True,)
+Variation(name='The Siren Stand Start',
+          parent=bookRoutes['siren'],
+          grade=3,
+          rating=2,
+          description='Start with your left hand on the left arete and right hand on a good sidepull just above the sit '
+                      'start holds.',)
+Variation(name='Bag of Tricks',
+          parent=bookRoutes['gumbySlab'],
+          grade=3,
+          rating=1,
+          description='Start as for Siren and traverse right topping on either Gumby Arete or Gumby Slab.')
+Variation(name='Baker\'s Dozen',
+          parent=bookRoutes['breadTrav'],
+          grade=8,
+          grade_unconfirmed=True,
+          description='Start as for Buddha\'s Belly, traverse into the bread loaf traverse.')
+Variation(name='Late Start',
+          parent=bookRoutes['scratchSplif'],
+          grade=2,
+          rating=2,
+          name_unconfirmed=True,
+          description='Sit start with juggy holds at the top of a low ramp. Climb straight up into the top of Scratch '
+                      'and Spliff Traverse.')
+
+
 bookPhotos = {
     # 'austinPowers': Photo(
     #     name='Austin Powers',
@@ -1368,8 +1338,8 @@ bookTopos = {
         routes={
             'path1002': bookRoutes['bitchin'],
             'path1029': bookRoutes['bitchin'],
-            'path1014': bookVariations['bitchinSit'],
-            'path1031': bookVariations['bitchinSit'],
+            'path1014': book.variations['Bitchin Corners Sit'],
+            'path1031': book.variations['Bitchin Corners Sit'],
         }),
     'baldo': Topo(
         name='Baldo',
@@ -1420,9 +1390,9 @@ bookTopos = {
         routes={
             'path300': bookRoutes['threeStar'],
             'path583': bookRoutes['threeStar'],
-            'path514': bookVariations['threeStar'],
-            'path529': bookVariations['threeStar'],
-            'path585': bookVariations['threeStar'],
+            'path514': book.variations['Three Star Ledge Variation'],
+            'path529': book.variations['Three Star Ledge Variation'],
+            'path585': book.variations['Three Star Ledge Variation'],
         }),
     'theGood': Topo(
         name='The Good',
@@ -1506,8 +1476,8 @@ bookTopos = {
             'path863': bookRoutes['compRoute'],
             'path851': bookRoutes['panicButton'],
             'path861': bookRoutes['panicButton'],
-            'path857': bookVariations['panicButton'],
-            'path859': bookVariations['panicButton'],
+            'path857': book.variations['Panic Button Variation'],
+            'path859': book.variations['Panic Button Variation'],
         }),
     'boysInTheWoods': Topo(
         name='Boys in the Woods',
@@ -1524,8 +1494,8 @@ bookTopos = {
             'path462': bookRoutes['shinyJerry'],
             'path404': bookRoutes['treeSlab'],
             'path464': bookRoutes['treeSlab'],
-            'path480': bookVariations['cubaGoodingVar'],
-            'path426': bookVariations['cubaGoodingVar'],
+            'path480': book.variations['Cuba Gooding Variation'],
+            'path426': book.variations['Cuba Gooding Variation'],
         }),
     'enchilada': Topo(
         name='enchilada',
@@ -1556,8 +1526,8 @@ bookTopos = {
         routes={
             'path1625': bookRoutes['gargoyle'],
             'path1627': bookRoutes['gargoyle'],
-            'path1631': bookVariations['gargoyleD'],
-            'path1629': bookVariations['gargoyleD'],
+            'path1631': book.variations['Gargoyle Direct'],
+            'path1629': book.variations['Gargoyle Direct'],
             'path1635': bookRoutes['slamDunk'],
             'path1633': bookRoutes['slamDunk'],
         }),
@@ -1594,10 +1564,10 @@ bookTopos = {
             'path1912': bookRoutes['trustIssues'],
             'path1902': bookRoutes['leaveJesus'],
             'path1916': bookRoutes['leaveJesus'],
-            'path1904': bookVariations['jesusSit'],
-            'path1914': bookVariations['jesusSit'],
-            'path736': bookVariations['jesusLeft'],
-            'path734': bookVariations['jesusLeft'],
+            'path1904': book.variations['Leave it to Jesus Sit Start'],
+            'path1914': book.variations['Leave it to Jesus Sit Start'],
+            'path736': book.variations['Leave it to Jesus Left'],
+            'path734': book.variations['Leave it to Jesus Left'],
         }),
     'methLabBack': Topo(
         name='Methlab Backside',
@@ -1608,20 +1578,20 @@ bookTopos = {
         routes={
             'path1874': bookRoutes['smackdown'],
             'path1856': bookRoutes['smackdown'],
-            'path1876': bookVariations['harborFreight'],
-            'path1856-2': bookVariations['harborFreight'],
+            'path1876': book.variations['Harbor Freight'],
+            'path1856-2': book.variations['Harbor Freight'],
             'path1878': bookRoutes['heisenburg'],
             'path1858': bookRoutes['heisenburg'],
-            'path1880': bookVariations['learys'],
-            'path1860': bookVariations['learys'],
+            'path1880': book.variations['Learys Lunge'],
+            'path1860': book.variations['Learys Lunge'],
             'path1886': bookRoutes['octernal'],
             'path1864': bookRoutes['octernal'],
             'path1884': bookRoutes['guillotine'],
             'path1866': bookRoutes['guillotine'],
-            'path1888': bookVariations['octernalCenter'],
-            'path1868': bookVariations['octernalCenter'],
-            'path1890': bookVariations['octernalDirect'],
-            'path1862': bookVariations['octernalDirect'],
+            'path1888': book.variations['Octernal Center Exit'],
+            'path1868': book.variations['Octernal Center Exit'],
+            'path1890': book.variations['Octernal Direct Exit'],
+            'path1862': book.variations['Octernal Direct Exit'],
             'path1892': bookRoutes['e7'],
             'path1872': bookRoutes['e7'],
         }),
@@ -1633,9 +1603,9 @@ bookTopos = {
         description='Meth Lab across from E\'s',
         routes={
             'path3604': bookRoutes['twoBlows'],
-            'path3553': bookVariations['octernalDirect'],
+            'path3553': book.variations['Octernal Direct Exit'],
             'path3608': bookRoutes['twoBlows'],
-            'path3606': bookVariations['octernalDirect'],
+            'path3606': book.variations['Octernal Direct Exit'],
         }),
     'locksmith': Topo(
         name='Locksmith',
@@ -1646,8 +1616,8 @@ bookTopos = {
         routes={
             'path1894': bookRoutes['locksmith'],
             'path1898': bookRoutes['locksmith'],
-            'path1896': bookVariations['brainHaemorrhage'],
-            'path1900': bookVariations['brainHaemorrhage'],
+            'path1896': book.variations['Brain Haemorrhage'],
+            'path1900': book.variations['Brain Haemorrhage'],
         }),
     'arboretum': Topo(
         name='arboretum',
@@ -1672,16 +1642,16 @@ bookTopos = {
         size='h',
         description='The Siren',
         routes={
-            'path5162': bookVariations['sirenStand'],
+            'path5162': book.variations['The Siren Stand Start'],
             'path4111': bookRoutes['siren'],
             'path4117': bookRoutes['gumbyArete'],
             'path4212': bookRoutes['otherBernd'],
-            'path4115': bookVariations['bagTricks'],
+            'path4115': book.variations['Bag of Tricks'],
             'path4175': bookRoutes['siren'],
             'path4175-8': bookRoutes['gumbyArete'],
             'path4175-8-6': bookRoutes['otherBernd'],
-            'path4175-2': bookVariations['bagTricks'],
-            'path4175-8-6-6': bookVariations['sirenStand'],
+            'path4175-2': book.variations['Bag of Tricks'],
+            'path4175-8-6-6': book.variations['The Siren Stand Start'],
         }),
     'gumby': Topo(
         name='Gumby',
@@ -1690,9 +1660,9 @@ bookTopos = {
         size='h',
         description='Gumby Slab',
         routes={
-            'path1571': bookVariations['bagTricks'],
-            'path1573': bookVariations['bagTricks'],
-            'path1678': bookVariations['bagTricks'],
+            'path1571': book.variations['Bag of Tricks'],
+            'path1573': book.variations['Bag of Tricks'],
+            'path1678': book.variations['Bag of Tricks'],
             'path1569': bookRoutes['gumbyArete'],
             'path1676': bookRoutes['gumbyArete'],
             'path1563': bookRoutes['gumbySlab'],
@@ -1734,8 +1704,8 @@ bookTopos = {
         routes={
             'path1813': bookRoutes['methLabHighball'],
             'path2042': bookRoutes['methLabHighball'],
-            'path1830': bookVariations['methLabHighballSit'],
-            'path2040': bookVariations['methLabHighballSit'],
+            'path1830': book.variations['Meth Lab Highball Sit Start'],
+            'path2040': book.variations['Meth Lab Highball Sit Start'],
             'path1832': bookRoutes['methLabHighballR'],
             'path2044': bookRoutes['methLabHighballR'],
             'path1760': bookRoutes['swollen'],
@@ -1770,8 +1740,8 @@ bookTopos = {
             'path1692': bookRoutes['shadowGiants'],
             'path1684': bookRoutes['leftTonsil'],
             'path1694': bookRoutes['leftTonsil'],
-            'path716': bookVariations['prowed'],
-            'path566': bookVariations['prowed'],
+            'path716': book.variations['Prowed'],
+            'path566': book.variations['Prowed'],
         }),
     'trust': Topo(
         name='Trust',
@@ -1782,12 +1752,12 @@ bookTopos = {
         routes={
             'path678': bookRoutes['trust'],
             'path830': bookRoutes['trust'],
-            'path776': bookVariations['ironCross'],
-            'path832': bookVariations['ironCross'],
+            'path776': book.variations['Iron Cross'],
+            'path832': book.variations['Iron Cross'],
             'path834': bookRoutes['tylerDurten'],
             'path836': bookRoutes['tylerDurten'],
-            'path838': bookVariations['durtenDyno'],
-            'path840': bookVariations['durtenDyno'],
+            'path838': book.variations['Tyler Durten Dyno'],
+            'path840': book.variations['Tyler Durten Dyno'],
             'path298': bookRoutes['angelFace'],
             'path410': bookRoutes['angelFace'],
             'path302': bookRoutes['durtenLayback'],
@@ -1816,10 +1786,10 @@ bookTopos = {
         routes={
             'path1097': bookRoutes['undertow'],
             'path1111': bookRoutes['undertow'],
-            'path1099': bookVariations['undertowSit'],
-            'path1105': bookVariations['undertowSit'],
-            'path1101': bookVariations['undertowSitRight'],
-            'path1107': bookVariations['undertowSitRight'],
+            'path1099': book.variations['Spray Against the Undertow'],
+            'path1105': book.variations['Spray Against the Undertow'],
+            'path1101': book.variations['Undertow Sit Start'],
+            'path1107': book.variations['Undertow Sit Start'],
             'path1103': bookRoutes['riptide'],
             'path1109': bookRoutes['riptide'],
         }),
@@ -1834,18 +1804,18 @@ bookTopos = {
             'path942': bookRoutes['sillySteep'],
             'path938': bookRoutes['undertow'],
             'path946': bookRoutes['undertow'],
-            'path934': bookVariations['undertowSit'],
-            'path944': bookVariations['undertowSit'],
-            'path936': bookVariations['undertowSitRight'],
-            'path950': bookVariations['undertowSitRight'],
+            'path934': book.variations['Spray Against the Undertow'],
+            'path944': book.variations['Spray Against the Undertow'],
+            'path936': book.variations['Undertow Sit Start'],
+            'path950': book.variations['Undertow Sit Start'],
             'path1134': bookRoutes['riptide'],
             'path948': bookRoutes['riptide'],
             'path940': bookRoutes['tidepool'],
             'path952': bookRoutes['tidepool'],
             'path1309': bookRoutes['simpleMath'],
             'path1305': bookRoutes['simpleMath'],
-            'path1307': bookVariations['shakeOut'],
-            'path748': bookVariations['shakeOut'],
+            'path1307': book.variations['Shake it Out'],
+            'path748': book.variations['Shake it Out'],
         }),
     'baseball': Topo(
         name='Baseball',
@@ -1870,8 +1840,8 @@ bookTopos = {
             'path1100': bookRoutes['buddha'],
             'path1104': bookRoutes['breadTrav'],
             'path1153': bookRoutes['breadTrav'],
-            'path1155': bookVariations['bakersD'],
-            'path1157': bookVariations['bakersD'],
+            'path1155': book.variations['Baker\'s Dozen'],
+            'path1157': book.variations['Baker\'s Dozen'],
         }),
     'breadLoaf2': Topo(
         name='Bread Loaf2',
@@ -1913,8 +1883,8 @@ bookTopos = {
             'path2075': bookRoutes['spliff'],
             'path2077': bookRoutes['scratch'],
             'path2073': bookRoutes['scratch'],
-            'path2071': bookVariations['lateStart'],
-            'path2069': bookVariations['lateStart'],
+            'path2071': book.variations['Late Start'],
+            'path2069': book.variations['Late Start'],
         }),
     'scratchSpliff3': Topo(
         name='Scratch and Spliff 3',
