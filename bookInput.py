@@ -90,6 +90,7 @@ bookSubAreas = {
         parent=bookAreas['pinkTag'],),
     'entranceUpper': Subarea(
         name='Entrance Area',
+        item_id = 'entranceUpper',
         parent=bookAreas['upperGarden'],),
     'breadLoaves': Subarea(
         name='The Bread Loaves/Scratch and Spliff',
@@ -369,7 +370,7 @@ bookRoutes = {
         parent=bookBoulders['toiletBowl'],
         grade=1,
         rating=1,
-        description='Stand start on a protruding block with left hand on an undercling and right hand on a knob. Pull a few moves to gain the lip of the boulder.'), 
+        description='Stand start on a protruding block with left hand on an undercling and right hand on a knob. Pull a few moves to gain the lip of the boulder.'),
     'toiletTraverse': Route(
         name='Toilet Bowl Traverse',
         parent=bookBoulders['toiletBowl'],

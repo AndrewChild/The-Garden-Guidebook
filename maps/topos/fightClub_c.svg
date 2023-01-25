@@ -10,16 +10,16 @@
     <ns0:path id="path1145_clone" style="fill:none;stroke:#FFFFFF;stroke-width:7.630000000000001;stroke-dasharray:32.7, 32.7" d="m 495.66072,594.59096 c -26.2468,-77.7309 -32.30375,-109.02516 -20.18985,-161.51876 12.11391,-52.4936 37.35122,-97.92076 28.26579,-138.30045 -9.08543,-40.37969 -31.29426,-91.8638 -31.29426,-91.8638" />
     <ns0:path id="path1147_clone" style="fill:none;stroke:#FFFFFF;stroke-width:7.630000000000001;stroke-dasharray:32.7, 32.7" d="M 903.49561,536.04041 C 865.1349,457.30001 857.05896,448.21458 854.03049,378.55961 851.00201,308.90464 838.8881,258.43003 807.59384,214.01237 776.29958,169.59471 765.19516,118.1106 765.19516,118.1106" />
     <ns0:circle id="path1151" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.2700000000000005;stroke-dasharray:none;stroke-opacity:1" cx="467.89969" cy="484.5563" r="34.1388" />
-    <ns0:text id="path1151_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.09;stroke-dasharray:none;stroke-opacity:1" x="456.71629" y="500.25230000000005">
-      <ns0:text id="path1151_text" x="456.71629" y="500.25230000000005" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.24px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">4</ns0:text>
+    <ns0:text id="path1151_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.09;stroke-dasharray:none;stroke-opacity:1" x="445.53289" y="500.25230000000005">
+      <ns0:text id="path1151_text" x="445.53289" y="500.25230000000005" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.24px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">11</ns0:text>
     </ns0:text>
     <ns0:circle id="path1153" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.2700000000000005;stroke-dasharray:none;stroke-opacity:1" cx="238.74493" cy="501.21292" r="34.1388" />
-    <ns0:text id="path1153_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.09;stroke-dasharray:none;stroke-opacity:1" x="227.56153" y="516.90892">
-      <ns0:text id="path1153_text" x="227.56153" y="516.90892" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.24px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">5</ns0:text>
+    <ns0:text id="path1153_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.09;stroke-dasharray:none;stroke-opacity:1" x="216.37813" y="516.90892">
+      <ns0:text id="path1153_text" x="216.37813" y="516.90892" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.24px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">12</ns0:text>
     </ns0:text>
     <ns0:circle id="path1149" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.2700000000000005;stroke-dasharray:none;stroke-opacity:1" cx="851.50677" cy="352.81757" r="34.1388" />
-    <ns0:text id="path1149_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.09;stroke-dasharray:none;stroke-opacity:1" x="840.32337" y="368.51357">
-      <ns0:text id="path1149_text" x="840.32337" y="368.51357" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.24px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
+    <ns0:text id="path1149_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.09;stroke-dasharray:none;stroke-opacity:1" x="829.13997" y="368.51357">
+      <ns0:text id="path1149_text" x="829.13997" y="368.51357" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.24px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">10</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>
