@@ -1,21 +1,20 @@
 import sys
+
 sys.path.insert(1, '../LocalBoulders')
 from dataStructure import Area, Subarea, Formation, Route, Variation
 from GB_Book import book
-
 
 Area(name='The Garden Main',
      parent=book,
      gps='44.44076010641458, -122.5752659013521',
      description='Located about 3.5 miles down quatzville road from highway 20, park in the gravel pull out where the road bends '
-     'left just before you reach the boulders. The Garden Main bouldering area is true to its name. '
-     'A lush green space features moss covered boulders situated under a dense canopy.',)
-
+                 'left just before you reach the boulders. The Garden Main bouldering area is true to its name. '
+                 'A lush green space features moss covered boulders situated under a dense canopy.', )
 
 Subarea(name='Entrance Area',
         parent=book.areas['The Garden Main'],
         description='A cluster of boulders situated inbetween the two main trails.'
-    )
+        )
 Subarea(name='Fight Club',
         parent=book.areas['The Garden Main'],
         description='Located in the southwest corner of the Garden main, The Fight Club zone is home to the '
@@ -39,149 +38,147 @@ Subarea(name='Azain',
         description='Azain is a jumbled collection of rocks which forms the highest point of the Garden main.',
         )
 Subarea(name='Big Fred',
-        parent=book.areas['The Garden Main'],)
-
+        parent=book.areas['The Garden Main'], )
 
 Formation(name='Toilet Bowl',
-           parent=book.subareas['Entrance Area'],
-           description='If approaching via the main trail this is the first boulder you will encounter just of the road.')
+          parent=book.subareas['Entrance Area'],
+          description='If approaching via the main trail this is the first boulder you will encounter just of the road.')
 Formation(name='Boys In the Woods',
-           parent=book.subareas['Entrance Area'],
-           description='A low boulder with an identifiable scoop on the downhill side is located on the main trail '
-                       'roughly 150ft uphill from the road.')
+          parent=book.subareas['Entrance Area'],
+          description='A low boulder with an identifiable scoop on the downhill side is located on the main trail '
+                      'roughly 150ft uphill from the road.')
 Formation(name='The Good Warmup',
-           parent=book.subareas['Entrance Area'],
-           description='A tiny finshaped boulder on the main trail.')
+          parent=book.subareas['Entrance Area'],
+          description='A tiny finshaped boulder on the main trail.')
 Formation(name='Tree Slab',
-           parent=book.subareas['Entrance Area'],
-           description='A narrow slab just uphill and to the right of the Boys in the Woods boulder.')
+          parent=book.subareas['Entrance Area'],
+          description='A narrow slab just uphill and to the right of the Boys in the Woods boulder.')
 Formation(name='Tonsil',
-           parent=book.subareas['Entrance Area'],
-           description='A small hanging prow wedged under a larger hanging prow, which is itself wedged under the Meth Lab prow (a very big hanging prow).')
+          parent=book.subareas['Entrance Area'],
+          description='A small hanging prow wedged under a larger hanging prow, which is itself wedged under the Meth Lab prow (a very big hanging prow).')
 Formation(name='All Sorts of Ease',
-           parent=book.subareas['Entrance Area'],
-           description='A low angle slab under the Meth Lab prow')
+          parent=book.subareas['Entrance Area'],
+          description='A low angle slab under the Meth Lab prow')
 Formation(name='Three Star Ledge',
-           parent=book.subareas['Entrance Area'],
-           description='Angular boulder in the rocky landscape between the two entrance trails.')
+          parent=book.subareas['Entrance Area'],
+          description='Angular boulder in the rocky landscape between the two entrance trails.')
 Formation(name='Overhand',
-           parent=book.subareas['Entrance Area'],
-           description='a short prow in the rocky landscape between the two entrance trails.')
+          parent=book.subareas['Entrance Area'],
+          description='a short prow in the rocky landscape between the two entrance trails.')
 Formation(name='Turtle Shell Boulder',
-           parent=book.subareas['Entrance Area'],
-           description='A short boulder with a low angle offwidth crack. If approaching on the fight club trail this is '
-                       'the first boulder that you will encounter')
+          parent=book.subareas['Entrance Area'],
+          description='A short boulder with a low angle offwidth crack. If approaching on the fight club trail this is '
+                      'the first boulder that you will encounter')
 Formation(name='The Office',
-           parent=book.subareas['Fight Club'],
-           description='A tall not quite vertical boulder is immediately on your right as you enter the Fight Club Area')
+          parent=book.subareas['Fight Club'],
+          description='A tall not quite vertical boulder is immediately on your right as you enter the Fight Club Area')
 Formation(name='Crash Test Dummies',
-           parent=book.subareas['Fight Club'],
-           description='A small boulder in between The Office and Fight Club.')
+          parent=book.subareas['Fight Club'],
+          description='A small boulder in between The Office and Fight Club.')
 Formation(name='Fight Club',
-           parent=book.subareas['Fight Club'],
-           description='The obvious overhanging boulder with an interesting bubbly texture.')
+          parent=book.subareas['Fight Club'],
+          description='The obvious overhanging boulder with an interesting bubbly texture.')
 Formation(name='Tyler Durten',
-           parent=book.subareas['Fight Club'],
-           description='Just to the left of the fight club boulder is a tall wall with few features other than a '
-                       'distinctive crimp rail at eye level.')
+          parent=book.subareas['Fight Club'],
+          description='Just to the left of the fight club boulder is a tall wall with few features other than a '
+                      'distinctive crimp rail at eye level.')
 Formation(name='Trust',
-           parent=book.subareas['Fight Club'],
-           description='The Trust boulder sits on an terrace behind Mini Me and to the Left of Tyler Durten')
+          parent=book.subareas['Fight Club'],
+          description='The Trust boulder sits on an terrace behind Mini Me and to the Left of Tyler Durten')
 Formation(name='Mini Me',
-           parent=book.subareas['Fight Club'],
-           description='A short pointy boulder with a flat landing is nearly freestanding on the downhill side of the '
-                       'Fight Club zone',)
+          parent=book.subareas['Fight Club'],
+          description='A short pointy boulder with a flat landing is nearly freestanding on the downhill side of the '
+                      'Fight Club zone', )
 Formation(name='E\'s Dirty B',
-           parent=book.subareas['Fight Club'],
-           description='Following a faint trail west traveling past the trust boulder brings you to a Large boulder '
-                       'which almost immediately gives way to low angle slab.')
+          parent=book.subareas['Fight Club'],
+          description='Following a faint trail west traveling past the trust boulder brings you to a Large boulder '
+                      'which almost immediately gives way to low angle slab.')
 Formation(name='Silly Steep',
-           parent=book.subareas['Undertow'],
-           description='Thin overhanging block left of the Undertow boulder.')
+          parent=book.subareas['Undertow'],
+          description='Thin overhanging block left of the Undertow boulder.')
 Formation(name='Undertow',
-           parent=book.subareas['Undertow'],
-           description='Realatively off the beaten path as far as classic garden boulders goes. Follow a faint trail '
-                       'upill past the trust boulder.')
+          parent=book.subareas['Undertow'],
+          description='Realatively off the beaten path as far as classic garden boulders goes. Follow a faint trail '
+                      'upill past the trust boulder.')
 Formation(name='Car Alarm',
-           parent=book.subareas['Undertow'],
-           description='This secluded block has a variety of worthwhile beginner climbs. Most of the rock is covered with holds so its also a good spot to play around and make up your own linkups.')
+          parent=book.subareas['Undertow'],
+          description='This secluded block has a variety of worthwhile beginner climbs. Most of the rock is covered with holds so its also a good spot to play around and make up your own linkups.')
 Formation(name='Chockstone Highball',
-           parent=book.subareas['Undertow'],
-           description='')
+          parent=book.subareas['Undertow'],
+          description='')
 Formation(name='Zen Koan',
-           parent=book.subareas['Undertow'],
-           description='A short boulder on the hillside inbetween Chockstone Highball and the Meth Lab.')
+          parent=book.subareas['Undertow'],
+          description='A short boulder on the hillside inbetween Chockstone Highball and the Meth Lab.')
 Formation(name='Meth Lab Front Side',
-           parent=book.subareas['Meth Lab'],)
+          parent=book.subareas['Meth Lab'], )
 Formation(name='Meth Lab Back Side',
-           parent=book.subareas['Meth Lab'],)
+          parent=book.subareas['Meth Lab'], )
 Formation(name='Swollen Member',
-           parent=book.subareas['Meth Lab'],
-           description='A small prow just out of the hill side above the Meth Lab boulder protrudes at a provocative angle.')
+          parent=book.subareas['Meth Lab'],
+          description='A small prow just out of the hill side above the Meth Lab boulder protrudes at a provocative angle.')
 Formation(name='Meth Lab Highball',
-           parent=book.subareas['Meth Lab'],
-           description='Slabby boulder located to the left of Swollen Member. Not to be confused with the highballs on the actual Meth Lab boulder.')
+          parent=book.subareas['Meth Lab'],
+          description='Slabby boulder located to the left of Swollen Member. Not to be confused with the highballs on the actual Meth Lab boulder.')
 Formation(name='E\'s Boulder',
-           parent=book.subareas['Meth Lab'],
-           description='A large boulder directly to the right of Octernal holds a few notable routes.')
+          parent=book.subareas['Meth Lab'],
+          description='A large boulder directly to the right of Octernal holds a few notable routes.')
 Formation(name='The Bubbler',
-           parent=book.subareas['Meth Lab'],
-           description='A small unassuming block sits just downhill of E\'s boulder.')
+          parent=book.subareas['Meth Lab'],
+          description='A small unassuming block sits just downhill of E\'s boulder.')
 Formation(name='Bitchin Corners',
-           parent=book.subareas['Big'],
-           description='A neet angular face sits on the downhill of an otherwise unremarkable boulder.')
+          parent=book.subareas['Big'],
+          description='A neet angular face sits on the downhill of an otherwise unremarkable boulder.')
 Formation(name='Hueco Wabo',
-           parent=book.subareas['Big'],
-           description='An aesthetic boulder sits well off the beaten path')
+          parent=book.subareas['Big'],
+          description='An aesthetic boulder sits well off the beaten path')
 Formation(name='Baldo',
-           parent=book.subareas['Big'],)
+          parent=book.subareas['Big'], )
 Formation(name='Big',
-           parent=book.subareas['Big'],
-           description='The "Big" boulder is a large moss covered boulder on the eastern boundary of the Garden Main '
-                       'area, in other guides this has also been called "roadside", and "North Block"')
+          parent=book.subareas['Big'],
+          description='The "Big" boulder is a large moss covered boulder on the eastern boundary of the Garden Main '
+                      'area, in other guides this has also been called "roadside", and "North Block"')
 Formation(name='Small',
-           parent=book.subareas['Big'],)
+          parent=book.subareas['Big'], )
 Formation(name='The Good',
-           parent=book.subareas['Azain'],
-           description='Continuing up the main trail from Boys in the Woods leads to a good boulder with two routes on '
-                       'the downhill face.')
+          parent=book.subareas['Azain'],
+          description='Continuing up the main trail from Boys in the Woods leads to a good boulder with two routes on '
+                      'the downhill face.')
 Formation(name='Next to the Good',
-           parent=book.subareas['Azain'],
-           description='A slender boulder hangs off the ground to the left of the Good.')
+          parent=book.subareas['Azain'],
+          description='A slender boulder hangs off the ground to the left of the Good.')
 Formation(name='Night Crawler',
-           parent=book.subareas['Azain'],
-           description='This iconic double arete boulder hangs like a throne near the top of the Azain formation.')
+          parent=book.subareas['Azain'],
+          description='This iconic double arete boulder hangs like a throne near the top of the Azain formation.')
 Formation(name='Azain Spire',
-           parent=book.subareas['Azain'],
-           description='A thin triangular flake stands on end behind swollen member and in front of Azain')
+          parent=book.subareas['Azain'],
+          description='A thin triangular flake stands on end behind swollen member and in front of Azain')
 Formation(name='Light Cave',
-           parent=book.subareas['Azain'],
-           description='A cave directly behind Azain Spire is mostly full of bats and trash. Tread carefully if you '
-                       'decide to venture down here.')
+          parent=book.subareas['Azain'],
+          description='A cave directly behind Azain Spire is mostly full of bats and trash. Tread carefully if you '
+                      'decide to venture down here.')
 Formation(name='Azain',
-           parent=book.subareas['Azain'],
-           description='The huge walls of the Azain formation are located just off the main trail behind The Good.')
+          parent=book.subareas['Azain'],
+          description='The huge walls of the Azain formation are located just off the main trail behind The Good.')
 Formation(name='Locksmith',
-           parent=book.subareas['Azain'],
-           description='A tall narrow boulder that leans up against the backside of Azain.')
+          parent=book.subareas['Azain'],
+          description='A tall narrow boulder that leans up against the backside of Azain.')
 Formation(name='Garden Roof',
-           parent=book.subareas['Azain'],
-           description='Just past the locksmith is a wide short overhang which sits opposite a field of blackberries on '
-                       'the main trail.')
+          parent=book.subareas['Azain'],
+          description='Just past the locksmith is a wide short overhang which sits opposite a field of blackberries on '
+                      'the main trail.')
 Formation(name='Gumby Wall',
-           parent=book.subareas['Azain'],
-           description='Continuing past the Garden Roof leads to the Gumby Wall. Look for the obvious overhanging prow of '
-                       'the siren.')
+          parent=book.subareas['Azain'],
+          description='Continuing past the Garden Roof leads to the Gumby Wall. Look for the obvious overhanging prow of '
+                      'the siren.')
 Formation(name='Gumby Crack',
-           parent=book.subareas['Azain'],
-           description='Immediately to the right of the Gumby Wall is another slab thats broken by a juggy horizontal crack.')
+          parent=book.subareas['Azain'],
+          description='Immediately to the right of the Gumby Wall is another slab thats broken by a juggy horizontal crack.')
 Formation(name='Big Fred',
-           parent=book.subareas['Big Fred'],
-           description='The main trail veers left into a narrow corridor inbetween this large boulder and Azain.')
+          parent=book.subareas['Big Fred'],
+          description='The main trail veers left into a narrow corridor inbetween this large boulder and Azain.')
 Formation(name='Angry Grandma',
-           parent=book.subareas['Big Fred'],
-           description='A secluded boulder can be approached by staying right at the fork when the main trail turns left around Big Fred.')
-
+          parent=book.subareas['Big Fred'],
+          description='A secluded boulder can be approached by staying right at the fork when the main trail turns left around Big Fred.')
 
 Route(name='Raphael Crack',
       parent=book.formations['Turtle Shell Boulder'],
@@ -192,7 +189,8 @@ Route(name='Donatello',
       parent=book.formations['Turtle Shell Boulder'],
       grade=1,
       rating=1,
-      description='start on a flat ledge where the rock angle changes. Slap a low angle arete until you can hike your feet up. Only somewhat distinct from Leonardo.')
+      description='start on a flat ledge where the rock angle changes. Slap a low angle arete until you can hike your '
+                  'feet up. Only somewhat distinct from Leonardo.')
 Route(name='Leonardo',
       parent=book.formations['Turtle Shell Boulder'],
       grade=3,
@@ -207,14 +205,14 @@ Route(name='Toilet Bowl Traverse',
       parent=book.formations['Toilet Bowl'],
       grade=0,
       rating=2,
-      description='Starting on a good rail at the lower left of the boulder. Travers the lip topping out at the highest point or continue all the way until the boulder recedes into the hill',)
+      description='Starting on a good rail at the lower left of the boulder. Travers the lip topping out at the highest point or continue all the way until the boulder recedes into the hill', )
 Route(name='Boys in the Woods',
       parent=book.formations['Boys In the Woods'],
       grade=4,
       rating=2,
       description='Start on a low jug just before the scoop at the lowest part of the boulder. Climb up the left '
                   'arete of the scoop until you can flop in. Some may consider this an eliminate since, with '
-                  'difficulty, you could also just mantle directly into the scoop.',)
+                  'difficulty, you could also just mantle directly into the scoop.', )
 Route(name='Cuba Gooding',
       parent=book.formations['Boys In the Woods'],
       grade=6,
@@ -368,7 +366,7 @@ Route(name='E\'s Dirty B',
       grade=5,
       description='Start with hands matched on a lumpy flake in the back of a small cave. Using slopeing edges out right and a '
                   'difficult undercling navigate out of the cave trending right at the lip to a jug. The final '
-                  'slab quest is an enjoyable and easy top out.',)
+                  'slab quest is an enjoyable and easy top out.', )
 Route(name='Silly Steep Mantle',
       parent=book.formations['Silly Steep'],
       grade=4,
@@ -538,7 +536,7 @@ Route(name='Bitchin Corners',
       rating=1,
       parent=book.formations['Bitchin Corners'],
       description='Stand start with left hand on a high diagonal crimp and right hand on an arete pinch.'
-  )
+      )
 Route(name='Frontside Baldo',
       parent=book.formations['Baldo'],
       grade=2,
@@ -601,7 +599,7 @@ Route(name='Snakes and Martyrs',
       grade=0,
       rating=3,
       description=' Stand start in a juggy seam. Could be scary if you are uncomfortable climbing outside.'
-  )
+      )
 Route(name='Ground up Blowie',
       parent=book.formations['Azain'],
       rating=2,
@@ -646,7 +644,7 @@ Route(name='Full Stroke',
       rating=2,
       serious=1,
       description='Stand start on a jug flake. Trend left to a high top in a shallow chimney.'
-  )
+      )
 Route(name='Garden Project',
       parent=book.formations['Garden Roof'],
       description='Project. Sit start at the base of the low roof and climb into garden variety or Full Stroke. Once '
@@ -681,27 +679,27 @@ Route(name='Gumby Arete',
       grade=2,
       rating=2,
       description='Stand start on underclings at the left side of the face. Challenge yourself by staying on the '
-                  'Arete the whole way up or bail onto the ledge out right and top as for Gumby Slab.',)
+                  'Arete the whole way up or bail onto the ledge out right and top as for Gumby Slab.', )
 Route(name='Gumby Slab',
       parent=book.formations['Gumby Wall'],
       grade=1,
       rating=3,
-      description='Stand start in the center of the face. This can be scary if not used to climbing outdoors.',)
+      description='Stand start in the center of the face. This can be scary if not used to climbing outdoors.', )
 Route(name='Gumby Crack',
       parent=book.formations['Gumby Crack'],
       grade=0,
       rating=2,
-      description='Climb the well featured wall to the right of Gumby slab from a stand start.',)
+      description='Climb the well featured wall to the right of Gumby slab from a stand start.', )
 Route(name='Chockstone Highball',
       parent=book.formations['Chockstone Highball'],
       grade=4,
-      grade_unconfirmed=True,)
+      grade_unconfirmed=True, )
 Route(name='Zen Koan',
       parent=book.formations['Zen Koan'],
       grade=2,
       rating=2,
       name_unconfirmed=True,
-      description='Stand start with a blocky hold near the top of a short overhang. Meander your way to the top.',)
+      description='Stand start with a blocky hold near the top of a short overhang. Meander your way to the top.', )
 Route(name='Big Fred',
       parent=book.formations['Big Fred'],
       grade=3,
@@ -729,7 +727,6 @@ Route(name='Angry Grandma',
       grade_unconfirmed=True,
       description='Reportedly the intimidating overhanging face on the angry grandma boulder goes at V7. Looks hard and scary.')
 
-
 Variation(name='Three Star Ledge Variation',
           parent=book.routes['Three Star Ledge'],
           grade=2,
@@ -743,7 +740,7 @@ Variation(name='Prowed',
           parent=book.routes['Tonsil'],
           serious=2,
           description='Climb tonsil but instead of doing the normal top out, countinue climbing the steep prow above it. '
-                'Reportedly this was an old school classic.')
+                      'Reportedly this was an old school classic.')
 Variation(name='Panic Button Variation',
           name_unconfirmed=True,
           parent=book.routes['Panic Button'],
@@ -760,9 +757,9 @@ Variation(name='Mr. Bigglesworth',
           grade=1,
           rating=2,
           description='Start on your choice of waist high holds, climb straight up the right face or '
-                'stay left on the arete. Authors note: other guides identify several other variations on '
-                'this route, this book intentionally omits other variations in preference of encouraging '
-                'climbers to find their own beta.')
+                      'stay left on the arete. Authors note: other guides identify several other variations on '
+                      'this route, this book intentionally omits other variations in preference of encouraging '
+                      'climbers to find their own beta.')
 Variation(name='Tyler Durten Dyno',
           parent=book.routes['Project Mayhem'],
           grade='?',
@@ -839,7 +836,7 @@ Variation(name='Meth Lab Highball Sit Start',
 Variation(name='Into the Light Assis',
           parent=book.routes['Into the Light'],
           grade=9,
-          grade_unconfirmed=True,)
+          grade_unconfirmed=True, )
 Variation(name='Gargoyle Direct',
           name_unconfirmed=True,
           parent=book.routes['Gargoyle'],
@@ -855,19 +852,18 @@ Variation(name='Brain Haemorrhage',
           parent=book.routes['Locksmith'],
           grade=7,
           description='Start as for locksmith and traverse right into philanthropy',
-          grade_unconfirmed=True,)
+          grade_unconfirmed=True, )
 Variation(name='The Siren Stand Start',
           parent=book.routes['The Siren'],
           grade=3,
           rating=2,
           description='Start with your left hand on the left arete and right hand on a good sidepull just above the sit '
-                      'start holds.',)
+                      'start holds.', )
 Variation(name='Bag of Tricks',
           parent=book.routes['Gumby Slab'],
           grade=3,
           rating=1,
           description='Start as for Siren and traverse right topping on either Gumby Arete or Gumby Slab.')
-
 
 if __name__ == '__main__':
     sys.exit()
