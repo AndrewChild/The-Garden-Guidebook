@@ -113,13 +113,13 @@
   </ns0:g>
   <ns0:g ns2:groupmode="layer" id="layer2" ns2:label="border" ns1:insensitive="true" />
   <ns0:g ns2:groupmode="layer" id="layer3" ns2:label="Entrance" ns1:insensitive="true">
-    <ns0:circle id="rect27051" style="fill:#CC5500;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.78;stroke-dasharray:none;stroke-opacity:1" cx="327.19766599999997" cy="276.0797755" r="8.1432" />
+    <ns0:circle id="rect27051" style="fill:#7FFFD0;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.78;stroke-dasharray:none;stroke-opacity:1" cx="327.19766599999997" cy="276.0797755" r="8.1432" />
     <ns0:text id="rect27051_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.26;stroke-dasharray:none;stroke-opacity:1" x="324.052666" y="279.8237755">
       <ns0:text id="rect27051_text" x="324.052666" y="279.8237755" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.36px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">A</ns0:text>
     </ns0:text>
   </ns0:g>
   <ns0:g ns2:groupmode="layer" id="layer4" ns2:label="Bread" ns1:insensitive="true">
-    <ns0:circle id="rect27128" style="fill:#CC5500;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.78;stroke-dasharray:none;stroke-opacity:1" cx="385.675902" cy="273.27584" r="8.1432" />
+    <ns0:circle id="rect27128" style="fill:#7FFFD0;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.78;stroke-dasharray:none;stroke-opacity:1" cx="385.675902" cy="273.27584" r="8.1432" />
     <ns0:text id="rect27128_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.26;stroke-dasharray:none;stroke-opacity:1" x="382.530902" y="277.01984000000004">
       <ns0:text id="rect27128_text" x="382.530902" y="277.01984000000004" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.36px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">B</ns0:text>
     </ns0:text>
