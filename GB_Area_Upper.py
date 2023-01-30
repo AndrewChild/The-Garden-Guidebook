@@ -60,12 +60,12 @@ Route(name='Bunt',
       grade=1,
       rating=1,
       description='Sit start with both hands in a low bubbly pod. Climb straight up.')
-Route(name='Buddha\'s Belly',
+Route(name='Bread Loaf Left',
       parent=book.formations['Bread Loaf'],
       grade=4,
       rating=2,
       description='Stand start on two horizontal edges. Navigate your way to some good lumpy jugs midway up the ' 
-                  'route and either mantle or side pull your way to the top. Also called bread loaf left.')
+                  'route and either mantle or side pull your way to the top. Also called Buddha\'s Belly.')
 Route(name='Bread Loaf Traverse',
       parent=book.formations['Bread Loaf'],
       grade=5,
@@ -129,7 +129,7 @@ Variation(name='Baker\'s Dozen',
           parent=book.routes['Bread Loaf Traverse'],
           grade=8,
           grade_unconfirmed=True,
-          description='Start as for Buddha\'s Belly, traverse into the bread loaf traverse.')
+          description='Start as for Bread Loaf Left, traverse into the bread loaf traverse.')
 Variation(name='Late Start',
           parent=book.routes['Scratch and Spliff Traverse'],
           grade=2,

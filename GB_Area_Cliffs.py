@@ -19,9 +19,6 @@ Subarea(name='Cabbage Patch/Thunderdome',
         parent=book.areas['Garden Cliffs'], )
         
         
-Formation(name='Scorpion Wall',
-          parent=book.subareas['The Garden Cliff'],
-          description='')
 Formation(name='Garden Cliff Right Side',
           parent=book.subareas['The Garden Cliff'],
           description='')
