@@ -19,8 +19,6 @@
 - Add something to intro about definition and naming of routes
 - add garden cliffs
 - add something about information sourcing
-- split book input into more managable sections
 
 # specific issues
 - Where should topo lines start, at the hand holds or from the base (from the base looks better but hand holds is sometimes informative)
-- numbering based on sub areas or area?
