@@ -17,8 +17,8 @@
 - fill in route info
 - add compass to maps
 - Add something to intro about definition and naming of routes
-- add garden cliffs
 - add something about information sourcing
+- reorganize image files
 
 # specific issues
 - Where should topo lines start, at the hand holds or from the base (from the base looks better but hand holds is sometimes informative)
