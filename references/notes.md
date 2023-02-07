@@ -9,14 +9,12 @@
 	- Trust was excavated
 	- A lot of taller routes were normally climbed as drop offs and only occasionally topped
 	- sounds like there's a lot of cool stuff out in the Vines and up on that ridge in general definitly need to check it out
-- Name discrepencies:
-Not an exhaustive list
+- Name discrepencies (Not an exhaustive list):
 	- Backside of azain (what I called garden roof) was called "Child of God"
 	- Upper garden was called clear cut, new garde, or apocolypse now. PW called it Armageddon. Seems like no one knows what to call this place, Clear cut is probably the most descriptive.
 	- Daryl Philbin was called "Burning Bus"
 		- When I met with Eric he specifically mentioned this route and Hula as lines that ment a lot to him that he was bummed that I had renamed. I'm sympathetic and haven't decided what to do about it.
 	- Vince was "get in my belly"
-	- Routes that I haven't documented
 	- Dr. Evil was originally called Mini Me Arete
 	- E's Dirty B as called trouble with boubles
 	- Silly steep mantle was called filpside
@@ -29,7 +27,7 @@ Not an exhaustive list
 	- Bitchin Corners sit was called Ty fighter 
 	- Cuba gooding called straight out of sweethome
 	- Shiney Jerry called "EZe"
-Not an exhaustive list
+- Routes that I haven't documented (Not an exhaustive list)
 	- Traverse across the office boulder starting on the left areter then rounding the corner finishing uphill on the line that Tracy cleaned.
 	- There is a documented line left of Vince. I have looked at this and didn't feel like it was a real line
 	- There was a stand start to fight club called "leif club" V5. curious
