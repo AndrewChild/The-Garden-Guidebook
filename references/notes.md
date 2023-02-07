@@ -1,5 +1,6 @@
 # Notes on meeting with Eric Brown and his guidebooks
 ## General notes
+- I labeled Erics guidebooks as being written in 2001 based on the title of the main area guidebook, but the text mentions development as late as 2003
 - Climbing at the garden goes back to at least the 70s but Eric's generation was likely the first who came there for "bouldering" (i.e. as a presuit in its own right). Eric, Ed, and Craig all had pads at a time before pads were common and that enabled them to be in the first wave of real development in the area.
 	- I tended to think of the history of the Garden as sort of "independent discovery" where multiple groups from different areas (Corvallis, Eguene, and Portland) explored the area without really knowing or communicating with each other. Eric mentioned that he did actually know the climbers from Eugene and had a bit of a beef with them, blames them for a lot of the miss naming on mountain project.
 - Guidebook has a cool mention of garden cliffs.
