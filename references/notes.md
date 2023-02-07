@@ -5,7 +5,7 @@
 - Guidebook has a cool mention of garden cliffs.
 	- Note says that a scary trad roof was free'ed at ~5.11 not sure what line. Also says that some things were TR'ed and the area seems to be good in the mid 11 to 13 range which is dead on.
 	- I asked Eric about the Heirloom project and he said that he didn't know who bolted it but didn't think that it had been free'ed
-- Eric is really fond of the Mini-me and didn't like that I gave Mini-me the route a hollow star
+- Eric is really fond of the Mini-me boulder and didn't like that I gave Mini-me the route a hollow star
 	- I think that the hollow star may be a discrpency on where the line starts/finishes
 - Would like to learn more about old school "routes toolshed direct" and "toolclub" vs new routes brewmaster and fight club 2. Eric also mentioned a line left of brewmaster (maybe this is pikachu party).
 - Trust was excavated. IMO this isn't conroversial or anthing, but kind of neat.
