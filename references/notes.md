@@ -8,7 +8,7 @@
 - Eric is really fond of the Mini-me and didn't like that I gave Mini-me the route a hollow star
 	- I think that the hollow star may be a discrpency on where the line starts/finishes
 - Would like to learn more about old school "routes toolshed direct" and "toolclub" vs new routes brewmaster and fight club 2. Eric also mentioned a line left of brewmaster (maybe this is pikachu party).
-- Trust was excavated
+- Trust was excavated. IMO this isn't conroversial or anthing, but kind of neat.
 - A lot of taller routes were normally climbed as drop offs and only occasionally topped
 - sounds like there's a lot of cool stuff out in the Vines and up on that ridge in general definitly need to check it out
 - Eric lists two areas in the main Erb Garden and Cedar Tree that I have never heard of and I don't know where they are
