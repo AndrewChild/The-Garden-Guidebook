@@ -11,18 +11,18 @@
 - Trust was excavated. IMO this isn't conroversial or anthing, but kind of neat.
 - A lot of taller routes were normally climbed as drop offs and only occasionally topped
 - sounds like there's a lot of cool stuff out in the Vines and up on that ridge in general definitly need to check it out
-- Eric lists two areas in the main Erb Garden and Cedar Tree that I have never heard of and I don't know where they are
+- Eric lists two areas in the main (Erb Garden and Cedar Tree) that I have never heard of and I don't know where they are
 - I think that everything in the upper forest and warmup areas of the clear cut have baisically been lost to the poison oak
 - There is a boulder on the other side of the forest road from the upper garden called "Story of O" sounds worth finding and my not have poison oak
 ## Name discrepencies (Not an exhaustive list)
 - Backside of azain (what I called garden roof) was called "Child of God"
-- Upper garden was called clear cut, new garden, or apocolypse now. PW called it Armageddon. Seems like no one knows what to call this place, Clear cut is probably the most descriptive.
+- Upper garden was called clear cut, new garden, or apocolypse now. PW called it Armageddon. Seems like no one knows what to call this place.
 - Daryl Philbin was called "Burning Bus"
-	- When I met with Eric he specifically mentioned this route and Hula as lines that ment a lot to him that he was bummed that I had renamed. I'm sympathetic and haven't decided what to do about it.
+	- When I met with Eric he specifically mentioned this route and Hula as lines that ment a lot to him that he was bummed that I had renamed. I'm sympathetic and haven't decided what to do about it, in general I am trying to keep with whatever names people are currently using (usually whatever is on mountain project) for popular boulders.
 - Vince was "get in my belly"
 - Dr. Evil was originally called Mini Me Arete
 - Austin powers was called Macro-me
-- E's Dirty B as called trouble with boubles
+- E's Dirty B was called trouble with boubles
 - Silly steep mantle was called filpside
 - Spray against the undertow was called Dark Crystal
 - Gumby slab was called "sweep the beach"
@@ -55,3 +55,4 @@
 - Traverse across the front of Azain from left to right called "sometimes" rated V7, but going too high in the middle made it V4
 - left exit to boys in the woods called "Tabor tots"
 	- I have also heard this called A boy and his wood
+- Eric highlighted a route called "the good project" I think this might be the downhill side of the "big" boulder

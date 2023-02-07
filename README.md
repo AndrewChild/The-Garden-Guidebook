@@ -17,13 +17,11 @@
 	- Pumpkin spice low
 	- Arboretum sit
 - Add routes for areas outside garden main
-- fill in route info
 - add compass to maps
 - Add something to intro about definition and naming of routes
 - add something about information sourcing
 - reorganize image files
 - Tracy Brandlt has cleaned and re-established a lot of lines that I haven't documented. Would be best to just talk through them with him since many don't have names and he desrves first dibs on what they are called
 - A lot of topos are very dark should go back on a cloudy day and shoot in HDR
-
-# specific issues
-- Where should topo lines start, at the hand holds or from the base (from the base looks better but hand holds is sometimes informative)
+- Consider adding a master codex of routes and their aliases
+- Consider adding a section for eliminates (KISS, enchilad original, and spraycation probably others too)
