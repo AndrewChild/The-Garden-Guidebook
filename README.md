@@ -8,8 +8,10 @@
 	- crazy cool arete
 	- Other lines on Es dirty B
 	- highball right of Daryl Philbin
-	- Enchilada variation
+	- Enchilada variations
 	- hanging prow project
+	- cargo net project (The good project in EBs book?) on the "big" boulder
+	- E's V7 low
 	- everything in pink tag
 	- everything in middle garden
 	- Pumpkin spice low
