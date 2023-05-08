@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="3.5555153"
-     inkscape:cx="673.17949"
-     inkscape:cy="900.85394"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="379"
+     inkscape:zoom="1.7777577"
+     inkscape:cx="1670.9252"
+     inkscape:cy="612.56944"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g753" />
   <g
@@ -45,6 +45,10 @@
        preserveAspectRatio="none"
        xlink:href="Methlab.jpg"
        id="image755" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       d="m 1806.7705,717.19562 c 3.375,-14.62517 -53.4381,-55.68813 -31.5004,-84.93846"
+       id="path1039" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:10.0006"
        d="M 604.69434,927.01049 C 631.69465,880.88497 632.81966,830.8219 552.94376,793.69648 473.06785,756.57106 434.25491,736.88334 440.44248,699.19541"
@@ -150,5 +154,12 @@
        cy="509.52039"
        rx="10.739305"
        ry="13.125818" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       id="path1042"
+       cx="1786.239"
+       cy="682.6015"
+       rx="9.2813549"
+       ry="7.5938358" />
   </g>
 </svg>

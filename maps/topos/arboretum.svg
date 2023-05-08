@@ -27,12 +27,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.66122285"
-     inkscape:cx="566.37486"
-     inkscape:cy="639.72381"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="379"
+     inkscape:cx="537.64022"
+     inkscape:cy="762.22411"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g244" />
   <g
@@ -47,7 +47,7 @@
        id="image246" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:10.0006;stroke-dasharray:20.0013, 10.0006"
-       d="m 755.86297,820.1042 c 0,0 -35.04684,-76.31618 -158.7966,-149.72259 C 495.56821,610.1745 471.54134,644.67166 400.46092,502.51082 329.38049,360.34997 350.55339,89.639434 350.55339,89.639434"
+       d="m 640.92441,845.81414 c 0,0 79.89172,-102.02612 -43.85804,-175.43253 C 495.56821,610.1745 471.54134,644.67166 400.46092,502.51082 329.38049,360.34997 350.55339,89.639434 350.55339,89.639434"
        id="path293"
        sodipodi:nodetypes="cssc" />
     <path
@@ -90,5 +90,21 @@
        cy="588.30396"
        rx="29.490814"
        ry="28.734638" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       d="M 1064.694,919.50845 C 946.73074,917.9961 683.58195,786.42171 656.35966,725.92773"
+       id="path350"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       id="path404"
+       cx="921.02081"
+       cy="886.99298"
+       rx="21.172892"
+       ry="24.953766" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       d="M 855.98978,816.66869 C 754.66237,790.95875 638.21146,704.75483 638.21146,704.75483"
+       id="path502" />
   </g>
 </svg>
