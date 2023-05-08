@@ -4,11 +4,9 @@
 # ToDo:
 - Routes to add:
 	- crazy cool arete
-	- E's V7 low
 	- everything in pink tag
 	- everything in middle garden
 	- Pumpkin spice low
-- Add routes for areas outside garden main
 - add compass to maps
 - Add something to intro about definition and naming of routes
 - add something about information sourcing
