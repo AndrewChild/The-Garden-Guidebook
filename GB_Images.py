@@ -358,6 +358,31 @@ Topo(name='siren',
          'path4175-2': book.variations['Bag of Tricks'],
          'path4175-8-6-6': book.variations['The Siren Stand Start'],
      })
+Topo(name='scaryGrandma',
+     parent=book.formations['Scary Grandma'],
+     fileName='scaryGrandma.svg',
+     size='h',
+     description='Scary Grandma',
+     routes={
+         'path609': book.routes['Scary Grandma'],
+         'path603': book.routes['Scary Grandma'],
+         'path613': book.routes['Easy Grandma'],
+         'path607': book.routes['Easy Grandma'],
+         'path611': book.routes['Angry Mom'],
+         'path605': book.routes['Angry Mom'],
+     })
+     })
+Topo(name='scaryGrandma2',
+     parent=book.formations['Scary Grandma'],
+     fileName='angryMom.svg',
+     size='h',
+     description='Scary Grandma 2',
+     routes={
+         'path447': book.routes['Easy Grandma'],
+         'path391': book.routes['Easy Grandma'],
+         'path445': book.routes['Angry Mom'],
+         'path293': book.routes['Angry Mom'],
+     })
 Topo(name='Gumby',
      parent=book.formations['Gumby Wall'],
      fileName='gumby.svg',
