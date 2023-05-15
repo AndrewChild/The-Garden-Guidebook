@@ -49,6 +49,7 @@ Topo(name='Bitchin Corners',
      parent=book.formations['Bitchin Corners'],
      fileName='bitchin.svg',
      size='h',
+     border='rect290',
      description='Bitchin Corners',
      routes={
          'path1002': book.routes['Bitchin Corners'],
