@@ -231,6 +231,7 @@ Topo(name='Gargoyle',
      fileName='eboulder3.svg',
      size='h',
      description='Gargoyle',
+     border='rect292',
      routes={
          'path1625': book.routes['Gargoyle'],
          'path1627': book.routes['Gargoyle'],
@@ -366,11 +367,10 @@ Topo(name='scaryGrandma',
      routes={
          'path609': book.routes['Scary Grandma'],
          'path603': book.routes['Scary Grandma'],
-         'path613': book.routes['Easy Grandma'],
-         'path607': book.routes['Easy Grandma'],
          'path611': book.routes['Angry Mom'],
          'path605': book.routes['Angry Mom'],
-     })
+         'path613': book.routes['Easy Grandma'],
+         'path607': book.routes['Easy Grandma'],
      })
 Topo(name='scaryGrandma2',
      parent=book.formations['Scary Grandma'],
