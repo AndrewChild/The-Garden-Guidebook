@@ -47,12 +47,12 @@ Formation(name='Boys In the Woods',
           parent=book.subareas['Entrance Area'],
           description='A low boulder with an identifiable scoop on the downhill side is located on the main trail '
                       'roughly 150ft uphill from the road.')
-Formation(name='The Good Warmup',
-          parent=book.subareas['Entrance Area'],
-          description='A tiny finshaped boulder on the main trail.')
 Formation(name='Tree Slab',
           parent=book.subareas['Entrance Area'],
           description='A narrow slab just uphill and to the right of the Boys in the Woods boulder.')
+Formation(name='The Good Warmup',
+          parent=book.subareas['Entrance Area'],
+          description='A tiny finshaped boulder on the main trail.')
 Formation(name='Tonsil',
           parent=book.subareas['Entrance Area'],
           description='A small hanging prow wedged under a larger hanging prow, which is itself wedged under the Meth Lab prow (a very big hanging prow).')
