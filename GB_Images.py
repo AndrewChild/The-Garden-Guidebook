@@ -280,6 +280,7 @@ Topo(name='Methlab Backside',
      parent=book.formations['Meth Lab Back Side'],
      fileName='Methlab.svg',
      size='f',
+     border='rect306',
      description='Meth Lab backside',
      routes={
          'path1874': book.routes['Smackdown'],

@@ -394,7 +394,7 @@ Route(name='Silly Steep Mantle',
                   'lip and figure out how to get your body over the top. Starting from the juggy edge knocks the '
                   'grade down to V2/3.')
 Route(name='Spray Skirt',
-      parent=book.formations['Silly Steep'],
+      parent=book.formations['Undertow'],
       grade=8,
       rating=2,
       description='Sit start with left hand in a slopey dish and right hand on a low sidepull. Pull some bizzare moves to gain the "boob holds" at the start of Undertow, continue up and left through a series of heinous crimps. Avoid standing on Silly Steep and mantle.')
