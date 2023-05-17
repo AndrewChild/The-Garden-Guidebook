@@ -6,7 +6,6 @@
 \usepackage{graphicx}
 \usepackage{color}
 \usepackage[dvipsnames]{xcolor}
-\usepackage{lipsum}
 \usepackage{pifont}
 \usepackage{framed}
 \usepackage{caption}
@@ -20,6 +19,7 @@
 \usepackage{wrapfig}
 \usepackage{changepage} 
 \usepackage{needspace}
+\usepackage[percent]{overpic}
 
 
 \usepackage{fancyhdr}
@@ -44,22 +44,6 @@
 \chapter{#1}
 \markboth{\color{white}#1 \protect\thepage \hspace{4pt}}{}
 \lhead{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
-}
-\newcommand{\halfPic}[2]{
-  \setbox0=\hbox{\includegraphics[width=0.9\linewidth]{#1}}% Store image in \box0
-  \needspace{\ht0}% Need at least the height of \box0
-  \begin{center}
-  \includegraphics[width=0.9\linewidth]{#1}
-  \end{center}
-}
-\newcommand{\fullPic}[2]{
-\end{multicols}
-  \begin{center}
-      \centering
-        \includegraphics[width=0.8\textwidth]{#1}
-  \end{center}
-\raggedcolumns
-\begin{multicols}{2}
 }
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
 \newcommand{\hlink}[2]{
