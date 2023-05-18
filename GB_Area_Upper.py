@@ -26,6 +26,8 @@ Subarea(name='The Bread Loaves/Scratch and Spliff',
         description='These two boulders are the area\'s main attraction. Historically some groups have called both '
                     'boulders Scratch and Spliff while others called them both the Bread Loaves. The modern compromise '
                     'seems to be that the upper boulder is Scratch and Spliff while the lower boulder is the Bread Loaf.')
+Subarea(name='Middle Garden',
+        parent=book.areas['Upper Garden'],)
                     
                     
 Formation(name='Pumpkin',
@@ -40,6 +42,12 @@ Formation(name='Bread Loaf',
            description='')
 Formation(name='Scratch and Spliff',
            parent=book.subareas['The Bread Loaves/Scratch and Spliff'],
+           description='')
+Formation(name='Dr. Strangelove',
+           parent=book.subareas['Middle Garden'],
+           description='')
+Formation(name='Young Juicy',
+           parent=book.subareas['Middle Garden'],
            description='')
            
            

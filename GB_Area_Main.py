@@ -775,8 +775,7 @@ Variation(name='Three Star Ledge Variation',
           description='Squat start with feet on the small boulder below 3 star (it\'s on this time!) and hands on opposing underclings.')
 Variation(name='Tonsil Low Start',
           parent=book.routes['Tonsil'],
-          description='Climb tonsil from the obvious lower holds without using the boulder below it as a foot. Seems '
-                      'like it might go, but at a much harder grade.')
+          description='Climb tonsil from the obvious lower holds without using the boulder below it as a foot. Rumor has it that this has been done.')
 Variation(name='Prowed',
           parent=book.routes['Tonsil'],
           serious=2,

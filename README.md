@@ -12,7 +12,6 @@
 	- everything in pink tag
 	- everything in middle garden
 	- Pumpkin spice low
-- add compass to maps
 - Add something to intro about definition and naming of routes
 - add something about information sourcing
 - reorganize image files
