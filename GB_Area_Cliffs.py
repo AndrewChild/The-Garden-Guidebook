@@ -15,7 +15,7 @@ Subarea(name='The Garden Cliff',
         parent=book.areas['Garden Cliffs'], )
 Subarea(name='Fairy Tale Wall',
         parent=book.areas['Garden Cliffs'], )
-Subarea(name='Cabbage Patch/Thunderdome',
+Subarea(name='Cabbage Patch/ Thunderdome',
         parent=book.areas['Garden Cliffs'], )
         
         
@@ -33,10 +33,10 @@ Formation(name='',
           parent=book.subareas['Fairy Tale Wall'],
           description='')
 Formation(name='Cabbage Patch',
-          parent=book.subareas['Cabbage Patch/Thunderdome'],
+          parent=book.subareas['Cabbage Patch/ Thunderdome'],
           description='')
 Formation(name='Johny Cash\'s Thunderdome',
-          parent=book.subareas['Cabbage Patch/Thunderdome'],
+          parent=book.subareas['Cabbage Patch/ Thunderdome'],
           description='')
           
           

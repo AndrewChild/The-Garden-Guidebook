@@ -1,4 +1,4 @@
-\documentclass[10pt]{report}
+\documentclass[10pt, twoside]{report}
  \renewcommand{\familydefault}{\sfdefault}
 \usepackage[a5paper,margin=0.5cm,bottom=0.5cm,top=1.5cm]{geometry}
 \usepackage{enumitem}
@@ -20,6 +20,7 @@
 \usepackage{changepage} 
 \usepackage{needspace}
 \usepackage[percent]{overpic}
+\usepackage{pdfpages}
 
 
 \usepackage{fancyhdr}
@@ -31,9 +32,6 @@
 \renewcommand{\labelenumi}{\textbf{\arabic{enumi}}}
 \renewcommand{\labelenumii}{\arabic{enumi}\alph{enumii}}
 
-\setcounter{topnumber}{2}
-\setcounter{bottomnumber}{2}
-\setcounter{totalnumber}{4}
 
 \titleformat{\chapter}[display]{\normalfont\color{white} \begin {shaded*}\bfseries}{\Huge#1}{0pt}{\end{shaded*}}
 \titlespacing*{\chapter}{0pt}{0pt}{5pt}
@@ -42,8 +40,12 @@
 \newcommand{\formatChapter}[1]{
 \colorlet{shadecolor}{\chapterColor}
 \chapter{#1}
-\markboth{\color{white}#1 \protect\thepage \hspace{4pt}}{}
-\lhead{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
+%thruthfully I have no fucking idea why this works. Found a solution after like 20 min of trial and error
+\fancyhead{}
+\lhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}#1 \protect\thepage \hspace{4pt}}
+\rhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}#1 \protect\thepage \hspace{4pt}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
+\fancyhead[RO]{}
+\fancyhead[RE]{\color{white}#1 \protect\thepage \hspace{4pt}}
 }
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
 \newcommand{\hlink}[2]{
@@ -59,11 +61,16 @@
   \hlink{#2}{#3}
   \end{center}
 }
+\newcommand*\cleartoleftpage{%
+  \clearpage
+  \ifodd\value{page}\hbox{}\newpage\fi
+}
 
 \begin{document}
 \title{The Garden Boulders}
-\date{2023-05-16}
+\date{2023-05-17}
 \maketitle
+\shipout\null
 
 \newcommand\chapterColor{MidnightBlue}
 \input{acknowledgements}
