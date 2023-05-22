@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg476"
+   width="1201.92"
+   height="1566.4"
+   viewBox="0 0 1201.92 1566.4"
+   sodipodi:docname="scaryGrandma.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs480" />
+  <sodipodi:namedview
+     id="namedview478"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.5573289"
+     inkscape:cx="596.59566"
+     inkscape:cy="784.09715"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g482" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g482">
+    <image
+       width="1201.92"
+       height="1566.4"
+       preserveAspectRatio="none"
+       xlink:href="scaryGrandma.jpg"
+       id="image484" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       d="M 593.90425,1288.2878 C 723.09188,1078.3579 737.95001,888.30398 663.88088,780.5086 583.7158,663.84158 663.54084,438.29859 708.7377,339.11753 c 30.56989,-67.08329 -1.79428,-87.91936 -1.79428,-87.91936"
+       id="path603"
+       sodipodi:nodetypes="cssc" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       d="M 994.02705,1186.0142 C 952.75878,1053.238 945.58169,880.98787 958.1416,843.30815"
+       id="path605" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       d="m 1020.9411,997.61559 c -1.7942,44.85681 37.6798,202.75281 25.1199,170.45591"
+       id="path607" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       id="path609"
+       cx="706.04626"
+       cy="985.95282"
+       rx="17.045589"
+       ry="20.634136" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       id="path611"
+       cx="972.49579"
+       cy="1100.7863"
+       rx="12.559909"
+       ry="15.251318" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       id="path613"
+       cx="1035.2953"
+       cy="1098.0948"
+       rx="12.559909"
+       ry="16.148455" />
+  </g>
+</svg>

@@ -3,24 +3,46 @@
 
 # ToDo:
 - Routes to add:
-	- Spray skirt
-	- All Berned down
 	- crazy cool arete
-	- Other lines on Es dirty B
-	- highball right of Daryl Philbin
-	- Enchilada variation
-	- hanging prow project
+	- obie
+	- pockets(?) whatever the thing on Big across from the good is
+	- other lines on Big Frank
+	- Oregon arete
+	- somewhere in between
+	- thing on the backside of boys in the woods facing trust
+	- A boy and his wood
 	- everything in pink tag
 	- everything in middle garden
 	- Pumpkin spice low
-- Add routes for areas outside garden main
-- fill in route info
-- add compass to maps
 - Add something to intro about definition and naming of routes
-- add garden cliffs
 - add something about information sourcing
-- split book input into more managable sections
-
-# specific issues
-- Where should topo lines start, at the hand holds or from the base (from the base looks better but hand holds is sometimes informative)
-- numbering based on sub areas or area?
+- Tracy Brandlt has cleaned and re-established a lot of lines that I haven't documented. Would be best to just talk through them with him since many don't have names and he desrves first dibs on what they are called
+- Consider adding a master codex of routes and their aliases
+- Consider adding a section for eliminates (KISS, enchilad original, and spraycation probably others too)
+- A lot of topos are very dark should go back on a cloudy day and shoot in HDR
+- Topos to redo:
+	- toilet bowl
+	- tonsil
+	- three star
+	- overhand
+	- office
+	- enchilada
+	- baldo
+	- hula
+	- gumby wall
+-Topos to add:
+	- good warm up
+	- chockstone
+	- hanging prow proj
+	- Methlab Prow
+	- Bubbler
+	- Bernd
+	- smol
+	- blowie
+	- Garden Groove/light cave
+	- full stroke/philanthropy
+	- everything at the cliffs
+	- everything at pink tag
+	- pumpkin spice
+	- everything at middle garden
+	- dab rig (quartzville)
