@@ -1,0 +1,59 @@
+# Notes on meeting with Eric Brown and his guidebooks
+## General notes
+- I labeled Erics guidebooks as being written in 2001 based on the title of the main area guidebook, but the text mentions development as late as 2003
+- Climbing at the garden goes back to at least the 70s but Eric's generation was likely the first who came there for "bouldering" (i.e. as a presuit in its own right). Eric, Ed, and Craig all had pads at a time before pads were common and that enabled them to be in the first wave of real development in the area.
+	- I tended to think of the history of the Garden as sort of "independent discovery" where multiple groups from different areas (Corvallis, Eguene, and Portland) explored the area without really knowing or communicating with each other. Eric mentioned that he did actually know the climbers from Eugene and had a bit of a beef with them, blames them for a lot of the miss naming on mountain project.
+- Guidebook has a cool mention of garden cliffs.
+	- Note says that a scary trad roof was free'ed at ~5.11 not sure what line. Also says that some things were TR'ed and the area seems to be good in the mid 11 to 13 range which is dead on.
+	- I asked Eric about the Heirloom project and he said that he didn't know who bolted it but didn't think that it had been free'ed
+- Eric is really fond of the Mini-me boulder and didn't like that I gave Mini-me the route a hollow star
+	- I think that the hollow star may be a discrpency on where the line starts/finishes
+- Would like to learn more about old school "routes toolshed direct" and "toolclub" vs new routes brewmaster and fight club 2. Eric also mentioned a line left of brewmaster (maybe this is pikachu party).
+- Trust was excavated. IMO this isn't conroversial or anthing, but kind of neat.
+- A lot of taller routes were normally climbed as drop offs and only occasionally topped
+- sounds like there's a lot of cool stuff out in the Vines and up on that ridge in general definitly need to check it out
+- Eric lists two areas in the main (Erb Garden and Cedar Tree) that I have never heard of and I don't know where they are
+- I think that everything in the upper forest and warmup areas of the clear cut have baisically been lost to the poison oak
+- There is a boulder on the other side of the forest road from the upper garden called "Story of O" sounds worth finding and my not have poison oak
+## Name discrepencies (Not an exhaustive list)
+- Backside of azain (what I called garden roof) was called "Child of God"
+- Upper garden was called clear cut, new garden, or apocolypse now. PW called it Armageddon. Seems like no one knows what to call this place.
+- Daryl Philbin was called "Burning Bus"
+	- When I met with Eric he specifically mentioned this route and Hula as lines that ment a lot to him that he was bummed that I had renamed. I'm sympathetic and haven't decided what to do about it, in general I am trying to keep with whatever names people are currently using (usually whatever is on mountain project) for popular boulders.
+- Vince was "get in my belly"
+- Dr. Evil was originally called Mini Me Arete
+- Austin powers was called Macro-me
+- E's Dirty B was called trouble with boubles
+- Silly steep mantle was called filpside
+- Spray against the undertow was called Dark Crystal
+- Gumby slab was called "sweep the beach"
+- Siren was called "Ed Witch Project"
+- Full stroke was called sweep stroke
+- Big Fred was called Big Frank and usually it was climbed as a dropoff called Francois
+- Azain Crack was called "K's hairy crack"
+- Bitchin Corners sit was called Ty fighter 
+- Cuba gooding called straight out of sweethome
+- Shiney Jerry called "EZe"
+- angry grandma should be called scary grandma
+- Pumpkin spice and pocket monkey may be the same line (sounds like pocket monkey stays lower though)
+- Breadloaf left was originally called "Andrew Problem" (no, a different Andrew)
+- The boulder that PW calls prince rupert was called "the penis". I kind of like prince rupert better
+## Routes that I haven't documented (Not an exhaustive list)
+- Traverse across the office boulder starting on the left areter then rounding the corner finishing uphill on the line that Tracy cleaned.
+- There is a documented line left of Vince. I have looked at this and didn't feel like it was a real line might be worth following up on though.
+- There was a stand start to fight club called "leif club" V5. curious
+- seems like Project mayham had a sit start called "dirty 'ole pete" and also a dyno variation from the jugs (mud bog)
+- There were endless variations on the mini me boulder. In particular Eric and Ed both seemed really fond of "KISS". Can't tell how it goes from the description but will look into it further.
+- Route called hot plants on the little boulder between E's dirty B and mini me
+- Greenday/greenway, routes inbetween undertow and tidepool
+- a bunch of routes on the backside of the office
+- route that climbs right of siren over the ledge called "Obe Simulator"
+- There are/were 5 routes in the vicinity of Full stroke
+- First half of brain hemorrahge is apparently a really good V1/V2
+- Lots of rotues on big fred. The line that I described as big fred is probably actually "Ghetto Fabulas"
+	- I thought that "Ghetto" would probably be redacted on Mountain Project but a quick search indicates thats not the case. Still I think its kind of in bad taste.
+	- Also not sure if misspelling of fabulous is intentional
+- Traverse across the front of Azain from left to right called "sometimes" rated V7, but going too high in the middle made it V4
+- left exit to boys in the woods called "Tabor tots"
+	- I have also heard this called A boy and his wood
+- Eric highlighted a route called "the good project" I think this might be the downhill side of the "big" boulder

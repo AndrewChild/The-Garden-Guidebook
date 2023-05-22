@@ -27,12 +27,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.62853225"
-     inkscape:cx="910.85223"
-     inkscape:cy="642.76734"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="379"
+     inkscape:cx="909.26122"
+     inkscape:cy="645.94935"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g882" />
   <g
@@ -46,6 +46,16 @@
        xlink:href="eDirty.jpg"
        id="image884" />
     <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       d="m 1115.2968,711.18069 c 54.0943,-103.41554 89.0965,-117.73461 60.4583,-210.01309 -28.6381,-92.27848 -82.7325,-198.87603 -82.7325,-198.87603"
+       id="path388"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       d="M 429.57223,512.30466 C 364.34089,380.25097 345.24879,225.92317 377.06896,162.28284 408.88912,98.642512 544.66073,100.23018 563.21692,89.096463 c 39.77521,-23.865125 42.95723,-46.13924 42.95723,-46.13924"
+       id="path290"
+       sodipodi:nodetypes="cssc" />
+    <path
        style="fill:none;stroke:#ff0000;stroke-width:10.0006"
        d="M 785.95808,836.87034 C 747.77388,719.13573 658.67742,593.44608 706.40767,499.57659 754.13792,405.70711 784.36707,405.70711 910.05672,367.52291 1035.7464,329.33871 1110.5238,342.06678 1091.4317,299.10955 1072.3396,256.15233 1015.0633,195.69402 941.87689,167.05587 868.69051,138.41772 849.59841,155.91881 766.86598,112.96159 684.13355,70.004363 661.85944,57.276297 661.85944,57.276297"
        id="path1003" />
@@ -56,5 +66,19 @@
        cy="373.09143"
        rx="27.842644"
        ry="24.660627" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       id="path444"
+       cx="1182.1191"
+       cy="526.62372"
+       rx="11.137058"
+       ry="12.728066" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:1.5"
+       id="path446"
+       cx="364.34088"
+       cy="283.99496"
+       rx="19.092098"
+       ry="19.887604" />
   </g>
 </svg>
