@@ -4,9 +4,11 @@
 # ToDo:
 - Routes to add:
 	- crazy cool arete
+	- obie
 	- pockets(?) whatever the thing on Big across from the good is
 	- other lines on Big Frank
 	- Oregon arete
+	- somewhere in between
 	- thing on the backside of boys in the woods facing trust
 	- A boy and his wood
 	- everything in pink tag
@@ -37,8 +39,10 @@
 	- Bernd
 	- smol
 	- blowie
-	- Azain crack/light cave
+	- Garden Groove/light cave
 	- full stroke/philanthropy
 	- everything at the cliffs
 	- everything at pink tag
+	- pumpkin spice
 	- everything at middle garden
+	- dab rig (quartzville)

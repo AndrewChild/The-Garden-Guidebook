@@ -1,0 +1,19 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg873" width="972.01099" height="1154.2631" viewBox="434.25491 42.750484 972.01099 1154.2631" ns1:docname="bitchin.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs877" />
+  <ns1:namedview id="namedview875" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.44443942" ns2:cx="896.63515" ns2:cy="632.25715" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g879" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g879">
+    <ns0:image width="1925.12" height="1285.12" preserveAspectRatio="none" ns3:href="bitchin.jpg" id="image881" />
+    <ns0:path d="M 1167.9095,899.17368 C 1068.2709,857.78323 1013.3512,749.33287 1005.2936,643.04661" style="fill:none;stroke:#4169e1;stroke-width:7.07;stroke-dasharray:none" id="path1014" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:7.07;stroke-dasharray:none" d="m 1005.1841,642.79259 c -3.7507,-49.47412 2.6523,-98.47934 19.4252,-140.03398 45.0018,-110.35166 66.8224,-108.18856 85.9145,-243.42426 7.8633,-55.69831 -1.591,-70.00437 -1.591,-70.00437" id="path1002" ns1:nodetypes="ccsc" />
+    <ns0:path id="path1014_clone" style="fill:none;stroke:#FFFFFF;stroke-width:7.07;stroke-dasharray:30.3, 30.3" d="M 1167.9095,899.17368 C 1068.2709,857.78323 1013.3512,749.33287 1005.2936,643.04661" />
+    <ns0:path id="path1002_clone" style="fill:none;stroke:#FFFFFF;stroke-width:7.07;stroke-dasharray:30.3, 30.3" d="m 1005.1841,642.79259 c -3.7507,-49.47412 2.6523,-98.47934 19.4252,-140.03398 45.0018,-110.35166 66.8224,-108.18856 85.9145,-243.42426 7.8633,-55.69831 -1.591,-70.00437 -1.591,-70.00437" />
+    <ns0:circle id="path1029" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.0300000000000002;stroke-dasharray:none;stroke-opacity:1" cx="1028.2616" cy="496.13062" r="31.6332" />
+    <ns0:text id="path1029_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.01;stroke-dasharray:none;stroke-opacity:1" x="1017.899" y="510.67462">
+      <ns0:text id="path1029_text" x="1017.899" y="510.67462" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.36px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1031" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.0300000000000002;stroke-dasharray:none;stroke-opacity:1" cx="1080.5747" cy="833.63446" r="31.6332" />
+    <ns0:text id="path1031_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.01;stroke-dasharray:none;stroke-opacity:1" x="1059.8494999999998" y="848.17846">
+      <ns0:text id="path1031_text" x="1059.8494999999998" y="848.17846" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.36px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1a</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg597" width="1168.3199" height="1285.12" viewBox="0 0 1168.3199 1285.12" ns1:docname="azainSpire.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs601" />
+  <ns1:namedview id="namedview599" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.65908242" ns2:cx="534.83447" ns2:cy="643.31863" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g603" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g603">
+    <ns0:image width="1168.3199" height="1285.12" preserveAspectRatio="none" ns3:href="azainSpire.jpg" id="image605" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:8.54;stroke-dasharray:none" d="m 775.32033,840.56255 c 0,0 -40.96605,-116.82909 -27.3107,-186.6231 13.65535,-69.794 40.96605,-151.72609 -16.68987,-204.83022 C 649.91192,374.12832 544.69667,388.4188 555.3175,326.2111 565.93832,264.0034 664.56028,186.62309 664.56028,186.62309" id="path724" ns1:nodetypes="csssc" />
+    <ns0:path id="path724_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.54;stroke-dasharray:36.6, 36.6" d="m 775.32033,840.56255 c 0,0 -40.96605,-116.82909 -27.3107,-186.6231 13.65535,-69.794 40.96605,-151.72609 -16.68987,-204.83022 C 649.91192,374.12832 544.69667,388.4188 555.3175,326.2111 565.93832,264.0034 664.56028,186.62309 664.56028,186.62309" />
+    <ns0:circle id="path726" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.66;stroke-dasharray:none;stroke-opacity:1" cx="752.56146" cy="629.66327" r="38.2104" />
+    <ns0:text id="path726_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.22;stroke-dasharray:none;stroke-opacity:1" x="740.04426" y="647.23127">
+      <ns0:text id="path726_text" x="740.04426" y="647.23127" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.92px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

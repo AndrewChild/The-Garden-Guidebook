@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1211" width="1285.12" height="1461.12" viewBox="0 0 1285.12 1461.12" ns1:docname="nightcrawler.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1215" />
+  <ns1:namedview id="namedview1213" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.57969229" ns2:cx="490.77762" ns2:cy="729.69747" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g1217" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1217">
+    <ns0:image width="1285.12" height="1461.12" preserveAspectRatio="none" ns3:href="nightcrawler.jpg" id="image1219" />
+    <ns0:path style="fill:none;stroke:#8b0000;stroke-width:9.38;stroke-dasharray:none" d="m 703.82167,1190.2867 c 0,0 -144.90446,-117.3037 -100.05308,-170.7803 44.85138,-53.47665 56.92675,-151.80468 91.42781,-227.70702 34.50107,-75.90234 31.05096,-225.98196 22.4257,-346.73568 -8.62527,-120.75372 37.95116,-236.33227 37.95116,-236.33227" id="path1342" ns1:nodetypes="csssc" />
+    <ns0:path id="path1342_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.38;stroke-dasharray:40.2, 40.2" d="m 703.82167,1190.2867 c 0,0 -144.90446,-117.3037 -100.05308,-170.7803 44.85138,-53.47665 56.92675,-151.80468 91.42781,-227.70702 34.50107,-75.90234 31.05096,-225.98196 22.4257,-346.73568 -8.62527,-120.75372 37.95116,-236.33227 37.95116,-236.33227" />
+    <ns0:circle id="path1396" style="fill:#8b0000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.0200000000000005;stroke-dasharray:none;stroke-opacity:1" cx="715.89703" cy="711.58441" r="41.9688" />
+    <ns0:text id="path1396_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.34;stroke-dasharray:none;stroke-opacity:1" x="702.14863" y="730.8804100000001">
+      <ns0:text id="path1396_text" x="702.14863" y="730.8804100000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.24px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">5</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

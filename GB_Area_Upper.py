@@ -53,7 +53,7 @@ Formation(name='Young Juicy',
            
 Route(name='Pumpkin Spice',
       parent=book.formations['Pumpkin'],
-      grade=7,
+      grade='6/7',
       rating=2,
       name_unconfirmed=True,
       description='Sit start on the left side of the overhang with left hand on a sharp side pull and right hand on the lower of two side pull rails. Trend right along the roof to an easy topout over a sussy landing.')
@@ -74,12 +74,17 @@ Route(name='Bread Loaf Left',
       rating=2,
       description='Stand start on two horizontal edges. Navigate your way to some good lumpy jugs midway up the ' 
                   'route and either mantle or side pull your way to the top. Also called Buddha\'s Belly.')
+Route(name='Breadwinner',
+      parent=book.formations['Bread Loaf'],
+      grade='10-',
+      grade_unconfirmed=True,
+      description='Start as for Bread Loaf Traverse, climb straight up..')
 Route(name='Bread Loaf Traverse',
       parent=book.formations['Bread Loaf'],
       grade=5,
       rating=2,
       description='stand start with hands matched in the left of two good pods in the lowest diagonal crack. Follow '
-                  'the crack system right with the help of a good hold under the roof. top along the arete. Dabby.')
+                  'the crack system right with the help of a good hold under the roof. top along the arête. Dabby.')
 Route(name='Worf',
       parent=book.formations['Bread Loaf'],
       grade=5,
@@ -116,8 +121,8 @@ Route(name='For What it\'s Worth',
       grade=2,
       rating=2,
       name_unconfirmed=True,
-      description='Squat start on a low ramp on the NW corner of the boulder using a left hand low on the arete and '
-                  'a right hand side pull. Bump up the arete then Dyno to the lip. Dab potential creates a lot of '
+      description='Squat start on a low ramp on the NW corner of the boulder using a left hand low on the arête and '
+                  'a right hand side pull. Bump up the arête then dyno to the lip. Dab potential creates a lot of '
                   'the difficulty.')
 Route(name='Caliban\'s War',
       parent=book.formations['Scratch and Spliff'],

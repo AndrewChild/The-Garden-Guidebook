@@ -17,8 +17,8 @@ Subarea(name='Entrance Area',
         )
 Subarea(name='Fight Club',
         parent=book.areas['The Garden Main'],
-        description='Located in the southwest corner of the Garden main, The Fight Club zone is home to the '
-                    'namesake V8 test piece as well as several other quality lines. Flat landings and easy access '
+        description='Located in the southwest corner of the Garden main, the Fight Club zone is home to the '
+                    'namesake V8 testpiece as well as several other quality lines. Flat landings and easy access '
                     'make this a nice spot to spend some time')
 Subarea(name='Undertow',
         parent=book.areas['The Garden Main'],
@@ -37,16 +37,20 @@ Subarea(name='Azain',
         parent=book.areas['The Garden Main'],
         description='Azain is a jumbled collection of rocks which forms the highest point of the Garden main.',
         )
-Subarea(name='Big Frank',
+Subarea(name='Child of God',
+        parent=book.areas['The Garden Main'],
+        description='The backside of the Azain formation is a nice area with a great variety of routes.',
+        )
+Subarea(name='François',
         parent=book.areas['The Garden Main'], )
 
 Formation(name='Toilet Bowl',
           parent=book.subareas['Entrance Area'],
-          description='If approaching via the main trail this is the first boulder you will encounter just of the road.')
+          description='If approaching via the main trail this is the first boulder you will encounter just off the road.')
 Formation(name='Boys In the Woods',
           parent=book.subareas['Entrance Area'],
           description='A low boulder with an identifiable scoop on the downhill side is located on the main trail '
-                      'roughly 150ft uphill from the road.')
+                      'roughly 150\' uphill from the road.')
 Formation(name='Tree Slab',
           parent=book.subareas['Entrance Area'],
           description='A narrow slab just uphill and to the right of the Boys in the Woods boulder.')
@@ -58,7 +62,7 @@ Formation(name='Tonsil',
           description='A small hanging prow wedged under a larger hanging prow, which is itself wedged under the Meth Lab prow (a very big hanging prow).')
 Formation(name='All Sorts of Ease',
           parent=book.subareas['Entrance Area'],
-          description='A low angle slab under the Meth Lab prow')
+          description='A low angle slab under the Meth Lab prow.')
 Formation(name='Three Star Ledge',
           parent=book.subareas['Entrance Area'],
           description='Angular boulder in the rocky landscape between the two entrance trails.')
@@ -71,7 +75,7 @@ Formation(name='Turtle Shell Boulder',
                       'the first boulder that you will encounter')
 Formation(name='The Office',
           parent=book.subareas['Fight Club'],
-          description='A tall not quite vertical boulder is immediately on your right as you enter the Fight Club Area')
+          description='A tall not quite vertical boulder is immediately on your right as you enter the Fight Club area.')
 Formation(name='Crash Test Dummies',
           parent=book.subareas['Fight Club'],
           description='A small boulder in between The Office and Fight Club.')
@@ -84,11 +88,11 @@ Formation(name='Tyler Durten',
                       'distinctive crimp rail at eye level.')
 Formation(name='Trust',
           parent=book.subareas['Fight Club'],
-          description='The Trust boulder sits on an terrace behind Mini Me and to the Left of Tyler Durten')
+          description='The Trust boulder sits on an terrace behind Mini Me and to the Left of Tyler Durten.')
 Formation(name='Mini Me',
           parent=book.subareas['Fight Club'],
           description='A short pointy boulder with a flat landing is nearly freestanding on the downhill side of the '
-                      'Fight Club zone', )
+                      'Fight Club zone.', )
 Formation(name='E\'s Dirty B',
           parent=book.subareas['Fight Club'],
           description='Following a faint trail west traveling past the trust boulder brings you to a Large boulder '
@@ -112,9 +116,7 @@ Formation(name='Hanging Prow',
 Formation(name='Bubonic Plague',
           parent=book.subareas['Undertow'],
           description='A short boulder on the hillside inbetween Chockstone Highball and the Meth Lab.')
-Formation(name='Meth Lab Front Side',
-          parent=book.subareas['Meth Lab'], )
-Formation(name='Meth Lab Back Side',
+Formation(name='Meth Lab',
           parent=book.subareas['Meth Lab'], )
 Formation(name='Swollen Member',
           parent=book.subareas['Meth Lab'],
@@ -133,13 +135,13 @@ Formation(name='Bitchin Corners',
           description='A neet angular face sits on the downhill of an otherwise unremarkable boulder.')
 Formation(name='Hueco Wabo',
           parent=book.subareas['Big'],
-          description='An aesthetic boulder sits well off the beaten path')
+          description='An aesthetic boulder sits well off the beaten path.')
 Formation(name='Baldo',
           parent=book.subareas['Big'], )
 Formation(name='Big',
           parent=book.subareas['Big'],
           description='The "Big" boulder is a large moss covered boulder on the eastern boundary of the Garden Main '
-                      'area, in other guides this has also been called "roadside", and "North Block"')
+                      'area, in other guides this has also been called "roadside", and "North Block".')
 Formation(name='Small',
           parent=book.subareas['Big'], )
 Formation(name='The Good',
@@ -151,10 +153,10 @@ Formation(name='Next to the Good',
           description='A slender boulder hangs off the ground to the left of the Good.')
 Formation(name='Night Crawler',
           parent=book.subareas['Azain'],
-          description='This iconic double arete boulder hangs like a throne near the top of the Azain formation.')
+          description='This iconic double arête boulder sits like a throne near the top of the Azain formation.')
 Formation(name='Azain Spire',
           parent=book.subareas['Azain'],
-          description='A thin triangular flake stands on end behind swollen member and in front of Azain')
+          description='A thin triangular flake stands on end behind swollen member and in front of Azain.')
 Formation(name='Light Cave',
           parent=book.subareas['Azain'],
           description='A cave directly behind Azain Spire is mostly full of bats and trash. Tread carefully if you '
@@ -163,25 +165,25 @@ Formation(name='Azain',
           parent=book.subareas['Azain'],
           description='The huge walls of the Azain formation are located just off the main trail behind The Good.')
 Formation(name='Locksmith',
-          parent=book.subareas['Azain'],
+          parent=book.subareas['Child of God'],
           description='A tall narrow boulder that leans up against the backside of Azain.')
 Formation(name='Garden Roof',
-          parent=book.subareas['Azain'],
+          parent=book.subareas['Child of God'],
           description='Just past the locksmith is a wide short overhang which sits opposite a field of blackberries on '
                       'the main trail.')
 Formation(name='Gumby Wall',
-          parent=book.subareas['Azain'],
+          parent=book.subareas['Child of God'],
           description='Continuing past the Garden Roof leads to the Gumby Wall. Look for the obvious overhanging prow of '
                       'the siren.')
 Formation(name='Gumby Crack',
-          parent=book.subareas['Azain'],
+          parent=book.subareas['Child of God'],
           description='Immediately to the right of the Gumby Wall is another slab thats broken by a juggy horizontal crack.')
-Formation(name='Big Frank',
-          parent=book.subareas['Big Frank'],
+Formation(name='François',
+          parent=book.subareas['François'],
           description='The main trail veers left into a narrow corridor inbetween this large boulder and Azain.')
 Formation(name='Scary Grandma',
-          parent=book.subareas['Big Frank'],
-          description='A secluded boulder can be approached by staying right at the fork when the main trail turns left around Big Frank.')
+          parent=book.subareas['François'],
+          description='A secluded boulder can be approached by staying right at the fork when the main trail turns left around François.')
 Route(name='Raphael Crack',
       parent=book.formations['Turtle Shell Boulder'],
       grade=0,
@@ -191,7 +193,7 @@ Route(name='Donatello',
       parent=book.formations['Turtle Shell Boulder'],
       grade=1,
       rating=1,
-      description='start on a flat ledge where the rock angle changes. Slap a low angle arete until you can hike your '
+      description='start on a flat ledge where the rock angle changes. Slap a low angle arête until you can hike your '
                   'feet up. Only somewhat distinct from Leonardo.')
 Route(name='Leonardo',
       parent=book.formations['Turtle Shell Boulder'],
@@ -207,13 +209,13 @@ Route(name='Toilet Bowl Traverse',
       parent=book.formations['Toilet Bowl'],
       grade=0,
       rating=2,
-      description='Starting on a good rail at the lower left of the boulder. Travers the lip topping out at the highest point or continue all the way until the boulder recedes into the hill', )
+      description='Starting on a good rail at the lower left of the boulder. Travers the lip topping out at the highest point or continue all the way until the boulder recedes into the hill.', )
 Route(name='Boys in the Woods',
       parent=book.formations['Boys In the Woods'],
       grade=4,
       rating=2,
       description='Start on a low jug just before the scoop at the lowest part of the boulder. Climb up the left '
-                  'arete of the scoop until you can flop in. Some may consider this an eliminate since, with '
+                  'arête of the scoop until you can flop in. Some may consider this an eliminate since, with '
                   'difficulty, you could also just mantle directly into the scoop.', )
 Route(name='Cuba Gooding',
       parent=book.formations['Boys In the Woods'],
@@ -236,17 +238,17 @@ Route(name='The Good Warm Up',
       parent=book.formations['The Good Warmup'],
       grade=0,
       rating=1,
-      description='Whether or not this is a good warmup is debatable. Sit start with hands matched on good rail. Climb the short face using both aretes. Also known as Shark Fin.')
+      description='Whether or not this is a good warmup is debatable. Sit start with hands matched on a good rail. Climb the short face using both arêtes. Also known as Shark Fin.')
 Route(name='Three Star Ledge',
       parent=book.formations['Three Star Ledge'],
       grade=2,
       rating=2,
-      description='Stand start with hands matched on the ledge. Chuck out to the left arete and follow it to the apex of the boulder. The small boulders at the base are off.')
+      description='Stand start with hands matched on the ledge. Chuck out to the left arête and follow it to the apex of the boulder. The small boulders at the base are off.')
 Route(name='Overhand',
       parent=book.formations['Overhand'],
       grade=7,
       grade_unconfirmed=True,
-      description='Climbs a short overhang starting at the bottom of the left arete.')
+      description='Climbs a short overhang starting at the bottom of the left arête.')
 Route(name='All Sorts of Ease',
       parent=book.formations['All Sorts of Ease'],
       grade='B',
@@ -272,7 +274,7 @@ Route(name='Gingiva',
       parent=book.formations['Tonsil'],
       grade=2,
       rating=1,
-      description='Climbs the boulder below Tonsil. Sit start with low holds on the right arete. Pull a few awkward '
+      description='Climbs the boulder below Tonsil. Sit start with low holds on the right arête. Pull a few awkward '
                   'moves into a cramped top out.')
 Route(name='Trust',
       parent=book.formations['Trust'],
@@ -285,19 +287,19 @@ Route(name='Mini Me',
       grade=3,
       rating=0,
       description='start on blunt corner. Make tricky moves to a blocky jug to the lip and traverse left to an easy '
-                  'top over a rocky landing')
+                  'top over a rocky landing.')
 Route(name='Austin Powers',
       parent=book.formations['Mini Me'],
       grade=5,
       rating=2,
-      description='Start as for Mini Me but move right into top of Dr. Evil')
+      description='Start as for Mini Me but move right into top of Dr. Evil. Also known as Macro Me.')
 Route(name='Dr. Evil',
       parent=book.formations['Mini Me'],
       rating=2,
       grade=4,
-      description='sit start in compression with left hand on a low sloper sidepull and right hand on the arete. '
+      description='sit start in compression with left hand on a low sloper sidepull and right hand on the arête. '
                   'Pull some tricky moves to gain better holds either rolling onto the right hand slab early or '
-                  'staying on the arete the whole way.')
+                  'staying on the arête the whole way.')
 Route(name='Project Mayhem',
       parent=book.formations['Tyler Durten'],
       rating=1,
@@ -334,10 +336,9 @@ Route(name='Daryl Philbin',
       rating=3,
       grade="1/2",
       serious=1,
-      description='Starting at the Center of the block climb left on good holds to the arete. Climb up the arete '
+      description='Starting at the Center of the block climb left on good holds to the arête. Climb up the arête '
                   'until you can reach good face holds up right and continue through a, thankfully, juggy top out. '
-                  'Mind the rock at the base of the climb. Left and right alternative starts add a little variety but do '
-                  'not change the grade.')
+                  'Left and right alternative starts add a little variety but do not change the grade. Mind the rock at the base of the climb. This line was originally refered to as The Burning Bus in reference to an unfortunate hitch hiker that was encoundered on the road in.')
 Route(name='Vince',
       parent=book.formations['Crash Test Dummies'],
       rating=2,
@@ -348,27 +349,27 @@ Route(name='The Ear',
       parent=book.formations['Fight Club'],
       rating=3,
       grade="2+",
-      description='Start on the arete at the far right end of the boulder. Climb straight up through tricky holds '
-                  'to a heady top out. Veering onto the face instead of using the good holds on the right arete '
+      description='Start on the arête at the far right end of the boulder. Climb straight up through tricky holds '
+                  'to a heady top out. Veering onto the face instead of using the good holds on the right arête '
                   'bumps the grade up to around V4.')
 Route(name='Fight Club',
       parent=book.formations['Fight Club'],
       rating=3,
       grade=8,
       FA='Craig Malik',
-      description='Area classic, this rig is a feather in any would be crushers cap. Start on the far right arete as for Ear. '
+      description='Area classic, this rig is a feather in any would be crushers cap. Start on the far right arête as for Ear. '
                   'Traverse across the angle change and top out above a bubbly crimp rail on the overhanging face.')
 Route(name='Fight Club 2',
       parent=book.formations['Fight Club'],
       grade=10,
       rating=2,
       FA='Griffin Thoms',
-      description='Sit start with hands matched low on the left arete of the overhanging boulder. Climb across the overhang topping as for Fight Club.')
+      description='Sit start with hands matched low on the left arête of the overhanging boulder. Climb across the overhang topping as for Fight Club.')
 Route(name='Brewmaster',
       parent=book.formations['Fight Club'],
       grade=5,
       rating=2,
-      description='Often mistaken for Fight Club 2. Sit start in the same spot but climb up the arete. Starting a '
+      description='Often mistaken for Fight Club 2. Sit start in the same spot but climb up the arête. Starting a '
                   'move or two in brings the grade down a bit. This is also known as tool shed direct.')
 Route(name='Green Hell',
       parent=book.formations['E\'s Dirty B'],
@@ -394,7 +395,7 @@ Route(name='Silly Steep Mantle',
       rating=2,
       description='Stand start with good compression holds in the roof. Make a hard pull to the juggy edge below the '
                   'lip and figure out how to get your body over the top. Starting from the juggy edge knocks the '
-                  'grade down to V2/3.')
+                  'grade down to V2/3. This route is also known as Flipside.')
 Route(name='Spray Skirt',
       parent=book.formations['Undertow'],
       grade=8,
@@ -405,7 +406,7 @@ Route(name='Undertow',
       grade=3,
       rating=3,
       description='Start on two boob shaped slopers at head height. Climb straight up using face holds and the right '
-                  'arete.')
+                  'arête.')
 Route(name='Riptide',
       name_unconfirmed=True,
       parent=book.formations['Undertow'],
@@ -455,57 +456,57 @@ Route(name='Panic Button',
       rating=1,
       description='Stand start just to the left of a rounded corner with feet on a blocky protrusion and not much for hands. Climb up and along the rounded corner.')
 Route(name='Meth Lab Project',
-      parent=book.formations['Meth Lab Front Side'],
+      parent=book.formations['Meth Lab'],
       serious=3,
       description='The obvious prow on the front of the Meth Lab boulder has a bolted top rope anchor and maybe '
-                  'someone has top roped it, but who knows. It\'s likely that the never been climbed by any other '
+                  'someone has top roped it, but who knows. It\'s likely that this has never been climbed by any other '
                   'means. The ethics of climbing this behemoth are contentious but in my opinion it is fair game to '
                   'bolt as a sport route. If you have the desire to do so consider '
-                  'working it out on TR first before placing new equipment.')
+                  'figuring it out on TR first before placing new equipment.')
 Route(name='Don\'t Blow the Jug',
-      parent=book.formations['Meth Lab Front Side'],
+      parent=book.formations['Meth Lab'],
       grade='2+',
       rating=2,
       serious=1,
       description='Start at the base of the wide crack. Climb inverted in the offwidth until you can make use of a jug to '
                   'squeeze into the crack. Walk through the crack to the far side of the boulder.')
 Route(name='Trust Issues',
-      parent=book.formations['Meth Lab Front Side'],
+      parent=book.formations['Meth Lab'],
       serious=2,
       grade='8',
       description='Sit start at the base of a diagonal crack. Proceed up and left over a subpar landing.')
 Route(name='Leave it to Jesus',
-      parent=book.formations['Meth Lab Front Side'],
+      parent=book.formations['Meth Lab'],
       rating=3,
       grade=1,
       description='Also known as Showboat. Start with hands on sloping edges. Use one or two intermediate holds to reposition yourself and make a long pull to the lip. Short but brilliant.')
 Route(name='Smackdown',
-      parent=book.formations['Meth Lab Back Side'],
+      parent=book.formations['Meth Lab'],
       rating=2,
       grade=6,
       description='Start standing with left hand gaston and right hand jug sidepull. Crank some powerful moves on bad feet '
-                  'and follow the line of crimps to a top out left')
+                  'and follow the line of crimps to a top out left.')
 Route(name='Heisenburg',
-      parent=book.formations['Meth Lab Back Side'],
+      parent=book.formations['Meth Lab'],
       grade=9,
       grade_unconfirmed=True,
       description='Sit start with opposing sidepulls on a low flake. follow a slopey rib possibly making use of small'
                   ' holds further left.')
 Route(name='Guillotine',
       name_unconfirmed=True,
-      parent=book.formations['Meth Lab Back Side'],
+      parent=book.formations['Meth Lab'],
       rating=2,
       grade=4,
       description='Start underclinging on the hanging \"Guillotine blade\" flake left of Octernal. Climb straight up.')
 Route(name='Octernal',
-      parent=book.formations['Meth Lab Back Side'],
+      parent=book.formations['Meth Lab'],
       rating=3,
       grade=7,
-      description='For many this is THE local test piece. Start sitting '
-                  'with left hand on a sloping triangular rib and right hand on a slopey cripm at the arete. Crank a few hard '
+      description='For many this is THE local testpiece. Start sitting '
+                  'with left hand on a sloping triangular rib and right hand on a slopey cripm at the arête. Crank a few hard '
                   'moves to gain the lip then traverse left through the lightning bolt hold to a pumpy top out. Originally known as \"Tom\'s phsychadelic trip\".')
 Route(name='Two Blows One Stroke',
-      parent=book.formations['Meth Lab Back Side'],
+      parent=book.formations['Meth Lab'],
       grade=6,
       description='Sit start on two single pad edges just to the left of a right facing rib. Pop a left foot onto a '
                   'third  slightly wider edge and crank a few moves to gain a good edge roughly 7ft off the ground. '
@@ -514,9 +515,9 @@ Route(name='Swollen Member',
       parent=book.formations['Swollen Member'],
       grade=3,
       rating=2,
-      description='A classic hazing route. Start hugging the underside of the block underside with good hand holds '
+      description='A classic hazing route. Start hugging the underside of the block with good hand holds '
                   'on each side of the stubby prow. Manuver youself into a less scandelous orientation using toe '
-                  'hooks, heel hooks and  all manner of dirty tricks.')
+                  'hooks, heel hooks, and  all manner of dirty tricks.')
 Route(name='Meth Lab Highball',
       parent=book.formations['Meth Lab Highball'],
       rating=2,
@@ -562,13 +563,13 @@ Route(name='Bitchin Corners',
       grade=2,
       rating=1,
       parent=book.formations['Bitchin Corners'],
-      description='Stand start with left hand on a high diagonal crimp and right hand on an arete pinch.'
+      description='Stand start with left hand on a high diagonal crimp and right hand on an arête pinch.'
       )
 Route(name='Frontside Baldo',
       parent=book.formations['Baldo'],
       grade=2,
       rating=2,
-      description='Sit start with left hand on a juggy side pull and right hand at the bottom of the diagonal crack. Climb the triangular face using the crack and holds on both aretes.'
+      description='Sit start with left hand on a juggy side pull and right hand at the bottom of the diagonal crack. Climb the triangular face using the crack and holds on both arêtes.'
       )
 Route(name='Hueco Wabo',
       grade=3,
@@ -621,7 +622,7 @@ Route(name='Another',
       rating=1,
       serious=1,
       description='start with opposing sidepulls on the center of the boulder\'s downhill face. Traverse to the left '
-                  'arete and ascend using delecate feet and unideal hands. Mind the uneven landing. Aggresive cleaning has reveiled that the dirty ledge to the left of the rock is infact part of the rock so stepping of here is still on route I guess, but its cooler if you don\'t.')
+                  'arête and ascend using delecate feet and unideal hands. Mind the uneven landing. Aggresive cleaning has reveiled that the dirty ledge to the left of the rock is infact part of the rock so stepping of here is still on route I guess, but its cooler if you don\'t.')
 Route(name='Next to the Good',
       parent=book.formations['Next to the Good'],
       grade=3,
@@ -633,7 +634,7 @@ Route(name='Snakes and Martyrs',
       parent=book.formations['Azain Spire'],
       grade=0,
       rating=3,
-      description=' Stand start in a juggy seam. Could be scary if you are uncomfortable climbing outside.'
+      description=' Stand start in a juggy seam. Could be scary if you are new to climbing outside.'
       )
 Route(name='Ground up Blowie',
       parent=book.formations['Azain'],
@@ -646,22 +647,22 @@ Route(name='Into the Light',
       parent=book.formations['Light Cave'],
       grade=6,
       grade_unconfirmed=True, )
-Route(name='Azain Crack',
+Route(name='Garden Groove',
       parent=book.formations['Azain'],
       grade='5.10b',
       rating=2,
-      description='One of the better moderate rope climbs at the garden, this route would see tons more traffic if it were at the cliff. Climb the crack to a bolt protected crux bulge followed by easier climbing to a bolted anchor which may or may not be covered in moss, end here or continue to another bolted anchor at the top of the boulder and, optionally, walk off. Th crack protects well with a few nuts or cams to 0.75. The section above the crack is much more challenging than it appears from the ground. Tread carefully, some of bolts on this route have a lot of rust.')
+      description='40\', Mixed. 1 bolt. One of the better moderate rope climbs at the garden, this route would see tons more traffic if it were at the cliff. Climb the crack to a bolt protected crux bulge followed by easier climbing to a bolted anchor which may or may not be covered in moss. The crack protects well with a few nuts or cams to 0.75. The section above the crack is much more challenging than it appears from the ground. Tread carefully, some of bolts on this route have a lot of rust.')
 Route(name='Sometimes',
       parent=book.formations['Azain'],
       grade=3,
-      rating=2,
-      description='Starting on Azain Crack traverse right around the corner on reachy holds until you can scramble onto a big ledge over the main trail, drop off. Staying lower in the middle section adds difficulty.')
+      rating=1,
+      description='Starting on Garden Groove traverse right around the corner on reachy holds until you can scramble onto a big ledge over the main trail, drop off. Staying lower in the middle section adds difficulty.')
 Route(name='Night Crawler',
       parent=book.formations['Night Crawler'],
       grade=10,
       rating=2,
       FA='Jonah Kreitzberg',
-      description='Sit start at a juggy undercling on the right arete. Believe it or not this is a completely '
+      description='Sit start at a juggy undercling on the right arête. Believe it or not this is a completely '
                   'different boulder than Hula.')
 Route(name='Locksmith',
       parent=book.formations['Locksmith'],
@@ -669,7 +670,7 @@ Route(name='Locksmith',
       rating=3,
       serious=2,
       description='Also known as Hula. Sit start with a juggy left hand sidebpull and right hand on an undercling edge. Pull a few '
-                  'crimpy moves until you can reach a good hold on the arete. Rock over onto the slab and quest to '
+                  'crimpy moves until you can reach a good hold on the arête. Rock over onto the slab and quest to '
                   'the top. Be sure to clean the upper section before attempting this rig.')
 Route(name='Philanthropy',
       parent=book.formations['Locksmith'],
@@ -714,13 +715,13 @@ Route(name='The Siren',
       parent=book.formations['Gumby Wall'],
       grade=5,
       rating=3,
-      description='Sit start at the base of the prow with one hand on an incut ledge and the other on the slopey rib below. Climb the prow using a few different beta options. This route is also refered to as "Witch Hunt".')
-Route(name='Gumby Arete',
+      description='Sit start at the base of the prow with one hand on an incut ledge and the other on the slopey rib below. Climb the prow using a few different beta options. This route is also refered to as Witch Hunt.')
+Route(name='Gumby Arête',
       parent=book.formations['Gumby Wall'],
       grade=2,
       rating=2,
       description='Stand start on underclings at the left side of the face. Challenge yourself by staying on the '
-                  'Arete the whole way up or bail onto the ledge out right and top as for Gumby Slab.', )
+                  'arête the whole way up or bail onto the ledge out right and top as for Gumby Slab.', )
 Route(name='Gumby Slab',
       parent=book.formations['Gumby Wall'],
       grade=1,
@@ -745,8 +746,8 @@ Route(name='Hanging Prow Project',
       parent=book.formations['Hanging Prow'],
       grade='?',
       description='The possibilites on this prow have been explored a little bit, but so far there are no known routes.', )
-Route(name='Big Frank',
-      parent=book.formations['Big Frank'],
+Route(name='François',
+      parent=book.formations['François'],
       grade=3,
       grade_unconfirmed=True,
       description='This highball has a storied legacy. It seems that at one point it was a well traveled classic but '
@@ -757,13 +758,13 @@ Route(name='Easy Grandma',
       parent=book.formations['Scary Grandma'],
       grade=0,
       rating=1,
-      description='Squat start on a juggy flake and climb using face holds the arete to a pyramid hold 12ft off the ground.')
+      description='Squat start on a juggy flake and climb using face holds the arête to a pyramid hold 12ft off the ground.')
 Route(name='Angry Mom',
       parent=book.formations['Scary Grandma'],
       grade=2,
       rating=2,
       serious=1,
-      description='Stand start over a ledge foot climb left around a flake then veer hard right towards the arete. '
+      description='Stand start over a ledge foot climb left around a flake then veer hard right towards the arête. '
                   'Exciting. Starting on sharp crimps to the right adds variety but doesn\'t feel like a distinct '
                   'route')
 Route(name='Scary Grandma',
@@ -802,7 +803,7 @@ Variation(name='Mr. Bigglesworth',
           grade=1,
           rating=2,
           description='Start on your choice of waist high holds, climb straight up the right face or '
-                      'stay left on the arete. Authors note: other guides identify several other variations on '
+                      'stay left on the arête. Authors note: other guides identify several other variations on '
                       'this route, this book intentionally omits other variations in preference of encouraging '
                       'climbers to find their own beta.')
 Variation(name='Tyler Durten Dyno',
@@ -812,7 +813,7 @@ Variation(name='Tyler Durten Dyno',
 Variation(name='Spray Against the Undertow',
           parent=book.routes['Undertow'],
           grade=6,
-          description='Sit start as for Spray Skirt, climb into Undertow.')
+          description='Sit start as for Spray Skirt, climb into Undertow. This route is also called Dark Crystal.')
 Variation(name='Undertow Sit Start',
           parent=book.routes['Undertow'],
           grade=7,
@@ -835,7 +836,7 @@ Variation(name='Leave it to Jesus Sit Start',
           parent=book.routes['Leave it to Jesus'],
           grade=7,
           grade_unconfirmed=True,
-          description='Sit start on razor crimps to the lower left of the stand start.')
+          description='Sit start on razor crimps to the lower left of the stand start. A key hold has broken on this, but it seems like the moves still go.')
 Variation(name='Leave it to Jesus Left',
           parent=book.routes['Leave it to Jesus'],
           grade=10,
@@ -851,7 +852,7 @@ Variation(name='Octernal Direct Exit',
           grade=7,
           rating=3,
           description='Of all the Octernal exits this one has the most interesting moves. Climb Octernal to the ledge '
-                      'then pull some tricky moves to round the right arete. Continue on through a heads up top out.')
+                      'then pull some tricky moves to round the right arête. Continue on through a heads up top out.')
 Variation(name='Octernal Center Exit',
           parent=book.routes['Octernal'],
           grade='6/7',
@@ -905,11 +906,21 @@ Variation(name='Bitchin Corners Sit',
           parent=book.routes['Bitchin Corners'],
           rating=2,
           grade=6,
-          description='Sit start with hands matched on a sharp corner at the bottom of the right arete.')
+          description='Sit start with hands matched on a sharp corner at the bottom of the right arête.')
+Variation(name='Garden Groove Extension',
+          parent=book.routes['Garden Groove'],
+          grade='5.10b',
+          rating=2,
+          description='50\', Mixed. 2 bolts. Continue past the first bolted anchor to another bolted anchor at the top of the boulder. Optional walk off.',)
+Variation(name='Azain Crack',
+          parent=book.routes['Garden Groove'],
+          grade=1,
+          rating=2,
+          description='Climb to the top of the crack then drop off or downclimb.',)
 Variation(name='Brain Haemorrhage',
           parent=book.routes['Locksmith'],
           grade=7,
-          description='Start as for locksmith and traverse right into philanthropy',
+          description='Start as for locksmith and traverse right into philanthropy.',
           grade_unconfirmed=True, )
 Variation(name='Arboretum Sit Start',
           parent=book.routes['The Arboretum'],
@@ -919,13 +930,13 @@ Variation(name='The Siren Stand Start',
           parent=book.routes['The Siren'],
           grade=3,
           rating=2,
-          description='Start with your left hand on the left arete and right hand on a good sidepull just above the sit '
+          description='Start with your left hand on the left arête and right hand on a good sidepull just above the sit '
                       'start holds.', )
 Variation(name='Bag of Tricks',
           parent=book.routes['Gumby Slab'],
           grade=3,
           rating=1,
-          description='Start as for Siren and traverse right topping on either Gumby Arete or Gumby Slab.')
+          description='Start as for Siren and traverse right topping on either Gumby Arête or Gumby Slab.')
 
 if __name__ == '__main__':
     sys.exit()
