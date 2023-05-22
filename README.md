@@ -3,13 +3,8 @@
 
 # ToDo:
 - Routes to add:
-	- Spray skirt
 	- All Berned down
 	- crazy cool arete
-	- Other lines on Es dirty B
-	- highball right of Daryl Philbin
-	- Enchilada variation
-	- hanging prow project
 	- everything in pink tag
 	- everything in middle garden
 	- Pumpkin spice low
@@ -20,7 +15,3 @@
 - add garden cliffs
 - add something about information sourcing
 - split book input into more managable sections
-
-# specific issues
-- Where should topo lines start, at the hand holds or from the base (from the base looks better but hand holds is sometimes informative)
-- numbering based on sub areas or area?
