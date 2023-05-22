@@ -14,7 +14,6 @@
 	- Pumpkin spice low
 - Add something to intro about definition and naming of routes
 - add something about information sourcing
-- reorganize image files
 - Tracy Brandlt has cleaned and re-established a lot of lines that I haven't documented. Would be best to just talk through them with him since many don't have names and he desrves first dibs on what they are called
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation probably others too)
