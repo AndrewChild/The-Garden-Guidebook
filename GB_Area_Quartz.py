@@ -24,7 +24,7 @@ Subarea(name='Old Miner\'s Camp',
         parent=book.areas['Quartzville Creek'],
         gps='44.58651338802075, -122.35033857932665',
         description='Located on Quartzville approximately 24.8 miles from highway 20, the old miner\'s camp is a '
-                    'popular group campsite there are a few good sized boulders in the river only one boulder has '
+                    'popular group campsite there are a few good sized boulders in the river. Only one boulder has '
                     'established lines on it. Park either at the camp day use area or on the side of the road '
                     'immediately above the Dab Rig boulder. Note: the dab rig boulder is typically underwater in the '
                     'rainy season.')
@@ -42,7 +42,7 @@ Formation(name='Moss Boss',
            description='A large mossy boulder on the roadside of the river and downstream of the parking area.')
 Formation(name='The 4.5',
            parent=book.subareas['Redneck Riviera'],
-           description='A clean overhanging face points downhill the river downstream and across the river from the parking.')
+           description='Located on the river downstream and across the river from the parking. look for a clean "4.5° overhanging" face pointing downhill.')
 Formation(name='The Dab Rig',
            parent=book.subareas['Old Miner\'s Camp'],
            description='')
