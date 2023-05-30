@@ -782,7 +782,7 @@ Route(name='François',
                   'could climb it as a sport route I guess.')
 Route(name='Shake it Out',
       parent=book.formations['François'],
-      item_id='Shake it Out frank',
+      item_id='Shake it Out Frank',
       grade=1,
       serious=2,
       rating=2,
