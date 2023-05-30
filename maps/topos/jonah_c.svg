@@ -1,0 +1,21 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg901" width="1280" height="1776.3199" viewBox="0 0 1280 1776.3199" ns1:docname="jonah.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs905" />
+  <ns1:namedview id="namedview903" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.49146552" ns2:cx="637.88809" ns2:cy="1216.769" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g907" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g907">
+    <ns0:image width="1280" height="1776.3199" preserveAspectRatio="none" ns3:href="jonah.jpg" id="image909" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:9.31;stroke-dasharray:none" d="m 370.321,1340.8876 c 122.08384,8.1389 162.77846,8.1389 185.1605,-75.2851 C 577.86353,1182.1786 400.84196,628.7318 415.08507,512.75215 429.32819,396.7725 598.21084,10.173654 598.21084,10.173654" id="path1028" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:9.31;stroke-dasharray:none" d="M 734.5378,1353.0959 C 612.45396,1318.5055 559.55096,1265.6025 553.44676,1214.7343" id="path1030" />
+    <ns0:path style="fill:none;stroke:#8b0000;stroke-width:9.31;stroke-dasharray:none" d="m 531.06473,1475.1798 c 56.97246,-75.285 24.41677,-238.0635 24.41677,-238.0635" id="path1034" />
+    <ns0:path id="path1028_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="m 370.321,1340.8876 c 122.08384,8.1389 162.77846,8.1389 185.1605,-75.2851 C 577.86353,1182.1786 400.84196,628.7318 415.08507,512.75215 429.32819,396.7725 598.21084,10.173654 598.21084,10.173654" />
+    <ns0:path id="path1030_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="M 734.5378,1353.0959 C 612.45396,1318.5055 559.55096,1265.6025 553.44676,1214.7343" />
+    <ns0:path id="path1034_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="m 531.06473,1475.1798 c 56.97246,-75.285 24.41677,-238.0635 24.41677,-238.0635" />
+    <ns0:circle id="path1032" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.99;stroke-dasharray:none;stroke-opacity:1" cx="517.83899" cy="1035.678" r="41.6556" />
+    <ns0:text id="path1032_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.33;stroke-dasharray:none;stroke-opacity:1" x="504.19318999999996" y="1054.8300000000002">
+      <ns0:text id="path1032_text" x="504.19318999999996" y="1054.8300000000002" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1036" style="fill:#8b0000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.99;stroke-dasharray:none;stroke-opacity:1" cx="553.44678" cy="1428.381" r="41.6556" />
+    <ns0:text id="path1036_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.33;stroke-dasharray:none;stroke-opacity:1" x="526.15518" y="1447.5330000000001">
+      <ns0:text id="path1036_text" x="526.15518" y="1447.5330000000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2a</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

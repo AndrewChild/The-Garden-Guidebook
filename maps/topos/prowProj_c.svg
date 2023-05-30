@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1471" width="1920" height="1280" viewBox="0 0 1920 1280" ns1:docname="prowProj.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1475" />
+  <ns1:namedview id="namedview1473" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.63958333" ns2:cx="956.09121" ns2:cy="639.47883" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g1477" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1477">
+    <ns0:image width="1920" height="1280" preserveAspectRatio="none" ns3:href="prowProj.jpg" id="image1479" />
+    <ns0:path style="fill:none;stroke:#000000;stroke-width:14.0;stroke-dasharray:none" d="M 955.30945,842.73616 C 877.13355,802.08469 834.91857,720.78176 870.87948,630.09772 906.84039,539.41368 823.97394,394.00651 777.0684,348.6645" id="path1598" />
+    <ns0:path id="path1598_clone" style="fill:none;stroke:#FFFFFF;stroke-width:14.0;stroke-dasharray:60.0, 60.0" d="M 955.30945,842.73616 C 877.13355,802.08469 834.91857,720.78176 870.87948,630.09772 906.84039,539.41368 823.97394,394.00651 777.0684,348.6645" />
+    <ns0:circle id="path1600" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:6.0;stroke-dasharray:none;stroke-opacity:1" cx="857.5896" cy="687.16614" r="62.64" />
+    <ns0:text id="path1600_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:2.0;stroke-dasharray:none;stroke-opacity:1" x="816.5496" y="715.96614">
+      <ns0:text id="path1600_text" x="816.5496" y="715.96614" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72.0px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">15</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

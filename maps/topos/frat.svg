@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2399"
+   width="1653.76"
+   height="1280"
+   viewBox="0 0 1653.76 1280"
+   sodipodi:docname="frat.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2403" />
+  <sodipodi:namedview
+     id="namedview2401"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.48226892"
+     inkscape:cx="859.47898"
+     inkscape:cy="564.00068"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2405" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2405">
+    <image
+       width="1653.76"
+       height="1280"
+       preserveAspectRatio="none"
+       xlink:href="frat.jpg"
+       id="image2407" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 447.88289,999.44238 C 539.1183,777.57447 532.8977,547.41242 605.47132,466.54468 678.04494,385.67694 806.60391,267.48562 810.75098,209.42672"
+       id="path2526" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path2528"
+       cx="538.08154"
+       cy="662.49347"
+       rx="27.992682"
+       ry="32.139744" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 680.11847,1003.5894 C 808.67745,781.72153 794.16272,638.64783 814.89804,580.58894 c 20.73532,-58.0589 60.13243,-136.85311 60.13243,-136.85311"
+       id="path2530" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path2532"
+       cx="774.46417"
+       cy="791.05243"
+       rx="11.404426"
+       ry="15.551489" />
+  </g>
+</svg>

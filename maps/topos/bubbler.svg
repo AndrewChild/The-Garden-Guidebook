@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg536"
+   width="1296"
+   height="1163.84"
+   viewBox="0 0 1296 1163.84"
+   sodipodi:docname="bubbler.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs540" />
+  <sodipodi:namedview
+     id="namedview538"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.75010313"
+     inkscape:cx="644.57803"
+     inkscape:cy="582.58656"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g542" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g542">
+    <image
+       width="1296"
+       height="1163.84"
+       preserveAspectRatio="none"
+       xlink:href="bubbler.jpg"
+       id="image544" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       d="M 533.26001,907.87516 C 578.58711,755.89606 689.18402,749.17888 713.23526,498.59811 731.21111,311.31455 749.23031,198.63935 701.23691,105.31885"
+       id="path663"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       id="path761"
+       cx="661.909"
+       cy="691.23828"
+       rx="15.331225"
+       ry="17.997526" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       d="M 215.9703,767.89441 C 165.3106,649.24406 111.9846,538.59261 133.315,459.93676 154.6454,381.28091 350.61845,149.3128 350.61845,149.3128"
+       id="path763" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       id="path765"
+       cx="209.30455"
+       cy="330.62122"
+       rx="14.66465"
+       ry="10.6652" />
+  </g>
+</svg>

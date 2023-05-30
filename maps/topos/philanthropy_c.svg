@@ -1,0 +1,21 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1186" width="1275.2" height="1562.5601" viewBox="0 0 1275.2 1562.5601" ns1:docname="philanthropy.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1190" />
+  <ns1:namedview id="namedview1188" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.79011903" ns2:cx="819.49678" ns2:cy="865.05953" ns2:window-width="1350" ns2:window-height="1050" ns2:window-x="448" ns2:window-y="612" ns2:window-maximized="0" ns2:current-layer="g1192" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1192">
+    <ns0:image width="1275.2" height="1562.5601" preserveAspectRatio="none" ns3:href="philanthropy.jpg" id="image1194" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:9.31;stroke-dasharray:none" d="M 558.88818,1048.4187 C 776.80534,982.19341 497.58499,363.34444 497.58499,363.34444" id="path1313" ns1:nodetypes="cc" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:9.31;stroke-dasharray:none" d="M 818.86396,1050.4746 C 678.3788,993.52119 621.42536,727.73845 621.42536,727.73845" id="path1315" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:9.31;stroke-dasharray:none" d="M 318.93929,906.19258 C 423.98675,888.47373 575.8626,526.50295 531.56548,444.23686" id="path1319" />
+    <ns0:path id="path1313_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="M 558.88818,1048.4187 C 776.80534,982.19341 497.58499,363.34444 497.58499,363.34444" />
+    <ns0:path id="path1315_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="M 818.86396,1050.4746 C 678.3788,993.52119 621.42536,727.73845 621.42536,727.73845" />
+    <ns0:path id="path1319_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="M 318.93929,906.19258 C 423.98675,888.47373 575.8626,526.50295 531.56548,444.23686" />
+    <ns0:circle id="path1317" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.99;stroke-dasharray:none;stroke-opacity:1" cx="635.34729" cy="791.02008" r="41.6556" />
+    <ns0:text id="path1317_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.33;stroke-dasharray:none;stroke-opacity:1" x="621.70149" y="810.17208">
+      <ns0:text id="path1317_text" x="621.70149" y="810.17208" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1321" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.99;stroke-dasharray:none;stroke-opacity:1" cx="439.80716" cy="779.62939" r="41.6556" />
+    <ns0:text id="path1321_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.33;stroke-dasharray:none;stroke-opacity:1" x="412.51556" y="798.78139">
+      <ns0:text id="path1321_text" x="412.51556" y="798.78139" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1a</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2331"
+   width="1280"
+   height="1920"
+   viewBox="0 0 1280 1920"
+   sodipodi:docname="weiner.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2335" />
+  <sodipodi:namedview
+     id="namedview2333"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4546875"
+     inkscape:cx="640"
+     inkscape:cy="1312.9897"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2337" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2337">
+    <image
+       width="1280"
+       height="1920"
+       preserveAspectRatio="none"
+       xlink:href="weiner.jpg"
+       id="image2339" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 976.49485,1834.2268 C 866.52921,1686.8729 600.41237,1156.8385 659.79382,903.91753"
+       id="path2458"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path2460"
+       cx="727.97253"
+       cy="1338.2817"
+       rx="35.189003"
+       ry="29.690722" />
+  </g>
+</svg>

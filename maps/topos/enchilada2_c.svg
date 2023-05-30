@@ -1,0 +1,25 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1949" width="1350.08" height="1261.76" viewBox="0 0 1350.08 1261.76" ns1:docname="enchilada2.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1953" />
+  <ns1:namedview id="namedview1951" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.4892406" ns2:cx="638.74503" ns2:cy="564.13961" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1955" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1955">
+    <ns0:image width="1350.08" height="1261.76" preserveAspectRatio="none" ns3:href="enchilada2.jpg" id="image1957" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:9.87;stroke-dasharray:none" d="M 848.2534,952.49659 C 690.86663,833.94551 617.2832,788.97786 619.32718,670.42678 621.37117,551.87571 878.91316,498.73212 878.91316,412.88479 c 0,-85.84733 -67.45147,-302.50965 -67.45147,-302.50965" id="path2076" />
+    <ns0:path style="fill:none;stroke:#000000;stroke-width:9.87;stroke-dasharray:none" d="M 1203.9066,1030.168 C 977.0244,956.58456 899.353,989.2883 852.34137,952.49659" id="path2080" />
+    <ns0:path style="fill:none;stroke:#000000;stroke-width:9.87;stroke-dasharray:none" d="M 617.2832,682.69069 C 637.72304,484.42423 267.76192,322.94949 275.93785,192.13451 284.11379,61.319523 322.94949,63.363507 322.94949,63.363507" id="path2084" />
+    <ns0:path id="path2076_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.87;stroke-dasharray:42.3, 42.3" d="M 848.2534,952.49659 C 690.86663,833.94551 617.2832,788.97786 619.32718,670.42678 621.37117,551.87571 878.91316,498.73212 878.91316,412.88479 c 0,-85.84733 -67.45147,-302.50965 -67.45147,-302.50965" />
+    <ns0:path id="path2080_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.87;stroke-dasharray:42.3, 42.3" d="M 1203.9066,1030.168 C 977.0244,956.58456 899.353,989.2883 852.34137,952.49659" />
+    <ns0:path id="path2084_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.87;stroke-dasharray:42.3, 42.3" d="M 617.2832,682.69069 C 637.72304,484.42423 267.76192,322.94949 275.93785,192.13451 284.11379,61.319523 322.94949,63.363507 322.94949,63.363507" />
+    <ns0:circle id="path2078" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.2299999999999995;stroke-dasharray:none;stroke-opacity:1" cx="760.36206" cy="522.23792" r="44.1612" />
+    <ns0:text id="path2078_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.41;stroke-dasharray:none;stroke-opacity:1" x="731.42886" y="542.54192">
+      <ns0:text id="path2078_text" x="731.42886" y="542.54192" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.76px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">16</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path2082" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.2299999999999995;stroke-dasharray:none;stroke-opacity:1" cx="1076.1576" cy="994.39825" r="58.6278" />
+    <ns0:text id="path2082_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.41;stroke-dasharray:none;stroke-opacity:1" x="1032.7578" y="1014.7022499999999">
+      <ns0:text id="path2082_text" x="1032.7578" y="1014.7022499999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.76px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">16b</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path2086" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.2299999999999995;stroke-dasharray:none;stroke-opacity:1" cx="432.30264" cy="393.46695" r="58.6278" />
+    <ns0:text id="path2086_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.41;stroke-dasharray:none;stroke-opacity:1" x="388.90283999999997" y="413.77094999999997">
+      <ns0:text id="path2086_text" x="388.90283999999997" y="413.77094999999997" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.76px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">16a</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

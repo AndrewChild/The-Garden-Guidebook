@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1540"
+   width="1280"
+   height="1580.8"
+   viewBox="0 0 1280 1580.8"
+   sodipodi:docname="chockstone.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1544" />
+  <sodipodi:namedview
+     id="namedview1542"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.39050114"
+     inkscape:cx="531.36849"
+     inkscape:cy="909.08826"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1546" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1546">
+    <image
+       width="1280"
+       height="1580.8"
+       preserveAspectRatio="none"
+       xlink:href="chockstone.jpg"
+       id="image1548" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 437.89885,1206.1424 C 555.6962,883.48014 514.72321,770.80441 468.62859,678.61518 422.53398,586.42595 463.50697,209.98658 463.50697,209.98658"
+       id="path1667" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1669"
+       cx="514.72321"
+       cy="879.63892"
+       rx="25.60812"
+       ry="14.084466" />
+  </g>
+</svg>

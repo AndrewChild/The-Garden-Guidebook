@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1471"
+   width="1920"
+   height="1280"
+   viewBox="0 0 1920 1280"
+   sodipodi:docname="prowProj.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1475" />
+  <sodipodi:namedview
+     id="namedview1473"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.63958333"
+     inkscape:cx="956.09121"
+     inkscape:cy="639.47883"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1477" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1477">
+    <image
+       width="1920"
+       height="1280"
+       preserveAspectRatio="none"
+       xlink:href="prowProj.jpg"
+       id="image1479" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 955.30945,842.73616 C 877.13355,802.08469 834.91857,720.78176 870.87948,630.09772 906.84039,539.41368 823.97394,394.00651 777.0684,348.6645"
+       id="path1598" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1600"
+       cx="857.5896"
+       cy="687.16614"
+       rx="17.980455"
+       ry="14.85342" />
+  </g>
+</svg>

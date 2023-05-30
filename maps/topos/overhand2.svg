@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1048"
+   width="772.15997"
+   height="744"
+   viewBox="0 0 772.15997 744"
+   sodipodi:docname="overhand2.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1052" />
+  <sodipodi:namedview
+     id="namedview1050"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.1733871"
+     inkscape:cx="385.63574"
+     inkscape:cy="372.42612"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1054" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1054">
+    <image
+       width="772.15997"
+       height="744"
+       preserveAspectRatio="none"
+       xlink:href="overhand2.jpg"
+       id="image1056" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 243.73883,392.02749 C 347.71134,345.15464 343.45017,287.20275 335.78007,233.51203 328.10997,179.82131 394.58419,29.828179 394.58419,29.828179"
+       id="path1175" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1177"
+       cx="339.189"
+       cy="185.36082"
+       rx="11.931272"
+       ry="9.8006868" />
+  </g>
+</svg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1100.8"
+   height="1339.2"
+   viewBox="0 0 1100.8 1339.2"
+   sodipodi:docname="azainCrack.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.65188174"
+     inkscape:cx="546.87833"
+     inkscape:cy="670.36699"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="1100.8"
+       height="1339.2"
+       preserveAspectRatio="none"
+       xlink:href="azainCrack.jpg"
+       id="image10" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       d="M 590.59792,1290.1113 C 535.37318,1121.369 421.85565,842.17729 472.47833,704.11544 523.10101,566.05359 379.23456,452.41526 386.57318,239.30721 389.32099,159.51285 363.56287,88.973193 363.56287,88.973193"
+       id="path293"
+       sodipodi:nodetypes="cssc" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       id="path447"
+       cx="477.84741"
+       cy="921.94635"
+       rx="8.4371128"
+       ry="9.2041235" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       d="m 527.70307,1104.4948 c 133.45979,36.8165 412.65153,-7.6701 447.93401,-36.8165"
+       id="path391" />
+    <circle
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       id="path445"
+       cx="770.07831"
+       cy="1113.699"
+       r="9.2041235" />
+  </g>
+</svg>

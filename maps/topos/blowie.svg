@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg292"
+   width="1175.36"
+   height="1100.16"
+   viewBox="0 0 1175.36 1100.16"
+   sodipodi:docname="blowie.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs296" />
+  <sodipodi:namedview
+     id="namedview294"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.79352092"
+     inkscape:cx="585.36579"
+     inkscape:cy="551.97033"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g298" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g298">
+    <image
+       width="1175.36"
+       height="1100.16"
+       preserveAspectRatio="none"
+       xlink:href="blowie.jpg"
+       id="image300" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       d="M 379.32207,941.37405 C 311.27094,824.17487 299.92908,786.36868 252.04124,742.26147 204.15341,698.15425 170.12784,626.32249 230.61774,531.80703 291.10764,437.29156 347.81692,278.50558 347.81692,278.50558"
+       id="path473" />
+    <circle
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       id="path527"
+       cx="290.47754"
+       cy="786.99878"
+       r="11.971959" />
+  </g>
+</svg>

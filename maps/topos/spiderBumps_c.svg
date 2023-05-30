@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1750" width="1465.28" height="1280" viewBox="0 0 1465.28 1280" ns1:docname="spiderBumps.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1754" />
+  <ns1:namedview id="namedview1752" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.68203125" ns2:cx="730.90493" ns2:cy="640.7331" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1756" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1756">
+    <ns0:image width="1465.28" height="1280" preserveAspectRatio="none" ns3:href="spiderBumps.jpg" id="image1758" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:10.71;stroke-dasharray:none" d="M 668.59107,909.04926 C 656.8614,741.90149 543.96334,554.2268 543.96334,554.2268" id="path1877" />
+    <ns0:path id="path1877_clone" style="fill:none;stroke:#FFFFFF;stroke-width:10.71;stroke-dasharray:45.9, 45.9" d="M 668.59107,909.04926 C 656.8614,741.90149 543.96334,554.2268 543.96334,554.2268" />
+    <ns0:circle id="path1879" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.59;stroke-dasharray:none;stroke-opacity:1" cx="626.80414" cy="731.638" r="47.9196" />
+    <ns0:text id="path1879_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.53;stroke-dasharray:none;stroke-opacity:1" x="611.1063399999999" y="753.6700000000001">
+      <ns0:text id="path1879_text" x="611.1063399999999" y="753.6700000000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.08px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

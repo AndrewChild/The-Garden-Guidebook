@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg609"
+   width="1538.5601"
+   height="1280"
+   viewBox="0 0 1538.5601 1280"
+   sodipodi:docname="berned.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs613" />
+  <sodipodi:namedview
+     id="namedview611"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.68203125"
+     inkscape:cx="766.09393"
+     inkscape:cy="523.43643"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g615" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g615">
+    <image
+       width="1538.5601"
+       height="1280"
+       preserveAspectRatio="none"
+       xlink:href="berned.jpg"
+       id="image617" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       d="M 516.10538,986.7583 C 498.51088,884.12371 771.22566,505.84192 900.252,412.00458 1029.2784,318.16724 1007.2852,189.1409 916.3803,115.83047 871.73749,79.828201 774.15808,2.932417 774.15808,2.932417"
+       id="path738"
+       sodipodi:nodetypes="cssc" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       id="path740"
+       cx="748.49945"
+       cy="569.62201"
+       rx="18.327606"
+       ry="15.395189" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       d="M 521.97022,992.62314 C 554.2268,859.19817 714.04353,681.78694 832.80642,667.12485 951.5693,652.46277 1046.8729,561.55785 1046.8729,561.55785"
+       id="path742"
+       sodipodi:nodetypes="csc" />
+    <circle
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       id="path744"
+       cx="942.03894"
+       cy="634.13519"
+       r="15.395189" />
+  </g>
+</svg>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg750"
+   width="1280"
+   height="1646.4"
+   viewBox="0 0 1280 1646.4"
+   sodipodi:docname="hula.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs754" />
+  <sodipodi:namedview
+     id="namedview752"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.37494182"
+     inkscape:cx="702.7757"
+     inkscape:cy="701.44216"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g756" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g756">
+    <image
+       width="1280"
+       height="1646.4"
+       preserveAspectRatio="none"
+       xlink:href="hula.jpg"
+       id="image758" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 592.09186,1413.5526 C 570.75522,1120.1738 461.40492,986.81977 512.07945,909.47444 562.75398,832.1291 698.77508,768.11917 701.44216,688.10676 704.10924,608.09435 413.39747,82.679494 413.39747,82.679494"
+       id="path877" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path881"
+       cx="512.07947"
+       cy="902.80676"
+       rx="21.336643"
+       ry="17.336023" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="m 592.09186,1370.8794 c -16.00248,-104.0162 146.68943,-170.6932 232.036,-184.0286 85.34658,-13.3354 162.69191,-53.3416 157.35775,-106.6832"
+       id="path879" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path883"
+       cx="789.45581"
+       cy="1190.8514"
+       rx="21.336643"
+       ry="30.671425" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 1005.4893,824.12786 C 837.46326,760.11793 922.80984,696.108 768.11917,544.08441 613.42851,392.06083 576.08938,381.39251 536.08317,309.38133"
+       id="path886" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path888"
+       cx="842.79742"
+       cy="636.09869"
+       rx="10.668322"
+       ry="17.336023" />
+  </g>
+</svg>

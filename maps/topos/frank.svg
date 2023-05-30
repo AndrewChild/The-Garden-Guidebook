@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2261"
+   width="1280"
+   height="1920"
+   viewBox="0 0 1280 1920"
+   sodipodi:docname="frank.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2265" />
+  <sodipodi:namedview
+     id="namedview2263"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4546875"
+     inkscape:cx="640"
+     inkscape:cy="609.20962"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2267" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2267">
+    <image
+       width="1280"
+       height="1920"
+       preserveAspectRatio="none"
+       xlink:href="frank.jpg"
+       id="image2269" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 752.16495,1429.5533 C 813.7457,1293.1959 789.55326,818.14433 727.97251,600.41237 666.39175,382.68041 486.04811,101.16838 486.04811,101.16838"
+       id="path2388" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path2390"
+       cx="746.66669"
+       cy="680.68726"
+       rx="40.687286"
+       ry="25.292097" />
+  </g>
+</svg>

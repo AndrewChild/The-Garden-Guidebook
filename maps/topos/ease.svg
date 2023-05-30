@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1805"
+   width="1184"
+   height="1032.96"
+   viewBox="0 0 1184 1032.96"
+   sodipodi:docname="ease.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1809" />
+  <sodipodi:namedview
+     id="namedview1807"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.84514408"
+     inkscape:cx="588.65702"
+     inkscape:cy="517.0716"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1811" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1811">
+    <image
+       width="1184"
+       height="1032.96"
+       preserveAspectRatio="none"
+       xlink:href="ease.jpg"
+       id="image1813" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 304.09016,686.27351 C 397.56535,489.8573 449.62747,260.31064 447.26101,239.0125"
+       id="path1932" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1934"
+       cx="388.69113"
+       cy="473.8837"
+       rx="17.156837"
+       ry="14.790378" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 856.65866,726.50334 C 868.49096,478.025 886.23942,448.44424 869.67419,394.01566"
+       id="path1936" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1938"
+       cx="864.34967"
+       cy="595.16479"
+       rx="18.340069"
+       ry="13.015532" />
+  </g>
+</svg>

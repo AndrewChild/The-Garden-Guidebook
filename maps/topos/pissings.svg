@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1333"
+   width="1277.12"
+   height="1176.3199"
+   viewBox="0 0 1277.12 1176.3199"
+   sodipodi:docname="pissings.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1337" />
+  <sodipodi:namedview
+     id="namedview1335"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.74214503"
+     inkscape:cx="635.32057"
+     inkscape:cy="588.8337"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1339" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1339">
+    <image
+       width="1277.12"
+       height="1176.3199"
+       preserveAspectRatio="none"
+       xlink:href="pissings.jpg"
+       id="image1341" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 444.65702,789.60308 C 493.16506,560.53734 555.14756,273.53144 549.75778,229.06574"
+       id="path1460" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1462"
+       cx="489.12274"
+       cy="579.40155"
+       rx="30.991247"
+       ry="24.254019" />
+  </g>
+</svg>

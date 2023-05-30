@@ -3,10 +3,10 @@
 
 <svg
    version="1.1"
-   id="svg735"
-   width="904.64001"
-   height="789.44"
-   viewBox="0 0 904.64001 789.44"
+   id="svg471"
+   width="1428.16"
+   height="1246.4"
+   viewBox="0 0 1428.16 1246.4"
    sodipodi:docname="baldo.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -15,9 +15,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs739" />
+     id="defs475" />
   <sodipodi:namedview
-     id="namedview737"
+     id="namedview473"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -26,36 +26,36 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.0729124"
-     inkscape:cx="422.68128"
-     inkscape:cy="395.18602"
+     inkscape:zoom="0.70041719"
+     inkscape:cx="713.14641"
+     inkscape:cy="625.34159"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="379"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g741" />
+     inkscape:current-layer="g477" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g741">
+     id="g477">
     <image
-       width="904.64001"
-       height="789.44"
+       width="1428.16"
+       height="1246.4"
        preserveAspectRatio="none"
        xlink:href="baldo.jpg"
-       id="image743" />
+       id="image479" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
-       d="M 421.28321,480.00189 C 312.23424,428.73955 199.4571,408.23462 203.18527,346.71981 c 3.72817,-61.5148 91.34016,-96.00038 125.82573,-210.6416 14.69824,-48.861702 13.0486,-82.019745 13.0486,-82.019745"
-       id="path862"
-       sodipodi:nodetypes="cssc" />
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       d="M 698.15534,878.04813 C 645.32968,672.45637 521.53644,625.9461 523.97344,493.9913 527.48028,304.10852 772.39681,54.25338 772.39681,54.25338"
+       id="path598"
+       sodipodi:nodetypes="csc" />
     <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:10.0006"
-       id="path864"
-       cx="284.27295"
-       cy="227.41837"
-       rx="13.048595"
-       ry="12.116552" />
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:10"
+       id="path600"
+       cx="621.05841"
+       cy="701.72467"
+       rx="28.554411"
+       ry="29.26827" />
   </g>
 </svg>

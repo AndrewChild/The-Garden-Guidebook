@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1750"
+   width="1465.28"
+   height="1280"
+   viewBox="0 0 1465.28 1280"
+   sodipodi:docname="spiderBumps.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1754" />
+  <sodipodi:namedview
+     id="namedview1752"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.68203125"
+     inkscape:cx="730.90493"
+     inkscape:cy="640.7331"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1756" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1756">
+    <image
+       width="1465.28"
+       height="1280"
+       preserveAspectRatio="none"
+       xlink:href="spiderBumps.jpg"
+       id="image1758" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 668.59107,909.04926 C 656.8614,741.90149 543.96334,554.2268 543.96334,554.2268"
+       id="path1877" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1879"
+       cx="626.80414"
+       cy="731.638"
+       rx="24.19244"
+       ry="14.662085" />
+  </g>
+</svg>

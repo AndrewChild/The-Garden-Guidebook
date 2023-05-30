@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1186"
+   width="1275.2"
+   height="1562.5601"
+   viewBox="0 0 1275.2 1562.5601"
+   sodipodi:docname="philanthropy.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1190" />
+  <sodipodi:namedview
+     id="namedview1188"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.79011903"
+     inkscape:cx="819.49678"
+     inkscape:cy="865.05953"
+     inkscape:window-width="1350"
+     inkscape:window-height="1050"
+     inkscape:window-x="448"
+     inkscape:window-y="612"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1192" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1192">
+    <image
+       width="1275.2"
+       height="1562.5601"
+       preserveAspectRatio="none"
+       xlink:href="philanthropy.jpg"
+       id="image1194" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 558.88818,1048.4187 C 776.80534,982.19341 497.58499,363.34444 497.58499,363.34444"
+       id="path1313"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 818.86396,1050.4746 C 678.3788,993.52119 621.42536,727.73845 621.42536,727.73845"
+       id="path1315" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1317"
+       cx="635.34729"
+       cy="791.02008"
+       rx="29.109537"
+       ry="24.04701" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 318.93929,906.19258 C 423.98675,888.47373 575.8626,526.50295 531.56548,444.23686"
+       id="path1319" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1321"
+       cx="439.80716"
+       cy="779.62939"
+       rx="18.351665"
+       ry="18.984482" />
+  </g>
+</svg>

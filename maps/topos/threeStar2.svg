@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1888"
+   width="1280"
+   height="1102.72"
+   viewBox="0 0 1280 1102.72"
+   sodipodi:docname="threeStar2.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1892" />
+  <sodipodi:namedview
+     id="namedview1890"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.79167878"
+     inkscape:cx="638.51655"
+     inkscape:cy="551.99155"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1894" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1894">
+    <image
+       width="1280"
+       height="1102.72"
+       preserveAspectRatio="none"
+       xlink:href="threeStar2.jpg"
+       id="image1896" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 469.88755,767.98825 C 591.14885,680.83169 663.14775,658.09519 622.72731,492.62404 582.30688,327.15289 476.20324,169.26057 631.56928,85.893423"
+       id="path2017" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 736.40979,764.19883 C 642.93753,723.7784 632.83242,562.09666 632.83242,562.09666"
+       id="path2019" />
+    <circle
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path2021"
+       cx="632.20087"
+       cy="710.51544"
+       r="20.841787" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path2023"
+       cx="590.51727"
+       cy="382.09943"
+       rx="22.104925"
+       ry="20.841787" />
+  </g>
+</svg>

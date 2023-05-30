@@ -21,6 +21,7 @@
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation probably others too)
 - A lot of topos are very dark should go back on a cloudy day and shoot in HDR
+- update big frank map
 - Topos to redo:
 	- toilet bowl
 	- tonsil

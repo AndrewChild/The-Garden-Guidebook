@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg901"
+   width="1280"
+   height="1776.3199"
+   viewBox="0 0 1280 1776.3199"
+   sodipodi:docname="jonah.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs905" />
+  <sodipodi:namedview
+     id="namedview903"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.49146552"
+     inkscape:cx="637.88809"
+     inkscape:cy="1216.769"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g907" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g907">
+    <image
+       width="1280"
+       height="1776.3199"
+       preserveAspectRatio="none"
+       xlink:href="jonah.jpg"
+       id="image909" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="m 370.321,1340.8876 c 122.08384,8.1389 162.77846,8.1389 185.1605,-75.2851 C 577.86353,1182.1786 400.84196,628.7318 415.08507,512.75215 429.32819,396.7725 598.21084,10.173654 598.21084,10.173654"
+       id="path1028" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="M 734.5378,1353.0959 C 612.45396,1318.5055 559.55096,1265.6025 553.44676,1214.7343"
+       id="path1030" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1032"
+       cx="517.83899"
+       cy="1035.678"
+       rx="23.399405"
+       ry="22.382038" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       d="m 531.06473,1475.1798 c 56.97246,-75.285 24.41677,-238.0635 24.41677,-238.0635"
+       id="path1034" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
+       id="path1036"
+       cx="553.44678"
+       cy="1428.381"
+       rx="28.486231"
+       ry="22.382038" />
+  </g>
+</svg>
