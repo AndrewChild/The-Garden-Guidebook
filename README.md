@@ -3,48 +3,34 @@
 
 # ToDo:
 - Routes to add:
-	- All Berned down
 	- crazy cool arete
 	- obie
 	- pockets(?) whatever the thing on Big across from the good is
-	- other lines on Big Frank
+	- other lines on Francois
 	- Oregon arete
-	- somewhere in between
-	- thing on the backside of boys in the woods facing trust
-	- A boy and his wood
-	- everything in pink tag
+	- A boy and his wood/tabor tots
 	- everything in middle garden
 	- Pumpkin spice low
 - Add something to intro about definition and naming of routes
-- add something about information sourcing
-- Tracy Brandlt has cleaned and re-established a lot of lines that I haven't documented. Would be best to just talk through them with him since many don't have names and he desrves first dibs on what they are called
+- Add something about information sourcing
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation probably others too)
-- A lot of topos are very dark should go back on a cloudy day and shoot in HDR
-- update big frank map
+- Add map of pink tag
+- Add action photos
 - Topos to redo:
 	- toilet bowl
-	- tonsil
-	- three star
 	- overhand
 	- office
-	- enchilada
-	- baldo
-	- hula
 	- gumby wall
-- Topos to add:
-	- good warm up
-	- chockstone
-	- hanging prow proj
-	- Methlab Prow
 	- Bubbler
-	- Bernd
-	- smol
 	- blowie
-	- Garden Groove/light cave
-	- full stroke/philanthropy
+	- frat house
+	- Francois
+- Topos to add:
+	- Methlab Prow
 	- everything at the cliffs
-	- everything at pink tag
 	- pumpkin spice
 	- everything at middle garden
 	- dab rig (quartzville)
+	- yo mamma
+	- moss boss
