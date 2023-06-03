@@ -17,6 +17,7 @@
 - Add map of pink tag
 - Add action photos
 - Do topos need titles?
+- Render a version with action photos
 - Topos to redo:
 	- toilet bowl
 	- office
