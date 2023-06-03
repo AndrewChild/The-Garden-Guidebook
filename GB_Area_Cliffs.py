@@ -40,7 +40,7 @@ Formation(name='Johny Cash\'s Thunderdome',
           description='')
           
           
-Route(name='Sword and Shield',
+Route(name='Bonsai',
       parent=book.formations['Garden Cliff Right Side'],
       grade='5.12a',
       grade_unconfirmed=True,
