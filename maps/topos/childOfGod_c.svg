@@ -1,10 +1,10 @@
 <ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg776" width="1557.12" height="846.08002" viewBox="0 0 1557.12 846.08002" ns1:docname="childOfGod.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
   <ns0:defs id="defs780" />
-  <ns1:namedview id="namedview778" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.78863543" ns2:cx="984.61211" ns2:cy="409.56821" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g782" />
+  <ns1:namedview id="namedview778" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.78863543" ns2:cx="771.58593" ns2:cy="410.83622" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g782" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g782">
     <ns0:image width="1557.12" height="846.08002" preserveAspectRatio="none" ns3:href="childOfGod.jpg" id="image784" />
     <ns0:path style="fill:none;stroke:#4169e1;stroke-width:5.67;stroke-dasharray:none" d="M 683.45902,423.51635 C 763.34385,216.83022 653.02671,191.46996 722.76742,114.12117 788.23694,41.509516 831.81654,49.452508 831.81654,49.452508" id="path903" ns1:nodetypes="csc" />
-    <ns0:path style="fill:none;stroke:#000000;stroke-width:5.67;stroke-dasharray:none" d="m 621.32638,734.17954 c 22.82424,-81.15283 20.87205,-96.74177 -8.87609,-140.74944 -38.99864,-57.69232 54.88275,-117.27028 70.40659,-170.1313" id="path1462" ns1:nodetypes="csc" />
+    <ns0:path style="fill:none;stroke:#000000;stroke-width:5.67;stroke-dasharray:none" d="M 621.32638,734.17954 C 627.0469,713.83993 649.54698,643.5121 633.99522,622.94305 587.49712,561.44384 442.45216,552.13517 420.98032,518.61733 371.83757,441.90482 384.56613,368.37871 438.13037,302.83756" id="path1462" ns1:nodetypes="cssc" />
     <ns0:path style="fill:none;stroke:#8b0000;stroke-width:5.67;stroke-dasharray:none" d="M 877.79158,570.69902 C 904.6902,555.00816 903.34526,457.27651 854.47944,403.03096 805.61362,348.78542 749.12651,230.4315 802.02713,172.15116 854.92775,113.87082 884.96454,71.281338 884.96454,71.281338" id="path1466" ns1:nodetypes="cssc" />
     <ns0:path style="fill:none;stroke:#8b0000;stroke-width:5.67;stroke-dasharray:none" d="M 1002.4218,557.24971 C 949.52123,529.90278 870.61861,424.54986 870.61861,424.54986" id="path1468" />
     <ns0:path style="fill:none;stroke:#8b0000;stroke-width:5.67;stroke-dasharray:none" d="m 1065.1853,564.87098 c 17.0358,-30.03679 -0.4483,-213.84401 -14.7943,-260.46828 -14.3459,-46.62427 35.4166,-114.76744 35.4166,-114.76744" id="path1472" />
@@ -13,8 +13,10 @@
     <ns0:path style="fill:none;stroke:#4169e1;stroke-width:5.67;stroke-dasharray:none" d="m 1249.6268,642.8826 c 36.1384,-206.68612 56.4425,-341.53271 48.1846,-398.15608 -4.9432,-33.89424 -39.3085,-57.6946 -39.3085,-57.6946" id="path1482" ns1:nodetypes="csc" />
     <ns0:path style="fill:none;stroke:#008000;stroke-width:5.67;stroke-dasharray:none" d="m 1252.1629,643.51661 c 55.7925,-46.28247 183.2278,-16.48417 209.2221,-28.53029 25.9943,-12.04613 26.6283,-28.5303 26.6283,-28.5303" id="path1486" />
     <ns0:path style="fill:none;stroke:#008000;stroke-width:5.67;stroke-dasharray:none" d="m 1479.7712,668.24286 c -2.536,-12.04612 -12.6801,-166.74371 -26.6283,-202.88208 -13.9481,-36.13837 -71.6427,-177.52182 -71.6427,-177.52182" id="path1490" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:5.67;stroke-dasharray:none" d="M 79.884821,542.70958 C 128.06932,415.90827 157.23362,366.45577 182.59388,358.84769" id="path1913" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:5.67;stroke-dasharray:none" d="M 182.59387,358.84769 C 243.4585,349.9716 390.54801,363.91974 445.07257,291.643 523.3802,176.81728 649.84629,190.87643 746.85967,91.296938" id="path1915" ns1:nodetypes="ccc" />
     <ns0:path id="path903_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="M 683.45902,423.51635 C 763.34385,216.83022 653.02671,191.46996 722.76742,114.12117 788.23694,41.509516 831.81654,49.452508 831.81654,49.452508" />
-    <ns0:path id="path1462_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="m 621.32638,734.17954 c 22.82424,-81.15283 20.87205,-96.74177 -8.87609,-140.74944 -38.99864,-57.69232 54.88275,-117.27028 70.40659,-170.1313" />
+    <ns0:path id="path1462_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="M 621.32638,734.17954 C 627.0469,713.83993 649.54698,643.5121 633.99522,622.94305 587.49712,561.44384 442.45216,552.13517 420.98032,518.61733 371.83757,441.90482 384.56613,368.37871 438.13037,302.83756" />
     <ns0:path id="path1466_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="M 877.79158,570.69902 C 904.6902,555.00816 903.34526,457.27651 854.47944,403.03096 805.61362,348.78542 749.12651,230.4315 802.02713,172.15116 854.92775,113.87082 884.96454,71.281338 884.96454,71.281338" />
     <ns0:path id="path1468_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="M 1002.4218,557.24971 C 949.52123,529.90278 870.61861,424.54986 870.61861,424.54986" />
     <ns0:path id="path1472_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="m 1065.1853,564.87098 c 17.0358,-30.03679 -0.4483,-213.84401 -14.7943,-260.46828 -14.3459,-46.62427 35.4166,-114.76744 35.4166,-114.76744" />
@@ -23,13 +25,15 @@
     <ns0:path id="path1482_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="m 1249.6268,642.8826 c 36.1384,-206.68612 56.4425,-341.53271 48.1846,-398.15608 -4.9432,-33.89424 -39.3085,-57.6946 -39.3085,-57.6946" />
     <ns0:path id="path1486_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="m 1252.1629,643.51661 c 55.7925,-46.28247 183.2278,-16.48417 209.2221,-28.53029 25.9943,-12.04613 26.6283,-28.5303 26.6283,-28.5303" />
     <ns0:path id="path1490_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="m 1479.7712,668.24286 c -2.536,-12.04612 -12.6801,-166.74371 -26.6283,-202.88208 -13.9481,-36.13837 -71.6427,-177.52182 -71.6427,-177.52182" />
+    <ns0:path id="path1913_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="M 79.884821,542.70958 C 128.06932,415.90827 157.23362,366.45577 182.59388,358.84769" />
+    <ns0:path id="path1915_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.67;stroke-dasharray:24.3, 24.3" d="M 182.59387,358.84769 C 243.4585,349.9716 390.54801,363.91974 445.07257,291.643 523.3802,176.81728 649.84629,190.87643 746.85967,91.296938" />
     <ns0:circle id="path1460" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:2.43;stroke-dasharray:none;stroke-opacity:1" cx="714.52533" cy="294.17902" r="25.3692" />
     <ns0:text id="path1460_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.81;stroke-dasharray:none;stroke-opacity:1" x="706.21473" y="305.84301999999997">
       <ns0:text id="path1460_text" x="706.21473" y="305.84301999999997" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.160000000000004px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
     </ns0:text>
-    <ns0:circle id="path1464" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:2.43;stroke-dasharray:none;stroke-opacity:1" cx="634.58325" cy="677.17273" r="25.3692" />
-    <ns0:text id="path1464_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.81;stroke-dasharray:none;stroke-opacity:1" x="626.27265" y="688.83673">
-      <ns0:text id="path1464_text" x="626.27265" y="688.83673" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.160000000000004px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
+    <ns0:circle id="path1464" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:2.43;stroke-dasharray:none;stroke-opacity:1" cx="571.18256" cy="579.53577" r="25.3692" />
+    <ns0:text id="path1464_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.81;stroke-dasharray:none;stroke-opacity:1" x="562.87196" y="591.19977">
+      <ns0:text id="path1464_text" x="562.87196" y="591.19977" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.160000000000004px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
     </ns0:text>
     <ns0:circle id="path1470" style="fill:#8b0000;fill-opacity:1;stroke:#FFFFFF;stroke-width:2.43;stroke-dasharray:none;stroke-opacity:1" cx="840.13348" cy="386.21933" r="25.3692" />
     <ns0:text id="path1470_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.81;stroke-dasharray:none;stroke-opacity:1" x="831.8228799999999" y="397.88333">
@@ -54,6 +58,14 @@
     <ns0:circle id="path1492" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:2.43;stroke-dasharray:none;stroke-opacity:1" cx="1453.1429" cy="467.26279" r="25.3692" />
     <ns0:text id="path1492_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.81;stroke-dasharray:none;stroke-opacity:1" x="1436.5217" y="478.92679">
       <ns0:text id="path1492_text" x="1436.5217" y="478.92679" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.160000000000004px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">12</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1917" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:2.43;stroke-dasharray:none;stroke-opacity:1" cx="119.19322" cy="443.17056" r="25.3692" />
+    <ns0:text id="path1917_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.81;stroke-dasharray:none;stroke-opacity:1" x="110.88262" y="454.83456">
+      <ns0:text id="path1917_text" x="110.88262" y="454.83456" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.160000000000004px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">5</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1920" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:2.43;stroke-dasharray:none;stroke-opacity:1" cx="270.72079" cy="353.77563" r="25.3692" />
+    <ns0:text id="path1920_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.81;stroke-dasharray:none;stroke-opacity:1" x="254.09959000000003" y="365.43962999999997">
+      <ns0:text id="path1920_text" x="254.09959000000003" y="365.43962999999997" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.160000000000004px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">5a</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

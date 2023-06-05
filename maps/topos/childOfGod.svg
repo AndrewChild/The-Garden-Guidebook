@@ -27,12 +27,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.78863543"
-     inkscape:cx="984.61211"
-     inkscape:cy="409.56821"
-     inkscape:window-width="1536"
-     inkscape:window-height="811"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:cx="771.58593"
+     inkscape:cy="410.83622"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
      inkscape:window-maximized="1"
      inkscape:current-layer="g782" />
   <g
@@ -59,14 +59,14 @@
        ry="8.876091" />
     <path
        style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5;stroke-dasharray:none"
-       d="m 621.32638,734.17954 c 22.82424,-81.15283 20.87205,-96.74177 -8.87609,-140.74944 -38.99864,-57.69232 54.88275,-117.27028 70.40659,-170.1313"
+       d="M 621.32638,734.17954 C 627.0469,713.83993 649.54698,643.5121 633.99522,622.94305 587.49712,561.44384 442.45216,552.13517 420.98032,518.61733 371.83757,441.90482 384.56613,368.37871 438.13037,302.83756"
        id="path1462"
-       sodipodi:nodetypes="csc" />
+       sodipodi:nodetypes="cssc" />
     <ellipse
        style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5;stroke-dasharray:none"
        id="path1464"
-       cx="634.58325"
-       cy="677.17273"
+       cx="571.18256"
+       cy="579.53577"
        rx="9.190361"
        ry="8.7420511" />
     <path
@@ -145,5 +145,28 @@
        cy="467.26279"
        rx="6.9740715"
        ry="8.876091" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       d="M 79.884821,542.70958 C 128.06932,415.90827 157.23362,366.45577 182.59388,358.84769"
+       id="path1913" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="path1917"
+       cx="119.19322"
+       cy="443.17056"
+       rx="12.68013"
+       ry="15.850163" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       d="M 182.59387,358.84769 C 243.4585,349.9716 390.54801,363.91974 445.07257,291.643 523.3802,176.81728 649.84629,190.87643 746.85967,91.296938"
+       id="path1915"
+       sodipodi:nodetypes="ccc" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="path1920"
+       cx="270.72079"
+       cy="353.77563"
+       rx="13.314137"
+       ry="16.484169" />
   </g>
 </svg>

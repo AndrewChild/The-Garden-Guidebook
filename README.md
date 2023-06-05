@@ -12,10 +12,10 @@
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation probably others too)
 - Add map of pink tag
+- add strange love and machete monkey sub areas to upper garden
 - Add action photos
 - Do topos need titles?
 - Render a version with action photos
-- add sebulba to child of god topo
 - Topos to redo:
 	- blowie
 	- Francois
