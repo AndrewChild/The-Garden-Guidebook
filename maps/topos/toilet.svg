@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg897"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="toilet.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs901" />
+  <sodipodi:namedview
+     id="namedview899"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.74618052"
+     inkscape:cx="819.50678"
+     inkscape:cy="548.12473"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g903" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g903">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="toilet.JPG"
+       id="image905" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       d="M 572.24758,864.40208 C 498.53888,663.37834 552.14521,324.3183 552.14521,324.3183"
+       id="path1024" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="path1026"
+       cx="542.09399"
+       cy="715.64453"
+       rx="36.854351"
+       ry="24.122849" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       d="M 363.18289,511.94046 C 447.61286,379.26479 624.46666,406.83489 695.54214,339.06004 799.86705,239.57982 1005.1187,174.22058 1061.4054,81.749651"
+       id="path1034"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="path1036"
+       cx="767.91071"
+       cy="280.09308"
+       rx="20.102373"
+       ry="25.463007" />
+  </g>
+</svg>

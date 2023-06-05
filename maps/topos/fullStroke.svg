@@ -3,10 +3,10 @@
 
 <svg
    version="1.1"
-   id="svg2"
-   width="1018.88"
-   height="1263.04"
-   viewBox="0 0 1018.88 1263.04"
+   id="svg1074"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
    sodipodi:docname="fullStroke.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -15,9 +15,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs6" />
+     id="defs1078" />
   <sodipodi:namedview
-     id="namedview4"
+     id="namedview1076"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -26,36 +26,77 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.69118949"
-     inkscape:cx="509.267"
-     inkscape:cy="632.24341"
+     inkscape:zoom="0.74618052"
+     inkscape:cx="815.48631"
+     inkscape:cy="440.91207"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="379"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g8" />
+     inkscape:current-layer="g1080" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g8">
+     id="g1080">
     <image
-       width="1018.88"
-       height="1263.04"
+       width="1645.7144"
+       height="1097.1429"
        preserveAspectRatio="none"
-       xlink:href="fullStroke.jpg"
-       id="image10" />
+       xlink:href="fullStroke.JPG"
+       id="image1082" />
     <path
-       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
-       d="M 561.35113,855.04772 C 474.54426,635.13697 496.24597,643.81767 396.41806,603.30778 311.28167,568.75967 270.5481,199.65581 364.58888,111.40215"
-       id="path293"
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       d="M 753.16895,849.66034 C 703.5831,578.94837 591.96308,749.80513 501.21919,600.3909 410.4753,450.97667 462.3546,213.08516 519.98141,135.35599"
+       id="path1201"
+       sodipodi:nodetypes="czc" />
+    <circle
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="path1209"
+       cx="479.10657"
+       cy="554.15546"
+       r="24.792929" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       d="M 609.77201,676.77993 C 367.20337,663.37834 318.95767,658.01771 298.85529,608.43185"
+       id="path1203" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="path1217"
+       cx="400.70734"
+       cy="660.02795"
+       rx="18.762217"
+       ry="18.092136" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       d="M 765.23037,852.34066 C 868.42256,848.32018 836.25876,619.15312 873.78319,568.22711"
+       id="path1205"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="path1212"
+       cx="846.98004"
+       cy="700.23267"
+       rx="20.102373"
+       ry="18.092136" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       d="M 871.10288,570.90742 C 966.25412,461.01444 1318.7157,497.19872 1415.2071,348.44115 1492.7536,228.89035 1585.4072,95.151237 1644.3742,83.089813"
+       id="path1207"
        sodipodi:nodetypes="csc" />
     <ellipse
-       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
-       id="path443"
-       cx="350.12106"
-       cy="544.71313"
-       rx="13.021031"
-       ry="20.978329" />
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="path1215"
+       cx="970.94464"
+       cy="515.29083"
+       rx="12.731503"
+       ry="11.391345" />
+    <rect
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="rect444"
+       width="1003.7786"
+       height="1076.1471"
+       x="6.7007914"
+       y="8.0409498" />
   </g>
 </svg>

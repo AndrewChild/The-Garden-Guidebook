@@ -3,11 +3,8 @@
 
 # ToDo:
 - Routes to add:
-	- crazy cool arete
-	- obie
 	- pockets(?) whatever the thing on Big across from the good is
 	- other lines on Francois
-	- Oregon arete
 	- everything in middle garden
 	- Pumpkin spice low
 - Add something to intro about definition and naming of routes
@@ -18,16 +15,13 @@
 - Add action photos
 - Do topos need titles?
 - Render a version with action photos
+- add sebulba to child of god topo
 - Topos to redo:
-	- toilet bowl
-	- office
-	- gumby wall
 	- blowie
-	- frat house
 	- Francois
 - Topos to add:
 	- Methlab Prow
-	-E's V7
+	- E's V7
 	- everything at the cliffs
 	- pumpkin spice
 	- everything at middle garden

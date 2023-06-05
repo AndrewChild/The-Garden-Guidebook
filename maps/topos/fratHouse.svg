@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg930"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="fratHouse.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs934" />
+  <sodipodi:namedview
+     id="namedview932"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.74618052"
+     inkscape:cx="815.48631"
+     inkscape:cy="548.12474"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g936" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g936">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="fratHouse.JPG"
+       id="image938" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       d="M 733.06657,924.70921 C 852.34066,762.55006 889.0864,582.95997 938.11079,363.18289 971.72209,212.50294 958.21316,105.8725 958.21316,105.8725"
+       id="path1057"
+       sodipodi:nodetypes="csc" />
+    <circle
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="path1059"
+       cx="892.54541"
+       cy="565.54681"
+       r="14.741741" />
+    <path
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       d="M 900.58636,972.9549 C 1078.8274,714.30436 1100.2699,494.5184 1093.5691,356.4821"
+       id="path1061" />
+    <circle
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="path1063"
+       cx="1060.0652"
+       cy="647.29645"
+       r="17.422058" />
+    <rect
+       style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:3"
+       id="rect1761"
+       width="1215.5236"
+       height="1061.4054"
+       x="308.23639"
+       y="21.442532" />
+  </g>
+</svg>

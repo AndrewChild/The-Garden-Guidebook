@@ -1,0 +1,15 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg756" width="1645.7144" height="1097.1429" viewBox="0 0 1645.7144 1097.1429" ns1:docname="pSpice.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs760" />
+  <ns1:namedview id="namedview758" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="1.0552586" ns2:cx="818.28282" ns2:cy="724.94078" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g762" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g762">
+    <ns0:image width="1645.7144" height="1097.1429" preserveAspectRatio="none" ns3:href="pSpice.JPG" id="image764" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:11.969999999999999;stroke-dasharray:none" d="M 814.14615,773.9414 C 737.08705,755.17919 688.99982,669.08034 745.78875,597.95769 824.56129,499.30271 801.69921,308.92901 730.62659,204.68916 659.55396,100.44931 747.68402,48.329385 747.68402,48.329385" id="path883" ns1:nodetypes="cssc" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:11.969999999999999;stroke-dasharray:none" d="m 634.91545,729.67895 c 77.70607,-9.47635 90.02533,-85.28715 90.02533,-85.28715" id="path885" />
+    <ns0:path id="path883_clone" style="fill:none;stroke:#FFFFFF;stroke-width:11.969999999999999;stroke-dasharray:51.3, 51.3" d="M 814.14615,773.9414 C 737.08705,755.17919 688.99982,669.08034 745.78875,597.95769 824.56129,499.30271 801.69921,308.92901 730.62659,204.68916 659.55396,100.44931 747.68402,48.329385 747.68402,48.329385" />
+    <ns0:path id="path885_clone" style="fill:none;stroke:#FFFFFF;stroke-width:11.969999999999999;stroke-dasharray:51.3, 51.3" d="m 634.91545,729.67895 c 77.70607,-9.47635 90.02533,-85.28715 90.02533,-85.28715" />
+    <ns0:circle id="path887" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:5.13;stroke-dasharray:none;stroke-opacity:1" cx="790.80139" cy="479.5033" r="53.5572" />
+    <ns0:text id="path887_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.71;stroke-dasharray:none;stroke-opacity:1" x="773.25679" y="504.12730000000005">
+      <ns0:text id="path887_text" x="773.25679" y="504.12730000000005" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.56px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

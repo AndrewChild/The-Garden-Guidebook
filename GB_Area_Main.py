@@ -138,10 +138,15 @@ Formation(name='Hueco Wabo',
           description='An aesthetic boulder sits well off the beaten path.')
 Formation(name='Baldo',
           parent=book.subareas['Big'], )
+Formation(name='Crazy Cool',
+          parent=book.subareas['Big'],
+          description='A small boulder with an eyecatching arête leans against the "Big" boulder\'s western face.')
 Formation(name='Big',
           parent=book.subareas['Big'],
           description='The "Big" boulder is a large moss covered boulder on the eastern boundary of the Garden Main '
                       'area, in other guides this has also been called "roadside", and "North Block".')
+Formation(name='Classique',
+          parent=book.subareas['Big'], )
 Formation(name='Small',
           parent=book.subareas['Big'], )
 Formation(name='The Good',
@@ -297,7 +302,7 @@ Route(name='Austin Powers',
       parent=book.formations['Mini Me'],
       grade=5,
       rating=2,
-      description='Start as for Mini Me but move right into top of Dr. Evil. Also known as Macro Me.')
+      description='Start with small tater tot holds straddlinga blunt corner, Crank to a jug and move right into top of Dr. Evil. Also known as Macro Me. Starting as for Mini Me is also a valid interpretation of this line.')
 Route(name='Dr. Evil',
       parent=book.formations['Mini Me'],
       rating=2,
@@ -595,6 +600,11 @@ Route(name='Hueco Wabo',
       description='Stand start on good side pull underclings pull some rad moves to an insecure, scary top out. '
                   'It\'s possible to bail right at almost any point on this route, but that\'s no fun. A sit start '
                   'might also exist but looks unfun. Grade unconfirmed.')
+Route(name='Crazy Cool Arête',
+      parent=book.formations['Crazy Cool'],
+      grade=5,
+      rating=1,
+      description='Sit start straddling the arête with left hand on a shallow ripple and right hand on a single pad edge.')
 Route(name='Cargo Net Project',
       grade='?',
       parent=book.formations['Big'],
@@ -616,6 +626,11 @@ Route(name='All Berned Up',
       parent=book.formations['Big'],
       description='Follows a hanging knife flake. Apparently there were multiple holds along both sides of the flake, but '
                   'they all broke off. It\'s unclear if this line has been climbed in it\'s current state.')
+Route(name='Classique',
+      parent=book.formations['Classique'],
+      grade=1,
+      rating=1,
+      description='Sit start on a chunky ledge. Climb up and left using face holds and the arête. Climbing to the right side of the arête trivalises the route.')
 Route(name='Smol',
       name_unconfirmed=True,
       parent=book.formations['Small'],
@@ -677,8 +692,8 @@ Route(name='Sometimes',
 Route(name='Simpson\'s First',
       parent=book.formations['Azain'],
       grade=0,
-      grade_unconfirmed=True,
-      description='Climb the dirty slab to the left of the locksmith.')
+      rating=1,
+      description='Climb the dirty slab to the left of the locksmith. Fun if you like highballs.')
 Route(name='Night Crawler',
       parent=book.formations['Night Crawler'],
       grade=10,
@@ -702,6 +717,13 @@ Route(name='Philanthropy',
       description='Stand start with wide hands, left on a crimp sloper and right on a crimp sidepull. Pull a few '
                   'techy moves to gain good jugs and rock over onto the slab. follow the path of least resistance or '
                   'least moss to the top.')
+Route(name='Oregon Arête',
+      parent=book.formations['Garden Roof'],
+      grade=4,
+      rating=2,
+      serious=1,
+      description='Sit start with left hand on huge sidepull and right hand on a shallow crimpy thing on the arête. Crank your way to a no fall zone slab quest top out. This would get tons of traffic if the landing were flat.'
+      )
 Route(name='Full Stroke',
       parent=book.formations['Garden Roof'],
       grade=2,
@@ -709,9 +731,15 @@ Route(name='Full Stroke',
       serious=1,
       description='Stand start on a jug flake. Trend left to a high top in a shallow chimney.'
       )
+Route(name='Eurovision',
+      parent=book.formations['Garden Roof'],
+      grade=2,
+      rating=2,
+      description='Start as for full stroke and climb up and right along the edge of a flared seam to a big knob. Drop off. A straight up top out probably would go, at the cost of a lot of vegetation.'
+      )
 Route(name='Garden Project',
       parent=book.formations['Garden Roof'],
-      description='Project. Sit start at the base of the low roof and climb into garden variety or Full Stroke. Once '
+      description='Project. Sit start at the base of the low roof and climb into garden variety or Sebulba. Once '
                   'climbed this will be one of the hardes routes in Oregon.')
 Route(name='Garden Variety',
       parent=book.formations['Garden Roof'],
@@ -974,6 +1002,19 @@ Variation(name='Brain Haemorrhage',
           grade=7,
           description='Start as for locksmith and traverse right into philanthropy.',
           grade_unconfirmed=True, )
+Variation(name='Dream Weaver',
+          parent=book.routes['Full Stroke'],
+          grade=2,
+          rating=1,
+          serious=2,
+          description='Start on full stroke, but instead of topping in the shallow grove traverse around the corner and finish on Oregon Arête.',)
+Variation(name='Sebulba',
+          parent=book.routes['Eurovision'],
+          grade=3,
+          rating=2,
+          serious=1,
+          description='climb Eurovision and continue right past the knob on jugs topping out above garden variety. The top is no gimme.'
+          )
 Variation(name='Arboretum Sit Start',
           parent=book.routes['The Arboretum'],
           grade='?',
