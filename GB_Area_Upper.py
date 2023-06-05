@@ -12,10 +12,12 @@ Area(name='Upper Garden',
                  'about 0.1 miles before you reach a left hand turnoff to a gated logging road (MS-310). Follow the '
                  'logging road approximately 200 yards up hill until it veers slightly to the right. Look for a '
                  'trail that cuts right through a thin patch of trees to the boulder field (Note: there are a '
-                 'couple of trails and its worth getting on the most tread one as the others are unpleasant). There '
-                 'are a lot of small boulders in this area which have been climbed historically, but are not '
-                 'included in this guide because they are covered in poison oak. This '
-                 'area is also known as Armageddon.',)
+                 'couple of trails and its worth getting on the most tread one as the others are unpleasant). This '
+                 'area is also known as Armageddon or The Clear Cut.'
+                 '\n\n'
+                 'Many sections of this area are covered in pioson oak. Climbers are adivised to wear close toed shoes and pants when recrating in this area. If unfamilar with the plant review the section on poison oak in this book\'s introduction.'
+                 '\n\n'
+                 'Although the Upper Garden appears overgrown, this entire area was clear cut in the early 2000s. Following the clear cut there was almost no vegitation in the area and it was realatively easy to approach and develop the Upper Garden\'s many boulders. This is why the photos in this guide look dramatically different from photos in guides from that era. Even the most isolated and overgrown boulders in this area already have names and routes on them, many of these boulders have been omitted from this guide since they have been swallowed by the poison oak.',)
                  
                  
 Subarea(name='Entrance Area',
@@ -26,8 +28,15 @@ Subarea(name='The Bread Loaves/Scratch and Spliff',
         description='These two boulders are the area\'s main attraction. Historically some groups have called both '
                     'boulders Scratch and Spliff while others called them both the Bread Loaves. The modern compromise '
                     'seems to be that the upper boulder is Scratch and Spliff while the lower boulder is the Bread Loaf.')
+Subarea(name='Dr. Strangelove',
+        parent=book.areas['Upper Garden'],
+        description='More boulders lay under the canopy beyond the tallus NE of the scratch and spliff area. Although there is a lot of poison oak in the way there is one passage which avoids most of it. From the scratch and spliff boulder walk across jumbled tallus towards the cliff band for ~100\' until you pass a large fir tree. From here the distinctive prow of the Dr. Stanglove boulder should be barely visible through the trees. Walk more or less directly towards it bushwhacking along a feint trail once you get into the trees. There is much less poison oak under the canopy but it can still be found in some patches.')
+Subarea(name='Machete Monkey',
+        parent=book.areas['Upper Garden'],
+        description='About 100\' east of Dr. Strangelove there is a narrow wash of boulders. Getting here requires a lot of bushwhacking but a faint trail can be followed from Dr. Strangelove to the cliff then back down towards the Machete Monkey boulder. Even without carrying pads navigating this trail is difficult.')
 Subarea(name='Middle Garden',
-        parent=book.areas['Upper Garden'],)
+        parent=book.areas['Upper Garden'],
+        description='There are many boulders under the cliffline east of the Machete Monkey area. While there is little to no poison oak in this area the forest has completely overgrown any trails that once existed. Rediscovering and restablishing this sector is a project for the future. Note that approaching this sector via bushwhacking from the road just before the main area parking pullout may be easier than approaching from Machete Monkey.')
                     
                     
 Formation(name='Pumpkin',
@@ -44,10 +53,19 @@ Formation(name='Scratch and Spliff',
            parent=book.subareas['The Bread Loaves/Scratch and Spliff'],
            description='')
 Formation(name='Dr. Strangelove',
-           parent=book.subareas['Middle Garden'],
+           parent=book.subareas['Dr. Strangelove'],
            description='')
-Formation(name='Young Juicy',
-           parent=book.subareas['Middle Garden'],
+Formation(name='Kick It',
+           parent=book.subareas['Dr. Strangelove'],
+           description='')
+Formation(name='Machete Monkey',
+           parent=book.subareas['Machete Monkey'],
+           description='')
+Formation(name='June 24th',
+           parent=book.subareas['Machete Monkey'],
+           description='')
+Formation(name='Young Jui¢y',
+           parent=book.subareas['Machete Monkey'],
            description='')
            
            
@@ -135,6 +153,33 @@ Route(name='Stoned Age',
       grade_unconfirmed=True,
       description='It looks like you could easily climb from the horizontal crack to a diagonal crack on the upper '
                   'right, but the landing is very poor. Older guidebooks indicate that this has been done.')
+Route(name='Dr. Strangelove',
+      parent=book.formations['Dr. Strangelove'],
+      grade=6,
+      grade_unconfirmed=True,
+      description='(PLACEHOLDER) Also known as "The Hook"')
+Route(name='War Room',
+      parent=book.formations['Dr. Strangelove'],
+      grade=9,
+      grade_unconfirmed=True,
+      description='(PLACEHOLDER) Also known as "Andrew\'s Line" (no, some other Andrew).')
+Route(name='Kick It',
+      parent=book.formations['Kick It'],
+      grade=2,
+      rating=2,
+      description='Start standing with left hand on a small edge or on the left arete and right hand undercling a big slopey rib. Climb the clean face using both aretes. Worth doing if you are making the trek out to strange love. Also known as Dishing.')
+Route(name='Machete Monkey',
+      parent=book.formations['Machete Monkey'],
+      grade=3,
+      grade_unconfirmed=True,)
+Route(name='June 24th',
+      parent=book.formations['June 24th'],
+      grade=7,
+      grade_unconfirmed=True,)
+Route(name='Young Jui¢y',
+      parent=book.formations['Young Jui¢y'],
+      grade=8,
+      grade_unconfirmed=True,)
 
 
 
@@ -150,6 +195,10 @@ Variation(name='Late Start',
           name_unconfirmed=True,
           description='Sit start with juggy holds at the top of a low ramp. Climb straight up into the top of Scratch '
                       'and Spliff Traverse.')
+Variation(name='Machete Man',
+          parent=book.routes['Machete Monkey'],
+          grade=5,
+          grade_unconfirmed=True,)
                       
                       
 if __name__ == '__main__':
