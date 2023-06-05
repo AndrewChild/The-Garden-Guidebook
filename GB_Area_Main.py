@@ -618,6 +618,7 @@ Route(name='Mini Hydro Tube',
                   'getting on this one')
 Route(name='All Berned Down',
       grade=10,
+      grade_unconfirmed=True,
       parent=book.formations['Big'],
       description='Starting in the vacinity of All Berned Up and climb straight up the steep face to gain friable holds on the blunt arête. This route and its twin, All Berned Up, have been the source of much confusion over the decades. Credible sources have verified that both routes have been climbed but they have not seen traffic in the recent past.')
 Route(name='All Berned Up',

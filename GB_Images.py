@@ -88,7 +88,7 @@ Topo(name='Baldo',
          'path598':book.climbs['Frontside Baldo'],
      })
 Topo(name='Berned',
-     parent=book.formations['Big'],
+     parent=book.climbs['All Berned Down'],
      fileName='berned.svg',
      size='h',
      routes={
