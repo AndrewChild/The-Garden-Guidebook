@@ -11,4 +11,8 @@ if __name__ == '__main__':
     book.paths['LaTeXTemplates'] = '../LocalBoulders/templates/'
     book.paths['LaTeXOut'] = './sections/'
     book.paths['pdf'] = './'
+    book.filename = 'guideBook_print'
+    book.gen()
+    book.options['include_action_photos'] = False
+    book.filename = 'guideBook'
     book.gen()
