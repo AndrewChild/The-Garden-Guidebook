@@ -12,7 +12,8 @@ Area(name='Pink Tag Boulders',
                  'directions for the Garden Main area.',)
 Subarea(name='',
         item_id='Pink Tag',
-        parent=book.areas['Pink Tag Boulders'],)
+        parent=book.areas['Pink Tag Boulders'],
+        format_options=['supress_page_break'])
 Formation(name='Pissing Boulder',
           parent=book.subareas['Pink Tag'],
           description='This blunt overhanging corner is the first boulder that you walk by when entering Pink Tag.')

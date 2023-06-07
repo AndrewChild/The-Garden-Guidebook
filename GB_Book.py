@@ -8,7 +8,6 @@ book = Book(
     collaborators=['Andrew Child'],
     repo='https://github.com/AndrewChild/The-Garden-Guidebook',
     dl='https://github.com/AndrewChild/The-Garden-Guidebook/raw/main/guideBook.pdf',
-    options={'topos_attached_to_routes': True},
 )
 
 
