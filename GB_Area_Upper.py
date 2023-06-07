@@ -8,7 +8,7 @@ Area(name='Upper Garden',
      parent=book,
      gps='44.43959094940084, -122.58215256842753',
      incomplete=True,
-     description='Located about 3.2 miles down quatzville road from highway 20, park in the Gravel pull out where the road bends '
+     description='Located about 3.2 miles down Quatzville Road from Highway 20, park in the Gravel pull out where the road bends '
                  'about 0.1 miles before you reach a left hand turnoff to a gated logging road (MS-310). Follow the '
                  'logging road approximately 200 yards up hill until it veers slightly to the right. Look for a '
                  'trail that cuts right through a thin patch of trees to the boulder field (Note: there are a '

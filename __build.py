@@ -5,6 +5,7 @@ from GB_Area_PinkTag import *
 from GB_Area_Cliffs import *
 from GB_Area_Upper import *
 from GB_Area_Quartz import *
+from GB_Area_Other import *
 from GB_Images import *
 
 if __name__ == '__main__':

@@ -3,7 +3,6 @@ sys.path.insert(1, '../LocalBoulders')
 from dataStructure import Area, Subarea, Formation, Route, Variation
 from GB_Book import book
 
-
 Area(name='Pink Tag Boulders',
      parent=book,
      gps='44.43998124232581, -122.57539325959186',

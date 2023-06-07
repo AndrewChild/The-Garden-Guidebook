@@ -7,7 +7,7 @@ from GB_Book import book
 Area(name='The Garden Main',
      parent=book,
      gps='44.44076010641458, -122.5752659013521',
-     description='Located about 3.5 miles down quatzville road from highway 20, park in the gravel pull out where the road bends '
+     description='Located about 3.5 miles down Quatzville Road from Highway 20, park in the gravel pull out where the road bends '
                  'left just before you reach the boulders. The Garden Main bouldering area is true to its name. '
                  'A lush green space features moss covered boulders situated under a dense canopy.', )
 
