@@ -22,9 +22,12 @@ Area(name='Upper Garden',
                  
 Subarea(name='Entrance Area',
         item_id = 'entranceUpper',
+        gps='44.43961303214984, -122.58215061970166',
         parent=book.areas['Upper Garden'],)
 Subarea(name='The Bread Loaves/Scratch and Spliff',
+        item_id = 'The Bread Loaves',
         parent=book.areas['Upper Garden'],
+        gps='44.43968787057463, -122.58169628966748',
         description='These two boulders are the area\'s main attraction. Historically some groups have called both '
                     'boulders Scratch and Spliff while others called them both the Bread Loaves. The modern compromise '
                     'seems to be that the upper boulder is Scratch and Spliff while the lower boulder is the Bread Loaf.')
@@ -36,7 +39,8 @@ Subarea(name='Machete Monkey',
         description='About 100\' east of Dr. Strangelove there is a narrow wash of boulders. Getting here requires a lot of bushwhacking but a faint trail can be followed from Dr. Strangelove to the cliff then back down towards the Machete Monkey boulder. Even without carrying pads navigating this trail is difficult.')
 Subarea(name='Middle Garden',
         parent=book.areas['Upper Garden'],
-        description='There are many boulders under the cliffline east of the Machete Monkey area. While there is little to no poison oak in this area the forest has completely overgrown any trails that once existed. Rediscovering and restablishing this sector is a project for the future. Note that approaching this sector via bushwhacking from the road just before the main area parking pullout may be easier than approaching from Machete Monkey.')
+        format_options=['supress_page_break'],
+        description='There are many boulders under the cliffline east of the Machete Monkey area. While there is little to no poison oak in this area, the forest has completely overgrown any trails that once existed. Rediscovering and restablishing this sector is a project for the future. Note that approaching this sector via bushwhacking from the road just before the main area parking pullout may be easier than approaching from Machete Monkey.')
                     
                     
 Formation(name='Pumpkin',
@@ -47,10 +51,10 @@ Formation(name='Baseball',
            description='This is one of the few boulders that isn\'t covered in poison oak, but there is quite a lot of it '
                        'sounding it. Approach with caution.')
 Formation(name='Bread Loaf',
-           parent=book.subareas['The Bread Loaves/Scratch and Spliff'],
+           parent=book.subareas['The Bread Loaves'],
            description='')
 Formation(name='Scratch and Spliff',
-           parent=book.subareas['The Bread Loaves/Scratch and Spliff'],
+           parent=book.subareas['The Bread Loaves'],
            description='')
 Formation(name='Dr. Strangelove',
            parent=book.subareas['Dr. Strangelove'],

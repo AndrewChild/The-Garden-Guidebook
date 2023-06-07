@@ -63,7 +63,7 @@ Variation(name='Workshop 68',
           FA='Jonah Kreitzberg',
           grade_unconfirmed=True,)
 Variation(name='Knowledge is Good',
-          parent=book.routes['Farley Prep'],
+          parent=book.routes['Belushi'],
           grade=7,
           grade_unconfirmed=True,)
         
