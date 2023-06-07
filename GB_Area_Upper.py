@@ -39,7 +39,7 @@ Subarea(name='Machete Monkey',
         description='About 100\' east of Dr. Strangelove there is a narrow wash of boulders. Getting here requires a lot of bushwhacking but a faint trail can be followed from Dr. Strangelove to the cliff then back down towards the Machete Monkey boulder. Even without carrying pads navigating this trail is difficult.')
 Subarea(name='Middle Garden',
         parent=book.areas['Upper Garden'],
-        format_options=['supress_page_break'],
+        format_options=['suppress_page_break'],
         description='There are many boulders under the cliffline east of the Machete Monkey area. While there is little to no poison oak in this area, the forest has completely overgrown any trails that once existed. Rediscovering and restablishing this sector is a project for the future. Note that approaching this sector via bushwhacking from the road just before the main area parking pullout may be easier than approaching from Machete Monkey.')
                     
                     
