@@ -18,7 +18,7 @@
 - Topos to redo:
 	- blowie
 	- Francois
-	Dr. Evil
+	- Dr. Evil
 - Topos to add:
 	- Methlab Prow
 	- E's V7
