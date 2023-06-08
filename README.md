@@ -6,6 +6,8 @@
 	- pockets(?) whatever the thing on Big across from the good is
 	- whatever terry is cookin on next to the good
 	- other lines on Francois
+	- Fern Sully
+	- flesh bridge
 	- everything in middle garden
 	- Pumpkin spice low
 - Add something to intro about definition and naming of routes
