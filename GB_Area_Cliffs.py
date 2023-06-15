@@ -173,7 +173,7 @@ Route(name='Vine Project',
 Route(name='Hierloom Project',
       parent=book.formations['Garden Cliff Middle'],
       grade='5.?',
-      description='70\', Sport, ? bolts. Open Project. Climbs an aesthic black arête. This route was already bolted when the most recent developers of the cliff arrived. Bail gear was found on the route and it\'s likely that it has never been free\'ed. No body knows the full history of the line though multiple theories presist. I have asked many people who were in the early 2000s scene if they know anything about the line, but none do.'
+      description='70\', Sport, ? bolts. Open Project. Climbs an aesthic black arête. This route was already bolted when the most recent developers of the cliff arrived. Bail gear was found on the route and it\'s likely that it has never been free\'ed. No body knows the full history of the line though multiple theories presist. Many people who were in the early 2000s scene have been questioned about the line, no information has surfaced about its origin.'
       )
 Route(name='Chimeras',
       parent=book.formations['Garden Cliff Middle'],

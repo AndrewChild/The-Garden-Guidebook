@@ -189,6 +189,8 @@ Formation(name='François',
 Formation(name='Scary Grandma',
           parent=book.subareas['François'],
           description='A secluded boulder can be approached by staying right at the fork when the main trail turns left around François.')
+Formation(name='Fern Sully',
+          parent=book.subareas['François'],)
 Route(name='Raphael Crack',
       parent=book.formations['Turtle Shell Boulder'],
       grade=0,
@@ -476,9 +478,9 @@ Route(name='Meth Lab Project',
       serious=3,
       description='The obvious prow on the front of the Meth Lab boulder has a bolted top rope anchor and maybe '
                   'someone has top roped it, but who knows. It\'s likely that this has never been climbed by any other '
-                  'means. The ethics of climbing this behemoth are contentious but in my opinion it is fair game to '
-                  'bolt as a sport route. If you have the desire to do so consider '
-                  'figuring it out on TR first before placing new equipment.')
+                  'means. The ethics of climbing this behemoth are contentious but the author of this book holds that it is fair game to '
+                  'bolt it as a sport route. If you have the desire to install hardware consider '
+                  'figuring the route out on TR first before placing new equipment.')
 Route(name='Don\'t Blow the Jug',
       parent=book.formations['Meth Lab'],
       grade='2+',
@@ -528,6 +530,16 @@ Route(name='Two Blows One Stroke',
       description='Sit start on two single pad edges just to the left of a right facing rib. Pop a left foot onto a '
                   'third  slightly wider edge and crank a few moves to gain a good edge roughly 7ft off the ground. '
                   'From here trend right into a flake.')
+Route(name='West Arête',
+      parent=book.formations['Meth Lab'],
+      grade=0,
+      rating=2,
+      description='Start on an obvious chest high jug rail and climb the short arête. More fun that it looks.')
+Route(name='Southern Discomfort',
+      parent=book.formations['Meth Lab'],
+      grade='?',
+      serious=1,
+      description='With a right hand sidepull crimp and left hand undercling, start on a bubbly lump over a rocky pit on the west face of the methlab boulder. Crank a short travese left and on good incuts before a poweful vertical finish. A substantial amount of padding is required to protect the pit under the beginning of this route.')
 Route(name='Swollen Member',
       parent=book.formations['Swollen Member'],
       grade=3,
@@ -535,6 +547,10 @@ Route(name='Swollen Member',
       description='A classic hazing route. Start hugging the underside of the block with good hand holds '
                   'on each side of the stubby prow. Manuver youself into a less scandelous orientation using toe '
                   'hooks, heel hooks, and  all manner of dirty tricks.')
+Route(name='Flesh Bridge',
+      parent=book.formations['Swollen Member'],
+      grade=8,
+      grade_unconfirmed=False,)
 Route(name='Meth Lab Highball',
       parent=book.formations['Meth Lab Highball'],
       rating=2,
@@ -655,7 +671,7 @@ Route(name='Another',
       rating=1,
       serious=1,
       description='start with opposing sidepulls on the center of the boulder\'s downhill face. Traverse to the left '
-                  'arête and ascend using delecate feet and unideal hands. Mind the uneven landing. Aggresive cleaning has reveiled that the dirty ledge to the left of the rock is infact part of the rock so stepping of here is still on route I guess, but its cooler if you don\'t.')
+                  'arête and ascend using delecate feet and unideal hands. Mind the uneven landing. Aggresive cleaning has reveiled that the dirty ledge to the left of the rock is infact part of the rock so stepping of here is still on route, but it\'s cooler if you don\'t.')
 Route(name='Next to the Good',
       parent=book.formations['Next to the Good'],
       grade=3,
@@ -812,7 +828,7 @@ Route(name='François',
       grade_unconfirmed=True,
       description='This highball has a storied legacy. It seems that at one point it was a well traveled classic but '
                   'it has since faded into mossy obscurity. Two (very controversial) bolts exist on the face so you '
-                  'could climb it as a sport route I guess.')
+                  'could climb it as a sport route but based on the amount of visible surface rust you are probably safer over pads.')
 Route(name='Shake it Out',
       parent=book.formations['François'],
       item_id='Shake it Out Frank',
@@ -841,6 +857,10 @@ Route(name='Scary Grandma',
       serious=2,
       FA='Eric Brown',
       description='An awkward start on a ramp leads to a series of perfect thin crimps followed by a committing crux at the top. Rehearsing the moves on top rope is recommended as falling at the crux would be a bad time.')
+Route(name='Fern Sully',
+      parent=book.formations['Fern Sully'],
+      grade=7,
+      FA='Jonathan Breckheimer',)
 Variation(name='Three Star Ledge Variation',
           parent=book.routes['Three Star Ledge'],
           grade=2,
@@ -963,6 +983,13 @@ Variation(name='Meth Lab Highball Sit Start',
           grade=3,
           rating=1,
           description='Sit start with left hand on a diagonal undercling rail and right hand on a low diagonal side pull edge. Doesn\'t add much to the stand start.')
+Variation(name='Southern Discomfort Direct',
+          parent=book.routes['Southern Discomfort'],
+          grade=7,
+          rating=2,
+          serious=1,
+          FA='Evan Powers and Michael Gardner-Brown',
+          description='Start on a juggy undercling climb into the vertical upper half of Souther Discomfort.' )
 Variation(name='Into the Light Assis',
           parent=book.routes['Into the Light'],
           grade=9,

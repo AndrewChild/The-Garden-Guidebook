@@ -5,7 +5,7 @@ from GB_Book import book
 
 Area(name='Other Areas',
      parent=book,
-     description='The following areas are nearby Sweethome and the Garden. They are included here in limited detail either due to their obscurity, my lack of familiarity, or both.',)
+     description='The following areas are nearby Sweethome and the Garden. They are included here in limited detail either due to their obscurity, the author\'s lack of familiarity, or both.',)
 Subarea(name='The Upper Garden Cliffs',
         parent=book.areas['Other Areas'],
         format_options=['suppress_page_break'],
@@ -44,4 +44,4 @@ Subarea(name='The Needles',
         parent=book.areas['Other Areas'],
         format_options=['suppress_page_break'],
         gps='44.59672447306725, -122.15597149494864',
-        description='The Needles is a large formation of basalt pillars located high in the hills south of detroit lake. The walls are arount 100\' tall in some sections.\n\nI went on an expedition to this crag in the Summer of 2018. My climbing partner, Alex Funk, and I climbed a few routes and found no other evidence of other climbing, nor any fixed gear that would indicate prior descents. The rock isn\'t as soild as the garden cliffs but it is of good enough quality for climbing, there is substantial potential for adventure trad climbing here. It is possible that this crag was adversely effected by the 2020 wildfires, I have not been back since the first expedition. If you would like to explore this area feel free to reach out for more information.',)
+        description='The Needles is a large formation of basalt pillars located high in the hills south of detroit lake. The walls are arount 100\' tall in some sections.\n\nAndrew Child and Alex Funk went on an expedition to this crag in the Summer of 2018. They climbed a few routes and found no other evidence of other climbing, nor any fixed gear that would indicate prior descents. The rock isn\'t as soild as the garden cliffs but it is of good enough quality for climbing, there is substantial potential for adventure trad climbing here. It is possible that this crag was adversely effected by the 2020 wildfires. If you would like to explore this area feel free to reach out to the author of this guide for more information.',)

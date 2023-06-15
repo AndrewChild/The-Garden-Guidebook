@@ -18,7 +18,7 @@ Subarea(name='Redneck Riviera',
         description='Redneck rivierra is located on Quartzville road apporximately 20.6 miles from highway 20 park in '
                     'the gravel pull out on the creek side of the road. This '
                     'is a nice spot with good swimming access and a few established routes on both sides of the river. '
-                    'The locals like to use this spot to pan for gold. In my experience they are friendly and willing '
+                    'The locals like to use this spot to pan for gold. Often they are friendly and willing '
                     'to share the space.')
 Subarea(name='Old Miner\'s Camp',
         parent=book.areas['Quartzville Creek'],
