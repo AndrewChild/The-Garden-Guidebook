@@ -64,8 +64,21 @@ Photo(name='pinkTag',
       fileName='pinkTagSign.jpg',
       parent=book.subareas['Pink Tag'],
       size='h',
-      credit='Andrew Child',
+      format_options=['force_include'],
       description='Tread carefully, all but one of the climbs in this area are downhill of this sign.')      
+Photo(name='needles',
+      fileName='needles.jpg',
+      parent=book.subareas['The Needles'],
+      size='f',
+      format_options=['force_include'],
+      description='The Needles as seen from NF-1133.')      
+Photo(name='pinnacle',
+      fileName='pinnacle.jpg',
+      parent=book.subareas['Santiam Pinnacle'],
+      size='h',
+      format_options=['force_include'],
+      description='Santiam Pinnacle as seen from the road.')      
+      
 
 
 Topo(name='Bitchin Corners',
@@ -939,6 +952,28 @@ Topo(name='4.5',
          'path1321':book.climbs['Teenage Libertarians'],
          'path1325':book.climbs['Chicken Tendies'],
          'path764': book.climbs['Chicken Tendies'],
+     })
+Topo(name='Big Iron',
+     parent=book.formations['Big Iron'],
+     fileName='bigIron.svg',
+     size='h',
+     border='rect522',
+     routes={
+         'path456': book.climbs['No Stone Unturned'],
+         'path454': book.climbs['No Stone Unturned'],
+         'path452': book.climbs['Big Iron Direct'],
+         'path450': book.climbs['Big Iron Direct'],
+         'path445': book.climbs['Big Iron'],
+         'path447': book.climbs['Big Iron'],
+         'path293': book.climbs['Big Iron'],
+     })
+Topo(name='Wild Roses',
+     parent=book.climbs['Wild Roses'],
+     fileName='wildRoses.svg',
+     size='h',
+     routes={
+         'path666': book.climbs['Wild Roses'],
+         'path664': book.climbs['Wild Roses'],
      })
 AreaMap(name='The Garden Main Area Overview',
         parent=book.areas['The Garden Main'],

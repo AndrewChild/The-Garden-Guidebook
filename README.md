@@ -9,17 +9,18 @@
 	- flesh bridge
 	- everything in middle garden
 	- Pumpkin spice low
-	- ed dirct?
+	- ed direct? (on scratch and spliff)
 - Add something to intro about definition and naming of routes
 - Add something about information sourcing
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
 - Add map of strangelove/young juicy area
-- Should the book be Written in 1st or 3rd person
 - Topos to redo:
 	- blowie
 	- Francois
 	- Dr. Evil
+	- Big Iron
+	- Wild Roses
 - Topos to add:
 	- Methlab Prow
 	- E's V7

@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg537" width="1645.7144" height="1097.1429" viewBox="0 0 1645.7144 1097.1429" ns1:docname="wildRoses.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs541" />
+  <ns1:namedview id="namedview539" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.74618052" ns2:cx="822.85718" ns2:cy="548.12473" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g543" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g543">
+    <ns0:image width="1645.7144" height="1097.1429" preserveAspectRatio="none" ns3:href="wildRoses.JPG" id="image545" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:11.969999999999999;stroke-dasharray:none" d="M 828.21781,738.42721 C 845.63987,546.78457 975.63522,558.846 1001.0982,447.61286 1026.5612,336.37973 983.67617,210.40485 983.67617,210.40485" id="path664" />
+    <ns0:path id="path664_clone" style="fill:none;stroke:#FFFFFF;stroke-width:11.969999999999999;stroke-dasharray:51.3, 51.3" d="M 828.21781,738.42721 C 845.63987,546.78457 975.63522,558.846 1001.0982,447.61286 1026.5612,336.37973 983.67617,210.40485 983.67617,210.40485" />
+    <ns0:circle id="path666" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:5.13;stroke-dasharray:none;stroke-opacity:1" cx="945.48169" cy="529.36249" r="53.5572" />
+    <ns0:text id="path666_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.71;stroke-dasharray:none;stroke-opacity:1" x="927.93709" y="553.98649">
+      <ns0:text id="path666_text" x="927.93709" y="553.98649" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.56px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>
