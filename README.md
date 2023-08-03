@@ -15,6 +15,10 @@
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
 - Add map of strangelove/young juicy area
+- add note about loose rock on big iron
+- add note about washed out trail to cabbage patch
+- change pink tag info to note
+- add topos and map for garden cliffs
 - Topos to redo:
 	- blowie
 	- Francois
@@ -30,3 +34,30 @@
 	- dab rig (quartzville)
 	- yo mamma
 	- moss boss
+- Routes with placeholder descriptions
+	- Tidepool
+	- chockstone highball
+	- Flesh Bridge
+	- Into the Light
+	- Into the Light Assis
+	- Territorial Pissings
+	- Workshop 68
+	- The garden cliff (area description)
+	- Ladybug
+	- Don't Forget the Nooch
+	- Tabouli
+	- Babaganoush
+	- Kim Chi Corner
+	- I Fell for you like a child
+	- I will let you down
+	- A million dollars of good
+	- Stop once to wipe the sweat away
+	- Strangelove
+	- War Room
+	- Machete Monkey
+	- Machete Man
+	- June 24th
+	- Young Juicy
+	- Moss Boss
+	- Unsalted Almonds
+	- Dank Commander
