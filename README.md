@@ -2,14 +2,7 @@
  A collaborative guidebook for the Garden bouldering area generated using the [LocalBoulders framework](https://github.com/AndrewChild/LocalBoulders). The book is currently unfinished but a work in progress PDF can be downloaded [here](https://github.com/AndrewChild/The-Garden-Guidebook/raw/main/guideBook.pdf).
 
 # ToDo:
-- Routes to add:
-	- pockets(?) whatever the thing on Big across from the good is
-	- whatever terry is cookin on next to the good
-	- other lines on Francois
-	- flesh bridge
-	- everything in middle garden
-	- Pumpkin spice low
-	- ed direct? (on scratch and spliff)
+## Things that can be done at home
 - Add something to intro about definition and naming of routes
 - Add something about information sourcing
 - Consider adding a master codex of routes and their aliases
@@ -18,30 +11,34 @@
 - add note about loose rock on big iron
 - add note about washed out trail to cabbage patch
 - change pink tag info to note
-- add topos and map for garden cliffs
+- add map for garden cliffs
+## Things that need to be done in the field
+### Garden Main
+- Routes to add:
+	- pockets(?) whatever the thing on Big across from the good is
+	- whatever terry is cookin on next to the good
+	- other lines on Francois
+	- flesh bridge
 - Topos to redo:
 	- blowie
 	- Francois
-	- Dr. Evil
-	- Big Iron
-	- Wild Roses
 - Topos to add:
 	- Methlab Prow
 	- E's V7
-	- everything at the cliffs
-	- pumpkin spice
-	- everything at middle garden
-	- dab rig (quartzville)
-	- yo mamma
-	- moss boss
 - Routes with placeholder descriptions
 	- Tidepool
 	- chockstone highball
 	- Flesh Bridge
 	- Into the Light
 	- Into the Light Assis
+### Pink Tag
+- Routes with placeholder descriptions
 	- Territorial Pissings
 	- Workshop 68
+### Garden Cliffs
+- Topos to add:
+	- everything
+- Routes with placeholder descriptions
 	- The garden cliff (area description)
 	- Ladybug
 	- Don't Forget the Nooch
@@ -52,12 +49,32 @@
 	- I will let you down
 	- A million dollars of good
 	- Stop once to wipe the sweat away
+### Upper Garden
+- Routes to add
+	- everything in middle garden
+	- Pumpkin spice low
+	- ed direct? (on scratch and spliff)
+- Topos to add:
+	- everything at middle garden
+- Routes with placeholder descriptions
 	- Strangelove
 	- War Room
 	- Machete Monkey
 	- Machete Man
 	- June 24th
 	- Young Juicy
+### Quartzville Creek
+- Topos to add:
+	- dab rig (quartzville)
+	- yo mamma
+	- moss boss
+- Routes with placeholder descriptions
 	- Moss Boss
 	- Unsalted Almonds
 	- Dank Commander
+### Other
+
+### Garden Main
+- Topos to redo:
+	- Big Iron
+	- Wild Roses
