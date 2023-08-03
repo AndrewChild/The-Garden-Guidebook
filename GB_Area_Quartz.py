@@ -6,7 +6,6 @@ from GB_Book import book
 
 Area(name='Quartzville Creek',
      parent=book,
-     incomplete=True,
      description='About an hour further down the road from the main area there are a few interesting boulders '
                  'in a creek. Generally lower temperatures, free camping, and pleasant swimming holes make this '
                  'a nice mid summer spot.')

@@ -8,9 +8,6 @@
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
 - Add map of strangelove/young juicy area
-- add note about loose rock on big iron
-- add note about washed out trail to cabbage patch
-- change pink tag info to note
 - add map for garden cliffs
 ## Things that need to be done in the field
 ### Garden Main

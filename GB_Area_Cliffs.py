@@ -7,15 +7,17 @@ from GB_Book import book
 Area(name='Garden Cliffs',
      parent=book,
      gps='44.43998124232581, -122.57539325959186',
-     incomplete=True,
+     note = 'This area is incomplete. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
      description='PLACEHOLDER', )
      
      
 Subarea(name='The Garden Cliff',
         parent=book.areas['Garden Cliffs'], )
 Subarea(name='Fairy Tale Wall',
+        note = 'Several routes on this wall are overgrown to the point of being unclimbable.',
         parent=book.areas['Garden Cliffs'], )
 Subarea(name='Cabbage Patch/ Thunderdome',
+        note = 'The access trail to this area has completely washed out, currently accessing this area would involve traversing a feild of blackberry bushes.',
         parent=book.areas['Garden Cliffs'], )
         
         

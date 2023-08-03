@@ -7,7 +7,6 @@ from GB_Book import book
 Area(name='Upper Garden',
      parent=book,
      gps='44.43959094940084, -122.58215256842753',
-     incomplete=True,
      description='Located about 3.2 miles down Quatzville Road from Highway 20, park in the Gravel pull out where the road bends '
                  'about 0.1 miles before you reach a left hand turnoff to a gated logging road (MS-310). Follow the '
                  'logging road approximately 200 yards up hill until it veers slightly to the right. Look for a '
@@ -33,13 +32,16 @@ Subarea(name='The Bread Loaves/Scratch and Spliff',
                     'seems to be that the upper boulder is Scratch and Spliff while the lower boulder is the Bread Loaf.')
 Subarea(name='Dr. Strangelove',
         parent=book.areas['Upper Garden'],
+        note = 'This sub area is incomplete. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
         description='More boulders lay under the canopy beyond the tallus NE of the scratch and spliff area. Although there is a lot of poison oak in the way there is one passage which avoids most of it. From the scratch and spliff boulder walk across jumbled tallus towards the cliff band for ~100\' until you pass a large fir tree. From here the distinctive prow of the Dr. Stanglove boulder should be barely visible through the trees. Walk more or less directly towards it bushwhacking along a feint trail once you get into the trees. There is much less poison oak under the canopy but it can still be found in some patches.')
 Subarea(name='Machete Monkey',
         parent=book.areas['Upper Garden'],
+        note = 'This sub area is incomplete. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
         description='About 100\' east of Dr. Strangelove there is a narrow wash of boulders. Getting here requires a lot of bushwhacking but a faint trail can be followed from Dr. Strangelove to the cliff then back down towards the Machete Monkey boulder. Even without carrying pads navigating this trail is difficult.')
 Subarea(name='Middle Garden',
         parent=book.areas['Upper Garden'],
         format_options=['suppress_page_break'],
+        note = 'This sub area is incomplete. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
         description='There are many boulders under the cliffline east of the Machete Monkey area. While there is little to no poison oak in this area, the forest has completely overgrown any trails that once existed. Rediscovering and restablishing this sector is a project for the future. Note that approaching this sector via bushwhacking from the road just before the main area parking pullout may be easier than approaching from Machete Monkey.')
                     
                     
