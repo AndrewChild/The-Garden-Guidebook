@@ -108,7 +108,7 @@ Topo(name='Three Star Ledge',
 Topo(name='The Good',
      parent=book.routes['The Good'],
      file_name='good.svg',
-     size='f',
+     size='pr',
      routes={
          'path1453':book.climbs['The Good'],
          'path1459':book.climbs['The Good'],
