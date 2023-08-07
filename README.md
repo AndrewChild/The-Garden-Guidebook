@@ -9,6 +9,8 @@
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
 - Add map of strangelove/young juicy area
 - add map for garden cliffs
+- consider adding a map of all areas
+- make upper garden map more readable
 ## Things that need to be done in the field
 
 ### Garden Main
