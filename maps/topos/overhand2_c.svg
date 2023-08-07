@@ -3,11 +3,11 @@
   <ns1:namedview id="namedview1050" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="1.1733871" ns2:cx="385.63574" ns2:cy="372.42612" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1054" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1054">
     <ns0:image width="772.15997" height="744" preserveAspectRatio="none" ns3:href="overhand2.jpg" id="image1056" />
-    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:5.6000000000000005;stroke-dasharray:none" d="M 243.73883,392.02749 C 347.71134,345.15464 343.45017,287.20275 335.78007,233.51203 328.10997,179.82131 394.58419,29.828179 394.58419,29.828179" id="path1175" />
-    <ns0:path id="path1175_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.6000000000000005;stroke-dasharray:24.0, 24.0" d="M 243.73883,392.02749 C 347.71134,345.15464 343.45017,287.20275 335.78007,233.51203 328.10997,179.82131 394.58419,29.828179 394.58419,29.828179" />
-    <ns0:circle id="path1177" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:2.4000000000000004;stroke-dasharray:none;stroke-opacity:1" cx="339.189" cy="185.36082" r="25.056" />
-    <ns0:text id="path1177_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.8;stroke-dasharray:none;stroke-opacity:1" x="330.981" y="196.88082">
-      <ns0:text id="path1177_text" x="330.981" y="196.88082" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.8px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:5.81;stroke-dasharray:none" d="M 243.73883,392.02749 C 347.71134,345.15464 343.45017,287.20275 335.78007,233.51203 328.10997,179.82131 394.58419,29.828179 394.58419,29.828179" id="path1175" />
+    <ns0:path id="path1175_clone" style="fill:none;stroke:#FFFFFF;stroke-width:5.81;stroke-dasharray:24.9, 24.9" d="M 243.73883,392.02749 C 347.71134,345.15464 343.45017,287.20275 335.78007,233.51203 328.10997,179.82131 394.58419,29.828179 394.58419,29.828179" />
+    <ns0:circle id="path1177" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:2.4899999999999998;stroke-dasharray:none;stroke-opacity:1" cx="339.189" cy="185.36082" r="25.9956" />
+    <ns0:text id="path1177_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.83;stroke-dasharray:none;stroke-opacity:1" x="330.6732" y="197.31282">
+      <ns0:text id="path1177_text" x="330.6732" y="197.31282" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

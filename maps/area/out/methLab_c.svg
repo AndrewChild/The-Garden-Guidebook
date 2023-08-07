@@ -146,85 +146,85 @@
   <ns0:g ns1:groupmode="layer" id="layer5" ns1:label="Big Fred" ns2:insensitive="true" />
   <ns0:g ns1:groupmode="layer" id="layer6" ns1:label="Fight Club" ns2:insensitive="true" />
   <ns0:g ns1:groupmode="layer" id="layer7" ns1:label="Meth Lab">
-    <ns0:circle id="path760" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1234.9242" cy="567.81512" r="10.0224" />
-    <ns0:text id="path760_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1231.6409999999998" y="572.4231199999999">
-      <ns0:text id="path760_text" x="1231.6409999999998" y="572.4231199999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2</ns0:text>
+    <ns0:circle id="path760" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1234.9242" cy="567.81512" r="10.3356" />
+    <ns0:text id="path760_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1231.5384" y="572.5671199999999">
+      <ns0:text id="path760_text" x="1231.5384" y="572.5671199999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2</ns0:text>
     </ns0:text>
-    <ns0:circle id="path762" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1243.5142" cy="548.20129" r="10.0224" />
-    <ns0:text id="path762_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1240.231" y="552.8092899999999">
-      <ns0:text id="path762_text" x="1240.231" y="552.8092899999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
+    <ns0:circle id="path762" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1243.5142" cy="548.20129" r="10.3356" />
+    <ns0:text id="path762_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1240.1284" y="552.9532899999999">
+      <ns0:text id="path762_text" x="1240.1284" y="552.9532899999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
     </ns0:text>
-    <ns0:circle id="path766" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1230.3429" cy="493.36853" r="10.0224" />
-    <ns0:text id="path766_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1227.0597" y="497.97653">
-      <ns0:text id="path766_text" x="1227.0597" y="497.97653" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">5</ns0:text>
+    <ns0:circle id="path766" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1230.3429" cy="493.36853" r="10.3356" />
+    <ns0:text id="path766_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1226.9571" y="498.12053000000003">
+      <ns0:text id="path766_text" x="1226.9571" y="498.12053000000003" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">5</ns0:text>
     </ns0:text>
-    <ns0:circle id="path768" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1202.8549" cy="497.3772" r="10.0224" />
-    <ns0:text id="path768_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1199.5717" y="501.9852">
-      <ns0:text id="path768_text" x="1199.5717" y="501.9852" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
+    <ns0:circle id="path768" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1202.8549" cy="497.3772" r="10.3356" />
+    <ns0:text id="path768_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1199.4691" y="502.1292">
+      <ns0:text id="path768_text" x="1199.4691" y="502.1292" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
     </ns0:text>
-    <ns0:circle id="path770" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1187.6792" cy="491.3642" r="10.0224" />
-    <ns0:text id="path770_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1184.396" y="495.9722">
-      <ns0:text id="path770_text" x="1184.396" y="495.9722" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
+    <ns0:circle id="path770" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1187.6792" cy="491.3642" r="10.3356" />
+    <ns0:text id="path770_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1184.2934" y="496.1162">
+      <ns0:text id="path770_text" x="1184.2934" y="496.1162" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
     </ns0:text>
-    <ns0:circle id="path772" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1153.892" cy="479.19504" r="10.0224" />
-    <ns0:text id="path772_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1150.6088" y="483.80304">
-      <ns0:text id="path772_text" x="1150.6088" y="483.80304" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">8</ns0:text>
+    <ns0:circle id="path772" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1153.892" cy="479.19504" r="10.3356" />
+    <ns0:text id="path772_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1150.5062" y="483.94704">
+      <ns0:text id="path772_text" x="1150.5062" y="483.94704" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">8</ns0:text>
     </ns0:text>
-    <ns0:circle id="path774" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1125.4017" cy="502.10168" r="10.0224" />
-    <ns0:text id="path774_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1122.1184999999998" y="506.70968">
-      <ns0:text id="path774_text" x="1122.1184999999998" y="506.70968" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">9</ns0:text>
+    <ns0:circle id="path774" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1125.4017" cy="502.10168" r="10.3356" />
+    <ns0:text id="path774_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1122.0158999999999" y="506.85368">
+      <ns0:text id="path774_text" x="1122.0158999999999" y="506.85368" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">9</ns0:text>
     </ns0:text>
-    <ns0:circle id="path776" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1114.8075" cy="492.08002" r="10.0224" />
-    <ns0:text id="path776_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1108.2411" y="496.68802">
-      <ns0:text id="path776_text" x="1108.2411" y="496.68802" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">18</ns0:text>
+    <ns0:circle id="path776" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1114.8075" cy="492.08002" r="10.3356" />
+    <ns0:text id="path776_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1108.0358999999999" y="496.83202">
+      <ns0:text id="path776_text" x="1108.0358999999999" y="496.83202" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">18</ns0:text>
     </ns0:text>
-    <ns0:circle id="path778" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1083.5972" cy="431.66376" r="10.0224" />
-    <ns0:text id="path778_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1077.0308" y="436.27176000000003">
-      <ns0:text id="path778_text" x="1077.0308" y="436.27176000000003" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">19</ns0:text>
+    <ns0:circle id="path778" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1083.5972" cy="431.66376" r="10.3356" />
+    <ns0:text id="path778_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1076.8256" y="436.41576000000003">
+      <ns0:text id="path778_text" x="1076.8256" y="436.41576000000003" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">19</ns0:text>
     </ns0:text>
-    <ns0:circle id="path780" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1243.8005" cy="455.85889" r="10.0224" />
-    <ns0:text id="path780_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1237.2341000000001" y="460.46689">
-      <ns0:text id="path780_text" x="1237.2341000000001" y="460.46689" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">12</ns0:text>
+    <ns0:circle id="path780" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1243.8005" cy="455.85889" r="10.3356" />
+    <ns0:text id="path780_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1237.0289" y="460.61089">
+      <ns0:text id="path780_text" x="1237.0289" y="460.61089" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">12</ns0:text>
     </ns0:text>
-    <ns0:circle id="path784" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1070.9985" cy="572.96912" r="10.0224" />
-    <ns0:text id="path784_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1064.4321" y="577.5771199999999">
-      <ns0:text id="path784_text" x="1064.4321" y="577.5771199999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">21</ns0:text>
+    <ns0:circle id="path784" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1070.9985" cy="572.96912" r="10.3356" />
+    <ns0:text id="path784_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1064.2269" y="577.7211199999999">
+      <ns0:text id="path784_text" x="1064.2269" y="577.7211199999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">21</ns0:text>
     </ns0:text>
-    <ns0:circle id="path4341" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1169.1088" cy="647.77289" r="10.0224" />
-    <ns0:text id="path4341_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1165.8256" y="652.3808899999999">
-      <ns0:text id="path4341_text" x="1165.8256" y="652.3808899999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
+    <ns0:circle id="path4341" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1169.1088" cy="647.77289" r="10.3356" />
+    <ns0:text id="path4341_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1165.723" y="652.5248899999999">
+      <ns0:text id="path4341_text" x="1165.723" y="652.5248899999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
     </ns0:text>
-    <ns0:circle id="path426" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1086.9067" cy="550.18329" r="10.0224" />
-    <ns0:text id="path426_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1080.3403" y="554.79129">
-      <ns0:text id="path426_text" x="1080.3403" y="554.79129" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">17</ns0:text>
+    <ns0:circle id="path426" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1086.9067" cy="550.18329" r="10.3356" />
+    <ns0:text id="path426_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1080.1351" y="554.93529">
+      <ns0:text id="path426_text" x="1080.1351" y="554.93529" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">17</ns0:text>
     </ns0:text>
-    <ns0:circle id="path428" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1046.4131" cy="529.12659" r="10.0224" />
-    <ns0:text id="path428_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1039.8467" y="533.7345899999999">
-      <ns0:text id="path428_text" x="1039.8467" y="533.7345899999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">16</ns0:text>
+    <ns0:circle id="path428" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1046.4131" cy="529.12659" r="10.3356" />
+    <ns0:text id="path428_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1039.6415" y="533.8785899999999">
+      <ns0:text id="path428_text" x="1039.6415" y="533.8785899999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">16</ns0:text>
     </ns0:text>
-    <ns0:circle id="path1731" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1054.9435" cy="590.56952" r="10.0224" />
-    <ns0:text id="path1731_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1048.3771000000002" y="595.17752">
-      <ns0:text id="path1731_text" x="1048.3771000000002" y="595.17752" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">20</ns0:text>
+    <ns0:circle id="path1731" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1054.9435" cy="590.56952" r="10.3356" />
+    <ns0:text id="path1731_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1048.1719" y="595.32152">
+      <ns0:text id="path1731_text" x="1048.1719" y="595.32152" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">20</ns0:text>
     </ns0:text>
-    <ns0:circle id="path771" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1113.6699" cy="745.50659" r="10.0224" transform="translate(-1.6197456,-207.32732)" />
-    <ns0:text id="path771_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1107.1035000000002" y="750.1145899999999" transform="translate(-1.6197456,-207.32732)">
-      <ns0:text id="path771_text" x="1107.1035000000002" y="750.1145899999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">10</ns0:text>
+    <ns0:circle id="path771" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1113.6699" cy="745.50659" r="10.3356" transform="translate(-1.6197456,-207.32732)" />
+    <ns0:text id="path771_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1106.8983" y="750.2585899999999" transform="translate(-1.6197456,-207.32732)">
+      <ns0:text id="path771_text" x="1106.8983" y="750.2585899999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">10</ns0:text>
     </ns0:text>
-    <ns0:circle id="path1196" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1241.5599" cy="399.23672" r="10.0224" />
-    <ns0:text id="path1196_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1234.9935" y="403.84472">
-      <ns0:text id="path1196_text" x="1234.9935" y="403.84472" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">13</ns0:text>
+    <ns0:circle id="path1196" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1241.5599" cy="399.23672" r="10.3356" />
+    <ns0:text id="path1196_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1234.7883" y="403.98872">
+      <ns0:text id="path1196_text" x="1234.7883" y="403.98872" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">13</ns0:text>
     </ns0:text>
-    <ns0:circle id="path764" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1249.384" cy="520.57013" r="10.0224" />
-    <ns0:text id="path764_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1246.1008" y="525.1781299999999">
-      <ns0:text id="path764_text" x="1246.1008" y="525.1781299999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">4</ns0:text>
+    <ns0:circle id="path764" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1249.384" cy="520.57013" r="10.3356" />
+    <ns0:text id="path764_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1245.9982" y="525.3221299999999">
+      <ns0:text id="path764_text" x="1245.9982" y="525.3221299999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">4</ns0:text>
     </ns0:text>
-    <ns0:circle id="path782" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1188.1088" cy="455.85889" r="10.0224" />
-    <ns0:text id="path782_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1181.5424" y="460.46689">
-      <ns0:text id="path782_text" x="1181.5424" y="460.46689" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">14</ns0:text>
+    <ns0:circle id="path782" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1188.1088" cy="455.85889" r="10.3356" />
+    <ns0:text id="path782_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1181.3372" y="460.61089">
+      <ns0:text id="path782_text" x="1181.3372" y="460.61089" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">14</ns0:text>
     </ns0:text>
-    <ns0:circle id="path521" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.96;stroke-dasharray:none;stroke-opacity:1" cx="1111.6678" cy="576.0379" r="10.0224" />
-    <ns0:text id="path521_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.32;stroke-dasharray:none;stroke-opacity:1" x="1105.1014" y="580.6459">
-      <ns0:text id="path521_text" x="1105.1014" y="580.6459" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.52px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">11</ns0:text>
+    <ns0:circle id="path521" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" cx="1111.6678" cy="576.0379" r="10.3356" />
+    <ns0:text id="path521_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.33;stroke-dasharray:none;stroke-opacity:1" x="1104.8962" y="580.7899">
+      <ns0:text id="path521_text" x="1104.8962" y="580.7899" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">11</ns0:text>
     </ns0:text>
   </ns0:g>
   <ns0:g ns1:groupmode="layer" id="layer8" ns1:label="Undertow" ns2:insensitive="true" />

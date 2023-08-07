@@ -3,25 +3,25 @@
   <ns1:namedview id="namedview2180" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.4546875" ns2:cx="636.70103" ns2:cy="961.09966" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g2184" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g2184">
     <ns0:image width="1280" height="1920" preserveAspectRatio="none" ns3:href="tonsil2.jpg" id="image2186" />
-    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:9.31;stroke-dasharray:none" d="m 521.23711,1301.9932 c 158.35051,-10e-5 222.13059,83.5738 211.13402,-354.08942" id="path2305" ns1:nodetypes="cc" />
-    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:9.31;stroke-dasharray:none" d="m 824.74227,1334.9828 c -94.57045,-52.7835 -101.16839,-81.3746 -96.76976,-191.3402" id="path2307" />
-    <ns0:path style="fill:none;stroke:#000000;stroke-width:9.31;stroke-dasharray:none" d="m 734.57045,952.30241 c 0,-219.93128 -250.72165,-587.2165 -233.12715,-835.73884" id="path2311" />
-    <ns0:path style="fill:none;stroke:#008000;stroke-width:9.31;stroke-dasharray:none" d="M 318.90034,1543.9175 C 195.73883,1475.7388 156.1512,1167.8351 156.1512,1167.8351" id="path2315" />
-    <ns0:path id="path2305_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="m 521.23711,1301.9932 c 158.35051,-10e-5 222.13059,83.5738 211.13402,-354.08942" />
-    <ns0:path id="path2307_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="m 824.74227,1334.9828 c -94.57045,-52.7835 -101.16839,-81.3746 -96.76976,-191.3402" />
-    <ns0:path id="path2311_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="m 734.57045,952.30241 c 0,-219.93128 -250.72165,-587.2165 -233.12715,-835.73884" />
-    <ns0:path id="path2315_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="M 318.90034,1543.9175 C 195.73883,1475.7388 156.1512,1167.8351 156.1512,1167.8351" />
-    <ns0:circle id="path2309" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.99;stroke-dasharray:none;stroke-opacity:1" cx="730.17181" cy="1140.3436" r="41.6556" />
-    <ns0:text id="path2309_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.33;stroke-dasharray:none;stroke-opacity:1" x="702.88021" y="1159.4956">
-      <ns0:text id="path2309_text" x="702.88021" y="1159.4956" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">10</ns0:text>
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:9.66;stroke-dasharray:none" d="m 521.23711,1301.9932 c 158.35051,-10e-5 222.13059,83.5738 211.13402,-354.08942" id="path2305" ns1:nodetypes="cc" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:9.66;stroke-dasharray:none" d="m 824.74227,1334.9828 c -94.57045,-52.7835 -101.16839,-81.3746 -96.76976,-191.3402" id="path2307" />
+    <ns0:path style="fill:none;stroke:#000000;stroke-width:9.66;stroke-dasharray:none" d="m 734.57045,952.30241 c 0,-219.93128 -250.72165,-587.2165 -233.12715,-835.73884" id="path2311" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:9.66;stroke-dasharray:none" d="M 318.90034,1543.9175 C 195.73883,1475.7388 156.1512,1167.8351 156.1512,1167.8351" id="path2315" />
+    <ns0:path id="path2305_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.66;stroke-dasharray:41.4, 41.4" d="m 521.23711,1301.9932 c 158.35051,-10e-5 222.13059,83.5738 211.13402,-354.08942" />
+    <ns0:path id="path2307_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.66;stroke-dasharray:41.4, 41.4" d="m 824.74227,1334.9828 c -94.57045,-52.7835 -101.16839,-81.3746 -96.76976,-191.3402" />
+    <ns0:path id="path2311_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.66;stroke-dasharray:41.4, 41.4" d="m 734.57045,952.30241 c 0,-219.93128 -250.72165,-587.2165 -233.12715,-835.73884" />
+    <ns0:path id="path2315_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.66;stroke-dasharray:41.4, 41.4" d="M 318.90034,1543.9175 C 195.73883,1475.7388 156.1512,1167.8351 156.1512,1167.8351" />
+    <ns0:circle id="path2309" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.14;stroke-dasharray:none;stroke-opacity:1" cx="730.17181" cy="1140.3436" r="43.2216" />
+    <ns0:text id="path2309_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.38;stroke-dasharray:none;stroke-opacity:1" x="701.8542100000001" y="1160.2156">
+      <ns0:text id="path2309_text" x="701.8542100000001" y="1160.2156" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.67999999999999px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">10</ns0:text>
     </ns0:text>
-    <ns0:circle id="path2313" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.99;stroke-dasharray:none;stroke-opacity:1" cx="620.20618" cy="565.22339" r="55.3014" />
-    <ns0:text id="path2313_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.33;stroke-dasharray:none;stroke-opacity:1" x="579.26878" y="584.37539">
-      <ns0:text id="path2313_text" x="579.26878" y="584.37539" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">10b</ns0:text>
+    <ns0:circle id="path2313" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.14;stroke-dasharray:none;stroke-opacity:1" cx="620.20618" cy="565.22339" r="57.3804" />
+    <ns0:text id="path2313_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.38;stroke-dasharray:none;stroke-opacity:1" x="577.72978" y="585.09539">
+      <ns0:text id="path2313_text" x="577.72978" y="585.09539" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.67999999999999px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">10b</ns0:text>
     </ns0:text>
-    <ns0:circle id="path2317" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.99;stroke-dasharray:none;stroke-opacity:1" cx="232.0275" cy="1438.3505" r="41.6556" />
-    <ns0:text id="path2317_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.33;stroke-dasharray:none;stroke-opacity:1" x="204.73590000000002" y="1457.5025">
-      <ns0:text id="path2317_text" x="204.73590000000002" y="1457.5025" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">11</ns0:text>
+    <ns0:circle id="path2317" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.14;stroke-dasharray:none;stroke-opacity:1" cx="232.0275" cy="1438.3505" r="43.2216" />
+    <ns0:text id="path2317_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.38;stroke-dasharray:none;stroke-opacity:1" x="203.7099" y="1458.2225">
+      <ns0:text id="path2317_text" x="203.7099" y="1458.2225" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.67999999999999px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">11</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

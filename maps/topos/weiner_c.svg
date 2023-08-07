@@ -3,11 +3,11 @@
   <ns1:namedview id="namedview2333" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.4546875" ns2:cx="640" ns2:cy="1312.9897" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g2337" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g2337">
     <ns0:image width="1280" height="1920" preserveAspectRatio="none" ns3:href="weiner.jpg" id="image2339" />
-    <ns0:path style="fill:none;stroke:#008000;stroke-width:9.31;stroke-dasharray:none" d="M 976.49485,1834.2268 C 866.52921,1686.8729 600.41237,1156.8385 659.79382,903.91753" id="path2458" ns1:nodetypes="cc" />
-    <ns0:path id="path2458_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="M 976.49485,1834.2268 C 866.52921,1686.8729 600.41237,1156.8385 659.79382,903.91753" />
-    <ns0:circle id="path2460" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.99;stroke-dasharray:none;stroke-opacity:1" cx="727.97253" cy="1338.2817" r="41.6556" />
-    <ns0:text id="path2460_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.33;stroke-dasharray:none;stroke-opacity:1" x="714.32673" y="1357.4337">
-      <ns0:text id="path2460_text" x="714.32673" y="1357.4337" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:9.66;stroke-dasharray:none" d="M 976.49485,1834.2268 C 866.52921,1686.8729 600.41237,1156.8385 659.79382,903.91753" id="path2458" ns1:nodetypes="cc" />
+    <ns0:path id="path2458_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.66;stroke-dasharray:41.4, 41.4" d="M 976.49485,1834.2268 C 866.52921,1686.8729 600.41237,1156.8385 659.79382,903.91753" />
+    <ns0:circle id="path2460" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.14;stroke-dasharray:none;stroke-opacity:1" cx="727.97253" cy="1338.2817" r="43.2216" />
+    <ns0:text id="path2460_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.38;stroke-dasharray:none;stroke-opacity:1" x="713.81373" y="1358.1537">
+      <ns0:text id="path2460_text" x="713.81373" y="1358.1537" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.67999999999999px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

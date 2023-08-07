@@ -3,17 +3,17 @@
   <ns1:namedview id="namedview1807" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.84514408" ns2:cx="588.65702" ns2:cy="517.0716" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1811" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1811">
     <ns0:image width="1184" height="1032.96" preserveAspectRatio="none" ns3:href="ease.jpg" id="image1813" />
-    <ns0:path style="fill:none;stroke:#008000;stroke-width:8.61;stroke-dasharray:none" d="M 304.09016,686.27351 C 397.56535,489.8573 449.62747,260.31064 447.26101,239.0125" id="path1932" />
-    <ns0:path style="fill:none;stroke:#008000;stroke-width:8.61;stroke-dasharray:none" d="M 856.65866,726.50334 C 868.49096,478.025 886.23942,448.44424 869.67419,394.01566" id="path1936" />
-    <ns0:path id="path1932_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.61;stroke-dasharray:36.9, 36.9" d="M 304.09016,686.27351 C 397.56535,489.8573 449.62747,260.31064 447.26101,239.0125" />
-    <ns0:path id="path1936_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.61;stroke-dasharray:36.9, 36.9" d="M 856.65866,726.50334 C 868.49096,478.025 886.23942,448.44424 869.67419,394.01566" />
-    <ns0:circle id="path1934" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.69;stroke-dasharray:none;stroke-opacity:1" cx="388.69113" cy="473.8837" r="38.5236" />
-    <ns0:text id="path1934_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.23;stroke-dasharray:none;stroke-opacity:1" x="363.45153" y="491.59569999999997">
-      <ns0:text id="path1934_text" x="363.45153" y="491.59569999999997" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.28px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">12</ns0:text>
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:8.89;stroke-dasharray:none" d="M 304.09016,686.27351 C 397.56535,489.8573 449.62747,260.31064 447.26101,239.0125" id="path1932" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:8.89;stroke-dasharray:none" d="M 856.65866,726.50334 C 868.49096,478.025 886.23942,448.44424 869.67419,394.01566" id="path1936" />
+    <ns0:path id="path1932_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.89;stroke-dasharray:38.1, 38.1" d="M 304.09016,686.27351 C 397.56535,489.8573 449.62747,260.31064 447.26101,239.0125" />
+    <ns0:path id="path1936_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.89;stroke-dasharray:38.1, 38.1" d="M 856.65866,726.50334 C 868.49096,478.025 886.23942,448.44424 869.67419,394.01566" />
+    <ns0:circle id="path1934" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.81;stroke-dasharray:none;stroke-opacity:1" cx="388.69113" cy="473.8837" r="39.7764" />
+    <ns0:text id="path1934_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1" x="362.63072999999997" y="492.1717">
+      <ns0:text id="path1934_text" x="362.63072999999997" y="492.1717" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.72px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">12</ns0:text>
     </ns0:text>
-    <ns0:circle id="path1938" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.69;stroke-dasharray:none;stroke-opacity:1" cx="864.34967" cy="595.16479" r="38.5236" />
-    <ns0:text id="path1938_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.23;stroke-dasharray:none;stroke-opacity:1" x="839.11007" y="612.87679">
-      <ns0:text id="path1938_text" x="839.11007" y="612.87679" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.28px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">13</ns0:text>
+    <ns0:circle id="path1938" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.81;stroke-dasharray:none;stroke-opacity:1" cx="864.34967" cy="595.16479" r="39.7764" />
+    <ns0:text id="path1938_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1" x="838.28927" y="613.45279">
+      <ns0:text id="path1938_text" x="838.28927" y="613.45279" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.72px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">13</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

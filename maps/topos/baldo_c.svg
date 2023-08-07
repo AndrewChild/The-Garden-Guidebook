@@ -3,11 +3,11 @@
   <ns1:namedview id="namedview473" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.70041719" ns2:cx="713.14641" ns2:cy="625.34159" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g477" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g477">
     <ns0:image width="1428.16" height="1246.4" preserveAspectRatio="none" ns3:href="baldo.jpg" id="image479" />
-    <ns0:path style="fill:none;stroke:#008000;stroke-width:10.43;stroke-dasharray:none" d="M 698.15534,878.04813 C 645.32968,672.45637 521.53644,625.9461 523.97344,493.9913 527.48028,304.10852 772.39681,54.25338 772.39681,54.25338" id="path598" ns1:nodetypes="csc" />
-    <ns0:path id="path598_clone" style="fill:none;stroke:#FFFFFF;stroke-width:10.43;stroke-dasharray:44.7, 44.7" d="M 698.15534,878.04813 C 645.32968,672.45637 521.53644,625.9461 523.97344,493.9913 527.48028,304.10852 772.39681,54.25338 772.39681,54.25338" />
-    <ns0:circle id="path600" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.47;stroke-dasharray:none;stroke-opacity:1" cx="621.05841" cy="701.72467" r="46.6668" />
-    <ns0:text id="path600_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.49;stroke-dasharray:none;stroke-opacity:1" x="605.7710099999999" y="723.18067">
-      <ns0:text id="path600_text" x="605.7710099999999" y="723.18067" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.64px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:10.780000000000001;stroke-dasharray:none" d="M 698.15534,878.04813 C 645.32968,672.45637 521.53644,625.9461 523.97344,493.9913 527.48028,304.10852 772.39681,54.25338 772.39681,54.25338" id="path598" ns1:nodetypes="csc" />
+    <ns0:path id="path598_clone" style="fill:none;stroke:#FFFFFF;stroke-width:10.780000000000001;stroke-dasharray:46.2, 46.2" d="M 698.15534,878.04813 C 645.32968,672.45637 521.53644,625.9461 523.97344,493.9913 527.48028,304.10852 772.39681,54.25338 772.39681,54.25338" />
+    <ns0:circle id="path600" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.62;stroke-dasharray:none;stroke-opacity:1" cx="621.05841" cy="701.72467" r="48.2328" />
+    <ns0:text id="path600_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.54;stroke-dasharray:none;stroke-opacity:1" x="605.25801" y="723.90067">
+      <ns0:text id="path600_text" x="605.25801" y="723.90067" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.44px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

@@ -3,17 +3,17 @@
   <ns1:namedview id="namedview932" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.74618052" ns2:cx="815.48631" ns2:cy="548.12474" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g936" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g936">
     <ns0:image width="1645.7144" height="1097.1429" preserveAspectRatio="none" ns3:href="fratHouse.JPG" id="image938" />
-    <ns0:path style="fill:none;stroke:#008000;stroke-width:8.89;stroke-dasharray:none" d="M 733.06657,924.70921 C 852.34066,762.55006 889.0864,582.95997 938.11079,363.18289 971.72209,212.50294 958.21316,105.8725 958.21316,105.8725" id="path1057" ns1:nodetypes="csc" />
-    <ns0:path style="fill:none;stroke:#008000;stroke-width:8.89;stroke-dasharray:none" d="M 900.58636,972.9549 C 1078.8274,714.30436 1100.2699,494.5184 1093.5691,356.4821" id="path1061" />
-    <ns0:path id="path1057_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.89;stroke-dasharray:38.1, 38.1" d="M 733.06657,924.70921 C 852.34066,762.55006 889.0864,582.95997 938.11079,363.18289 971.72209,212.50294 958.21316,105.8725 958.21316,105.8725" />
-    <ns0:path id="path1061_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.89;stroke-dasharray:38.1, 38.1" d="M 900.58636,972.9549 C 1078.8274,714.30436 1100.2699,494.5184 1093.5691,356.4821" />
-    <ns0:circle id="path1059" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.81;stroke-dasharray:none;stroke-opacity:1" cx="892.54541" cy="565.54681" r="39.7764" />
-    <ns0:text id="path1059_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1" x="879.5152099999999" y="583.8348100000001">
-      <ns0:text id="path1059_text" x="879.5152099999999" y="583.8348100000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.72px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:9.17;stroke-dasharray:none" d="M 733.06657,924.70921 C 852.34066,762.55006 889.0864,582.95997 938.11079,363.18289 971.72209,212.50294 958.21316,105.8725 958.21316,105.8725" id="path1057" ns1:nodetypes="csc" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:9.17;stroke-dasharray:none" d="M 900.58636,972.9549 C 1078.8274,714.30436 1100.2699,494.5184 1093.5691,356.4821" id="path1061" />
+    <ns0:path id="path1057_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.17;stroke-dasharray:39.300000000000004, 39.300000000000004" d="M 733.06657,924.70921 C 852.34066,762.55006 889.0864,582.95997 938.11079,363.18289 971.72209,212.50294 958.21316,105.8725 958.21316,105.8725" />
+    <ns0:path id="path1061_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.17;stroke-dasharray:39.300000000000004, 39.300000000000004" d="M 900.58636,972.9549 C 1078.8274,714.30436 1100.2699,494.5184 1093.5691,356.4821" />
+    <ns0:circle id="path1059" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.93;stroke-dasharray:none;stroke-opacity:1" cx="892.54541" cy="565.54681" r="41.0292" />
+    <ns0:text id="path1059_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.31;stroke-dasharray:none;stroke-opacity:1" x="879.1048099999999" y="584.4108100000001">
+      <ns0:text id="path1059_text" x="879.1048099999999" y="584.4108100000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.160000000000004px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
     </ns0:text>
-    <ns0:circle id="path1063" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.81;stroke-dasharray:none;stroke-opacity:1" cx="1060.0652" cy="647.29645" r="39.7764" />
-    <ns0:text id="path1063_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.27;stroke-dasharray:none;stroke-opacity:1" x="1047.035" y="665.5844500000001">
-      <ns0:text id="path1063_text" x="1047.035" y="665.5844500000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.72px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">4</ns0:text>
+    <ns0:circle id="path1063" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.93;stroke-dasharray:none;stroke-opacity:1" cx="1060.0652" cy="647.29645" r="41.0292" />
+    <ns0:text id="path1063_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.31;stroke-dasharray:none;stroke-opacity:1" x="1046.6246" y="666.1604500000001">
+      <ns0:text id="path1063_text" x="1046.6246" y="666.1604500000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.160000000000004px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">4</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

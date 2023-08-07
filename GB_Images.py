@@ -5,7 +5,7 @@ from GB_Book import book
 
 
 Photo(name='Riptide',
-      fileName='Riptide.jpg',
+      file_name='Riptide.jpg',
       parent=book.formations['Undertow'],
       size = 'h',
       loc = 'e',
@@ -13,7 +13,7 @@ Photo(name='Riptide',
       credit='Andrew Child',
       description='Rob on Riptide.')
 Photo(name='Fight Club',
-      fileName='FightClub2.jpg',
+      file_name='FightClub2.jpg',
       parent=book.subareas['Fight Club'],
       size='h',
       loc='e',
@@ -21,7 +21,7 @@ Photo(name='Fight Club',
       credit='Andrew Child',
       description='Michael near the top of Fight Club.')
 Photo(name='Octernal',
-      fileName='Octurnal.jpg',
+      file_name='Octurnal.jpg',
       parent=book.subareas['Undertow'],
       size='s',
       loc='e',
@@ -29,7 +29,7 @@ Photo(name='Octernal',
       credit='Andrew Child',
       description='Carson landing the big throw on Octernal. Classic!')
 Photo(name='Smackdown',
-      fileName='Smackdown.jpg',
+      file_name='Smackdown.jpg',
       parent=book.subareas['François'],
       route=book.routes['Smackdown'],
       size='f',
@@ -37,7 +37,7 @@ Photo(name='Smackdown',
       credit='Carson Dension',
       description='Andrew posting up at the start of Smackdown.')
 Photo(name='Ground up Blowie',
-      fileName='blowie.jpg',
+      file_name='blowie.jpg',
       parent=book.formations['Toilet Bowl'],
       size='p',
       loc='e',
@@ -45,7 +45,7 @@ Photo(name='Ground up Blowie',
       credit='Michael Gardener Brown',
       description='Andrew strugling to find a finger lock on Ground up Blowie.')
 Photo(name='Butterfly',
-      fileName='butterfly.jpg',
+      file_name='butterfly.jpg',
       parent=book.subareas['The Garden Cliff'],
       size='f',
       loc='e',
@@ -53,7 +53,7 @@ Photo(name='Butterfly',
       credit='Andrew Child',
       description='Griffin on Butterfly Effect.')
 Photo(name='2blows',
-      fileName='2blows.jpg',
+      file_name='2blows.jpg',
       parent=book.subareas['Azain'],
       size='h',
       loc='e',
@@ -61,19 +61,19 @@ Photo(name='2blows',
       credit='Andrew Child',
       description='Griffin on Two Blows One Stroke.')         
 Photo(name='pinkTag',
-      fileName='pinkTagSign.jpg',
+      file_name='pinkTagSign.jpg',
       parent=book.subareas['Pink Tag'],
       size='h',
       format_options=['force_include'],
       description='Tread carefully, all but one of the climbs in this area are downhill of this sign.')      
 Photo(name='needles',
-      fileName='needles.jpg',
+      file_name='needles.jpg',
       parent=book.subareas['The Needles'],
       size='f',
       format_options=['force_include'],
       description='The Needles as seen from NF-1133.')      
 Photo(name='pinnacle',
-      fileName='pinnacle.jpg',
+      file_name='pinnacle.jpg',
       parent=book.subareas['Santiam Pinnacle'],
       size='h',
       format_options=['force_include'],
@@ -83,7 +83,7 @@ Photo(name='pinnacle',
 
 Topo(name='Bitchin Corners',
      parent=book.formations['Bitchin Corners'],
-     fileName='bitchin.svg',
+     file_name='bitchin.svg',
      size='h',
       loc='e',
      border='rect290',
@@ -95,7 +95,7 @@ Topo(name='Bitchin Corners',
      })
 Topo(name='Baldo',
      parent=book.formations['Baldo'],
-     fileName='baldo.svg',
+     file_name='baldo.svg',
      size='h',
      routes={
          'path600':book.climbs['Frontside Baldo'],
@@ -103,7 +103,7 @@ Topo(name='Baldo',
      })
 Topo(name='Berned',
      parent=book.climbs['All Berned Down'],
-     fileName='berned.svg',
+     file_name='berned.svg',
      size='h',
      routes={
          'path744':book.climbs['All Berned Up'],
@@ -113,7 +113,7 @@ Topo(name='Berned',
      })
 Topo(name='Classique',
      parent=book.formations['Classique'],
-     fileName='classique.svg',
+     file_name='classique.svg',
      size='h',
      routes={
          'path445':book.climbs['Classique'],
@@ -122,7 +122,7 @@ Topo(name='Classique',
      })
 Topo(name='Crazy Cool',
      parent=book.formations['Crazy Cool'],
-     fileName='crazyCool.svg',
+     file_name='crazyCool.svg',
      size='h',
      routes={
          'path586':book.climbs['Crazy Cool Arête'],
@@ -131,7 +131,7 @@ Topo(name='Crazy Cool',
      })
 Topo(name='Overhand',
      parent=book.formations['Overhand'],
-     fileName='overhand2.svg',
+     file_name='overhand2.svg',
      size='h',
      routes={
          'path1177':book.climbs['Overhand'],
@@ -139,7 +139,7 @@ Topo(name='Overhand',
      })
 Topo(name='Hueco Wabo',
      parent=book.formations['Hueco Wabo'],
-     fileName='hueco.svg',
+     file_name='hueco.svg',
      size='h',
      routes={
          'path1918':book.climbs['Hueco Wabo'],
@@ -147,7 +147,7 @@ Topo(name='Hueco Wabo',
      })
 Topo(name='Azain Spire',
      parent=book.formations['Azain Spire'],
-     fileName='azainSpire.svg',
+     file_name='azainSpire.svg',
      size='h',
      routes={
          'path724':book.climbs['Snakes and Martyrs'],
@@ -155,7 +155,7 @@ Topo(name='Azain Spire',
      })
 Topo(name='Three Star Ledge',
      parent=book.formations['Three Star Ledge'],
-     fileName='threeStar2.svg',
+     file_name='threeStar2.svg',
      size='h',
      routes={
          'path2023':book.climbs['Three Star Ledge'],
@@ -165,7 +165,7 @@ Topo(name='Three Star Ledge',
      })
 Topo(name='The Good',
      parent=book.routes['The Good'],
-     fileName='good.svg',
+     file_name='good.svg',
      size='f',
      routes={
          'path1453':book.climbs['The Good'],
@@ -180,7 +180,7 @@ Topo(name='The Good',
      })
 Topo(name='Fight Club Right Side',
      parent=book.formations['Fight Club'],
-     fileName='fightClub.svg',
+     file_name='fightClub.svg',
      size='h',
      border='rect789',
      routes={
@@ -193,7 +193,7 @@ Topo(name='Fight Club Right Side',
      })
 Topo(name='Fight Club Left Side',
      parent=book.routes['Fight Club 2'],
-     fileName='fightClub2.svg',
+     file_name='fightClub2.svg',
      size='h',
      routes={
          'path1297':book.climbs['Fight Club 2'],
@@ -205,7 +205,7 @@ Topo(name='Fight Club Left Side',
      })
 Topo(name='E\'s Dirty B',
      parent=book.formations['E\'s Dirty B'],
-     fileName='eDirty.svg',
+     file_name='eDirty.svg',
      size='h',
      routes={
          'path446':book.climbs['Green Hell'],
@@ -217,7 +217,7 @@ Topo(name='E\'s Dirty B',
      })
 Topo(name='Car Alarm Downhill Side',
      parent=book.routes['White Rhino'],
-     fileName='carAlarm.svg',
+     file_name='carAlarm.svg',
      size='f',
      routes={
          'path674':book.climbs['Car Alarm Traverse'],
@@ -231,7 +231,7 @@ Topo(name='Car Alarm Downhill Side',
      })
 Topo(name='Car Alarm Uphill Side',
      parent=book.routes['Comp Route'],
-     fileName='carAlarm2.svg',
+     file_name='carAlarm2.svg',
      size='h',
      routes={
          'path824':book.climbs['Comp Route'],
@@ -243,7 +243,7 @@ Topo(name='Car Alarm Uphill Side',
      })
 Topo(name='Boys in the Woods',
      parent=book.formations['Boys In the Woods'],
-     fileName='BITW.svg',
+     file_name='BITW.svg',
      size='f',
      routes={
          'path1322':book.climbs['Tabor Tots'],
@@ -261,7 +261,7 @@ Topo(name='Boys in the Woods',
      })
 Topo(name='enchilada',
      parent=book.routes['Enchilada'],
-     fileName='enchilada2.svg',
+     file_name='enchilada2.svg',
      size='h',
      routes={
          'path2078':book.climbs['Enchilada'],
@@ -273,7 +273,7 @@ Topo(name='enchilada',
      })
 Topo(name='Slam dunk',
      parent=book.routes['Slam Dunk'],
-     fileName='eboulder2.svg',
+     file_name='eboulder2.svg',
      size='h',
      routes={
          'path623':book.climbs['Layup'],
@@ -283,7 +283,7 @@ Topo(name='Slam dunk',
      })
 Topo(name='Gargoyle',
      parent=book.formations['E\'s Boulder'],
-     fileName='eboulder3.svg',
+     file_name='eboulder3.svg',
      size='h',
      border='rect292',
      routes={
@@ -298,7 +298,7 @@ Topo(name='Gargoyle',
      })
 Topo(name='Bubonic Plague',
      parent=book.formations['Bubonic Plague'],
-     fileName='koan.svg',
+     file_name='koan.svg',
      size='h',
      routes={
          'path1777':book.climbs['Bubonic Plague'],
@@ -306,7 +306,7 @@ Topo(name='Bubonic Plague',
      })
 Topo(name='Night Crawler',
      parent=book.formations['Night Crawler'],
-     fileName='nightCrawler.svg',
+     file_name='nightCrawler.svg',
      size='h',
      routes={
          'path1342':book.climbs['Night Crawler'],
@@ -314,7 +314,7 @@ Topo(name='Night Crawler',
      })
 Topo(name='Azain',
      parent=book.routes['Garden Groove'],
-     fileName='azainCrack.svg',
+     file_name='azainCrack.svg',
      size='h',
      routes={
          'path445':book.climbs['Sometimes'],
@@ -324,7 +324,7 @@ Topo(name='Azain',
      })
 Topo(name='Blowie',
      parent=book.formations['Azain'],
-     fileName='blowie.svg',
+     file_name='blowie.svg',
      size='h',
      routes={
          'path527':book.climbs['Ground up Blowie'],
@@ -332,7 +332,7 @@ Topo(name='Blowie',
      })
 Topo(name='Bubbler',
      parent=book.formations['The Bubbler'],
-     fileName='bubbler.svg',
+     file_name='bubbler.svg',
      size='h',
      border='rect1186',
      routes={
@@ -345,7 +345,7 @@ Topo(name='Bubbler',
      })
 Topo(name='Jesus',
      parent=book.formations['Meth Lab'],
-     fileName='jesus.svg',
+     file_name='jesus.svg',
      size='f',
      routes={
          'path1908':book.climbs['Don\'t Blow the Jug'],
@@ -361,7 +361,7 @@ Topo(name='Jesus',
      })
 Topo(name='Methlab Backside',
      parent=book.routes['Smackdown'],
-     fileName='Methlab.svg',
+     file_name='Methlab.svg',
      size='f',
      border='rect306',
      routes={
@@ -388,7 +388,7 @@ Topo(name='Methlab Backside',
      })
 Topo(name='octernal2',
      parent=book.routes['Two Blows One Stroke'],
-     fileName='octurnal2.svg',
+     file_name='octurnal2.svg',
      size='h',
      routes={
          'path3604':book.climbs['Two Blows One Stroke'],
@@ -398,7 +398,7 @@ Topo(name='octernal2',
      })
 Topo(name='Locksmith',
      parent=book.formations['Locksmith'],
-     fileName='hula.svg',
+     file_name='hula.svg',
      size='h',
      routes={
          'path888':book.climbs['Philanthropy'],
@@ -410,7 +410,7 @@ Topo(name='Locksmith',
      })
 Topo(name='Philanthropy',
      parent=book.routes['Philanthropy'],
-     fileName='philanthropy.svg',
+     file_name='philanthropy.svg',
      size='h',
      routes={
          'path1321':book.climbs['Brain Haemorrhage'],
@@ -421,7 +421,7 @@ Topo(name='Philanthropy',
      })
 # Topo(name='arboretum',
 #      parent=book.routes['Garden Project'],
-#      fileName='arboretum.svg',
+#      file_name='arboretum.svg',
 #      size='h',
 #      routes={
 #          'path501':book.climbs['Garden Variety'],
@@ -438,7 +438,7 @@ Topo(name='Philanthropy',
 #      })
 Topo(name='arboretum2',
      parent=book.routes['The Arboretum'],
-     fileName='childOfGod.svg',
+     file_name='childOfGod.svg',
      size='f',
      routes={
          'path1920':book.climbs['Sebulba'],
@@ -466,7 +466,7 @@ Topo(name='arboretum2',
      })
 # Topo(name='siren',
 #      parent=book.formations['Gumby Wall'],
-#      fileName='siren.svg',
+#      file_name='siren.svg',
 #      size='h',
 #      routes={
 #          'path5162':book.climbs['The Siren Stand Start'],
@@ -482,7 +482,7 @@ Topo(name='arboretum2',
 #      })
 Topo(name='Chockstone',
      parent=book.formations['Chockstone Highball'],
-     fileName='chockstone.svg',
+     file_name='chockstone.svg',
      size='h',
      routes={
          'path1669':book.climbs['Chockstone Highball'],
@@ -490,7 +490,7 @@ Topo(name='Chockstone',
      })
 Topo(name='All Sorts of Ease',
      parent=book.formations['All Sorts of Ease'],
-     fileName='ease.svg',
+     file_name='ease.svg',
      size='h',
      routes={
          'path1938':book.climbs['In the Shadow of Giants'],
@@ -500,7 +500,7 @@ Topo(name='All Sorts of Ease',
      })
 Topo(name='scaryGrandma',
      parent=book.routes['Scary Grandma'],
-     fileName='scaryGrandma.svg',
+     file_name='scaryGrandma.svg',
      size='h',
      routes={
          'path609':book.climbs['Scary Grandma'],
@@ -512,7 +512,7 @@ Topo(name='scaryGrandma',
      })
 Topo(name='scaryGrandma2',
      parent=book.formations['Scary Grandma'],
-     fileName='angryMom.svg',
+     file_name='angryMom.svg',
      size='h',
      routes={
          'path447':book.climbs['Easy Grandma'],
@@ -522,7 +522,7 @@ Topo(name='scaryGrandma2',
      })
 #Topo(name='Gumby',
 #     parent=book.routes['Gumby Arête'],
-#     fileName='gumby.svg',
+#     file_name='gumby.svg',
 #     size='h',
 #     routes={
 #         'path1571':book.climbs['Bag of Tricks'],
@@ -535,7 +535,7 @@ Topo(name='scaryGrandma2',
 #     })
 Topo(name='Mini Me',
      parent=book.formations['Mini Me'],
-     fileName='miniMe.svg',
+     file_name='miniMe.svg',
      size='h',
      border='rect505',
      routes={
@@ -548,7 +548,7 @@ Topo(name='Mini Me',
      })
 # Topo(name='Mini Me 3',
 #      parent=book.routes['Dr. Evil'],
-#      fileName='miniMe3.svg',
+#      file_name='miniMe3.svg',
 #      size='h',
 #      routes={
 #          'path1844':book.climbs['Dr. Evil'],
@@ -561,7 +561,7 @@ Topo(name='Mini Me',
 #      })
 Topo(name='Mini Me 2',
      parent=book.routes['Dr. Evil'],
-     fileName='drEvil.svg',
+     file_name='drEvil.svg',
      size='h',
      border='rect561',
      routes={
@@ -575,7 +575,7 @@ Topo(name='Mini Me 2',
      })
 Topo(name='Office',
      parent=book.formations['Crash Test Dummies'],
-     fileName='office.svg',
+     file_name='office.svg',
      size='f',
      border='rect568',
      routes={
@@ -592,7 +592,7 @@ Topo(name='Office',
      })
 Topo(name='Swollen Member',
      parent=book.formations['Swollen Member'],
-     fileName='swollen2.svg',
+     file_name='swollen2.svg',
      size='h',
      routes={
          'path1813':book.climbs['Meth Lab Highball'],
@@ -607,7 +607,7 @@ Topo(name='Swollen Member',
      })
 Topo(name='Fern Sully',
      parent=book.formations['Fern Sully'],
-     fileName='fern.svg',
+     file_name='fern.svg',
      size='h',
      routes={
          'path445':book.climbs['Fern Sully'],
@@ -616,7 +616,7 @@ Topo(name='Fern Sully',
      })
 Topo(name='Southern Discomfort',
      parent=book.formations['Meth Lab'],
-     fileName='soDisco.svg',
+     file_name='soDisco.svg',
      size='h',
      loc='e',
      border='rect646',
@@ -630,7 +630,7 @@ Topo(name='Southern Discomfort',
      })
 Topo(name='Toilet Bowl',
      parent=book.formations['Toilet Bowl'],
-     fileName='toilet.svg',
+     file_name='toilet.svg',
      size='h',
      routes={
          'path1036':book.climbs['Toilet Bowl Traverse'],
@@ -640,7 +640,7 @@ Topo(name='Toilet Bowl',
      })
 Topo(name='Tonsil',
      parent=book.routes['Tonsil'],
-     fileName='tonsil2.svg',
+     file_name='tonsil2.svg',
      size='h',
      routes={
          'path2317':book.climbs['Gingiva'],
@@ -653,7 +653,7 @@ Topo(name='Tonsil',
      })
 Topo(name='Geodesic Weiner',
      parent=book.formations['François'],
-     fileName='weiner.svg',
+     file_name='weiner.svg',
      size='h',
      routes={
          'path2460':book.climbs['Geodesic Weiner'],
@@ -661,7 +661,7 @@ Topo(name='Geodesic Weiner',
      })
 Topo(name='Trust',
      parent=book.formations['Tyler Durten'],
-     fileName='trust.svg',
+     file_name='trust.svg',
      size='h',
      routes={
          'path678':book.climbs['Trust'],
@@ -679,7 +679,7 @@ Topo(name='Trust',
      })
 Topo(name='Turtle',
      parent=book.formations['Turtle Shell Boulder'],
-     fileName='turtle.svg',
+     file_name='turtle.svg',
      size='h',
      routes={
          'path855':book.climbs['Raphael Crack'],
@@ -691,7 +691,7 @@ Topo(name='Turtle',
      })
 Topo(name='Undertow',
      parent=book.routes['Undertow'],
-     fileName='undertow.svg',
+     file_name='undertow.svg',
      size='h',
      routes={
          'path1199':book.climbs['Spray Skirt'],
@@ -707,7 +707,7 @@ Topo(name='Undertow',
      })
 Topo(name='Undertow2',
      parent=book.formations['Undertow'],
-     fileName='undertow2.svg',
+     file_name='undertow2.svg',
      size='f',
      routes={
          'path932':book.climbs['Silly Steep Mantle'],
@@ -729,7 +729,7 @@ Topo(name='Undertow2',
      })
 Topo(name='François',
      parent=book.routes['François'],
-     fileName='frank.svg',
+     file_name='frank.svg',
      size='h',
      loc='e',
      routes={
@@ -738,7 +738,7 @@ Topo(name='François',
      })
 Topo(name='Oregon Arête',
      parent=book.formations['Garden Roof'],
-     fileName='oregonArete.svg',
+     file_name='oregonArete.svg',
      size='h',
      routes={
          'path742':book.climbs['Full Stroke'],
@@ -751,7 +751,7 @@ Topo(name='Oregon Arête',
      })
 Topo(name='Full Stroke',
      parent=book.routes['Full Stroke'],
-     fileName='fullStroke.svg',
+     file_name='fullStroke.svg',
      size='h',
      border='rect444',
      routes={
@@ -766,7 +766,7 @@ Topo(name='Full Stroke',
      })
 Topo(name='The Good Warmup',
      parent=book.formations['The Good Warmup'],
-     fileName='goodWarmUp.svg',
+     file_name='goodWarmUp.svg',
      size='h',
      routes={
          'path579':book.climbs['The Good Warmup'],
@@ -774,7 +774,7 @@ Topo(name='The Good Warmup',
      })
 Topo(name='Gumby Wall',
      parent=book.routes['Gumby Arête'],
-     fileName='gumby.svg',
+     file_name='gumby.svg',
      size='f',
      routes={
          'path643':book.climbs['Bag of Tricks'],
@@ -789,7 +789,7 @@ Topo(name='Gumby Wall',
      })
 Topo(name='Hanging Prow Project',
      parent=book.formations['Hanging Prow'],
-     fileName='prowProj.svg',
+     file_name='prowProj.svg',
      size='h',
      routes={
          'path1600':book.climbs['Hanging Prow Project'],
@@ -797,7 +797,7 @@ Topo(name='Hanging Prow Project',
      })
 Topo(name='Small',
      parent=book.formations['Small'],
-     fileName='small.svg',
+     file_name='small.svg',
      size='h',
      routes={
          'path1740':book.climbs['Smol'],
@@ -806,7 +806,7 @@ Topo(name='Small',
      })
 Topo(name='Spider Bumps',
      parent=book.routes['Spider Bumps'],
-     fileName='spiderBumps.svg',
+     file_name='spiderBumps.svg',
      size='h',
      routes={
          'path1879':book.climbs['Spider Bumps'],
@@ -814,7 +814,7 @@ Topo(name='Spider Bumps',
      })
 Topo(name='Farley',
      parent=book.routes['Belushi'],
-     fileName='farley.svg',
+     file_name='farley.svg',
      size='f',
      routes={
          'path2245':book.climbs['Farley Prep'],
@@ -829,7 +829,7 @@ Topo(name='Farley',
      })
 Topo(name='Frat House',
      parent=book.formations['Frat House'],
-     fileName='fratHouse.svg',
+     file_name='fratHouse.svg',
      size='h',
      border='rect1761',
      routes={
@@ -840,7 +840,7 @@ Topo(name='Frat House',
      })
 Topo(name='Jonah\'s Dab Rig',
      parent=book.formations['Jonah\'s Dab Rig'],
-     fileName='jonah.svg',
+     file_name='jonah.svg',
      size='h',
      routes={
          'path1028':book.climbs['Jonah\'s Dab Rig'],
@@ -851,7 +851,7 @@ Topo(name='Jonah\'s Dab Rig',
      })
 Topo(name='Territorial Pissings',
      parent=book.formations['Pissing Boulder'],
-     fileName='pissings.svg',
+     file_name='pissings.svg',
      size='h',
      routes={
          'path1462':book.climbs['Territorial Pissings'],
@@ -859,7 +859,7 @@ Topo(name='Territorial Pissings',
      })
 Topo(name='Pumpkin',
      parent=book.formations['Pumpkin'],
-     fileName='pSpice.svg',
+     file_name='pSpice.svg',
      size='h',
      routes={
          'path887':book.climbs['Pumpkin Spice'],
@@ -868,7 +868,7 @@ Topo(name='Pumpkin',
      })
 Topo(name='Baseball',
      parent=book.formations['Baseball'],
-     fileName='baseball.svg',
+     file_name='baseball.svg',
      size='h',
      routes={
          'path349':book.climbs['Baseball'],
@@ -878,7 +878,7 @@ Topo(name='Baseball',
      })
 Topo(name='Bread Loaf',
      parent=book.routes['Worf'],
-     fileName='breadLoaf.svg',
+     file_name='breadLoaf.svg',
      size='f',
      border='rect1397',
      routes={
@@ -893,7 +893,7 @@ Topo(name='Bread Loaf',
      })
 Topo(name='Bread Loaf2',
      parent=book.routes['Worf'],
-     fileName='breadLoaf2.svg',
+     file_name='breadLoaf2.svg',
      size='h',
      loc='e',
      routes={
@@ -903,7 +903,7 @@ Topo(name='Bread Loaf2',
      })
 Topo(name='Scratch and Spliff',
      parent=book.routes['Spliff'],
-     fileName='scratchSpliff.svg',
+     file_name='scratchSpliff.svg',
      size='h',
      routes={
          'path1921':book.climbs['Spliff'],
@@ -917,7 +917,7 @@ Topo(name='Scratch and Spliff',
      })
 Topo(name='Scratch and Spliff 2',
      parent=book.formations['Scratch and Spliff'],
-     fileName='scratchSpliff2.svg',
+     file_name='scratchSpliff2.svg',
      size='f',
      routes={
          'path2067':book.climbs['Scratch and Spliff Traverse'],
@@ -931,7 +931,7 @@ Topo(name='Scratch and Spliff 2',
      })
 Topo(name='Scratch and Spliff 3',
      parent=book.routes['Caliban\'s War'],
-     fileName='scratchSpliff3.svg',
+     file_name='scratchSpliff3.svg',
      size='h',
      routes={
          'path2226':book.climbs['Caliban\'s War'],
@@ -942,7 +942,7 @@ Topo(name='Scratch and Spliff 3',
      })
 Topo(name='4.5',
      parent=book.formations['The 4.5'],
-     fileName='45.svg',
+     file_name='45.svg',
      size='f',
      border='rect1383',
      routes={
@@ -955,7 +955,7 @@ Topo(name='4.5',
      })
 Topo(name='Big Iron',
      parent=book.formations['Big Iron'],
-     fileName='bigIron.svg',
+     file_name='bigIron.svg',
      size='h',
      border='rect522',
      routes={
@@ -969,7 +969,7 @@ Topo(name='Big Iron',
      })
 Topo(name='Wild Roses',
      parent=book.climbs['Wild Roses'],
-     fileName='wildRoses.svg',
+     file_name='wildRoses.svg',
      size='h',
      routes={
          'path666': book.climbs['Wild Roses'],
@@ -977,7 +977,7 @@ Topo(name='Wild Roses',
      })
 AreaMap(name='The Garden Main Area Overview',
         parent=book.areas['The Garden Main'],
-        fileName='Garden.svg',
+        file_name='Garden.svg',
         sub_areas={
             'rect2027': book.subareas['Big'],
             'rect1376': book.subareas['Azain'],
@@ -992,7 +992,7 @@ AreaMap(name='The Garden Main Area Overview',
         size='f',)
 AreaMap(name='Armageddon Area Overview',
         parent=book.areas['Upper Garden'],
-        fileName='upperGarden.svg',
+        file_name='upperGarden.svg',
         sub_areas={
             'rect27128': book.subareas['The Bread Loaves'],
             'rect27051': book.subareas['entranceUpper'],
@@ -1002,8 +1002,8 @@ AreaMap(name='Armageddon Area Overview',
         size='f',)
 SubAreaMap(name='Entrance Area map',
            parent=book.subareas['Entrance Area'],
-           outFileName='entrance_c.png',
-           fileName='Garden.svg',
+           out_file_name='entrance_c.png',
+           file_name='Garden.svg',
            layers=['Entrance', 'Base'],
            border='rect2313',
            routes={
@@ -1024,8 +1024,8 @@ SubAreaMap(name='Entrance Area map',
            })
 SubAreaMap(name='Fight Club Area map',
            parent=book.subareas['Fight Club'],
-           outFileName='fightClub_c.png',
-           fileName='Garden.svg',
+           out_file_name='fightClub_c.png',
+           file_name='Garden.svg',
            layers=['Fight Club', 'Base'],
            border='rect3027',
            size='f',
@@ -1047,8 +1047,8 @@ SubAreaMap(name='Fight Club Area map',
            })
 SubAreaMap(name='Undertow area map',
            parent=book.subareas['Undertow'],
-           outFileName='undertow_c.png',
-           fileName='Garden.svg',
+           out_file_name='undertow_c.png',
+           file_name='Garden.svg',
            layers=['Undertow', 'Base'],
            border='rect3386',
            routes={
@@ -1066,8 +1066,8 @@ SubAreaMap(name='Undertow area map',
            })
 SubAreaMap(name='Meth Lab area map',
            parent=book.subareas['Meth Lab'],
-           outFileName='methLab_c.png',
-           fileName='Garden.svg',
+           out_file_name='methLab_c.png',
+           file_name='Garden.svg',
            layers=['Meth Lab', 'Base'],
            border='rect3200',
            routes={
@@ -1094,8 +1094,8 @@ SubAreaMap(name='Meth Lab area map',
            })
 SubAreaMap(name='Big area map',
            parent=book.subareas['Big'],
-           outFileName='big_c.png',
-           fileName='Garden.svg',
+           out_file_name='big_c.png',
+           file_name='Garden.svg',
            routes={
                'path5664':book.climbs['Frontside Baldo'],
                'path5662':book.climbs['Hueco Wabo'],
@@ -1111,8 +1111,8 @@ SubAreaMap(name='Big area map',
            border='rect2027'),
 SubAreaMap(name='Azain area map',
            parent=book.subareas['Azain'],
-           outFileName='azain_c.png',
-           fileName='Garden.svg',
+           out_file_name='azain_c.png',
+           file_name='Garden.svg',
            size='h',
            routes={
                'path720':book.climbs['Ground up Blowie'],
@@ -1130,8 +1130,8 @@ SubAreaMap(name='Azain area map',
            border='rect1376')
 SubAreaMap(name='Child of God area map',
            parent=book.subareas['Child of God'],
-           outFileName='child_o_god_c.png',
-           fileName='Garden.svg',
+           out_file_name='child_o_god_c.png',
+           file_name='Garden.svg',
            size='f',
            routes={
                'ellipse374':book.climbs['Gumby Crack'],
@@ -1149,8 +1149,8 @@ SubAreaMap(name='Child of God area map',
            border='rect380')
 SubAreaMap(name='François area map',
            parent=book.subareas['François'],
-           outFileName='Big Frank_c.png',
-           fileName='Garden.svg',
+           out_file_name='Big Frank_c.png',
+           file_name='Garden.svg',
            layers=['Big Fred', 'Base'],
            border='rect2908',
            routes={
@@ -1164,8 +1164,8 @@ SubAreaMap(name='François area map',
            })
 SubAreaMap(name='Pink Tag area map',
            parent=book.areas['Pink Tag Boulders'],
-           outFileName='Pink Tag_c.png',
-           fileName='Garden.svg',
+           out_file_name='Pink Tag_c.png',
+           file_name='Garden.svg',
            size='f',
            layers=['Pink Tag', 'Base'],
            border='rect3553',
@@ -1179,8 +1179,8 @@ SubAreaMap(name='Pink Tag area map',
            })
 SubAreaMap(name='Entrance area map',
            parent=book.subareas['entranceUpper'],
-           outFileName='entranceUpper_c.png',
-           fileName='upperGarden.svg',
+           out_file_name='entranceUpper_c.png',
+           file_name='upperGarden.svg',
            layers=['Entrance', 'Base'],
            border='rect27051',
            routes={
@@ -1190,8 +1190,8 @@ SubAreaMap(name='Entrance area map',
            })
 SubAreaMap(name='Bread loaf/Scratch and Spliff area map',
            parent=book.subareas['The Bread Loaves'],
-           outFileName='bread_c.png',
-           fileName='upperGarden.svg',
+           out_file_name='bread_c.png',
+           file_name='upperGarden.svg',
            layers=['Bread', 'Base'],
            border='rect27128',
            size='f',
@@ -1207,7 +1207,7 @@ SubAreaMap(name='Bread loaf/Scratch and Spliff area map',
            })
 SubAreaMap(name='Redneck Riviera area map',
            parent=book.subareas['Redneck Riviera'],
-           fileName='redneck.svg',
+           file_name='redneck.svg',
            layers=['Redneck', 'Base'],
            border='rect3479',
            size='h',

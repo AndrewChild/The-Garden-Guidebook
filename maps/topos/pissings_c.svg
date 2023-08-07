@@ -3,11 +3,11 @@
   <ns1:namedview id="namedview1335" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.74214503" ns2:cx="635.32057" ns2:cy="588.8337" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1339" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1339">
     <ns0:image width="1277.12" height="1176.3199" preserveAspectRatio="none" ns3:href="pissings.jpg" id="image1341" />
-    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:9.31;stroke-dasharray:none" d="M 444.65702,789.60308 C 493.16506,560.53734 555.14756,273.53144 549.75778,229.06574" id="path1460" />
-    <ns0:path id="path1460_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.31;stroke-dasharray:39.900000000000006, 39.900000000000006" d="M 444.65702,789.60308 C 493.16506,560.53734 555.14756,273.53144 549.75778,229.06574" />
-    <ns0:circle id="path1462" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.99;stroke-dasharray:none;stroke-opacity:1" cx="489.12274" cy="579.40155" r="41.6556" />
-    <ns0:text id="path1462_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.33;stroke-dasharray:none;stroke-opacity:1" x="475.47694" y="598.5535500000001">
-      <ns0:text id="path1462_text" x="475.47694" y="598.5535500000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.88px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:9.59;stroke-dasharray:none" d="M 444.65702,789.60308 C 493.16506,560.53734 555.14756,273.53144 549.75778,229.06574" id="path1460" />
+    <ns0:path id="path1460_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.59;stroke-dasharray:41.1, 41.1" d="M 444.65702,789.60308 C 493.16506,560.53734 555.14756,273.53144 549.75778,229.06574" />
+    <ns0:circle id="path1462" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.11;stroke-dasharray:none;stroke-opacity:1" cx="489.12274" cy="579.40155" r="42.9084" />
+    <ns0:text id="path1462_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.37;stroke-dasharray:none;stroke-opacity:1" x="475.06654000000003" y="599.12955">
+      <ns0:text id="path1462_text" x="475.06654000000003" y="599.12955" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.32000000000001px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>
