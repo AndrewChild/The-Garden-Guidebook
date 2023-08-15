@@ -25,23 +25,49 @@
 \usepackage{colortbl}
 \usepackage{varioref}
 
+%-------------- Formatting -------------------
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 
 \setlength\parindent{0pt}
 \setenumerate{leftmargin=*}
 \setlength{\tabcolsep}{3pt}
-\renewcommand{\labelenumi}{\textbf{\arabic{enumi}}}
-\renewcommand{\labelenumii}{\arabic{enumi}\alph{enumii}}
+\renewcommand{\labelenumi}{\textbf{\arabic{enumi}}} % I don't think that this does anything anymore
+\renewcommand{\labelenumii}{\arabic{enumi}\alph{enumii}} % I don't think that this does anything anymore
+\setcounter{secnumdepth}{0} % prevents section (sub area) numbering
 
+\titleformat{\chapter}[display]
+  {\normalfont\color{white} \begin {shaded*}\bfseries}
+  {}
+  {0pt}
+  {\Huge#1\end{shaded*}}
+\titlespacing*{\chapter}
+  {0pt}
+  {-50pt}
+  {0pt}
+\titleformat{\section}[hang]
+  {\normalfont\color{white}}
+  {}
+  {0pt}
+  {\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}
 
-\titleformat{\chapter}[display]{\normalfont\color{white} \begin {shaded*}\bfseries}{\Huge#1}{0pt}{\end{shaded*}}
-\titlespacing*{\chapter}{0pt}{0pt}{5pt}
-\titleformat{\section}[hang]{\normalfont\color{white}}{\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}{0pt}{}
-
+%-------------- Macros -------------------
 \newcommand{\formatChapter}[1]{
+\thispagestyle{empty}
 \colorlet{shadecolor}{\chapterColor}
 \chapter{#1}
+%thruthfully I have no fucking idea why this works. Found a solution after like 20 min of trial and error
+\fancyhead{}
+\lhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}\hspace{4pt}\protect\thepage\hspace{1ex}-\hspace{1ex}#1}
+\rhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}#1 \protect\thepage \hspace{4pt}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
+\fancyhead[RO]{}
+\fancyhead[RE]{\color{white}#1\hspace{1ex}-\hspace{1ex}\protect\thepage \hspace{4pt}}
+}
+\newcommand{\formatUnnumberedChapter}[1]{
+\thispagestyle{empty}
+\colorlet{shadecolor}{\chapterColor}
+\addcontentsline{toc}{chapter}{#1}
+\chapter*{#1}
 %thruthfully I have no fucking idea why this works. Found a solution after like 20 min of trial and error
 \fancyhead{}
 \lhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}\hspace{4pt}\protect\thepage\hspace{1ex}-\hspace{1ex}#1}
@@ -68,12 +94,15 @@
   \ifodd\value{page}\hbox{}\newpage\fi
 }
 
+%-------------- Document -------------------
 \begin{document}
 \title{The Garden}
-\date{2023-08-07}
+\date{2023-08-15}
 \maketitle
 \newcommand\chapterColor{MidnightBlue}
 \input{acknowledgements}
+\tableofcontents
+\clearpage
 \renewcommand\chapterColor{BrickRed}
 \input{The Garden Main}
 \renewcommand\chapterColor{RoyalPurple}

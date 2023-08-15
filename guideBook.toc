@@ -1,0 +1,46 @@
+\contentsline {chapter}{Introduction}{2}{Doc-Start}%
+\contentsline {section}{Authors Note}{2}{section*.2}%
+\contentsline {section}{Ameneties}{2}{section*.3}%
+\contentsline {section}{Local Ethics}{2}{section*.4}%
+\contentsline {section}{Poison Oak}{3}{section*.5}%
+\contentsline {section}{How to use this book}{3}{section*.6}%
+\contentsline {subsubsection}{Quality}{4}{subsubsection*.7}%
+\contentsline {subsubsection}{Seriousness}{4}{subsubsection*.8}%
+\contentsline {section}{Acknowledgements}{4}{section*.9}%
+\contentsline {chapter}{\numberline {1}The Garden Main}{8}{chapter.1}%
+\contentsline {section}{A - Entrance Area}{10}{section*.13}%
+\contentsline {section}{B - Fight Club}{15}{section*.56}%
+\contentsline {section}{C - Undertow}{20}{section*.95}%
+\contentsline {section}{D - Meth Lab}{24}{section*.130}%
+\contentsline {section}{E - Big}{30}{section*.183}%
+\contentsline {section}{F - Azain}{33}{section*.211}%
+\contentsline {section}{G - Child of God}{36}{section*.239}%
+\contentsline {section}{H - François}{41}{section*.272}%
+\contentsline {chapter}{\numberline {2}Pink Tag Boulders}{43}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Garden Cliffs}{46}{chapter.3}%
+\contentsline {section}{A - The Garden Cliff}{47}{section*.308}%
+\contentsline {section}{B - Fairy Tale Wall}{51}{section*.352}%
+\contentsline {section}{C - Cabbage Patch/ Thunderdome}{52}{section*.359}%
+\contentsline {chapter}{\numberline {4}Upper Garden}{53}{chapter.4}%
+\contentsline {section}{A - Entrance Area}{55}{section*.373}%
+\contentsline {section}{B - The Bread Loaves/Scratch and Spliff}{56}{section*.383}%
+\contentsline {section}{C - Dr. Strangelove}{60}{section*.405}%
+\contentsline {section}{D - Machete Monkey}{61}{section*.412}%
+\contentsline {section}{E - Middle Garden}{61}{section*.421}%
+\contentsline {chapter}{\numberline {5}Quartzville Creek}{62}{chapter.5}%
+\contentsline {section}{A - Redneck Riviera}{63}{section*.424}%
+\contentsline {section}{B - Old Miner's Camp}{65}{section*.440}%
+\contentsline {chapter}{\numberline {6}Other Areas}{66}{chapter.6}%
+\contentsline {section}{A - The Upper Garden Cliffs}{66}{section*.445}%
+\contentsline {section}{B - Green Peter Knob}{66}{section*.447}%
+\contentsline {section}{C - Canyon Creek}{66}{section*.449}%
+\contentsline {section}{D - Horse Rock}{66}{section*.451}%
+\contentsline {section}{E - Gordon Ridge}{67}{section*.453}%
+\contentsline {section}{F - The Menagerie Wilderness}{67}{section*.455}%
+\contentsline {section}{G - Santiam Pinnacle}{67}{section*.458}%
+\contentsline {section}{H - Iron Mountain}{68}{section*.460}%
+\contentsline {section}{I - The Needles}{69}{section*.470}%
+\contentsline {chapter}{Index}{70}{section*.471}%
+\contentsline {section}{Routes Alphabetical}{70}{section*.473}%
+\contentsline {section}{Routes by grade}{73}{section*.474}%
+\contentsline {section}{Known First Ascents}{76}{section*.475}%
