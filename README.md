@@ -3,14 +3,13 @@
 
 # ToDo:
 ## Things that can be done at home
-- Add something to intro about definition and naming of routes
-- Add something about information sourcing
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
-- Add map of strangelove/young juicy area
 - add map for garden cliffs
 - consider adding a map of all areas
 - make upper garden map more readable
+- consider adding Highway 11 main wall, Shark Fin Rock, and Iron wall to "Other Areas"
+- Other areas section is hard to read
 ## Things that need to be done in the field
 
 ### Garden Main

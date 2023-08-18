@@ -8,16 +8,18 @@ Area(name='Garden Cliffs',
      parent=book,
      gps='44.43998124232581, -122.57539325959186',
      note = 'This area is incomplete. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
-     description='PLACEHOLDER', )
+     description='Located about 3.7 miles down Quatzville Road from Highway 20, park in a small pull out on the river side of the road or park as for the Garden Main and walk a few hundred yards down the road. The approach trail is located directly across from the parking pull out and can be identified by a stone stairway climbing out of the roadside ditch. Follow the meandering trail a few hundered yards to the Garden Cliff.\n\nThe Garden Cliffs are the premier sport climbing destination of the Sweethome area. Although the extensive cliff face is visible from the road most of the routes at the cliffs were developed much later than the boulders.\n\nTake note that the top of the cliff is not easily accesible and none of the routes in this area can be top roped without leading. The majority of the routes in this area feature high first bolts which were placed with stick clipping in mind. Don\'t fret if you for got your stick clip at home, a community stick lives at the cliffs and can ususally be found near the entrance to the Garden Cliff.', )
      
      
 Subarea(name='The Garden Cliff',
-        parent=book.areas['Garden Cliffs'], )
+        parent=book.areas['Garden Cliffs'],
+        description='The largest of the area\'s cliffs is also conveniently the closest to the road. This cliff features varied climbing at grades rangeing from 5.9 to 5.13- in a variety of stlyes. Many sections of the wall are shaded by large maple trees, which provide some relief in the hotter months. See area description for appoach')
 Subarea(name='Fairy Tale Wall',
         note = 'Several routes on this wall are overgrown to the point of being unclimbable.',
-        parent=book.areas['Garden Cliffs'], )
+        parent=book.areas['Garden Cliffs'],
+        description='Following the main trail past the Garden Cliff brings you to a second, much smaller cliff.' )
 Subarea(name='Cabbage Patch/ Thunderdome',
-        note = 'The access trail to this area has completely washed out, currently accessing this area would involve traversing a feild of blackberry bushes.',
+        note = 'Even futher down the main trail is a third cliff which hosts a good selection of more moderate climbs.',
         parent=book.areas['Garden Cliffs'], )
         
         
