@@ -21,6 +21,7 @@
 \usepackage{changepage} 
 \usepackage{needspace}
 \usepackage[percent]{overpic}
+\usepackage{pdflscape}
 \usepackage{pdfpages}
 \usepackage{colortbl}
 \usepackage{varioref}
@@ -30,8 +31,8 @@
 \pagestyle{fancy}
 
 \setlength\parindent{0pt}
-\setenumerate{leftmargin=*}
 \setlength{\tabcolsep}{3pt}
+\setenumerate{leftmargin=*}
 \renewcommand{\labelenumi}{\textbf{\arabic{enumi}}} % I don't think that this does anything anymore
 \renewcommand{\labelenumii}{\arabic{enumi}\alph{enumii}} % I don't think that this does anything anymore
 \setcounter{secnumdepth}{0} % prevents section (sub area) numbering
@@ -97,10 +98,24 @@
 %-------------- Document -------------------
 \begin{document}
 \title{The Garden}
-\date{2023-08-17}
+\date{2023-08-19}
 \maketitle
 \newcommand\chapterColor{MidnightBlue}
+
 \input{acknowledgements}
+\phantomsection\label{pt:Overview}
+  \begin{landscape}
+	\includepdf[angle=90, picturecommand*={\put (400,10) {
+\rotatebox[origin =lb]{90}{
+\colorbox{\chapterColor}{
+\parbox{0.6\paperheight}{
+\textcolor{white}{
+Garden areas overview. Parking areas marked in dark blue.
+}}}}}
+}]{./images/areaOverview.pdf}
+  \end{landscape}
+
+
 \tableofcontents
 \clearpage
 \renewcommand\chapterColor{BrickRed}
@@ -117,5 +132,6 @@
 \input{Other Areas}
 \renewcommand\chapterColor{MidnightBlue}
 \input{index}
+
 
 \end{document}

@@ -3,7 +3,22 @@ sys.path.insert(1, '../LocalBoulders')
 from dataStructure import Photo, Topo, AreaMap, SubAreaMap
 from GB_Book import book
 
-
+Photo(name='Overview',
+      file_name='areaOverview.png',
+      parent=book,
+      size = 'pr',
+      loc = 'a',
+      format_options=['force_include'],
+      #description='Garden areas overview. Parking areas marked in blue.'
+      )
+Photo(name='Overview2',
+      file_name='areaOverview.png',
+      parent=book,
+      size = 'pr',
+      loc = 'a',
+      format_options=['force_include'],
+      description='Garden areas overview. Parking areas marked in blue.'
+      )
 Photo(name='Riptide',
       file_name='Riptide.jpg',
       parent=book.formations['Undertow'],
@@ -22,19 +37,6 @@ Photo(name='Fight Club',
       description='Michael near the top of Fight Club.')
       
 
-
-Topo(name='Bitchin Corners',
-     parent=book.formations['Bitchin Corners'],
-     file_name='bitchin.svg',
-     size='p',
-      loc='e',
-     border='rect290',
-     routes={
-         'path1002':book.climbs['Bitchin Corners'],
-         'path1029':book.climbs['Bitchin Corners'],
-         'path1014':book.climbs['Bitchin Corners Sit'],
-         'path1031':book.climbs['Bitchin Corners Sit'],
-     })
 Topo(name='Baldo',
      parent=book.formations['Baldo'],
      file_name='baldo.svg',
@@ -104,21 +106,6 @@ Topo(name='Three Star Ledge',
          'path2021':book.climbs['Three Star Ledge Variation'],
          'path2019':book.climbs['Three Star Ledge Variation'],
          'path2017':book.climbs['Three Star Ledge Variation'],
-     })
-Topo(name='The Good',
-     parent=book.routes['The Good'],
-     file_name='good.svg',
-     size='pr',
-     routes={
-         'path1453':book.climbs['The Good'],
-         'path1459':book.climbs['The Good'],
-         'path1451':book.climbs['Another'],
-         'path1457':book.climbs['Another'],
-         'path1445':book.climbs['Next to the Good'],
-         'path1447':book.climbs['Next to the Good'],
-         'path1449':book.climbs['Next to the Good'],
-         'path1455':book.climbs['The Good Slab'],
-         'path1461':book.climbs['The Good Slab'],
      })
 AreaMap(name='The Garden Main Area Overview',
         parent=book.areas['The Garden Main'],

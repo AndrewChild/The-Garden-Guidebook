@@ -4,6 +4,14 @@ from dataStructure import Photo, Topo, AreaMap, SubAreaMap
 from GB_Book import book
 
 
+Photo(name='Overview',
+      file_name='areaOverview.png',
+      parent=book,
+      size = 'pr',
+      loc = 'a',
+      format_options=['force_include'],
+      description='Garden areas overview. Parking areas marked in dark blue.'
+      )
 Photo(name='Riptide',
       file_name='Riptide.jpg',
       parent=book.formations['Undertow'],
