@@ -1,9 +1,26 @@
-\formatUnnumberedChapter{Introduction}
+\thispagestyle{empty}
+\colorlet{shadecolor}{\chapterColor}
+\chapter*{Introduction}
+
+\fancyhead{}
+\lhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}\hspace{4pt}\protect\thepage\hspace{1ex}-\hspace{1ex}Introduction}
+\rhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}Introduction \protect\thepage \hspace{4pt}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
+\fancyhead[RO]{}
+\fancyhead[RE]{\color{white}Introduction\hspace{1ex}-\hspace{1ex}\protect\thepage \hspace{4pt}}
+
 \raggedcolumns
 \begin{multicols}{2}
 \input{intro}
 \section{Acknowledgements}
-\qrcode{./maps/qr/The Garden_qr.png}{https://github.com/AndrewChild/The-Garden-Guidebook/raw/main/guideBook.pdf}{Get the latest revision of this book}
-This guidebook is a collaborative effort built with the localBoulders framework. It is intended to be a living document if you notice any mistakes, errors, or omissions get in touch with the creators of this document or submit your own contribution via the book's \hlink{https://github.com/AndrewChild/The-Garden-Guidebook}{github repository}.
+\setbox0=\hbox{\includegraphics[width=0.45\linewidth]{./maps/qr/The Garden_qr.png}}% Store image in \box0
+\needspace{\ht0}% Need at least the height of \box0
+\begin{center}
+\includegraphics[width=0.45\linewidth]{./maps/qr/The Garden_qr.png}
+\end{center}
+\begin{center}
+\underline{\textcolor{blue}{\href{https://github.com/AndrewChild/The-Garden-Guidebook/raw/main/guideBook.pdf}{Get the latest revision of this book}}}
+\end{center}
+
+This guidebook is a collaborative effort built with the localBoulders framework. It is intended to be a living document if you notice any mistakes, errors, or omissions get in touch with the creators of this document or submit your own contribution via the book's \underline{\textcolor{blue}{\href{https://github.com/AndrewChild/The-Garden-Guidebook}{github repository}}}.
 \end{multicols}
 \clearpage

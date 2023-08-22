@@ -2,11 +2,28 @@
 
 
 
-\formatChapter{Garden Cliffs}
+\thispagestyle{empty}
+\colorlet{shadecolor}{\chapterColor}
+\chapter{Garden Cliffs}
+
+\fancyhead{}
+\lhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}\hspace{4pt}\protect\thepage\hspace{1ex}-\hspace{1ex}Garden Cliffs}
+\rhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}Garden Cliffs \protect\thepage \hspace{4pt}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
+\fancyhead[RO]{}
+\fancyhead[RE]{\color{white}Garden Cliffs\hspace{1ex}-\hspace{1ex}\protect\thepage \hspace{4pt}}
+
 
 \raggedcolumns
 \begin{multicols}{2}
-\qrcode{./maps/qr//Garden Cliffs_qr.png}{http://maps.google.com/maps?q=44.43998124232581,-122.57539325959186}{Navigate to this area}
+\setbox0=\hbox{\includegraphics[width=0.45\linewidth]{./maps/qr//Garden Cliffs_qr.png}}% Store image in \box0
+\needspace{\ht0}% Need at least the height of \box0
+\begin{center}
+\includegraphics[width=0.45\linewidth]{./maps/qr//Garden Cliffs_qr.png}
+\end{center}
+\begin{center}
+\underline{\textcolor{blue}{\href{http://maps.google.com/maps?q=44.43998124232581,-122.57539325959186}{Navigate to this area}}}
+\end{center}
+
 
 \includegraphics[width=\linewidth]{./maps/plots//Garden Cliffs.png}
 \end{multicols}
@@ -30,7 +47,7 @@ The largest of the area's cliffs is also conveniently the closest to the road. T
 
 
 
-\needspace{3em}
+\needspace{10em}
 \subsection*{Garden Cliff Right Side}\phantomsection\label{bf:Garden Cliff Right Side}
 
 
@@ -397,7 +414,7 @@ Open Project. 40', Sport, 8 bolts. Start on Rain shadow but traverse left after 
 
 
 
-\needspace{3em}
+\needspace{10em}
 \subsection*{Garden Cliff Middle}\phantomsection\label{bf:Garden Cliff Middle}
 
 
@@ -500,7 +517,7 @@ Open Project. 40', Sport, 8 bolts. Start on Rain shadow but traverse left after 
 
 
 
-\needspace{3em}
+\needspace{10em}
 \subsection*{Garden Cliff Left Side}\phantomsection\label{bf:Garden Cliff Left Side}
 
 
@@ -703,7 +720,7 @@ Following the main trail past the Garden Cliff brings you to a second, much smal
 
 
 
-\needspace{3em}
+\needspace{10em}
 \subsection*{}\phantomsection\label{bf:Fairy Tale Wall}
 
 
@@ -783,7 +800,7 @@ Following the main trail past the Garden Cliff brings you to a second, much smal
 
 
 
-\needspace{3em}
+\needspace{10em}
 \subsection*{Cabbage Patch}\phantomsection\label{bf:Cabbage Patch}
 
 
@@ -854,7 +871,7 @@ PLACEHOLDER
 
 
 
-\needspace{3em}
+\needspace{10em}
 \subsection*{Johny Cash's Thunderdome}\phantomsection\label{bf:Johny Cash's Thunderdome}
 
 

@@ -52,48 +52,7 @@
   {0pt}
   {\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}
 
-%-------------- Macros -------------------
-\newcommand{\formatChapter}[1]{
-\thispagestyle{empty}
-\colorlet{shadecolor}{\chapterColor}
-\chapter{#1}
-%thruthfully I have no fucking idea why this works. Found a solution after like 20 min of trial and error
-\fancyhead{}
-\lhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}\hspace{4pt}\protect\thepage\hspace{1ex}-\hspace{1ex}#1}
-\rhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}#1 \protect\thepage \hspace{4pt}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
-\fancyhead[RO]{}
-\fancyhead[RE]{\color{white}#1\hspace{1ex}-\hspace{1ex}\protect\thepage \hspace{4pt}}
-}
-\newcommand{\formatUnnumberedChapter}[1]{
-\thispagestyle{empty}
-\colorlet{shadecolor}{\chapterColor}
-\addcontentsline{toc}{chapter}{#1}
-\chapter*{#1}
-%thruthfully I have no fucking idea why this works. Found a solution after like 20 min of trial and error
-\fancyhead{}
-\lhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}\hspace{4pt}\protect\thepage\hspace{1ex}-\hspace{1ex}#1}
-\rhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}#1 \protect\thepage \hspace{4pt}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
-\fancyhead[RO]{}
-\fancyhead[RE]{\color{white}#1\hspace{1ex}-\hspace{1ex}\protect\thepage \hspace{4pt}}
-}
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
-\newcommand{\hlink}[2]{
-\underline{\textcolor{blue}{\href{#1}{#2}}}
-}
-\newcommand{\qrcode}[3]{
-  \setbox0=\hbox{\includegraphics[width=0.45\linewidth]{#1}}% Store image in \box0
-  \needspace{\ht0}% Need at least the height of \box0
-  \begin{center}
-  \includegraphics[width=0.45\linewidth]{#1}
-  \end{center}
-  \begin{center}
-  \hlink{#2}{#3}
-  \end{center}
-}
-\newcommand*\cleartoleftpage{%
-  \clearpage
-  \ifodd\value{page}\hbox{}\newpage\fi
-}
 
 %-------------- Document -------------------
 \begin{document}

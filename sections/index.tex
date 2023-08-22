@@ -1,5 +1,14 @@
 \twocolumn
-\formatUnnumberedChapter{Index}
+\thispagestyle{empty}
+\colorlet{shadecolor}{\chapterColor}
+\chapter*{Index}
+
+\fancyhead{}
+\lhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}\hspace{4pt}\protect\thepage\hspace{1ex}-\hspace{1ex}Index}
+\rhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}Index \protect\thepage \hspace{4pt}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
+\fancyhead[RO]{}
+\fancyhead[RE]{\color{white}Index\hspace{1ex}-\hspace{1ex}\protect\thepage \hspace{4pt}}
+
 \begin{flushleft}
 
 \needspace{1.5cm}

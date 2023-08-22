@@ -2,7 +2,16 @@
 
 
 
-\formatChapter{Pink Tag Boulders}
+\thispagestyle{empty}
+\colorlet{shadecolor}{\chapterColor}
+\chapter{Pink Tag Boulders}
+
+\fancyhead{}
+\lhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}\hspace{4pt}\protect\thepage\hspace{1ex}-\hspace{1ex}Pink Tag Boulders}
+\rhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}Pink Tag Boulders \protect\thepage \hspace{4pt}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
+\fancyhead[RO]{}
+\fancyhead[RE]{\color{white}Pink Tag Boulders\hspace{1ex}-\hspace{1ex}\protect\thepage \hspace{4pt}}
+
 \phantomsection\label{sm:Pink Tag area map}
 	\setbox0=\hbox{\begin{overpic}[width=0.8\linewidth]{./maps/area/out/Pink Tag_c.png}
 	\end{overpic}}
@@ -15,7 +24,15 @@
 
 \raggedcolumns
 \begin{multicols}{2}
-\qrcode{./maps/qr//Pink Tag Boulders_qr.png}{http://maps.google.com/maps?q=44.43998124232581,-122.57539325959186}{Navigate to this area}
+\setbox0=\hbox{\includegraphics[width=0.45\linewidth]{./maps/qr//Pink Tag Boulders_qr.png}}% Store image in \box0
+\needspace{\ht0}% Need at least the height of \box0
+\begin{center}
+\includegraphics[width=0.45\linewidth]{./maps/qr//Pink Tag Boulders_qr.png}
+\end{center}
+\begin{center}
+\underline{\textcolor{blue}{\href{http://maps.google.com/maps?q=44.43998124232581,-122.57539325959186}{Navigate to this area}}}
+\end{center}
+
 
 \includegraphics[width=\linewidth]{./maps/plots//Pink Tag Boulders.png}
 \end{multicols}
@@ -64,7 +81,7 @@ Tread carefully, all but one of the climbs in this area are downhill of this sig
 	\end{center}
 
 
-\needspace{3em}
+\needspace{10em}
 \subsection*{Pissing Boulder}\phantomsection\label{bf:Pissing Boulder}
 
 This blunt overhanging corner is the first boulder that you walk by when entering Pink Tag.\\
@@ -96,7 +113,7 @@ Stand start and climb prow. Horrible rock.
 	\end{center}
 
 
-\needspace{3em}
+\needspace{10em}
 \subsection*{Jonah's Dab Rig}\phantomsection\label{bf:Jonah's Dab Rig}
 
 
@@ -146,7 +163,7 @@ Sit start the dab rig. Begin in compression way under the roof with left hand on
 	\end{center}
 
 
-\needspace{3em}
+\needspace{10em}
 \subsection*{Frat House}\phantomsection\label{bf:Frat House}
 
 
