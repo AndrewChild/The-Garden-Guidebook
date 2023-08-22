@@ -1,3 +1,4 @@
+\contentsline {chapter}{Introduction}{2}{Doc-Start}%
 \contentsline {section}{Authors Note}{2}{section*.2}%
 \contentsline {section}{Ameneties}{2}{section*.3}%
 \contentsline {section}{Local Ethics}{3}{section*.4}%
@@ -39,6 +40,7 @@
 \contentsline {section}{G - Santiam Pinnacle}{70}{section*.461}%
 \contentsline {section}{H - Iron Mountain}{71}{section*.463}%
 \contentsline {section}{I - The Needles}{72}{section*.473}%
+\contentsline {chapter}{Index}{73}{section*.474}%
 \contentsline {section}{Routes Alphabetical}{73}{section*.476}%
 \contentsline {section}{Routes by grade}{76}{section*.477}%
 \contentsline {section}{Known First Ascents}{79}{section*.478}%

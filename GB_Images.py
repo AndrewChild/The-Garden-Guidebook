@@ -1178,7 +1178,7 @@ SubAreaMap(name='Machete Monkey',
            border='rect14669',
            routes={
                'path23841':book.climbs['June 24th'],
-               'path14673':book.climbs['Young Jui¢y'],
+               'path14673':book.climbs['Young Ju¢y'],
                'path14671':book.climbs['Machete Monkey'],
            })
 SubAreaMap(name='Redneck Riviera area map',

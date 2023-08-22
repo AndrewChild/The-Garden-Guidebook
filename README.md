@@ -18,25 +18,26 @@ Routes to add:
 - whatever terry is cookin on next to the good
 - other lines on Francois
 - flesh bridge
+
 Topos to redo:
 - blowie
 - Francois
+
 Topos to add:
 - Methlab Prow
 - E's V7
+
 Routes with placeholder descriptions
 - Tidepool
 - chockstone highball
 - Flesh Bridge
 - Into the Light
 - Into the Light Assis
-### Pink Tag
-Routes with placeholder descriptions
-- Territorial Pissings
-- Workshop 68
+
 ### Garden Cliffs
 Topos to add:
 - everything
+
 Routes with placeholder descriptions
 - The garden cliff (area description)
 - Ladybug
@@ -48,29 +49,27 @@ Routes with placeholder descriptions
 - I will let you down
 - A million dollars of good
 - Stop once to wipe the sweat away
+
 ### Upper Garden
 Routes to add
 - everything in middle garden
 - Pumpkin spice low
 - ed direct? (on scratch and spliff)
+
 Topos to add:
 - everything at middle garden
-Routes with placeholder descriptions
-- Strangelove
-- War Room
-- Machete Monkey
-- Machete Man
-- June 24th
-- Young Juicy
+
 ### Quartzville Creek
 Topos to add:
 - dab rig (quartzville)
 - yo mamma
 - moss boss
+
 Routes with placeholder descriptions
 - Moss Boss
 - Unsalted Almonds
 - Dank Commander
+
 ### Other
 Topos to redo:
 - Big Iron
