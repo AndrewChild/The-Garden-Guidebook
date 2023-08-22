@@ -70,7 +70,7 @@ Formation(name='Machete Monkey',
 Formation(name='June 24th',
            parent=book.subareas['Machete Monkey'],
            description='')
-Formation(name='Young Jui¢y',
+Formation(name='Young Ju¢y',
            parent=book.subareas['Machete Monkey'],
            description='')
            
@@ -152,7 +152,7 @@ Route(name='Caliban\'s War',
       parent=book.formations['Scratch and Spliff'],
       grade=6,
       grade_unconfirmed=True,
-      description='Stand start with hand holds in a horizontal crack. Crank one move to the lip.')
+      description='Stand start with hand holds in a horizontal crack. Crank one move to the lip. Extremely morpho. ')
 Route(name='Stoned Age',
       parent=book.formations['Scratch and Spliff'],
       grade=2,
@@ -162,13 +162,15 @@ Route(name='Stoned Age',
 Route(name='Dr. Strangelove',
       parent=book.formations['Dr. Strangelove'],
       grade=6,
+      rating=3,
       grade_unconfirmed=True,
-      description='(PLACEHOLDER) Also known as "The Hook"')
+      description='Climb the aesthetic arete from the left (right hand on arete) side. The natural landing is heinous, but can be fixed by laying logs over the chasm. Also known as "The Hook"')
 Route(name='War Room',
       parent=book.formations['Dr. Strangelove'],
       grade=9,
+      rating=2,
       grade_unconfirmed=True,
-      description='(PLACEHOLDER) Also known as "Andrew\'s Line" (no, some other Andrew).')
+      description=' Start with left hand on your choice of holds on a sloper rail, and right hand on a vertical edge. Make a hardish move to a decent left hand sidepull, then bravely launch for the jug lip over a mediocre landing. A couple holds broke here during a 2019 cleaning, but this route (or something similar) was once known as "Andrew\'s Line" (no, some other Andrew).')
 Route(name='Kick It',
       parent=book.formations['Kick It'],
       grade=2,
@@ -177,18 +179,21 @@ Route(name='Kick It',
 Route(name='Machete Monkey',
       parent=book.formations['Machete Monkey'],
       grade=3,
-      grade_unconfirmed=True,)
+      rating=1,
+      grade_unconfirmed=True,
+      description='On the highball boulder you reach first when hiking past Strangelove, climb the left arete of the higher-tiered area to the left of the obvious roof. Fun liebacking from an obvious jug at break')
 Route(name='June 24th',
       parent=book.formations['June 24th'],
       grade=7,
-      grade_unconfirmed=True,)
-Route(name='Young Jui¢y',
-      parent=book.formations['Young Jui¢y'],
+      rating=3,
+      grade_unconfirmed=True,
+      description='Start matched on a jug at the bottom of an offset rail, and move through static crimping fun to the top. A solid, uncontrived boulder problem.')
+Route(name='Young Ju¢y',
+      parent=book.formations['Young Ju¢y'],
       grade=8,
-      grade_unconfirmed=True,)
-
-
-
+      rating=1,
+      grade_unconfirmed=True,
+      description='Just down from June 24 there\'s a sloping halfmoon boulder. Climb an arching line left across the lip starting from two right-facing sidepulls at/below the lip for on the right side of the boulder. Technical and close to impossible without a solid brushing')
 Variation(name='Baker\'s Dozen',
           parent=book.routes['Bread Loaf Traverse'],
           grade=8,
@@ -204,8 +209,9 @@ Variation(name='Late Start',
 Variation(name='Machete Man',
           parent=book.routes['Machete Monkey'],
           grade=5,
-          grade_unconfirmed=True,)
-                      
+          rating=1,
+          grade_unconfirmed=True,
+         description='A mediocre sit start coming from the hole underneath. Right hand obvious edge, ledge hand on a low edge around the corner')                   
                       
 if __name__ == '__main__':
     sys.exit()
