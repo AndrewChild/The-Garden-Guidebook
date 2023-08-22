@@ -6,7 +6,7 @@
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
 - add map for garden cliffs
-- consider adding a map of all areas
+- consider adding a map of all areas and sweethome
 - make upper garden map more readable
 - consider adding Highway 11 main wall, Shark Fin Rock, and Iron wall to "Other Areas"
 - Other areas section is hard to read
@@ -39,8 +39,6 @@ Topos to add:
 - everything
 
 Routes with placeholder descriptions
-- The garden cliff (area description)
-- Ladybug
 - Don't Forget the Nooch
 - Tabouli
 - Babaganoush
