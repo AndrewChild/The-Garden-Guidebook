@@ -1189,7 +1189,7 @@ SubAreaMap(name='Redneck Riviera area map',
            size='h',
            routes={
                'path3423':book.climbs['Pony Boy'],
-               'path3421':book.climbs['Monorail Project'],
+               'path3421':book.climbs['Monorail'],
                'path3419':book.climbs['Ugly Face'],
                'path3417':book.climbs['Binding of Isaac'],
                'path3415':book.climbs['Moss Boss'],
