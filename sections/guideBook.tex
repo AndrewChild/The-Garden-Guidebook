@@ -15,7 +15,6 @@
 \usepackage{supertabular}
 \usepackage{amssymb}
 \usepackage[section]{placeins}
-\graphicspath{ {../} }
 \usepackage{multicol}
 \usepackage{wrapfig}
 \usepackage{changepage} 
@@ -29,13 +28,10 @@
 %-------------- Formatting -------------------
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-
 \setlength\parindent{0pt}
 \setlength{\tabcolsep}{3pt}
-\setenumerate{leftmargin=*}
-\renewcommand{\labelenumi}{\textbf{\arabic{enumi}}} % I don't think that this does anything anymore
-\renewcommand{\labelenumii}{\arabic{enumi}\alph{enumii}} % I don't think that this does anything anymore
 \setcounter{secnumdepth}{0} % prevents section (sub area) numbering
+\graphicspath{ {../} }
 
 \titleformat{\chapter}[display]
   {\normalfont\color{white} \begin {shaded*}\bfseries}
@@ -57,7 +53,7 @@
 %-------------- Document -------------------
 \begin{document}
 \title{The Garden}
-\date{2023-08-23}
+\date{2023-09-13}
 \maketitle
 \newcommand\chapterColor{MidnightBlue}
 

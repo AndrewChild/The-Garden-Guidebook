@@ -1,5 +1,3 @@
-import sys
-sys.path.insert(1, '../LocalBoulders')
 from dataStructure import Photo, Topo, AreaMap, SubAreaMap
 from GB_Book import book
 
@@ -266,6 +264,26 @@ Topo(name='Boys in the Woods',
          'path464':book.climbs['Tree Slab'],
          'path480':book.climbs['EZe'],
          'path426':book.climbs['EZe'],
+     })
+Topo(name='Turd Pary',
+     parent=book.formations['Party Boulder'],
+     file_name='turdParty.svg',
+     size='h',
+     border='rect1578',
+     routes={
+         'path1524':book.climbs['Turd Party UR Invited'],
+         'path1522':book.climbs['Turd Party UR Invited'],
+         'path1520':book.climbs['Turd Party UR Invited'],
+     })
+Topo(name='E7',
+     parent=book.routes['E\'s'],
+     file_name='E7.svg',
+     size='h',
+     routes={
+         'path1378':book.climbs['E\'s'],
+         'path1376':book.climbs['E\'s'],
+         'path1380':book.climbs['E\'s Sit Start Project'],
+         'path1382':book.climbs['E\'s Sit Start Project'],
      })
 Topo(name='enchilada',
      parent=book.routes['Enchilada'],
@@ -808,6 +826,29 @@ Topo(name='Territorial Pissings',
          'path1462':book.climbs['Territorial Pissings'],
          'path1460':book.climbs['Territorial Pissings'],
      })
+Topo(name='Garden Cliff Right Side',
+     parent=book.formations['Garden Cliff Right Side'],
+     file_name='cliffs_main.svg',
+     size='f',
+     paths={
+        'topo_o': r'./maps/topos//cliffs/_out/',
+        'topo_i': r'./maps/topos//cliffs/'},
+     routes={
+         'path609':book.climbs['Yggdrasil'],
+         'path604':book.climbs['Yggdrasil'],
+         'path606':book.climbs['John Henry\'s Hammer'],
+         'path602':book.climbs['John Henry\'s Hammer'],
+         'path600':book.climbs['Scorpion Revenge'],
+         'path598':book.climbs['Scorpion Revenge'],
+         'path596':book.climbs['Snug as a Snail'],
+         'path594':book.climbs['Snug as a Snail'],
+         'path592':book.climbs['Scorpion Hitchhikers Toilet Bowl Odyssey'],
+         'path590':book.climbs['Scorpion Hitchhikers Toilet Bowl Odyssey'],
+         'path588':book.climbs['Daring to Fly'],
+         'path527':book.climbs['Daring to Fly'],
+         'path585':book.climbs['Community'],
+         'path417':book.climbs['Community'],
+     })
 Topo(name='Pumpkin',
      parent=book.formations['Pumpkin'],
      file_name='pSpice.svg',
@@ -1025,6 +1066,7 @@ SubAreaMap(name='Meth Lab area map',
            layers=['Meth Lab', 'Base'],
            border='rect3200',
            routes={
+               'path992':book.climbs['Turd Party UR Invited'],
                'path1196':book.climbs['Flesh Bridge'],
                'path771':book.climbs['West Arête'],
                'path521':book.climbs['Southern Discomfort'],
@@ -1069,6 +1111,7 @@ SubAreaMap(name='Azain area map',
            file_name='Garden.svg',
            size='h',
            routes={
+               'path994':book.climbs['Turd Party UR Invited'],
                'path720':book.climbs['Ground up Blowie'],
                'path718':book.climbs['Nightcrawler'],
                'path716':book.climbs['The Good Slab'],

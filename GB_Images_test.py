@@ -1,5 +1,3 @@
-import sys
-sys.path.insert(1, '../LocalBoulders')
 from dataStructure import Photo, Topo, AreaMap, SubAreaMap
 from GB_Book import book
 

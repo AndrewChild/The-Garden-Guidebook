@@ -1,6 +1,3 @@
-import sys
-
-sys.path.insert(1, '../LocalBoulders')
 from dataStructure import Area, Subarea, Formation, Route, Variation
 from GB_Book import book
 
@@ -124,6 +121,9 @@ Formation(name='Swollen Member',
 Formation(name='Meth Lab Highball',
           parent=book.subareas['Meth Lab'],
           description='Slabby boulder located to the left of Swollen Member. Not to be confused with the highballs on the actual Meth Lab boulder.')
+Formation(name='Party Boulder',
+          parent=book.subareas['Meth Lab'],
+          description='This bulbus semi hanging boulder is directly uphill of Octernal.')
 Formation(name='E\'s Boulder',
           parent=book.subareas['Meth Lab'],
           description='A large boulder directly to the right of Octernal holds a few notable routes.')
@@ -563,6 +563,12 @@ Route(name='Meth Lab Highball Right',
       rating=1,
       grade=1,
       description='Start as for Meth Lab Highball but pull yourself around the blunt corner into a mossy scoop. Continue right to an easy top out.')
+Route(name='Turd Party UR Invited',
+      parent=book.formations['Party Boulder'],
+      rating=1,
+      grade='7/8',
+      FA='Justin Cheng and Evan Powers',
+      description='Stand start with left hand on a sloper and right hand on a thin crimp at the back of a sloper.')
 Route(name='Gargoyle',
       name_unconfirmed=True,
       parent=book.formations['E\'s Boulder'],
@@ -665,7 +671,7 @@ Route(name='The Good',
       parent=book.formations['The Good'],
       grade=3,
       rating=2,
-      description='Start matched on a juggy flake on the right side of the boulder\'s downhill face.')
+      description='Start using any of the holds on the juggy flake on the right side of the boulder\'s downhill face. This route was orginally named Psipsina, but was always reffered to as "That V3", then eventually "The Good V3".')
 Route(name='Another',
       parent=book.formations['The Good'],
       grade=3,
@@ -679,6 +685,13 @@ Route(name='Next to the Good',
       rating=1,
       serious=1,
       description='Stand start with right hand on a crimp rail under the overhang and left on a high diagonal side pull. A few burly moves give way to a low angle slab. Bailing into the gully instead of climbing the upper slab doesn\'t change the grade, but it is cheating.'
+      )
+Route(name='From Minnesota with Love',
+      parent=book.formations['Next to the Good'],
+      grade=3,
+      rating=1,
+      serious=1,
+      description='Stand start with hands on opposed sidepulls using the cheater stone below as a foot. A few techy moves gains an airy top out.'
       )
 Route(name='Snakes and Martyrs',
       parent=book.formations['Azain Spire'],
@@ -974,7 +987,7 @@ Variation(name='Enchilada Left Project',
 Variation(name='Enchilada Low Start Project',
           parent=book.routes['Enchilada'],
           grade='?',
-          description='Start a few moves to the right lower on a dabby edge.')
+          description='Start a few moves to the lower right on a dabby edge.')
 Variation(name='E\'s Sit Start Project',
           name_unconfirmed=True,
           parent=book.routes['E\'s'],

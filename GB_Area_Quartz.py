@@ -1,5 +1,3 @@
-import sys
-sys.path.insert(1, '../LocalBoulders')
 from dataStructure import Area, Subarea, Formation, Route, Variation
 from GB_Book import book
 
@@ -58,7 +56,10 @@ Route(name='Monorail',
       grade='8+', 
       rating=3,
       FA='Zachary Radke',
-      description='Start on the far right and traverse left along the lip.') 
+      description='Start on the far right and traverse left along the lip. Topping in a shallow divot on the center left of the boulder.') 
+Route(name='Megarail Project',
+      parent=book.formations['Mono Rail'],
+      description='Sit start and climb the steep roof using right facing rib. Top as for Monorail or travers out left.') 
 Route(name='Ugly Face',
       parent=book.formations['Yo Mamma Boulder'],
       grade=0, 
@@ -70,11 +71,11 @@ Route(name='Binding of Isaac',
       grade=2, 
       serious=1,
       rating=2,
-      FA='Griffin Thoms',
       description='Stand start with a left hand sidepull about 5\' left of Ugly face.')
 Route(name='Moss Boss',
       parent=book.formations['Moss Boss'],
       grade=3, 
+      FA='Nick Koch',
       rating=1,) 
 Route(name='Chicken Tendies',
       parent=book.formations['The 4.5'],
@@ -102,6 +103,9 @@ Route(name='Dank Commander',
       grade=4,
       FA='Griffin Thoms',
       grade_unconfirmed=True,)
+Variation(name='Monorail Extention Project',
+          parent=book.routes['Monorail'],
+          description='Climb Monorail and ride the lip the whole way across the boulder.') 
       
 
 if __name__ == '__main__':
