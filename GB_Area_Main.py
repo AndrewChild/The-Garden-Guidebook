@@ -10,7 +10,7 @@ Area(name='The Garden Main',
 
 Subarea(name='Entrance Area',
         parent=book.areas['The Garden Main'],
-        description='A cluster of boulders situated inbetween the two main trails.'
+        description='A cluster of boulders situated in between the two main trails.'
         )
 Subarea(name='Fight Club',
         parent=book.areas['The Garden Main'],

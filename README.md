@@ -6,10 +6,13 @@
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
 - add map for garden cliffs
-- consider adding a map of all areas and sweethome
 - make upper garden map more readable
 - consider adding Highway 11 main wall, Shark Fin Rock, and Iron wall to "Other Areas"
 - Other areas section is hard to read
+- draw maps for garden cliffs
+- add quartzville topos
+- create landing page website
+- consider adding the Herb garden sub area to the main area
 ## Things that need to be done in the field
 
 ### Garden Main
@@ -25,7 +28,6 @@ Topos to redo:
 
 Topos to add:
 - Methlab Prow
-- E's V7
 
 Routes with placeholder descriptions
 - Tidepool
@@ -43,10 +45,6 @@ Routes with placeholder descriptions
 - Tabouli
 - Babaganoush
 - Kim Chi Corner
-- I Fell for you like a child
-- I will let you down
-- A million dollars of good
-- Stop once to wipe the sweat away
 
 ### Upper Garden
 Routes to add

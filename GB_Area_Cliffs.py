@@ -12,11 +12,10 @@ Subarea(name='The Garden Cliff',
         parent=book.areas['Garden Cliffs'],
         description='The largest of the area\'s cliffs is also conveniently the closest to the road. This cliff features varied climbing at grades rangeing from 5.9 to 5.13- in a variety of stlyes. Many sections of the wall are shaded by large maple trees, which provide some relief in the hotter months. See area description for appoach')
 Subarea(name='Fairy Tale Wall',
-        note = 'Several routes on this wall are overgrown to the point of being unclimbable.',
         parent=book.areas['Garden Cliffs'],
         description='Following the main trail past the Garden Cliff brings you to a second, much smaller cliff.' )
 Subarea(name='Cabbage Patch/ Thunderdome',
-        note = 'Even futher down the main trail is a third cliff which hosts a good selection of more moderate climbs.',
+        description='Even futher down the main trail is a third cliff which hosts a good selection of more moderate climbs.',
         parent=book.areas['Garden Cliffs'], )
         
         
@@ -328,26 +327,30 @@ Route(name='Kim Chi Corner',
 Route(name='I Fell for You Like a Child',
       parent=book.formations['Johny Cash\'s Thunderdome'],
       grade='5.8',
-      rating=3,
+      rating=2,
       FA='Jayson Nissan',
+      description='35\', Sport, 6 bolts. Start on the right side of a large flake. From a stance at the top of the flake trend slightly right, off of the flake before continuing up through small pods.'
       )
 Route(name='I Will Let You Down',
       parent=book.formations['Johny Cash\'s Thunderdome'],
       grade='5.6',
       rating=2,
       FA='Jayson Nissan',
+      description='35\', Sport, 6 bolts. Climb the center of the large flake then continue up the right face of a low angle corner.',
       )
 Route(name='A Million Dollars of Good',
       parent=book.formations['Johny Cash\'s Thunderdome'],
       grade='5.8',
       rating=2,
       FA='Jayson Nissan',
+      description='35\', Sport, 7/6 bolts. Climb the left corner of the large flake before pulling onto a technical slab. Alternatively you can start as for I Will Let You Down and clip a connnector bolt as you walk across the top of the flake skipping the first two bolts. This route would get full stars if the rock quality were better.'
       )
 Route(name='Stop Once to Wipe the Sweat Away',
       parent=book.formations['Johny Cash\'s Thunderdome'],
       grade='5.10a',
       rating=1,
       FA='Jayson Nissan',
+      description='30\', Sport, 5 bolts. Start to the left of the large flake. A short sequence of difficult vertical climbing guards an enjoyable slab. This route is currently severly overgrown.'
       )
       
       
