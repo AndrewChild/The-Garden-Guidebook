@@ -10,8 +10,7 @@ book = Book(
         'LaTeXTemplates': '../LocalBoulders/templates/',
         'LaTeXOut': './sections/',
         'pdf': './',
-        'ghost_script': r'C:\Program Files\gs\gs10.00.0\bin\gswin64.exe',
-    }
+    },
 )
 
 
