@@ -6,13 +6,15 @@
 - Consider adding a master codex of routes and their aliases
 - Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
 - add map for garden cliffs
+- Draw topos for cliffs
 - make upper garden map more readable
 - consider adding Highway 11 main wall, Shark Fin Rock, and Iron wall to "Other Areas"
 - Other areas section is hard to read
-- draw maps for garden cliffs
 - add quartzville topos
 - create landing page website
 - consider adding the Herb garden sub area to the main area
+- move images and pdfs to git LFS
+
 ## Things that need to be done in the field
 
 ### Garden Main
