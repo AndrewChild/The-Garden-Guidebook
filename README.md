@@ -11,9 +11,8 @@
 - consider adding Highway 11 main wall, Shark Fin Rock, and Iron wall to "Other Areas"
 - Other areas section is hard to read
 - add quartzville topos
-- create landing page website
+- populate landing page website
 - consider adding the Herb garden sub area to the main area
-- move images and pdfs to git LFS
 
 ## Things that need to be done in the field
 
