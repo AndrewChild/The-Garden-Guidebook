@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg132"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="DabRig.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs136" />
+  <sodipodi:namedview
+     id="namedview134"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.81722387"
+     inkscape:cx="740.92305"
+     inkscape:cy="501.69852"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g138" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g138">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="DabRig.JPG"
+       id="image140" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="M 1288.3642,747.58005 C 1337.5458,635.97712 1007.068,594.69629 865.12402,589.80167 723.18005,584.90705 425.83191,468.65983 387.89861,320.59759"
+       id="path300"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="m 1206.5237,735.4166 c 15.9076,-39.15695 58.7355,-66.07736 0,-89.3268"
+       id="path398" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="path452"
+       cx="789.86926"
+       cy="580.01245"
+       rx="15.295687"
+       ry="15.907514" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="m 1215.0893,649.76076 c -44.0515,-26.92041 -24.4731,-261.86215 73.4193,-381.78033 97.8924,-119.91819 45.2753,-183.548241 45.2753,-183.548241"
+       id="path454" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="path456"
+       cx="1221.2076"
+       cy="400.13516"
+       r="11.012895" />
+  </g>
+</svg>

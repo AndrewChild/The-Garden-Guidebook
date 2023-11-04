@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg468"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="kickIt.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs472" />
+  <sodipodi:namedview
+     id="namedview470"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.74618052"
+     inkscape:cx="820.84694"
+     inkscape:cy="549.46489"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g474" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g474">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="kickIt.JPG"
+       id="image476" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="M 632.5547,647.29644 C 718.32483,603.07122 766.57053,494.5184 675.43977,210.40485"
+       id="path595" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="M 860.38161,607.0917 C 765.23037,572.24758 714.30436,534.72315 722.34531,485.13729"
+       id="path597" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="path599"
+       cx="720.33508"
+       cy="400.03723"
+       r="19.432295" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="rect653"
+       width="951.51239"
+       height="743.78784"
+       x="314.93719"
+       y="140.71661" />
+  </g>
+</svg>

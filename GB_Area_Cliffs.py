@@ -172,10 +172,11 @@ Route(name='Vine Project',
       grade='5.?',
       description='60\', Sport, 9 bolts. Open Project. Starts on the far end of the rain shadow ledge. This route was bolted and climbed as a dry tooling route, maybe it goes on fingers as well?'
       )
-Route(name='Hierloom Project',
+Route(name='P.R.O.M.',
       parent=book.formations['Garden Cliff Middle'],
-      grade='5.?',
-      description='70\', Sport, ? bolts. Open Project. Climbs an aesthic black arête. This route was already bolted when the most recent developers of the cliff arrived. Bail gear was found on the route and it\'s likely that it has never been free\'ed. No body knows the full history of the line though multiple theories presist. Many people who were in the early 2000s scene have been questioned about the line, no information has surfaced about its origin.'
+      grade='5.13b/c',
+      FA='Evan Powers',
+      description='70\', Sport, ? bolts. Climbs an aesthic black arête. This route was already bolted when the most recent developers of the cliff arrived. Bail gear was found on the route and it\'s likely that it had never been free\'ed prior to the rest of the cliffs development. No body knows the full history of the line though multiple theories presist. Many people who were in the early 2000s scene have been questioned about the line, no information has surfaced about its origin. The name P.R.O.M. is not a reference to high school dances, but it is a well documented acronym that you may regret googleing.'
       )
 Route(name='Chimeras',
       parent=book.formations['Garden Cliff Middle'],
@@ -367,6 +368,11 @@ Variation(name='Lazarus',
           rating=2,
           FA='Andrew Child',
           description='40\', Sport, 6 bolts. Climb Stasis to the ledge then instead of rolling onto the ledge traverse left around the corner and link into the finish of Wildlings.'
+          )
+Variation(name='Heirloom Left Project',
+          parent=book.routes['P.R.O.M.'],
+          grade='5.?',
+          description='The original line of the Heirloom project stays left when the P.R.O.M. boltline veers right at the top.'
           )
 Variation(name='Ovulation Send-sation Extension',
           parent=book.routes['Ovulation Send-sation'],

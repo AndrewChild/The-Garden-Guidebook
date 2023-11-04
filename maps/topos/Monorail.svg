@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg582"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="Monorail.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs586" />
+  <sodipodi:namedview
+     id="namedview584"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.74618052"
+     inkscape:cx="822.85718"
+     inkscape:cy="549.46489"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g588" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g588">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="Monorail.JPG"
+       id="image590" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="M 1271.8102,501.21919 C 1101.6101,498.53888 818.8367,502.55935 742.44768,462.3546 666.05866,422.14985 619.15312,394.00653 640.59565,332.35925"
+       id="path763"
+       sodipodi:nodetypes="czc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="path967"
+       cx="932.08008"
+       cy="493.84833"
+       rx="18.092136"
+       ry="23.45277" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="M 822.85718,483.79714 C 545.44442,459.67429 304.21592,444.93255 277.41276,395.34669 250.60959,345.76084 324.3183,289.47419 324.3183,289.47419"
+       id="path969"
+       sodipodi:nodetypes="czc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="path971"
+       cx="344.42068"
+       cy="430.86087"
+       rx="14.741741"
+       ry="19.432295" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="M 885.84461,746.46816 C 389.98606,577.60821 647.29645,506.57983 635.23502,376.58447"
+       id="path973"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="path975"
+       cx="675.43976"
+       cy="658.68781"
+       rx="12.061424"
+       ry="11.391345" />
+  </g>
+</svg>

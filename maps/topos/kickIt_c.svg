@@ -1,0 +1,15 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg468" width="951.51239" height="743.78784" viewBox="314.93719 140.71661 951.51239 743.78784" ns1:docname="kickIt.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs472" />
+  <ns1:namedview id="namedview470" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.74618052" ns2:cx="820.84694" ns2:cy="549.46489" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g474" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g474">
+    <ns0:image width="1645.7144" height="1097.1429" preserveAspectRatio="none" ns3:href="kickIt.JPG" id="image476" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:7.140000000000001;stroke-dasharray:none" d="M 632.5547,647.29644 C 718.32483,603.07122 766.57053,494.5184 675.43977,210.40485" id="path595" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:7.140000000000001;stroke-dasharray:none" d="M 860.38161,607.0917 C 765.23037,572.24758 714.30436,534.72315 722.34531,485.13729" id="path597" />
+    <ns0:path id="path595_clone" style="fill:none;stroke:#FFFFFF;stroke-width:7.140000000000001;stroke-dasharray:30.6, 30.6" d="M 632.5547,647.29644 C 718.32483,603.07122 766.57053,494.5184 675.43977,210.40485" />
+    <ns0:path id="path597_clone" style="fill:none;stroke:#FFFFFF;stroke-width:7.140000000000001;stroke-dasharray:30.6, 30.6" d="M 860.38161,607.0917 C 765.23037,572.24758 714.30436,534.72315 722.34531,485.13729" />
+    <ns0:circle id="path599" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.06;stroke-dasharray:none;stroke-opacity:1" cx="720.33508" cy="400.03723" r="31.9464" />
+    <ns0:text id="path599_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.02;stroke-dasharray:none;stroke-opacity:1" x="709.86988" y="414.72523">
+      <ns0:text id="path599_text" x="709.86988" y="414.72523" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.72px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

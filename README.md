@@ -8,7 +8,7 @@
 - add map for garden cliffs
 - Draw topos for cliffs
 - make upper garden map more readable
-- consider adding Highway 11 main wall, Shark Fin Rock, and Iron wall to "Other Areas"
+- consider adding Shark Fin Rock, and Iron wall to "Other Areas"
 - Other areas section is hard to read
 - add quartzville topos
 - populate landing page website
@@ -18,10 +18,7 @@
 
 ### Garden Main
 Routes to add:
-- pockets(?) whatever the thing on Big across from the good is
-- whatever terry is cookin on next to the good
 - other lines on Francois
-- flesh bridge
 
 Topos to redo:
 - blowie

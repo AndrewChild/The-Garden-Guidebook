@@ -1,0 +1,19 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg820" width="1318.7157" height="986.35651" viewBox="139.37646 69.688232 1318.7157 986.35651" ns1:docname="YoMamma.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs824" />
+  <ns1:namedview id="namedview822" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.37309026" ns2:cx="599.05075" ns2:cy="353.80178" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g826" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g826">
+    <ns0:image width="1645.7144" height="1097.1429" preserveAspectRatio="none" ns3:href="YoMamma.JPG" id="image828" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:9.94;stroke-dasharray:none" d="m 1060.0652,786.6729 c -38.8646,-138.0363 101.852,-101.85202 107.2127,-213.08516 5.3606,-111.23314 -83.0899,-340.4002 -83.0899,-340.4002" id="path947" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:9.94;stroke-dasharray:none" d="m 1353.5599,747.80831 c -54.9465,-95.15123 -73.7088,-160.81899 -84.43,-234.52769 -10.7213,-73.70871 -85.7701,-261.33087 -120.6143,-276.07261" id="path953" />
+    <ns0:path id="path947_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.94;stroke-dasharray:42.599999999999994, 42.599999999999994" d="m 1060.0652,786.6729 c -38.8646,-138.0363 101.852,-101.85202 107.2127,-213.08516 5.3606,-111.23314 -83.0899,-340.4002 -83.0899,-340.4002" />
+    <ns0:path id="path953_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.94;stroke-dasharray:42.599999999999994, 42.599999999999994" d="m 1353.5599,747.80831 c -54.9465,-95.15123 -73.7088,-160.81899 -84.43,-234.52769 -10.7213,-73.70871 -85.7701,-261.33087 -120.6143,-276.07261" />
+    <ns0:circle id="path951" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.26;stroke-dasharray:none;stroke-opacity:1" cx="1133.1038" cy="641.93579" r="44.4744" />
+    <ns0:text id="path951_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.42;stroke-dasharray:none;stroke-opacity:1" x="1118.5346000000002" y="662.38379">
+      <ns0:text id="path951_text" x="1118.5346000000002" y="662.38379" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.12px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">5</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path955" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.26;stroke-dasharray:none;stroke-opacity:1" cx="1292.5826" cy="613.12244" r="44.4744" />
+    <ns0:text id="path955_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.42;stroke-dasharray:none;stroke-opacity:1" x="1278.0134" y="633.57044">
+      <ns0:text id="path955_text" x="1278.0134" y="633.57044" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.12px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">4</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

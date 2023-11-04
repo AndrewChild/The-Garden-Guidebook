@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg820"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="YoMamma.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs824" />
+  <sodipodi:namedview
+     id="namedview822"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.37309026"
+     inkscape:cx="599.05075"
+     inkscape:cy="353.80178"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g826" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g826">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="YoMamma.JPG"
+       id="image828" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="m 1060.0652,786.6729 c -38.8646,-138.0363 101.852,-101.85202 107.2127,-213.08516 5.3606,-111.23314 -83.0899,-340.4002 -83.0899,-340.4002"
+       id="path947" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="path951"
+       cx="1133.1038"
+       cy="641.93579"
+       rx="15.41182"
+       ry="17.422058" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="m 1353.5599,747.80831 c -54.9465,-95.15123 -73.7088,-160.81899 -84.43,-234.52769 -10.7213,-73.70871 -85.7701,-261.33087 -120.6143,-276.07261"
+       id="path953" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="path955"
+       cx="1292.5826"
+       cy="613.12244"
+       r="12.731503" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="rect966"
+       width="1318.7157"
+       height="986.35651"
+       x="139.37646"
+       y="69.688232" />
+  </g>
+</svg>

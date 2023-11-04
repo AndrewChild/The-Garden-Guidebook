@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg664"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="strangeLove.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs668" />
+  <sodipodi:namedview
+     id="namedview666"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.37309026"
+     inkscape:cx="558.846"
+     inkscape:cy="399.36716"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g670" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g670">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="strangeLove.JPG"
+       id="image672" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="M 828.21781,832.23829 C 746.46816,672.75945 722.34531,540.08378 801.41465,392.66637 880.48398,245.24896 954.19269,191.64263 944.81158,92.470921"
+       id="path791" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="path793"
+       cx="819.50677"
+       cy="357.15219"
+       rx="14.071662"
+       ry="16.751978" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       d="M 651.31692,684.82088 C 601.73106,556.16568 552.14521,412.76875 589.66964,304.21593"
+       id="path795" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="path797"
+       cx="592.34998"
+       cy="507.24991"
+       rx="13.401583"
+       ry="15.41182" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:3"
+       id="rect808"
+       width="1015.84"
+       height="1029.2416"
+       x="241.22849"
+       y="37.524433" />
+  </g>
+</svg>
