@@ -3,16 +3,30 @@
 
 # ToDo:
 ## Things that can be done at home
-- Consider adding a master codex of routes and their aliases
-- Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
 - add map for garden cliffs
 - Draw topos for cliffs
 - make upper garden map more readable
-- consider adding Shark Fin Rock, and Iron wall to "Other Areas"
 - Other areas section is hard to read
 - add quartzville topos
 - populate landing page website
+
+## Things that I'm not sure if I should add
+- Consider adding a master codex of routes and their aliases
+- Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
+- consider adding Shark Fin Rock, and Iron wall to "Other Areas"
 - consider adding the Herb garden sub area to the main area
+- Essay/Flavor text inserts
+  - Origins of the Heirloom Project
+  - Fight Club Club
+  - Ethics of developing the Methlab prow
+  - Who is E?
+  - Other berned
+  - Route name explainations:
+    - Burning Bus
+	- Harbor Freight
+	- Worf
+	- Dab Rig Boulder
+	- Francois
 
 ## Things that need to be done in the field
 

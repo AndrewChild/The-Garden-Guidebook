@@ -174,7 +174,7 @@ Route(name='Vine Project',
       )
 Route(name='P.R.O.M.',
       parent=book.formations['Garden Cliff Middle'],
-      grade='5.13b/c',
+      grade='5.13c',
       FA='Evan Powers',
       description='70\', Sport, ? bolts. Climbs an aesthic black arête. This route was already bolted when the most recent developers of the cliff arrived. Bail gear was found on the route and it\'s likely that it had never been free\'ed prior to the rest of the cliffs development. No body knows the full history of the line though multiple theories presist. Many people who were in the early 2000s scene have been questioned about the line, no information has surfaced about its origin. The name P.R.O.M. is not a reference to high school dances, but it is a well documented acronym that you may regret googleing.'
       )
