@@ -7,7 +7,6 @@
 - Draw topos for cliffs
 - make upper garden map more readable
 - Other areas section is hard to read
-- add quartzville topos
 - populate landing page website
 
 ## Things that I'm not sure if I should add

@@ -326,7 +326,7 @@ Route(name='Angel Face',
 Route(name='Durten Layback',
       parent=book.formations['Tyler Durten'],
       grade=1,
-      grade_unconfirmed=True,
+      rating=1,
       description='Stand start and climb the right corner using the Fight Club boulder for feet. Is chimneying between the boulders off? Asking for a friend.')
 Route(name='Dwight Schrute',
       parent=book.formations['The Office'],
@@ -366,7 +366,7 @@ Route(name='Vince',
 Route(name='The Ear',
       parent=book.formations['Fight Club'],
       rating=3,
-      grade="2+",
+      grade="3",
       description='Start on the arête at the far right end of the boulder. Climb straight up through tricky holds '
                   'to a heady top out. Veering onto the face instead of using the good holds on the right arête '
                   'bumps the grade up to around V4.')
@@ -476,7 +476,7 @@ Route(name='Panic Button',
 Route(name='Meth Lab Project',
       parent=book.formations['Meth Lab'],
       serious=3,
-      description='The obvious prow on the front of the Meth Lab boulder has a bolted top rope anchor and maybe '
+      description='The obvious prow on the front of the Meth Lab boulder has a bolted anchor at the top. Maybe '
                   'someone has top roped it, but who knows. It\'s likely that this has never been climbed by any other '
                   'means. The ethics of climbing this behemoth are contentious but the author of this book holds that it is fair game to '
                   'bolt it as a sport route. If you have the desire to install hardware consider '
@@ -540,7 +540,7 @@ Route(name='Southern Discomfort',
       grade=10,
       serious=1,
       rating=2,
-      description='With a right hand sidepull crimp and left hand undercling, start on a bubbly lump over a rocky pit on the west face of the methlab boulder. Crank a short travese left and on good incuts before a poweful vertical finish. A substantial amount of padding is required to protect the pit under the beginning of this route.')
+      description='With a right hand sidepull crimp and left hand undercling, start on a bubbly lump over a rocky pit on the west face of the meth lab boulder. Crank a short travese left and on good incuts before a poweful vertical finish. A substantial amount of padding is required to protect the pit under the beginning of this route.')
 Route(name='Swollen Member',
       parent=book.formations['Swollen Member'],
       grade=3,
