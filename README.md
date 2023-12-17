@@ -21,6 +21,8 @@
   - Who is E?
   - Other berned
   - KISS
+  - Whats under the moss/New FAs
+  - Tombstone pillar
   - Philisophy on what routes are (if there are 4 logical starts and 4 logical finishes are there 16 routes on the undertow boulder? no definitly not)
   - Route name explainations:
     - Burning Bus
