@@ -5,7 +5,7 @@ TextInsert(name='The Garden\'s Gretest Mystery',
            parent=book.formations['Garden Cliff Middle'],
            loc='b',
            description='When local route developers, Jayson and Keirsten, orignally cut a trail to the garden cliffs in 2014 they were surprised to find a fully bolted route already established on the steep black stone of the main cliff. None of the early 2000s generation garden climbers seem to know anything about this strage line, which was dubbed the heirloom project. To this day the origins of the route are unknown. Perhaps it has always existed, waiting for a suitor since the primordial chaos at the beginning of time itself.\n\n'
-           'In the fall of 2024 Evan Powers performed the first known ascent of the rotue renaming it to P.R.O.M.. Although its possible that the route had been climbed previously it seems unlikely since bail gear was present low on the route when it was initially discovered. Not to mention an ascent of a route so difficult would likely be known by at least someone the community.')
+           'In the fall of 2023 Evan Powers performed the first known ascent of the rotue. Although its possible that the route had been climbed previously it seems unlikely since bail gear was present low on the route when it was initially discovered. Not to mention an ascent of a route so difficult would likely be known by at least someone the community.')
 TextInsert(name='Lets Talk About Fight Club',
            parent=book.subareas['Fight Club'],
            loc='e',

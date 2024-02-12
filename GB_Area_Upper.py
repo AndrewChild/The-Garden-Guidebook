@@ -75,7 +75,7 @@ Formation(name='Young Ju¢y',
            
 Route(name='Pumpkin Spice',
       parent=book.formations['Pumpkin'],
-      grade='6/7',
+      grade='6',
       rating=2,
       name_unconfirmed=True,
       description='Sit start on the left side of the overhang with left hand on a sharp side pull and right hand on the lower of two side pull rails. Trend right along the roof to an easy topout over a sussy landing.')
@@ -98,7 +98,7 @@ Route(name='Bread Loaf Left',
                   'route and either mantle or side pull your way to the top. Also called Buddha\'s Belly.')
 Route(name='Breadwinner',
       parent=book.formations['Bread Loaf'],
-      grade='10-',
+      grade='9/10',
       grade_unconfirmed=True,
       description='Start as for Bread Loaf Traverse, climb straight up..')
 Route(name='Bread Loaf Traverse',
@@ -111,8 +111,7 @@ Route(name='Worf',
       parent=book.formations['Bread Loaf'],
       grade=5,
       rating=2,
-      description='Starting from two horizontal cracks a bizarre sequence leads you first left then right as you '
-                  'climb the rounded corner. Some but not all of the difficulty comes from the dab potential.')
+      description='Starting from the low horizontal seams crank a few powerful moves to gain a blunt corner. Both sides of the corner are worthwhile and valid top out options, each challenging in its own way.')
 Route(name='Scratch and Spliff Traverse',
       parent=book.formations['Scratch and Spliff'],
       grade=3,
@@ -194,7 +193,7 @@ Route(name='Young Ju¢y',
       description='Climb an arching line left across the lip starting from two right-facing sidepulls at/below the lip for on the right side of the boulder. Technical and close to impossible without a solid brushing')
 Variation(name='Baker\'s Dozen',
           parent=book.routes['Bread Loaf Traverse'],
-          grade=8,
+          grade='7/8',
           rating=2,
           description='Start as for Bread Loaf Left, traverse into the bread loaf traverse.')
 Variation(name='Late Start',

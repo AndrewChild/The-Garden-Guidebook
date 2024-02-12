@@ -155,7 +155,7 @@
   <ns0:g ns2:groupmode="layer" id="layer5" ns2:label="Strangelove" />
   <ns0:g ns2:groupmode="layer" id="layer6" ns2:label="Machete Monkey" />
   <ns0:g ns2:groupmode="layer" id="layer3" ns2:label="Entrance" ns1:insensitive="true">
-    <ns0:circle id="path27105" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.15000000000000002;stroke-dasharray:none;stroke-opacity:1" cx="327.67627" cy="288.40393" r="1.566" />
+    <ns0:circle id="path27105" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.15000000000000002;stroke-dasharray:none;stroke-opacity:1" cx="327.67627" cy="288.40393" r="1.566" />
     <ns0:text id="path27105_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1" x="327.16327" y="289.12393000000003">
       <ns0:text id="path27105_text" x="327.16327" y="289.12393000000003" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.8px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
     </ns0:text>
