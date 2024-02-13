@@ -250,7 +250,7 @@ Route(name='My Secret Garden',
       grade='5.11a',
       rating=3,
       FA='Jayson Nissan',
-      description='45\', Sport, 6 bolts. Start on a big sloping rail until you can reach good edges until you can stand up under a hanging block. Pull some big moves to get up and around the block onto easier terrain.',
+      description='45\', Sport, 6 bolts. Start on a big sloping rail and pull a few moves to reach good edges and manuver your way under a hanging block. Crank some big moves to get up and around the block onto easier terrain.',
       )
 Route(name='Nest',
       parent=book.formations['Garden Cliff Left Side'],
