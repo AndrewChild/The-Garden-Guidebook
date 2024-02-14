@@ -287,7 +287,7 @@ Route(name='Death of Koschei the Deathless',
       FA='Jayson Nissan',
       description='20\', Sport, 4 bolts. Easy climbing surrounds a one move crux deadpoint.',
       )
-Route(name='Feather of the Finst Falcon',
+Route(name='Feather of the Finest Falcon',
       parent=book.formations['Fairy Tale Wall'],
       grade='5.8',
       rating=1,
