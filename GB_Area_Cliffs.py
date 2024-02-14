@@ -325,6 +325,20 @@ Route(name='Kim Chi Corner',
       FA='Jayson Nissan',
       grade_unconfirmed=True,
       )
+Route(name='Where Do You Go When the Sun Goes Down',
+      parent=book.formations['Johny Cash\'s Thunderdome'],
+      grade='5.11a',
+      FA='Jayson Nissan',
+      grade_unconfirmed=True,
+      description='45\', Sport, 8 bolts. Follow a shallow right facing corner to a ledge, then trend left and up over a large detatched flake.'
+      )
+Route(name='I Dropped a Man in Reno',
+      parent=book.formations['Johny Cash\'s Thunderdome'],
+      grade='5.7',
+      FA='Jayson Nissan',
+      grade_unconfirmed=True,
+      description='45\', Sport, 11 bolts. Start on the right side of a large flake. Traverse right along a shallow ledge (crossing over Where Do You Go When the Sun Goes Down) to a grove and follow it to the top.'
+      )
 Route(name='I Fell for You Like a Child',
       parent=book.formations['Johny Cash\'s Thunderdome'],
       grade='5.8',
@@ -386,6 +400,13 @@ Variation(name='Honeycomb Traverse',
           rating=2,
           FA='Jayson Nissan',
           description='50\', Sport, 9 bolts. Start on Criss Cross Apple Sauce and traverse into Honeycomb after the third bolt. Avoids the blank section down low.'
+          )
+Variation(name='A Victem of the Times',
+          parent=book.routes['Where Do You Go When the Sun Goes Down'],
+          grade='5.10c',
+          FA='Jayson Nissan',
+      grade_unconfirmed=True,
+          description='45\', Sport, 8 bolts. Start on Where Do You Go When the Sun Goes Down and link into the top of I dropped a Man in Reno.'
           )
 
 
