@@ -214,19 +214,19 @@ Route(name='My Empire of Dirt',
       description='70\', Sport, 11 bolts. Climb Seraphim Nachash through its crux then cut left through a physical section of sidepulls and underclings. Continue up a sustained overhaing wall with big pulls between generally decent holds. This is a real power endurance testpiece.'
       )
 Route(name='Honeycomb Project',
-      parent=book.formations['Garden Cliff Left Side'],
+      parent=book.formations['Garden Cliff Middle'],
       grade='5.?',
       description='50\', Sport, 9 bolts. Open Project. Start on a narrow ledge to the right of the top of the stairs. The section down low has so far never been climbed.'
       )
 Route(name='Criss Cross Applesauce',
-      parent=book.formations['Garden Cliff Left Side'],
+      parent=book.formations['Garden Cliff Middle'],
       grade='5.11c',
       rating=2,
       FA='Kerstin Cullen',
       description='45\', Sport, 8 bolts. Start at the top of the stairs. After clipping the third bolt follow a jug rail up and right to hard to decipher crux at the end of a pumpy sequence. Climbing eases substantially after the crux.'
       )
 Route(name='Vandals in the Graveyard',
-      parent=book.formations['Garden Cliff Left Side'],
+      parent=book.formations['Garden Cliff Middle'],
       grade='5.12a',
       rating=1,
       FA='Chris Nord',

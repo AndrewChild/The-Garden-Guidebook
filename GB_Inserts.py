@@ -1,7 +1,7 @@
 from dataStructure import TextInsert
 from GB_Book import book
 
-TextInsert(name='The Garden\'s Gretest Mystery',
+TextInsert(name='The Garden\'s Greatest Mystery',
            parent=book.formations['Garden Cliff Middle'],
            loc='b',
            description='When local route developers, Jayson and Keirsten, orignally cut a trail to the garden cliffs in 2014 they were surprised to find a fully bolted route already established on the steep black stone of the main cliff. None of the early 2000s generation garden climbers seem to know anything about this strage line, which was dubbed the heirloom project. To this day the origins of the route are unknown. Perhaps it has always existed, waiting for a suitor since the primordial chaos at the beginning of time itself.\n\n'

@@ -26,12 +26,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.51149229"
-     inkscape:cx="835.78973"
-     inkscape:cy="758.56471"
+     inkscape:zoom="1.0229846"
+     inkscape:cx="742.43543"
+     inkscape:cy="482.90073"
      inkscape:window-width="1536"
      inkscape:window-height="811"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g8" />
@@ -45,6 +45,10 @@
        preserveAspectRatio="none"
        xlink:href="nest2.png"
        id="image10" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.88976"
+       d="m 1003.9252,413.49597 c -30.30349,-69.40476 31.281,-31.28102 50.8317,-85.04527 19.5506,-53.76425 20.5281,-126.10161 20.5281,-126.10161"
+       id="path1205" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1.88976"
        d="m 1063.0954,1172.3081 c 9.6771,-200.45363 11.0595,-503.20772 -29.0312,-550.21064 C 993.97349,575.09454 920.70424,593.06624 941.44082,561.27015 962.1774,529.47406 1017.475,445.14529 1003.6506,413.3492"
@@ -154,5 +158,12 @@
        cy="1022.3135"
        rx="11.05951"
        ry="13.133168" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:1.88976"
+       id="path1314"
+       cx="1085.5491"
+       cy="137.83199"
+       rx="20.039402"
+       ry="21.505701" />
   </g>
 </svg>

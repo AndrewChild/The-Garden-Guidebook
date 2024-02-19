@@ -4,16 +4,13 @@
 # ToDo:
 ## Things that can be done at home
 - add map for garden cliffs
-- Draw topos for cliffs
-- make upper garden map more readable
+- Draw topo for cabbage patch
+- write descriptions for placeholder routes (9 left)
 - Other areas section is hard to read
 - populate landing page website
 
 ## Things that I'm not sure if I should add
 - Consider adding a master codex of routes and their aliases
-- Consider adding a section for eliminates (KISS, enchilad original, and spraycation. probably others too)
-- consider adding Shark Fin Rock, and Iron wall to "Other Areas"
-- consider adding the Herb garden sub area to the main area
 - Essay/Flavor text inserts
   - Origins of the Heirloom Project
   - Fight Club Club
