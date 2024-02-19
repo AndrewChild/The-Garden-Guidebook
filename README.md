@@ -54,7 +54,7 @@ Routes with placeholder descriptions
 
 ### Garden Cliffs
 Topos to add:
-- everything
+- cabbage patch
 
 Routes with placeholder descriptions
 - Don't Forget the Nooch
@@ -66,7 +66,6 @@ Routes with placeholder descriptions
 Routes to add
 - everything in middle garden
 - Pumpkin spice low
-- ed direct? (on scratch and spliff)
 
 Topos to add:
 - everything at middle garden
