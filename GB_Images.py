@@ -1168,6 +1168,7 @@ Topo(name='Big Iron',
      parent=book.formations['Big Iron'],
      file_name='bigIron.svg',
      size='h',
+     loc='a',
      border='rect522',
      routes={
          'path456': book.climbs['No Stone Unturned'],

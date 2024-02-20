@@ -33,15 +33,15 @@
 \contentsline {chapter}{\numberline {6}Other Areas}{76}{chapter.6}%
 \contentsline {section}{A - The Upper Garden Cliffs}{76}{section*.472}%
 \contentsline {section}{B - Highway 11 Wall}{76}{section*.474}%
-\contentsline {section}{C - Highway 11 Pillar}{76}{section*.476}%
-\contentsline {section}{D - Canyon Creek}{76}{section*.478}%
-\contentsline {section}{E - Horse Rock}{77}{section*.480}%
-\contentsline {section}{F - Gordon Ridge}{77}{section*.482}%
-\contentsline {section}{G - The Menagerie Wilderness}{77}{section*.484}%
-\contentsline {section}{H - Santiam Pinnacle}{78}{section*.487}%
-\contentsline {section}{I - Iron Mountain}{78}{section*.489}%
-\contentsline {section}{J - The Needles}{79}{section*.499}%
-\contentsline {chapter}{Index}{81}{section*.500}%
-\contentsline {section}{Routes Alphabetical}{81}{section*.502}%
-\contentsline {section}{Routes by grade}{84}{section*.503}%
-\contentsline {section}{Known First Ascents}{87}{section*.504}%
+\contentsline {section}{C - Highway 11 Pillar}{77}{section*.476}%
+\contentsline {section}{D - Canyon Creek}{77}{section*.478}%
+\contentsline {section}{E - Horse Rock}{78}{section*.480}%
+\contentsline {section}{F - Gordon Ridge}{78}{section*.482}%
+\contentsline {section}{G - The Menagerie Wilderness}{79}{section*.484}%
+\contentsline {section}{H - Santiam Pinnacle}{79}{section*.487}%
+\contentsline {section}{I - Iron Mountain}{80}{section*.489}%
+\contentsline {section}{J - The Needles}{82}{section*.499}%
+\contentsline {chapter}{Index}{83}{section*.500}%
+\contentsline {section}{Routes Alphabetical}{83}{section*.502}%
+\contentsline {section}{Routes by grade}{86}{section*.503}%
+\contentsline {section}{Known First Ascents}{89}{section*.504}%

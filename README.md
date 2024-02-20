@@ -3,17 +3,13 @@
 
 # ToDo:
 ## Things that can be done at home
-- add map for garden cliffs
 - Draw topo for cabbage patch
 - write descriptions for placeholder routes (9 left)
-- Other areas section is hard to read
 - populate landing page website
 
 ## Things that I'm not sure if I should add
 - Consider adding a master codex of routes and their aliases
 - Essay/Flavor text inserts
-  - Origins of the Heirloom Project
-  - Fight Club Club
   - Ethics of developing the Methlab prow
   - Who is E?
   - Other berned
@@ -21,13 +17,18 @@
   - Whats under the moss/New FAs
   - Tombstone pillar
   - Lowest viable start vs LRS
-  - Philisophy on what routes are (if there are 4 logical starts and 4 logical finishes are there 16 routes on the undertow boulder? no definitly not)
   - Route name explainations:
     - Burning Bus
 	- Harbor Freight
 	- Worf
 	- Dab Rig Boulder
 	- Francois
+- possible lists to include in index
+  - good routes for total beginners
+  - routes that dry quickly
+  - routes that dry un-quickly
+  - old school circuits
+  - safe-ish with one pad
 
 ## Things that need to be done in the field
 
