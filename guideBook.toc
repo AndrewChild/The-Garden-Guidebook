@@ -1,7 +1,7 @@
 \contentsline {chapter}{Introduction}{2}{Doc-Start}%
 \contentsline {section}{Authors Note}{2}{section*.2}%
 \contentsline {section}{Ameneties}{2}{section*.3}%
-\contentsline {section}{Local Ethics}{3}{section*.4}%
+\contentsline {section}{Local Ethics}{2}{section*.4}%
 \contentsline {section}{Poison Oak}{3}{section*.5}%
 \contentsline {section}{How to use this book}{4}{section*.6}%
 \contentsline {subsubsection}{Quality}{4}{subsubsection*.7}%
