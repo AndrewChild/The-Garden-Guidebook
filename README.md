@@ -5,7 +5,6 @@
 ## Things that can be done at home
 - Draw topo for cabbage patch
 - write descriptions for placeholder routes (9 left)
-- populate landing page website
 
 ## Things that I'm not sure if I should add
 - Consider adding a master codex of routes and their aliases
