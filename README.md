@@ -34,6 +34,8 @@
 ### Garden Main
 Routes to add:
 - other lines on Francois
+- right arete on bitchin corners
+- earned V2s?
 
 Topos to redo:
 - blowie
@@ -48,6 +50,7 @@ Routes with placeholder descriptions
 - Flesh Bridge
 - Into the Light
 - Into the Light Assis
+- Left corner
 
 ### Garden Cliffs
 Topos to add:

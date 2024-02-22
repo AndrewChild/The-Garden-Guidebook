@@ -9,39 +9,39 @@
 \contentsline {section}{Acknowledgements}{5}{section*.9}%
 \contentsline {chapter}{\numberline {1}The Garden Main}{10}{chapter.1}%
 \contentsline {section}{A - Entrance Area}{11}{section*.14}%
-\contentsline {section}{B - Fight Club}{16}{section*.57}%
-\contentsline {section}{C - Undertow}{21}{section*.96}%
-\contentsline {section}{D - Meth Lab}{25}{section*.131}%
-\contentsline {section}{E - Big}{32}{section*.188}%
-\contentsline {section}{F - Azain}{36}{section*.217}%
-\contentsline {section}{G - Child of God}{40}{section*.247}%
-\contentsline {section}{H - François}{45}{section*.280}%
+\contentsline {section}{B - Fight Club}{16}{section*.58}%
+\contentsline {section}{C - Undertow}{21}{section*.97}%
+\contentsline {section}{D - Meth Lab}{25}{section*.132}%
+\contentsline {section}{E - Big}{32}{section*.189}%
+\contentsline {section}{F - Azain}{36}{section*.219}%
+\contentsline {section}{G - Child of God}{40}{section*.249}%
+\contentsline {section}{H - François}{45}{section*.282}%
 \contentsline {chapter}{\numberline {2}Pink Tag Boulders}{47}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Garden Cliffs}{50}{chapter.3}%
-\contentsline {section}{A - The Garden Cliff}{51}{section*.317}%
-\contentsline {section}{B - Fairy Tale Wall}{57}{section*.366}%
-\contentsline {section}{C - Cabbage Patch/ Thunderdome}{58}{section*.373}%
+\contentsline {section}{A - The Garden Cliff}{51}{section*.319}%
+\contentsline {section}{B - Fairy Tale Wall}{57}{section*.368}%
+\contentsline {section}{C - Cabbage Patch/ Thunderdome}{58}{section*.375}%
 \contentsline {chapter}{\numberline {4}Upper Garden}{60}{chapter.4}%
-\contentsline {section}{A - Entrance Area}{62}{section*.391}%
-\contentsline {section}{B - The Bread Loaves/Scratch and Spliff}{63}{section*.401}%
-\contentsline {section}{C - Dr. Strangelove}{67}{section*.424}%
-\contentsline {section}{D - Machete Monkey}{69}{section*.434}%
-\contentsline {section}{E - Middle Garden}{69}{section*.443}%
+\contentsline {section}{A - Entrance Area}{62}{section*.393}%
+\contentsline {section}{B - The Bread Loaves/Scratch and Spliff}{63}{section*.403}%
+\contentsline {section}{C - Dr. Strangelove}{67}{section*.426}%
+\contentsline {section}{D - Machete Monkey}{69}{section*.436}%
+\contentsline {section}{E - Middle Garden}{69}{section*.445}%
 \contentsline {chapter}{\numberline {5}Quartzville Creek}{70}{chapter.5}%
-\contentsline {section}{A - Redneck Riviera}{71}{section*.446}%
-\contentsline {section}{B - Old Miner's Camp}{74}{section*.466}%
+\contentsline {section}{A - Redneck Riviera}{71}{section*.448}%
+\contentsline {section}{B - Old Miner's Camp}{74}{section*.468}%
 \contentsline {chapter}{\numberline {6}Other Areas}{75}{chapter.6}%
-\contentsline {section}{A - The Upper Garden Cliffs}{75}{section*.472}%
-\contentsline {section}{B - Highway 11 Wall}{75}{section*.474}%
-\contentsline {section}{C - Highway 11 Pillar}{76}{section*.476}%
-\contentsline {section}{D - Canyon Creek}{76}{section*.478}%
-\contentsline {section}{E - Horse Rock}{77}{section*.480}%
-\contentsline {section}{F - Gordon Ridge}{77}{section*.482}%
-\contentsline {section}{G - The Menagerie Wilderness}{78}{section*.484}%
-\contentsline {section}{H - Santiam Pinnacle}{78}{section*.487}%
-\contentsline {section}{I - Iron Mountain}{79}{section*.489}%
-\contentsline {section}{J - The Needles}{80}{section*.499}%
-\contentsline {chapter}{Index}{81}{section*.500}%
-\contentsline {section}{Routes Alphabetical}{81}{section*.502}%
-\contentsline {section}{Routes by grade}{84}{section*.503}%
-\contentsline {section}{Known First Ascents}{87}{section*.504}%
+\contentsline {section}{A - The Upper Garden Cliffs}{75}{section*.474}%
+\contentsline {section}{B - Highway 11 Wall}{75}{section*.476}%
+\contentsline {section}{C - Highway 11 Pillar}{76}{section*.478}%
+\contentsline {section}{D - Canyon Creek}{76}{section*.480}%
+\contentsline {section}{E - Horse Rock}{77}{section*.482}%
+\contentsline {section}{F - Gordon Ridge}{77}{section*.484}%
+\contentsline {section}{G - The Menagerie Wilderness}{78}{section*.486}%
+\contentsline {section}{H - Santiam Pinnacle}{78}{section*.489}%
+\contentsline {section}{I - Iron Mountain}{79}{section*.491}%
+\contentsline {section}{J - The Needles}{80}{section*.501}%
+\contentsline {chapter}{Index}{81}{section*.502}%
+\contentsline {section}{Routes Alphabetical}{81}{section*.504}%
+\contentsline {section}{Routes by grade}{84}{section*.505}%
+\contentsline {section}{Known First Ascents}{87}{section*.506}%
