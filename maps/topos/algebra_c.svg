@@ -1,0 +1,15 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg517" width="1357.3744" height="1085.3555" viewBox="14.961037 6.8004727 1357.3744 1085.3555" ns1:docname="algebra.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs521" />
+  <ns1:namedview id="namedview519" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.73524302" ns2:cx="819.45694" ns2:cy="548.11809" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g523" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g523">
+    <ns0:image width="1645.7144" height="1097.1429" preserveAspectRatio="none" ns3:href="algebra.JPG" id="image525" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:10.219999999999999;stroke-dasharray:none" d="m 737.17122,776.61396 c -4.08028,-77.52538 267.93858,-618.843 267.93858,-618.843" id="path644" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:10.219999999999999;stroke-dasharray:none" d="M 595.72139,769.81349 C 705.88905,716.76981 758.93274,703.16886 784.77453,629.72376" id="path646" />
+    <ns0:path id="path644_clone" style="fill:none;stroke:#FFFFFF;stroke-width:10.219999999999999;stroke-dasharray:43.8, 43.8" d="m 737.17122,776.61396 c -4.08028,-77.52538 267.93858,-618.843 267.93858,-618.843" />
+    <ns0:path id="path646_clone" style="fill:none;stroke:#FFFFFF;stroke-width:10.219999999999999;stroke-dasharray:43.8, 43.8" d="M 595.72139,769.81349 C 705.88905,716.76981 758.93274,703.16886 784.77453,629.72376" />
+    <ns0:circle id="path648" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.38;stroke-dasharray:none;stroke-opacity:1" cx="853.45929" cy="467.8725" r="45.7272" />
+    <ns0:text id="path648_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.46;stroke-dasharray:none;stroke-opacity:1" x="838.47969" y="488.8965">
+      <ns0:text id="path648_text" x="838.47969" y="488.8965" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.56px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">4</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

@@ -1,0 +1,21 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1252" width="1645.7144" height="1097.1429" viewBox="0 0 1645.7144 1097.1429" ns1:docname="duckTwirl2.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1256" />
+  <ns1:namedview id="namedview1254" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.73524302" ns2:cx="789.53486" ns2:cy="805.17595" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1258" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1258">
+    <ns0:image width="1645.7144" height="1097.1429" preserveAspectRatio="none" ns3:href="duckTwirl2.JPG" id="image1260" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:12.39;stroke-dasharray:none" d="M 462.59312,728.99289 C 541.45514,677.05936 580.88616,571.26884 573.1923,479.90429 565.49845,388.53975 536.64648,211.58105 619.35544,136.56595" id="path1379" />
+    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:12.39;stroke-dasharray:none" d="M 673.21244,697.25574 C 589.54175,670.32724 532.79956,678.98283 551.07246,620.31717" id="path1381" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:12.39;stroke-dasharray:none" d="M 873.18067,707.24914 C 786.13463,537.23733 795.65529,183.61276 795.65529,183.61276" id="path1385" />
+    <ns0:path id="path1379_clone" style="fill:none;stroke:#FFFFFF;stroke-width:12.39;stroke-dasharray:53.1, 53.1" d="M 462.59312,728.99289 C 541.45514,677.05936 580.88616,571.26884 573.1923,479.90429 565.49845,388.53975 536.64648,211.58105 619.35544,136.56595" />
+    <ns0:path id="path1381_clone" style="fill:none;stroke:#FFFFFF;stroke-width:12.39;stroke-dasharray:53.1, 53.1" d="M 673.21244,697.25574 C 589.54175,670.32724 532.79956,678.98283 551.07246,620.31717" />
+    <ns0:path id="path1385_clone" style="fill:none;stroke:#FFFFFF;stroke-width:12.39;stroke-dasharray:53.1, 53.1" d="M 873.18067,707.24914 C 786.13463,537.23733 795.65529,183.61276 795.65529,183.61276" />
+    <ns0:circle id="path1383" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:5.3100000000000005;stroke-dasharray:none;stroke-opacity:1" cx="563.57495" cy="395.27188" r="55.4364" />
+    <ns0:text id="path1383_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.77;stroke-dasharray:none;stroke-opacity:1" x="545.4147499999999" y="420.75988">
+      <ns0:text id="path1383_text" x="545.4147499999999" y="420.75988" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.72px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1387" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:5.3100000000000005;stroke-dasharray:none;stroke-opacity:1" cx="811.29639" cy="467.8725" r="55.4364" />
+    <ns0:text id="path1387_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.77;stroke-dasharray:none;stroke-opacity:1" x="793.1361899999999" y="493.3605">
+      <ns0:text id="path1387_text" x="793.1361899999999" y="493.3605" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.72px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">8</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

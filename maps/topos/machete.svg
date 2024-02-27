@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg661"
+   width="1097.1429"
+   height="1645.7144"
+   viewBox="0 0 1097.1429 1645.7144"
+   sodipodi:docname="machete.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs665" />
+  <sodipodi:namedview
+     id="namedview663"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.51467012"
+     inkscape:cx="539.18032"
+     inkscape:cy="526.55087"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g667" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g667">
+    <image
+       width="1097.1429"
+       height="1645.7144"
+       preserveAspectRatio="none"
+       xlink:href="machete.JPG"
+       id="image669" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 262.30394,1068.6457 C 759.70993,835.48663 821.88568,559.58174 817.9997,472.14709"
+       id="path788" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 205.95717,1408.6693 c -3.88599,-159.3253 -95.20662,-272.0189 56.34677,-340.0236"
+       id="path790" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path792"
+       cx="639.24445"
+       cy="817.0282"
+       rx="31.087875"
+       ry="28.173386" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path794"
+       cx="183.61276"
+       cy="1259.059"
+       rx="26.230394"
+       ry="19.429922" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect796"
+       width="1078.3606"
+       height="1303.7477"
+       x="9.7149601"
+       y="293.39182" />
+  </g>
+</svg>

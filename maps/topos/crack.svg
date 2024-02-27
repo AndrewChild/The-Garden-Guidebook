@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="crack.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.73524302"
+     inkscape:cx="820.81704"
+     inkscape:cy="549.47818"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="crack.JPG"
+       id="image10" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 712.68952,862.29992 C 829.65765,613.40262 748.05198,337.30344 806.53604,229.85597"
+       id="path391" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path445"
+       cx="777.97406"
+       cy="565.11926"
+       rx="17.681229"
+       ry="17.001181" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 931.66474,919.42389 C 1083.9953,568.5195 1073.1146,308.74145 1054.0732,216.25503"
+       id="path449" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path451"
+       cx="1041.8324"
+       cy="569.87958"
+       rx="17.681229"
+       ry="20.401417" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect505"
+       width="1282.5691"
+       height="1021.431"
+       x="280.17947"
+       y="5.4403782" />
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1096"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="duckTwirl.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1100" />
+  <sodipodi:namedview
+     id="namedview1098"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.73524302"
+     inkscape:cx="820.81704"
+     inkscape:cy="549.47818"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1102" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1102">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="duckTwirl.JPG"
+       id="image1104" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 334.58325,667.8064 C 299.22079,481.47346 387.62693,232.57616 446.111,161.85125"
+       id="path1223" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1225"
+       cx="354.30463"
+       cy="363.82529"
+       rx="18.361277"
+       ry="17.001181" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 828.29756,382.18656 C 922.14408,368.58561 949.34597,116.96813 949.34597,116.96813"
+       id="path1227" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 964.30701,462.43213 C 899.02247,395.7875 878.62105,345.46401 899.02247,310.10155"
+       id="path1229" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1231"
+       cx="914.66357"
+       cy="274.73911"
+       rx="12.920897"
+       ry="12.24085" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 1018.7108,454.27157 c 50.3235,-58.48407 100.647,-108.80756 108.8075,-330.50297"
+       id="path1233" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 1116.6376,443.39081 c -40.8028,-10.88076 -65.2845,-27.20189 -40.8028,-65.28454"
+       id="path1235" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1237"
+       cx="1107.797"
+       cy="297.18066"
+       rx="8.8406143"
+       ry="12.920897" />
+  </g>
+</svg>

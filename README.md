@@ -28,6 +28,7 @@
   - routes that dry un-quickly
   - old school circuits
   - safe-ish with one pad
+- should the upper garden be split into upper and middle?
 
 ## Things that need to be done in the field
 
@@ -65,6 +66,11 @@ Routes with placeholder descriptions
 ### Upper Garden
 Routes to add
 - everything in middle garden
+- Thing below kick it
+- Left start to kick it?
+- brick house?
+- Thing to the Right of June 24th
+- Thing on the main face of machete monkey
 - Pumpkin spice low
 
 Topos to add:

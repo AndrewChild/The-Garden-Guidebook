@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg517"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="algebra.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs521" />
+  <sodipodi:namedview
+     id="namedview519"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.73524302"
+     inkscape:cx="819.45694"
+     inkscape:cy="548.11809"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g523" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g523">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="algebra.JPG"
+       id="image525" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 737.17122,776.61396 c -4.08028,-77.52538 267.93858,-618.843 267.93858,-618.843"
+       id="path644" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 595.72139,769.81349 C 705.88905,716.76981 758.93274,703.16886 784.77453,629.72376"
+       id="path646" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path648"
+       cx="853.45929"
+       cy="467.8725"
+       rx="19.721371"
+       ry="19.041323" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect650"
+       width="1357.3744"
+       height="1085.3555"
+       x="14.961037"
+       y="6.8004727" />
+  </g>
+</svg>
