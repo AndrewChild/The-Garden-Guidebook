@@ -28,6 +28,7 @@
   - routes that dry un-quickly
   - old school circuits
   - safe-ish with one pad
+  - The best of not the best (2 star lines)
 - should the upper garden be split into upper and middle?
 
 ## Things that need to be done in the field
@@ -49,8 +50,6 @@ Routes with placeholder descriptions
 - Tidepool
 - chockstone highball
 - Flesh Bridge
-- Into the Light
-- Into the Light Assis
 - Left corner
 
 ### Garden Cliffs
