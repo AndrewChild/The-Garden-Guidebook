@@ -555,10 +555,11 @@ Route(name='Swollen Member',
       description='A classic hazing route. Start hugging the underside of the block with good hand holds '
                   'on each side of the stubby prow. Manuver youself into a less scandelous orientation using toe '
                   'hooks, heel hooks, and  all manner of dirty tricks.')
-Route(name='Flesh Bridge',
+Route(name='Phallacy',
       parent=book.formations['Swollen Member'],
-      grade=8,
-      grade_unconfirmed=False,)
+      grade='8/9',
+      FA='Payton Hansen',
+      description='Stand start with your right hand on an incut sloper around the corner and left on a sidepull cutout. Move up the steep face without dabbing. ')
 Route(name='Meth Lab Highball',
       parent=book.formations['Meth Lab Highball'],
       rating=2,

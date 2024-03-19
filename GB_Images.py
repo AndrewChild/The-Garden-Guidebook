@@ -1384,7 +1384,7 @@ SubAreaMap(name='Meth Lab area map',
            border='rect3200',
            routes={
                'path992':book.climbs['Turd Party UR Invited'],
-               'path1196':book.climbs['Flesh Bridge'],
+               'path1196':book.climbs['Phallacy'],
                'path771':book.climbs['West Arête'],
                'path521':book.climbs['Southern Discomfort'],
                'path760':book.climbs['Don\'t Blow the Jug'],
