@@ -24,6 +24,7 @@
 \usepackage{pdfpages}
 \usepackage{colortbl}
 \usepackage{varioref}
+\usepackage[framemethod=TikZ]{mdframed}
 
 %-------------- Formatting -------------------
 \usepackage{fancyhdr}
@@ -49,11 +50,25 @@
   {\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}
 
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
-
+\mdfsetup{skipabove=\topskip,skipbelow=\topskip}
+\mdfdefinestyle{textinsert}{
+  backgroundcolor=\chapterColor!40,
+  frametitlerule=true,
+  %frametitlebackgroundcolor=\chapterColor,
+  skipabove=\topsep,
+  skipbelow=\topsep,
+  topline=false,
+  bottomline=false,
+  leftline=false,
+  rightline=false,
+  frametitlerule=false,
+  frametitletopline=false,
+  roundcorner=10pt
+}
 %-------------- Document -------------------
 \begin{document}
 \title{The Garden}
-\date{2024-03-19}
+\date{2024-03-20}
 \maketitle
 \newcommand\chapterColor{MidnightBlue}
 
