@@ -84,7 +84,12 @@ Photo(name='pinnacle',
       size='h',
       format_options=['force_include'],
       description='Santiam Pinnacle as seen from the road.')      
-      
+Photo(name='Cascadia',
+      file_name='CascadiaCave2.jpg',
+      parent=book.subareas['Cascadia Cave'],
+      size='h',
+      format_options=['force_include'],
+      description='This is a cultural site. Do not climb here.')      
 
 
 Topo(name='Bitchin Corners',
