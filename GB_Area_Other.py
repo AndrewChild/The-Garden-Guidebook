@@ -24,7 +24,7 @@ Subarea(name='Highway 11 Pillar',
 Subarea(name='Cascadia Cave',
         parent=book.areas['Other Areas'],
         format_options=['suppress_page_break', 'column_break'],
-        description='This cliff is located near by the Garden and is the site of "one of the most significant cultural resources of the Indigenous peoples of the Cascade Mountains and the Willamette Valley". It contains petroglyphs which are 8,000 years old and is a spiritual location for the local Kalapuya and Molala tribes. It\'s also not that big and doesn\'t have much climbing potential, so maybe we should just leave this one be. \n\n'
+        description='Do not climb here. This cliff is located near by the Garden and is the site of "one of the most significant cultural resources of the Indigenous peoples of the Cascade Mountains and the Willamette Valley". It contains petroglyphs which are 8,000 years old and is a spiritual location for the local Kalapuya and Molala tribes. It\'s also not that big and doesn\'t have much climbing potential, so maybe we should just leave this one be. \n\n'
         'It is included in this section because there is no sinage at the cliff which would alert a visitor to its significance. In fact author of this book discovered the cliff and was fully unaware of its cultural heritage until he randomly stumbled uppon an article about it at a later date. For obvious reasons the location of this area has been omitted from this document, but it\'s not that hard to find if you wish to visit this place for reasons other than rock climbing development.',)
 Subarea(name='Canyon Creek',
         parent=book.areas['Other Areas'],

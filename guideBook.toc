@@ -36,9 +36,9 @@
 \contentsline {section}{C - Highway 11 Pillar}{80}{section*.501}%
 \contentsline {section}{D - Cascadia Cave}{80}{section*.504}%
 \contentsline {section}{E - Canyon Creek}{81}{section*.506}%
-\contentsline {section}{F - Horse Rock}{81}{section*.508}%
+\contentsline {section}{F - Horse Rock}{82}{section*.508}%
 \contentsline {section}{G - Gordon Ridge}{82}{section*.510}%
-\contentsline {section}{H - The Menagerie Wilderness}{82}{section*.512}%
+\contentsline {section}{H - The Menagerie Wilderness}{83}{section*.512}%
 \contentsline {section}{I - Santiam Pinnacle}{83}{section*.515}%
 \contentsline {section}{J - Iron Mountain}{84}{section*.517}%
 \contentsline {section}{K - The Needles}{85}{section*.527}%

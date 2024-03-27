@@ -530,7 +530,7 @@ Route(name='Octernal',
       grade=7,
       description='For many this is the local testpiece. Start sitting '
                   'with left hand on a sloping triangular rib and right hand on a slopey crimp at the arête. Crank a few hard '
-                  'moves to gain the lip then traverse left through a crimp rail to a pumpy top out. Originally known as \"Tom\'s phsychadelic trip\".')
+                  'moves to gain the lip then traverse left through a crimp rail to a pumpy top out. Originally known as \"Tom\'s bad trip\".')
 Route(name='Two Blows One Stroke',
       parent=book.formations['Meth Lab'],
       grade=6,
