@@ -4,10 +4,9 @@
 # ToDo:
 ## Things that can be done at home
 - Draw topo for cabbage patch
-- write descriptions for placeholder routes (9 left)
+- write descriptions for placeholder routes
 
 ## Things that I'm not sure if I should add
-- Consider adding a master codex of routes and their aliases
 - Essay/Flavor text inserts
   - Ethics of developing the Methlab prow
   - Who is E?
@@ -30,14 +29,19 @@
   - safe-ish with one pad
   - The best of not the best (2 star lines)
 - should the upper garden be split into upper and middle?
+- History timeline
+  - Change subjects of sentances to emphasize nouns instead of people
+  - Add Ashima's FFA of New Horizon
+  - Put in some kind of cool graphical format
 
 ## Things that need to be done in the field
 
 ### Garden Main
 Routes to add:
 - other lines on Francois
-- right arete on bitchin corners
+- other lines on bitchin corners
 - earned V2s?
+- lines on the backside of the office?
 
 Topos to redo:
 - blowie
@@ -45,15 +49,53 @@ Topos to redo:
 
 Topos to add:
 - Methlab Prow
+- Phallacy
+- big slab/pockets
+- Minnesota With Love
+- Into the Light
 
 Routes with placeholder descriptions
-- Tidepool
 - chockstone highball
-- Flesh Bridge
 - Left corner
+
+Routes with no star rating
+- Routes on the backside of the office
+- Big Slab
+- Left Corner
+- Simple Math
+- Tide pool
+- Hueco Wabo
+- Pockets
+- Geodesic Winer
+- Garden Variety
+- Chockstone Highball
+- Angel Face
+- Two Blows One Stroke
+- Into the Light
+- E's V7
+- Leave it to Jesus Sit
+- Brain Hemoorrhage
+- Trust Issues
+- Headbanger's Ball
+- Chillum Sit
+- Phallacy
+- Heisenburg
+- Into the light sit
+- All Berned Down
+- All Berned Upper
+- Leave it to Jesus Sit Left
+
+### Pink Tag
+Routes with no star rating
+- Pissings
+- Lippity Split
+- Knowledge is good
+- Farley Prep
+- Le Lemet
 
 ### Garden Cliffs
 Topos to add:
+- Lady Bug
 - cabbage patch
 
 Routes with placeholder descriptions
@@ -61,6 +103,16 @@ Routes with placeholder descriptions
 - Tabouli
 - Babaganoush
 - Kim Chi Corner
+
+Routes with no star rating
+- Don't Forget the Nooch
+- Tabouli
+- I Dropped a Man in Reno
+- Blackberry Jam
+- A Victem of the Times
+- Kim Chi Corner
+- Where do you go When the Sun Goes Down
+- Ovulation Extension
 
 ### Upper Garden
 Routes to add
@@ -71,9 +123,21 @@ Routes to add
 - Thing to the Right of June 24th
 - Thing on the main face of machete monkey
 - Pumpkin spice low
+- Jaws
+- Jaws 2
+- Everything on Deep Sea Diver
+- Everything on Prince Albert
+- line to the left of Duck Twirler
+- Other lines on Young Juicy
 
 Topos to add:
-- everything at middle garden
+
+Routes with no star rating
+- Jugs
+- Stoned Age
+- Duck Hole
+- Caliban's War
+- Bread Winner
 
 ### Quartzville Creek
 Topos to add:
@@ -83,6 +147,10 @@ Routes with placeholder descriptions
 - Moss Boss
 - Unsalted Almonds
 - Dank Commander
+
+Routes with no star rating
+- Dank Commander
+- Unsalted Almonds
 
 ### Other
 Topos to redo:

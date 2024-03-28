@@ -43,7 +43,7 @@ Formation(name='Johny Cash\'s Thunderdome',
 Route(name='Bonsai',
       parent=book.formations['Garden Cliff Right Side'],
       grade='5.12a',
-      grade_unconfirmed=True,
+      rating=2,
       description='20\', Sport, 2 bolts. Climb a techy dihedral just to the right of a low roof. This could almost be bouldered.',
       )
 Route(name='Ladybug',

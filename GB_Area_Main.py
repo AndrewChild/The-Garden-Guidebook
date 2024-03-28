@@ -587,6 +587,7 @@ Route(name='Gargoyle',
 Route(name='Slam Dunk',
       parent=book.formations['E\'s Boulder'],
       grade=7,
+      rating=2,
       description='Sit start with hands matching on a crimp rail on the lower right hand side of a small overhang. '
                   'Pull a few moves into the namesake slam dunk maneuver followed by an easy top out.')
 Route(name='E\'s',
@@ -865,6 +866,8 @@ Route(name='Geodesic Weiner',
 Route(name='François',
       parent=book.formations['François'],
       grade=3,
+      rating=2,
+      serious=2,
       grade_unconfirmed=True,
       description='This highball has a storied legacy. It seems that at one point it was a well traveled classic but '
                   'it has since faded into mossy obscurity. Two (very controversial) bolts exist on the face so you '
@@ -951,6 +954,7 @@ Variation(name='Tyler Durten Dyno',
 Variation(name='Spray Against the Undertow',
           parent=book.routes['Undertow'],
           grade=6,
+          rating=2,
           description='Sit start as for Spray Skirt, climb into Undertow. This route is also called Dark Crystal.')
 Variation(name='Undertow Sit Start',
           parent=book.routes['Undertow'],
