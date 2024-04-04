@@ -25,13 +25,12 @@
   - good routes for total beginners
   - routes that dry quickly
   - routes that dry un-quickly
+  - Top Rope-able routes
   - old school circuits
   - safe-ish with one pad
   - The best of not the best (2 star lines)
 - should the upper garden be split into upper and middle?
 - History timeline
-  - Change subjects of sentances to emphasize nouns instead of people
-  - Add Ashima's FFA of New Horizon
   - Put in some kind of cool graphical format
 
 ## Things that need to be done in the field
@@ -123,11 +122,8 @@ Routes to add
 - Thing to the Right of June 24th
 - Thing on the main face of machete monkey
 - Pumpkin spice low
-- Jaws
-- Jaws 2
 - Everything on Deep Sea Diver
 - Everything on Prince Albert
-- line to the left of Duck Twirler
 - Other lines on Young Juicy
 
 Topos to add:
@@ -135,7 +131,6 @@ Topos to add:
 Routes with no star rating
 - Jugs
 - Stoned Age
-- Duck Hole
 - Caliban's War
 - Bread Winner
 
