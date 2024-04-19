@@ -1468,7 +1468,7 @@ SubAreaMap(name='Big area map',
            routes={
                'path5664':book.climbs['Frontside Baldo'],
                'path583':book.climbs['Slabarific'],
-               'path1027':book.climbs['Pockets'],
+               'path1027':book.climbs['Big Slab Right'],
                'path5662':book.climbs['Hueco Wabo'],
                'path5660':book.climbs['All Berned Up'],
                'path410':book.climbs['Mini Hydrotube'],
