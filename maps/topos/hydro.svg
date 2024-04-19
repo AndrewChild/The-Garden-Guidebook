@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg525"
+   width="1097.1429"
+   height="1645.7144"
+   viewBox="0 0 1097.1429 1645.7144"
+   sodipodi:docname="hydro.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs529" />
+  <sodipodi:namedview
+     id="namedview527"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.53046873"
+     inkscape:cx="333.66717"
+     inkscape:cy="823.79974"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g531" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g531">
+    <image
+       width="1097.1429"
+       height="1645.7144"
+       preserveAspectRatio="none"
+       xlink:href="hydro.JPG"
+       id="image533" />
+    <rect
+       style="fill:none;stroke:#ff0000"
+       id="rect652"
+       width="1080.1768"
+       height="1317.7025"
+       x="3.7702506"
+       y="99.911636" />
+    <path
+       style="fill:none;stroke:#ff0000"
+       d="m 414.72756,984.03539 c 1.88512,-312.9308 109.33726,-414.72756 143.26952,-546.68633 33.93225,-131.95877 3.77025,-252.60678 3.77025,-252.60678"
+       id="path654" />
+    <circle
+       style="fill:none;stroke:#ff0000"
+       id="path656"
+       cx="470.33875"
+       cy="655.08105"
+       r="16.023565" />
+  </g>
+</svg>

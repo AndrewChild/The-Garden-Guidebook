@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg525" width="1080.1768" height="1317.7025" viewBox="3.7702506 99.911636 1080.1768 1317.7025" ns1:docname="hydro.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs529" />
+  <ns1:namedview id="namedview527" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.53046873" ns2:cx="333.66717" ns2:cy="823.79974" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g531" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g531">
+    <ns0:image width="1097.1429" height="1645.7144" preserveAspectRatio="none" ns3:href="hydro.JPG" id="image533" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:8.12;stroke-dasharray:none" d="m 414.72756,984.03539 c 1.88512,-312.9308 109.33726,-414.72756 143.26952,-546.68633 33.93225,-131.95877 3.77025,-252.60678 3.77025,-252.60678" id="path654" />
+    <ns0:path id="path654_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.12;stroke-dasharray:34.8, 34.8" d="m 414.72756,984.03539 c 1.88512,-312.9308 109.33726,-414.72756 143.26952,-546.68633 33.93225,-131.95877 3.77025,-252.60678 3.77025,-252.60678" />
+    <ns0:circle id="path656" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.4799999999999995;stroke-dasharray:none;stroke-opacity:1" cx="470.33875" cy="655.08105" r="36.3312" />
+    <ns0:text id="path656_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.16;stroke-dasharray:none;stroke-opacity:1" x="458.43715000000003" y="671.78505">
+      <ns0:text id="path656_text" x="458.43715000000003" y="671.78505" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.76px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

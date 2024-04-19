@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1645.7144"
+   height="1097.1429"
+   viewBox="0 0 1645.7144 1097.1429"
+   sodipodi:docname="MGB.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.74618052"
+     inkscape:cx="670.07913"
+     inkscape:cy="548.12473"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="1645.7144"
+       height="1097.1429"
+       preserveAspectRatio="none"
+       xlink:href="MGB.JPG"
+       id="image10" />
+    <path
+       style="fill:none;stroke:#ff0000"
+       d="M 774.61148,737.08705 C 838.93908,514.62078 651.31692,392.66637 629.87439,298.85529 608.43185,205.04422 623.1736,198.34342 623.1736,198.34342"
+       id="path293" />
+    <ellipse
+       style="fill:none;stroke:#ff0000"
+       id="path347"
+       cx="721.67523"
+       cy="450.29318"
+       rx="11.391345"
+       ry="16.0819" />
+    <rect
+       style="fill:none;stroke:#ff0000"
+       id="rect401"
+       width="916.66827"
+       height="852.34064"
+       x="292.15451"
+       y="131.33551" />
+  </g>
+</svg>

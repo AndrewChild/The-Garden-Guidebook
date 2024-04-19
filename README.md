@@ -116,7 +116,6 @@ Routes with no star rating
 ### Upper Garden
 Routes to add
 - everything in middle garden
-- Thing below kick it
 - Left start to kick it?
 - brick house?
 - Thing to the Right of June 24th
