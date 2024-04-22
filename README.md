@@ -49,7 +49,6 @@ Topos to redo:
 Topos to add:
 - Methlab Prow
 - Phallacy
-- big slab/pockets
 - Minnesota With Love
 - Into the Light
 
@@ -59,12 +58,10 @@ Routes with placeholder descriptions
 
 Routes with no star rating
 - Routes on the backside of the office
-- Big Slab
 - Left Corner
 - Simple Math
 - Tide pool
 - Hueco Wabo
-- Pockets
 - Geodesic Winer
 - Garden Variety
 - Chockstone Highball
