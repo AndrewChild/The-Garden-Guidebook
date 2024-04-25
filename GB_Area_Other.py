@@ -25,7 +25,7 @@ Subarea(name='Cascadia Cave',
         parent=book.areas['Other Areas'],
         format_options=['suppress_page_break', 'column_break'],
         description='Do not climb here. This cliff is located near by the Garden and is the site of "one of the most significant cultural resources of the Indigenous peoples of the Cascade Mountains and the Willamette Valley". It contains petroglyphs which are 8,000 years old and is a spiritual location for the local Kalapuya and Molala tribes. It\'s also not that big and doesn\'t have much climbing potential, so maybe we should just leave this one be. \n\n'
-        'It is included in this section because there is no sinage at the cliff which would alert a visitor to its significance. In fact author of this book discovered the cliff and was fully unaware of its cultural heritage until he randomly stumbled uppon an article about it at a later date. For obvious reasons the location of this area has been omitted from this document, but it\'s not that hard to find if you wish to visit this place for reasons other than rock climbing development.',)
+        'It is included in this section because there is no sinage at the cliff which would alert a visitor to its significance. For obvious reasons the location of this area has been omitted from this document, but it\'s not that hard to find if you wish to visit this place for reasons other than rock climbing development.',)
 Subarea(name='Canyon Creek',
         parent=book.areas['Other Areas'],
         format_options=['suppress_page_break', 'column_break'],
@@ -53,7 +53,7 @@ Subarea(name='Santiam Pinnacle',
         description='The Santiam Pinnacle is a rock tower hidden in the tree\'s just off of Highway 20. It hosts a worthwile 5.6 multipitch as well as a few other more obscure offerings. Rumor has it that this area has seen recent develompent.\n\nLocated on Highway 20 27 miles from Quartzville Road. Park in a small pullout on the south side of the road and look for a trail heading into the trees on the north side of the road.',)
 Subarea(name='Iron Mountain',
         parent=book.areas['Other Areas'],
-        description='Iron mountain is a well known hiking trail at the summit of tombstone pass. Although it\'s iconic spire has been climbed it does not see regular traffic for the obvious reason that it is a dangerous choss pile. The greater area has also been identified as having a limited amount of bouldering potential. To date only a handfull of boulders are known to have been devloped.',)
+        description='Iron mountain is a well known hiking trail at the summit of tombstone pass. Although it\'s iconic spire has been climbed it does not see regular traffic for the obvious reason that it is a dangerous choss pile. The greater area has also been identified as having bouldering potential. To date only a handfull of boulders are known to have been devloped.',)
 Subarea(name='The Needles',
         parent=book.areas['Other Areas'],
         gps='44.59672447306725, -122.15597149494864',
