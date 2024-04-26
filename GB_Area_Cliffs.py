@@ -4,17 +4,17 @@ from GB_Book import book
 Area(name='Garden Cliffs',
      parent=book,
      gps='44.43998124232581, -122.57539325959186',
-     description='Located about 3.7 miles down Quatzville Road from Highway 20, park in a small pull out on the river side of the road or park as for the Garden Main and walk a few hundred yards down the road. The approach trail is located directly across from the parking pull out and can be identified by a stone stairway climbing out of the roadside ditch. Follow the meandering trail a few hundered yards to the Garden Cliff.\n\nThe Garden Cliffs are the premier sport climbing destination of the Sweethome area. Although the extensive cliff face is visible from the road most of the routes at the cliffs were developed much later than the boulders.\n\nTake note that the top of the cliff is not easily accesible and none of the routes in this area can be top roped without leading. The majority of the routes in this area feature high first bolts which were placed with stick clipping in mind. Don\'t fret if you forgot your stick clip at home, a community stick lives at the cliffs and can ususally be found near the entrance to the Garden Cliff.', )
+     description='Located about 3.7 miles down Quartzville Road from Highway 20, park in a small pull out on the river side of the road or park as for the Garden Main and walk a few hundred yards down the road. The approach trail is located directly across from the parking pull out and can be identified by a stone stairway climbing out of the roadside ditch. Follow the meandering trail a few hundred yards to the Garden Cliff.\n\nThe Garden Cliffs are the premier sport climbing destination of the Sweet Home area. Although the extensive cliff face is visible from the road most of the routes at the cliffs were developed much later than the boulders.\n\nTake note that the top of the cliff is not easily accessible and none of the routes in this area can be top roped without leading. The majority of the routes in this area feature high first bolts which were placed with stick clipping in mind. Don\'t fret if you forgot your stick clip at home, a community stick lives at the cliffs and can usually be found near the entrance to the Garden Cliff.', )
      
      
 Subarea(name='The Garden Cliff',
         parent=book.areas['Garden Cliffs'],
-        description='The largest of the area\'s cliffs is also conveniently the closest to the road. This cliff features varied climbing at grades rangeing from 5.9 to 5.13- in a variety of stlyes. Many sections of the wall are shaded by large maple trees, which provide some relief in the hotter months. See area description for appoach')
+        description='The largest of the area\'s cliffs is also conveniently the closest to the road. This cliff features varied climbing at grades ranging from 5.9 to 5.13- in a variety of styles. Many sections of the wall are shaded by large maple trees, which provide some relief in the hotter months. See area description for approach')
 Subarea(name='Fairy Tale Wall',
         parent=book.areas['Garden Cliffs'],
         description='Following the main trail past the Garden Cliff brings you to a second, much smaller cliff.' )
 Subarea(name='Cabbage Patch/ Thunderdome',
-        description='Even futher down the main trail is a third cliff which hosts a good selection of more moderate climbs.',
+        description='Even further down the main trail is a third cliff which hosts a good selection of more moderate climbs.',
         note = 'This area is incomplete. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
         parent=book.areas['Garden Cliffs'], )
         
@@ -85,14 +85,14 @@ Route(name='Scorpion Hitchhikers Toilet Bowl Odyssey',
       grade='5.11b',
       rating=3,
       FA='Jayson Nissen',
-      description='50\', Sport, 5 bolts. Starting just left of Snug pull a few jugy moves to gain a left leaning crescent and follow it to an exhillerating dynamic move after the third bolt. After a jug rest continue through another 15\' of pumpy climbing until you gain a no hands rest on a ledge at the top of the wall. Why the anchor is not accessible from this ledge is a mystery a bonus few techy moves leads to a tenuous stance at the anchor.',
+      description='50\', Sport, 5 bolts. Starting just left of Snug pull a few jugy moves to gain a left leaning crescent and follow it to an exhilarating dynamic move after the third bolt. After a jug rest continue through another 15\' of pumpy climbing until you gain a no hands rest on a ledge at the top of the wall. Why the anchor is not accessible from this ledge is a mystery a bonus few techy moves leads to a tenuous stance at the anchor.',
       )
 Route(name='Daring to Fly',
       parent=book.formations['Garden Cliff Right Side'],
       grade='5.11d',
       rating=3,
       FA='Micah Klesik',
-      description='55\', Sport, 7 bolts. Start on the left side of a small cave and climb the aesthtic pillar.',
+      description='55\', Sport, 7 bolts. Start on the left side of a small cave and climb the aesthetic pillar.',
       )
 Route(name='Community',
       parent=book.formations['Garden Cliff Right Side'],
@@ -119,20 +119,20 @@ Route(name='Fight Club (Round Two)',
       grade='5.12b',
       rating=3,
       FA='Micah Klesik',
-      description='50\', Sport, 7 bolts. Not to be confused with Fight Club (the boulder problem) or Fight Club 2 (the boulder problem), Fight Club Round Two is one of the primeir sport climbing test pieces at the cliffs. Starts on a right facing corner before traversing under the roof until you can grapple your way up to the techy headwall. The crux section of the route is equipped with perma draws, get on it!'
+      description='50\', Sport, 7 bolts. Not to be confused with Fight Club (the boulder problem) or Fight Club 2 (the boulder problem), Fight Club Round Two is one of the premier sport climbing test pieces at the cliffs. Starts on a right facing corner before traversing under the roof until you can grapple your way up to the techy head wall. The crux section of the route is equipped with perma-draws, get on it!'
       )
 Route(name='Cutting Crack',
       parent=book.formations['Garden Cliff Right Side'],
       grade='5.9',
       rating=1,
       FA='Micah Klesik',
-      description='20\', Trad, gear to 2\". Follow a short hand crack until you can clip one of the perma draws for Fight Club. Lower here or continue up.'
+      description='20\', Trad, gear to 2\". Follow a short hand crack until you can clip one of the perma-draws for Fight Club. Lower here or continue up.'
       )
 Route(name='Butterfly Effect',
       parent=book.formations['Garden Cliff Right Side'],
       grade='5.13a/b',
       FA='Evan Powers',
-      description='40\', Sport, 6 bolts. Climbs more or less straight up through a low bolcky ledge followed by thin crimps and a bouldery roof pull. Reportedly climbs like low 5.12 endurance into V7/8 with no rest. The middle of the route is equiped with permas.'
+      description='40\', Sport, 6 bolts. Climbs more or less straight up through a low bolcky ledge followed by thin crimps and a bouldery roof pull. Reportedly climbs like low 5.12 endurance into V7/8 with no rest. The middle of the route is equipped with permas.'
       )
 Route(name='Slithering Skink',
       parent=book.formations['Garden Cliff Right Side'],
@@ -177,7 +177,7 @@ Route(name='Heirloom',
       grade='5.13c',
       rating=2,
       FA='Evan Powers',
-      description='70\', Sport, ? bolts. Climbs an aesthic black arête.'
+      description='70\', Sport, ? bolts. Climbs an aesthetic black arête.'
       )
 Route(name='Chimeras',
       parent=book.formations['Garden Cliff Middle'],
@@ -190,28 +190,28 @@ Route(name='Castle Black',
       grade='5.11a',
       rating=1,
       FA='Kevin Paurelli',
-      description='50\', Sport, ? bolts. Originally this was a somewhat bold trad climb, it has since been bolted. Climb the lower cliff band to a right facing corner with a big ledge half way up. This route is baisically a waterfall in the winter and typically doesn\'t dry out until mid summer.'
+      description='50\', Sport, ? bolts. Originally this was a somewhat bold trad climb, it has since been bolted. Climb the lower cliff band to a right facing corner with a big ledge half way up. This route is basically a waterfall in the winter and typically doesn\'t dry out until mid summer.'
       )
 Route(name='Littlest Birds',
       parent=book.formations['Garden Cliff Middle'],
       grade='5.11b',
       rating=2,
       FA='Jayson Nissen',
-      description='70\', Sport, 9 bolts. Start on Castle Black and cut right after the midway ledge. A techy sequence leads to sustained clibing up a well featured pillar.'
+      description='70\', Sport, 9 bolts. Start on Castle Black and cut right after the midway ledge. A techy sequence leads to sustained climbing up a well featured pillar.'
       )
 Route(name='Seraphim Nachash',
       parent=book.formations['Garden Cliff Middle'],
       grade='5.11b/c',
       rating=3,
       FA='Jayson Nissen',
-      description='70\', Sport, 10 bolts. Easy moves lead to a no hands rest on a ledge at the top of the lower cliffband. From here pull a crux seqence climbing into a corner followed by a long section of power endurance on good holds.'
+      description='70\', Sport, 10 bolts. Easy moves lead to a no hands rest on a ledge at the top of the lower cliff band. From here pull a crux sequence climbing into a corner followed by a long section of power endurance on good holds.'
       )
 Route(name='My Empire of Dirt',
       parent=book.formations['Garden Cliff Middle'],
       grade='5.12b',
       rating=3,
       FA='Jayson Nissen',
-      description='70\', Sport, 11 bolts. Climb Seraphim Nachash through its crux then cut left through a physical section of sidepulls and underclings. Continue up a sustained overhaing wall with big pulls between generally decent holds. This is a real power endurance testpiece.'
+      description='70\', Sport, 11 bolts. Climb Seraphim Nachash through its crux then cut left through a physical section of side pulls and under clings. Continue up a sustained overhanging wall with big pulls between generally decent holds. This is a real power endurance test piece.'
       )
 Route(name='Honeycomb Project',
       parent=book.formations['Garden Cliff Middle'],
@@ -251,7 +251,7 @@ Route(name='My Secret Garden',
       grade='5.11a',
       rating=3,
       FA='Jayson Nissen',
-      description='45\', Sport, 6 bolts. Start on a big sloping rail and pull a few moves to reach good edges and manuver your way under a hanging block. Crank some big moves to get up and around the block onto easier terrain.',
+      description='45\', Sport, 6 bolts. Start on a big sloping rail and pull a few moves to reach good edges and maneuver your way under a hanging block. Crank some big moves to get up and around the block onto easier terrain.',
       )
 Route(name='Nest',
       parent=book.formations['Garden Cliff Left Side'],
@@ -331,7 +331,7 @@ Route(name='Where Do You Go When the Sun Goes Down',
       grade='5.11a',
       FA='Jayson Nissen',
       grade_unconfirmed=True,
-      description='45\', Sport, 8 bolts. Follow a shallow right facing corner to a ledge, then trend left and up over a large detatched flake.'
+      description='45\', Sport, 8 bolts. Follow a shallow right facing corner to a ledge, then trend left and up over a large detached flake.'
       )
 Route(name='I Dropped a Man in Reno',
       parent=book.formations['Johny Cash\'s Thunderdome'],
@@ -359,14 +359,14 @@ Route(name='A Million Dollars of Good',
       grade='5.8',
       rating=2,
       FA='Jayson Nissen',
-      description='35\', Sport, 7/6 bolts. Climb the left corner of the large flake before pulling onto a technical slab. Alternatively you can start as for I Will Let You Down and clip a connnector bolt as you walk across the top of the flake skipping the first two bolts. This route would get full stars if the rock quality were better.'
+      description='35\', Sport, 7/6 bolts. Climb the left corner of the large flake before pulling onto a technical slab. Alternatively you can start as for I Will Let You Down and clip a connector bolt as you walk across the top of the flake skipping the first two bolts. This route would get full stars if the rock quality were better.'
       )
 Route(name='Stop Once to Wipe the Sweat Away',
       parent=book.formations['Johny Cash\'s Thunderdome'],
       grade='5.10a',
       rating=1,
       FA='Jayson Nissen',
-      description='30\', Sport, 5 bolts. Start to the left of the large flake. A short sequence of difficult vertical climbing guards an enjoyable slab. This route is currently severly overgrown.'
+      description='30\', Sport, 5 bolts. Start to the left of the large flake. A short sequence of difficult vertical climbing guards an enjoyable slab. This route is currently severely overgrown.'
       )
       
       
@@ -375,7 +375,7 @@ Variation(name='John to Snug Linkup',
           grade='5.10c/d',
           rating=2,
           FA='Jayson Nissen',
-          description='50\', Sport, 5 bolts. Start on John Henry\'s Hammer and trend diagonal left throught the broken section of rock linking into Snug as a Snail. Links the easiest sections of every route to the top of the wall.'
+          description='50\', Sport, 5 bolts. Start on John Henry\'s Hammer and trend diagonal left through the broken section of rock linking into Snug as a Snail. Links the easiest sections of every route to the top of the wall.'
           )
 Variation(name='Lazarus',
           parent=book.routes['Stasis Chamber'],
@@ -387,7 +387,7 @@ Variation(name='Lazarus',
 Variation(name='Heirloom Left Project',
           parent=book.routes['Heirloom'],
           grade='5.?',
-          description='The original line of the Heirloom project stays left when the Heirloom boltline veers right at the top.'
+          description='The original line of the Heirloom project stays left when the Heirloom bolt line veers right at the top.'
           )
 Variation(name='Ovulation Send-sation Extension',
           parent=book.routes['Ovulation Send-sation'],

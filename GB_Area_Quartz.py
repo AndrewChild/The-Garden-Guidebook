@@ -12,7 +12,7 @@ Area(name='Quartzville Creek',
 Subarea(name='Redneck Riviera',
         parent=book.areas['Quartzville Creek'],
         gps='44.570410945356336, -122.4060701729652',
-        description='Redneck rivierra is located on Quartzville road apporximately 20.6 miles from highway 20 park in '
+        description='Redneck riviera is located on Quartzville road approximately 20.6 miles from highway 20 park in '
                     'the gravel pull out on the creek side of the road. This '
                     'is a nice spot with good swimming access and a few established routes on both sides of the river. '
                     'The locals like to use this spot to pan for gold. Often they are friendly and willing '
@@ -59,7 +59,7 @@ Route(name='Monorail',
       description='Start on the far right and traverse left along the lip. Topping in a shallow divot on the center left of the boulder.') 
 Route(name='Megarail Project',
       parent=book.formations['Monorail'],
-      description='Sit start and climb the steep roof using right facing rib. Top as for Monorail or travers out left.') 
+      description='Sit start and climb the steep roof using right facing rib. Top as for Monorail or traverse out left.') 
 Route(name='Ugly Face',
       parent=book.formations['Yo Mamma Boulder'],
       grade=0, 
@@ -71,7 +71,7 @@ Route(name='Binding of Isaac',
       grade=2, 
       serious=1,
       rating=2,
-      description='Stand start with a left hand sidepull about 5\' left of Ugly face.')
+      description='Stand start with a left hand side pull about 5\' left of Ugly face.')
 Route(name='Moss Boss',
       parent=book.formations['Moss Boss'],
       grade=3, 
@@ -99,14 +99,14 @@ Route(name='Unsalted Almonds',
       grade=8,
       FA='Griffin Thoms',
       grade_unconfirmed=True,
-      description='Sit start stradling the right arête with left hand on a diagonal edge and right hand on a sloper. Climb up and left across the well featured face.')
+      description='Sit start straddling the right arête with left hand on a diagonal edge and right hand on a sloper. Climb up and left across the well featured face.')
 Route(name='Dank Commander',
       parent=book.formations['The Dab Rig'],
       grade=4,
       FA='Griffin Thoms',
       grade_unconfirmed=True,
       description='Start as for Unsalted Almonds, but go straight up.')
-Variation(name='Monorail Extention Project',
+Variation(name='Monorail Extension Project',
           parent=book.routes['Monorail'],
           description='Climb Monorail and ride the lip the whole way across the boulder.') 
       

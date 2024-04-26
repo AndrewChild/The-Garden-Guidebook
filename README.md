@@ -8,14 +8,14 @@
 
 ## Things that I'm not sure if I should add
 - Essay/Flavor text inserts
-  - Ethics of developing the Methlab prow
+  - Ethics of developing the Meth Lab prow
   - Who is E?
   - Other berned
   - KISS
   - Whats under the moss/New FAs
   - Tombstone pillar
   - Lowest viable start vs LRS
-  - Route name explainations:
+  - Route name explanations:
     - Burning Bus
 	- Harbor Freight
 	- Worf
@@ -62,15 +62,15 @@ Routes with no star rating
 - Simple Math
 - Tide pool
 - Hueco Wabo
-- Geodesic Winer
+- Geodesic Wiener
 - Garden Variety
-- Chockstone Highball
+- Chock Stone Highball
 - Angel Face
 - Two Blows One Stroke
 - Into the Light
 - E's V7
 - Leave it to Jesus Sit
-- Brain Hemoorrhage
+- Brain Hemorrhage
 - Trust Issues
 - Headbanger's Ball
 - Chillum Sit
@@ -105,7 +105,7 @@ Routes with no star rating
 - Tabouli
 - I Dropped a Man in Reno
 - Blackberry Jam
-- A Victem of the Times
+- A Victim of the Times
 - Kim Chi Corner
 - Where do you go When the Sun Goes Down
 - Ovulation Extension
