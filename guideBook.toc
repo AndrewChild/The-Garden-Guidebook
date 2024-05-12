@@ -27,23 +27,23 @@
 \contentsline {section}{B - The Bread Loaves/Scratch and Spliff}{66}{section*.409}%
 \contentsline {section}{C - Dr. Strangelove}{70}{section*.433}%
 \contentsline {section}{D - Machete Monkey}{72}{section*.449}%
-\contentsline {section}{E - Middle Garden}{75}{section*.475}%
-\contentsline {chapter}{\numberline {5}Quartzville Creek}{77}{chapter.5}%
-\contentsline {section}{A - Redneck Riviera}{78}{section*.491}%
-\contentsline {section}{B - Old Miner's Camp}{81}{section*.511}%
-\contentsline {chapter}{\numberline {6}Other Areas}{82}{chapter.6}%
-\contentsline {section}{A - The Upper Garden Cliffs}{82}{section*.517}%
-\contentsline {section}{B - Highway 11 Wall}{82}{section*.519}%
-\contentsline {section}{C - Highway 11 Pillar}{83}{section*.521}%
-\contentsline {section}{D - Cascadia Cave}{83}{section*.524}%
-\contentsline {section}{E - Canyon Creek}{84}{section*.526}%
-\contentsline {section}{F - Horse Rock}{84}{section*.528}%
-\contentsline {section}{G - Gordon Ridge}{85}{section*.530}%
-\contentsline {section}{H - The Menagerie Wilderness}{85}{section*.532}%
-\contentsline {section}{I - Santiam Pinnacle}{86}{section*.535}%
-\contentsline {section}{J - Iron Mountain}{87}{section*.537}%
-\contentsline {section}{K - The Needles}{88}{section*.547}%
-\contentsline {chapter}{Index}{89}{section*.548}%
-\contentsline {section}{Routes Alphabetical}{89}{section*.550}%
-\contentsline {section}{Routes by grade}{92}{section*.551}%
-\contentsline {section}{Known First Ascents}{96}{section*.552}%
+\contentsline {section}{E - Middle Garden}{76}{section*.479}%
+\contentsline {chapter}{\numberline {5}Quartzville Creek}{78}{chapter.5}%
+\contentsline {section}{A - Redneck Riviera}{79}{section*.495}%
+\contentsline {section}{B - Old Miner's Camp}{82}{section*.515}%
+\contentsline {chapter}{\numberline {6}Other Areas}{83}{chapter.6}%
+\contentsline {section}{A - The Upper Garden Cliffs}{83}{section*.521}%
+\contentsline {section}{B - Highway 11 Wall}{83}{section*.523}%
+\contentsline {section}{C - Highway 11 Pillar}{84}{section*.525}%
+\contentsline {section}{D - Cascadia Cave}{84}{section*.528}%
+\contentsline {section}{E - Canyon Creek}{85}{section*.530}%
+\contentsline {section}{F - Horse Rock}{85}{section*.532}%
+\contentsline {section}{G - Gordon Ridge}{86}{section*.534}%
+\contentsline {section}{H - The Menagerie Wilderness}{86}{section*.536}%
+\contentsline {section}{I - Santiam Pinnacle}{87}{section*.539}%
+\contentsline {section}{J - Iron Mountain}{88}{section*.541}%
+\contentsline {section}{K - The Needles}{89}{section*.551}%
+\contentsline {chapter}{Index}{90}{section*.552}%
+\contentsline {section}{Routes Alphabetical}{90}{section*.554}%
+\contentsline {section}{Routes by grade}{93}{section*.555}%
+\contentsline {section}{Known First Ascents}{97}{section*.556}%

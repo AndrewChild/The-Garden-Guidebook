@@ -1,19 +1,25 @@
 <ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg661" width="1078.3606" height="1303.7477" viewBox="9.7149601 293.39182 1078.3606 1303.7477" ns1:docname="machete.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
   <ns0:defs id="defs665" />
-  <ns1:namedview id="namedview663" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.51467012" ns2:cx="539.18032" ns2:cy="526.55087" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g667" />
+  <ns1:namedview id="namedview663" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.51467012" ns2:cx="307.96425" ns2:cy="992.86899" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g667" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g667">
     <ns0:image width="1097.1429" height="1645.7144" preserveAspectRatio="none" ns3:href="machete.JPG" id="image669" />
     <ns0:path style="fill:none;stroke:#008000;stroke-width:8.12;stroke-dasharray:none" d="M 262.30394,1068.6457 C 759.70993,835.48663 821.88568,559.58174 817.9997,472.14709" id="path788" />
     <ns0:path style="fill:none;stroke:#4169e1;stroke-width:8.12;stroke-dasharray:none" d="m 205.95717,1408.6693 c -3.88599,-159.3253 -95.20662,-272.0189 56.34677,-340.0236" id="path790" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:8.12;stroke-dasharray:none" d="M 244.81701,1074.4747 C 398.31339,990.92599 283.67685,864.6315 240.93103,781.08284 198.1852,697.53418 409.97134,400.25638 409.97134,400.25638" id="path586" />
     <ns0:path id="path788_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.12;stroke-dasharray:34.8, 34.8" d="M 262.30394,1068.6457 C 759.70993,835.48663 821.88568,559.58174 817.9997,472.14709" />
     <ns0:path id="path790_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.12;stroke-dasharray:34.8, 34.8" d="m 205.95717,1408.6693 c -3.88599,-159.3253 -95.20662,-272.0189 56.34677,-340.0236" />
+    <ns0:path id="path586_clone" style="fill:none;stroke:#FFFFFF;stroke-width:8.12;stroke-dasharray:34.8, 34.8" d="M 244.81701,1074.4747 C 398.31339,990.92599 283.67685,864.6315 240.93103,781.08284 198.1852,697.53418 409.97134,400.25638 409.97134,400.25638" />
     <ns0:circle id="path792" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.4799999999999995;stroke-dasharray:none;stroke-opacity:1" cx="639.24445" cy="817.0282" r="36.3312" />
     <ns0:text id="path792_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.16;stroke-dasharray:none;stroke-opacity:1" x="627.34285" y="833.7321999999999">
-      <ns0:text id="path792_text" x="627.34285" y="833.7321999999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.76px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
+      <ns0:text id="path792_text" x="627.34285" y="833.7321999999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.76px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2</ns0:text>
     </ns0:text>
     <ns0:circle id="path794" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.4799999999999995;stroke-dasharray:none;stroke-opacity:1" cx="183.61276" cy="1259.059" r="36.3312" />
     <ns0:text id="path794_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.16;stroke-dasharray:none;stroke-opacity:1" x="159.80956" y="1275.763">
-      <ns0:text id="path794_text" x="159.80956" y="1275.763" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.76px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3a</ns0:text>
+      <ns0:text id="path794_text" x="159.80956" y="1275.763" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.76px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2a</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path588" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.4799999999999995;stroke-dasharray:none;stroke-opacity:1" cx="248.70299" cy="794.68378" r="36.3312" />
+    <ns0:text id="path588_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.16;stroke-dasharray:none;stroke-opacity:1" x="224.89979" y="811.3877799999999">
+      <ns0:text id="path588_text" x="224.89979" y="811.3877799999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.76px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2b</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>
