@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="703"
+   height="934"
+   viewBox="0 0 703 934"
+   sodipodi:docname="princeAlbert.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.6437012"
+     inkscape:cx="422.70285"
+     inkscape:cy="528.04758"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="703"
+       height="934"
+       preserveAspectRatio="none"
+       xlink:href="princeAlbert.jpg"
+       id="image10" />
+    <path
+       style="fill:none;stroke:#ff0000"
+       d="m 303.84422,521.02864 c 52.95876,-2.67469 68.53105,-34.811 64.19244,-94.68385 -2.67469,-36.91066 -35.29297,-102.45733 -10.16381,-144.43299 19.38267,-32.37675 11.76862,-89.33448 11.76862,-89.33448"
+       id="path293"
+       sodipodi:nodetypes="cssc" />
+    <path
+       style="fill:none;stroke:#ff0000"
+       d="m 442.64136,518.9584 c -44.93471,7.48912 -75.67458,-47.14397 -74.06977,-63.19208"
+       id="path391"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000"
+       id="path445"
+       cx="355.73309"
+       cy="369.90894"
+       rx="4.2794962"
+       ry="5.6168385" />
+    <path
+       style="fill:none;stroke:#ff0000"
+       d="M 272.81787,594.84994 C 284.58648,528.51776 273.88774,385.15464 239.11684,342.35968 211.34515,308.17914 271.748,196.32188 271.748,196.32188"
+       id="path447"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000"
+       id="path449"
+       cx="256.76974"
+       cy="377.39804"
+       rx="4.8144331"
+       ry="4.5469646" />
+    <rect
+       style="fill:none;stroke:#ff0000"
+       id="rect1003"
+       width="686.85913"
+       height="748.9118"
+       x="12.838488"
+       y="149.78236" />
+  </g>
+</svg>

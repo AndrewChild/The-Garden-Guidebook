@@ -1022,6 +1022,11 @@ Variation(name='Harbor Freight',
           description='Sit down start with hands matched on a blocky under cling, climb into Smackdown. This variation was literally '
                       'unearthed when a local climber yarded a large rock out from the landing of Smackdown using a '
                       'chain and come along. The device broke in the process inspiring the name of the route.')
+Variation(name='Home Depot',
+          parent=book.routes['Smackdown'],
+          item_id='Harbor Freight Right Exit',
+          grade=8,
+          description='Climb Harbor Freight but head right at the top through a slot crimp to finish near the top out for Octernal. Optionally, continue traversing by down climbing the Sweet Home Traverse and finish as for Octernal Direct.')
 Variation(name='Enchilada Left Project',
           parent=book.routes['Enchilada'],
           grade='?',
