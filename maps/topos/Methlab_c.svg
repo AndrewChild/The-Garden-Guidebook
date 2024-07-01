@@ -4,7 +4,7 @@
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g753">
     <ns0:image width="1925.12" height="1285.12" preserveAspectRatio="none" ns3:href="Methlab.jpg" id="image755" />
     <ns0:path style="fill:none;stroke:#000000;stroke-width:3.4299999999999997;stroke-dasharray:none" d="m 1806.7705,717.19562 c 3.375,-14.62517 -53.4381,-55.68813 -31.5004,-84.93846" id="path1039" />
-    <ns0:path style="fill:none;stroke:#4169e1;stroke-width:3.4299999999999997;stroke-dasharray:none" d="M 604.69434,927.01049 C 631.69465,880.88497 632.81966,830.8219 552.94376,793.69648 473.06785,756.57106 434.25491,736.88334 440.44248,699.19541" id="path1856" ns1:nodetypes="csc" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:3.4299999999999997;stroke-dasharray:none" d="M 604.69434,927.01049 C 631.69465,880.88497 632.81966,830.8219 552.94376,793.69648 473.06785,756.57106 434.25491,736.88334 440.44248,699.19541" id="path1856" ns1:nodetypes="csc" />
     <ns0:path style="fill:none;stroke:#b8860b;stroke-width:3.4299999999999997;stroke-dasharray:none" d="M 636.55442,1034.0542 C 607.86659,987.36618 578.05376,972.17848 605.05406,926.05292" id="path1856-2" ns1:nodetypes="cc" />
     <ns0:path style="fill:none;stroke:#b8860b;stroke-width:3.4299999999999997;stroke-dasharray:none" d="M 971.44849,907.32277 C 921.94793,838.69699 882.57248,818.44677 905.63524,775.69628 928.698,732.9458 1058.0745,687.94529 1029.9492,618.19449" id="path1858" ns1:nodetypes="csc" />
     <ns0:path style="fill:none;stroke:#b8860b;stroke-width:3.4299999999999997;stroke-dasharray:none" d="m 1206.0137,595.13174 c 39.3754,188.43963 -172.127,199.68975 -189.5647,311.62852" id="path1860" ns1:nodetypes="cc" />
@@ -25,7 +25,7 @@
     <ns0:path id="path1868_clone" style="fill:none;stroke:#FFFFFF;stroke-width:3.4299999999999997;stroke-dasharray:14.7, 14.7" d="m 1569.3928,736.32083 c -48.9381,-16.31268 -97.3136,-104.06368 -93.3761,-135.56403 3.9375,-31.50036 24.7503,-61.8757 6.7501,-102.37616" />
     <ns0:path id="path1872_clone" style="fill:none;stroke:#FFFFFF;stroke-width:3.4299999999999997;stroke-dasharray:14.7, 14.7" d="m 1775.8326,632.81966 c 72.0008,-74.25084 107.4387,-141.7516 108.5637,-195.75221 1.125,-54.00062 -30.9378,-101.25115 -34.8754,-177.18951 -3.9375,-75.93836 7.8751,-143.43912 15.7502,-153.00173" />
     <ns0:path id="path919_clone" style="fill:none;stroke:#FFFFFF;stroke-width:3.4299999999999997;stroke-dasharray:14.7, 14.7" d="m 618.75698,892.13507 c 7.90427,-53.35386 77.38415,-32.7188 153.95745,-50.24042 54.21051,-12.40453 116.46548,-65.25712 143.0459,-82.51108" />
-    <ns0:circle id="path1874" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:1.47;stroke-dasharray:none;stroke-opacity:1" cx="580.32025" cy="807.43671" r="15.3468" />
+    <ns0:circle id="path1874" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:1.47;stroke-dasharray:none;stroke-opacity:1" cx="580.32025" cy="807.43671" r="15.3468" />
     <ns0:text id="path1874_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.49;stroke-dasharray:none;stroke-opacity:1" x="575.29285" y="814.49271">
       <ns0:text id="path1874_text" x="575.29285" y="814.49271" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.64px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">5</ns0:text>
     </ns0:text>

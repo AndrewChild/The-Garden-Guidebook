@@ -14,36 +14,36 @@
 \contentsline {section}{C - Undertow}{23}{section*.99}%
 \contentsline {section}{D - Meth Lab}{27}{section*.134}%
 \contentsline {section}{E - Big}{34}{section*.192}%
-\contentsline {section}{F - Azain}{38}{section*.226}%
-\contentsline {section}{G - Child of God}{42}{section*.256}%
-\contentsline {section}{H - François}{47}{section*.289}%
+\contentsline {section}{F - Azain}{38}{section*.227}%
+\contentsline {section}{G - Child of God}{42}{section*.257}%
+\contentsline {section}{H - François}{47}{section*.290}%
 \contentsline {chapter}{\numberline {2}Pink Tag Boulders}{49}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Garden Cliffs}{52}{chapter.3}%
-\contentsline {section}{A - The Garden Cliff}{53}{section*.326}%
-\contentsline {section}{B - Fairy Tale Wall}{60}{section*.375}%
-\contentsline {section}{C - Cabbage Patch/ Thunderdome}{61}{section*.382}%
+\contentsline {section}{A - The Garden Cliff}{53}{section*.327}%
+\contentsline {section}{B - Fairy Tale Wall}{60}{section*.376}%
+\contentsline {section}{C - Cabbage Patch/ Thunderdome}{61}{section*.383}%
 \contentsline {chapter}{\numberline {4}Upper Garden}{63}{chapter.4}%
-\contentsline {section}{A - Entrance Area}{65}{section*.400}%
-\contentsline {section}{B - The Bread Loaves/Scratch and Spliff}{66}{section*.410}%
-\contentsline {section}{C - Dr. Strangelove}{70}{section*.434}%
-\contentsline {section}{D - Machete Monkey}{72}{section*.450}%
-\contentsline {section}{E - Middle Garden}{76}{section*.482}%
+\contentsline {section}{A - Entrance Area}{65}{section*.401}%
+\contentsline {section}{B - The Bread Loaves/Scratch and Spliff}{66}{section*.411}%
+\contentsline {section}{C - Dr. Strangelove}{70}{section*.435}%
+\contentsline {section}{D - Machete Monkey}{72}{section*.451}%
+\contentsline {section}{E - Middle Garden}{76}{section*.483}%
 \contentsline {chapter}{\numberline {5}Quartzville Creek}{78}{chapter.5}%
-\contentsline {section}{A - Redneck Riviera}{79}{section*.499}%
-\contentsline {section}{B - Old Miner's Camp}{82}{section*.519}%
+\contentsline {section}{A - Redneck Riviera}{79}{section*.500}%
+\contentsline {section}{B - Old Miner's Camp}{82}{section*.520}%
 \contentsline {chapter}{\numberline {6}Other Areas}{83}{chapter.6}%
-\contentsline {section}{A - The Upper Garden Cliffs}{83}{section*.525}%
-\contentsline {section}{B - Highway 11 Wall}{83}{section*.527}%
-\contentsline {section}{C - Highway 11 Pillar}{84}{section*.529}%
-\contentsline {section}{D - Cascadia Cave}{84}{section*.532}%
-\contentsline {section}{E - Canyon Creek}{85}{section*.534}%
-\contentsline {section}{F - Horse Rock}{85}{section*.536}%
-\contentsline {section}{G - Gordon Ridge}{86}{section*.538}%
-\contentsline {section}{H - The Menagerie Wilderness}{86}{section*.540}%
-\contentsline {section}{I - Santiam Pinnacle}{87}{section*.543}%
-\contentsline {section}{J - Iron Mountain}{88}{section*.545}%
-\contentsline {section}{K - The Needles}{89}{section*.555}%
-\contentsline {chapter}{Index}{90}{section*.556}%
-\contentsline {section}{Routes Alphabetical}{90}{section*.558}%
-\contentsline {section}{Routes by grade}{93}{section*.559}%
-\contentsline {section}{Known First Ascents}{97}{section*.560}%
+\contentsline {section}{A - The Upper Garden Cliffs}{83}{section*.526}%
+\contentsline {section}{B - Highway 11 Wall}{83}{section*.528}%
+\contentsline {section}{C - Highway 11 Pillar}{84}{section*.530}%
+\contentsline {section}{D - Cascadia Cave}{84}{section*.533}%
+\contentsline {section}{E - Canyon Creek}{85}{section*.535}%
+\contentsline {section}{F - Horse Rock}{85}{section*.537}%
+\contentsline {section}{G - Gordon Ridge}{86}{section*.539}%
+\contentsline {section}{H - The Menagerie Wilderness}{86}{section*.541}%
+\contentsline {section}{I - Santiam Pinnacle}{87}{section*.544}%
+\contentsline {section}{J - Iron Mountain}{88}{section*.546}%
+\contentsline {section}{K - The Needles}{89}{section*.556}%
+\contentsline {chapter}{Index}{90}{section*.557}%
+\contentsline {section}{Routes Alphabetical}{90}{section*.559}%
+\contentsline {section}{Routes by grade}{93}{section*.560}%
+\contentsline {section}{Known First Ascents}{97}{section*.561}%

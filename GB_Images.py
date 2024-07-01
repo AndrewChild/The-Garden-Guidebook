@@ -808,6 +808,8 @@ Topo(name='Small',
          'path1740':book.climbs['Smol'],
          'path1738':book.climbs['Smol'],
          'path1736':book.climbs['Smol'],
+         'path416':book.climbs['Tip Toe'],
+         'path524':book.climbs['Tip Toe'],
      })
 Topo(name='Spider Bumps',
      parent=book.routes['Spider Bumps'],
