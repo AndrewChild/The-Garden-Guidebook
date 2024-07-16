@@ -30,6 +30,8 @@
   - safe-ish with one pad
   - The best of not the best (2 star lines)
 - should the upper garden be split into upper and middle?
+- Should variations be indexed? maybe there should be a tier below variation that doesn't get indexed?
+- Should all routes be included in the subarea layout maps (right now if there are two badges that would overlap I just include one)
 - History timeline
   - Put in some kind of cool graphical format
 
@@ -60,7 +62,6 @@ Routes with no star rating
 - Routes on the backside of the office
 - Left Corner
 - Simple Math
-- Tide pool
 - Hueco Wabo
 - Geodesic Wiener
 - Garden Variety
@@ -68,10 +69,7 @@ Routes with no star rating
 - Angel Face
 - Two Blows One Stroke
 - Into the Light
-- E's V7
 - Leave it to Jesus Sit
-- Brain Hemorrhage
-- Trust Issues
 - Headbanger's Ball
 - Chillum Sit
 - Phallacy
@@ -115,12 +113,8 @@ Routes to add
 - everything in middle garden
 - Left start to kick it?
 - brick house?
-- Thing to the Right of June 24th
 - Thing on the main face of machete monkey
 - Pumpkin spice low
-- Everything on Deep Sea Diver
-- Everything on Prince Albert
-- Other lines on Young Juicy
 
 Topos to add:
 
@@ -133,11 +127,6 @@ Routes with no star rating
 ### Quartzville Creek
 Topos to add:
 - moss boss
-
-Routes with placeholder descriptions
-- Moss Boss
-- Unsalted Almonds
-- Dank Commander
 
 Routes with no star rating
 - Dank Commander
