@@ -1,13 +1,19 @@
 <ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg2261" width="1280" height="1920" viewBox="0 0 1280 1920" ns1:docname="frank.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
   <ns0:defs id="defs2265" />
-  <ns1:namedview id="namedview2263" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.4546875" ns2:cx="640" ns2:cy="609.20962" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g2267" />
+  <ns1:namedview id="namedview2263" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.4546875" ns2:cx="377.18213" ns2:cy="609.20962" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g2267" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g2267">
     <ns0:image width="1280" height="1920" preserveAspectRatio="none" ns3:href="frank.jpg" id="image2269" />
     <ns0:path style="fill:none;stroke:#008000;stroke-width:9.66;stroke-dasharray:none" d="M 752.16495,1429.5533 C 813.7457,1293.1959 789.55326,818.14433 727.97251,600.41237 666.39175,382.68041 486.04811,101.16838 486.04811,101.16838" id="path2388" />
+    <ns0:path style="fill:none;stroke:#000000;stroke-width:9.66;stroke-dasharray:none" d="M 426.66667,1282.1993 C 354.08935,985.2921 376.08247,609.20962 406.87285,459.65636 437.66323,310.10309 512.43986,211.13402 488.24742,107.76632" id="path1190" />
     <ns0:path id="path2388_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.66;stroke-dasharray:41.4, 41.4" d="M 752.16495,1429.5533 C 813.7457,1293.1959 789.55326,818.14433 727.97251,600.41237 666.39175,382.68041 486.04811,101.16838 486.04811,101.16838" />
+    <ns0:path id="path1190_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.66;stroke-dasharray:41.4, 41.4" d="M 426.66667,1282.1993 C 354.08935,985.2921 376.08247,609.20962 406.87285,459.65636 437.66323,310.10309 512.43986,211.13402 488.24742,107.76632" />
     <ns0:circle id="path2390" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.14;stroke-dasharray:none;stroke-opacity:1" cx="746.66669" cy="680.68726" r="43.2216" />
     <ns0:text id="path2390_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.38;stroke-dasharray:none;stroke-opacity:1" x="732.50789" y="700.55926">
-      <ns0:text id="path2390_text" x="732.50789" y="700.55926" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.67999999999999px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2</ns0:text>
+      <ns0:text id="path2390_text" x="732.50789" y="700.55926" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.67999999999999px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">4</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path1192" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:4.14;stroke-dasharray:none;stroke-opacity:1" cx="378.2818" cy="696.08246" r="43.2216" />
+    <ns0:text id="path1192_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.38;stroke-dasharray:none;stroke-opacity:1" x="364.123" y="715.9544599999999">
+      <ns0:text id="path1192_text" x="364.123" y="715.9544599999999" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.67999999999999px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

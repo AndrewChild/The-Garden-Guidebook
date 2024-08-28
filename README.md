@@ -32,17 +32,13 @@
 - should the upper garden be split into upper and middle?
 - Should variations be indexed? maybe there should be a tier below variation that doesn't get indexed?
 - Should all routes be included in the subarea layout maps (right now if there are two badges that would overlap I just include one)
-- History timeline
-  - Put in some kind of cool graphical format
 
 ## Things that need to be done in the field
 
 ### Garden Main
 Routes to add:
-- other lines on Francois
 - other lines on bitchin corners
 - earned V2s?
-- lines on the backside of the office?
 
 Topos to redo:
 - blowie
@@ -63,7 +59,6 @@ Routes with no star rating
 - Left Corner
 - Simple Math
 - Hueco Wabo
-- Geodesic Wiener
 - Garden Variety
 - Chock Stone Highball
 - Angel Face
@@ -110,7 +105,6 @@ Routes with no star rating
 
 ### Upper Garden
 Routes to add
-- everything in middle garden
 - Left start to kick it?
 - brick house?
 - Thing on the main face of machete monkey
@@ -119,10 +113,8 @@ Routes to add
 Topos to add:
 
 Routes with no star rating
-- Jugs
 - Stoned Age
 - Caliban's War
-- Bread Winner
 
 ### Quartzville Creek
 Topos to add:

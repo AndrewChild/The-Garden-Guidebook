@@ -123,10 +123,10 @@ Route(name='Bread Loaf Left',
                   'route and either mantle or side pull your way to the top..')
 Route(name='Breadwinner',
       parent=book.formations['Bread Loaf'],
-      grade='9/10',
+      grade=9,
+      rating=3,
       FA='Kalel Chester',
-      grade_unconfirmed=True,
-      description='Start as for Bread Loaf Traverse, climb straight up..')
+      description='Start as for Bread Loaf Traverse, climb straight up.')
 Route(name='Bread Loaf Traverse',
       parent=book.formations['Bread Loaf'],
       grade=5,

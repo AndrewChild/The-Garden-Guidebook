@@ -213,10 +213,11 @@ Route(name='My Empire of Dirt',
       FA='Jayson Nissen',
       description='70\', Sport, 11 bolts. Climb Seraphim Nachash through its crux then cut left through a physical section of side pulls and under clings. Continue up a sustained overhanging wall with big pulls between generally decent holds. This is a real power endurance test piece.'
       )
-Route(name='Honeycomb Project',
+Route(name='Spin Glass',
       parent=book.formations['Garden Cliff Middle'],
-      grade='5.?',
-      description='50\', Sport, 9 bolts. Open Project. Start on a narrow ledge to the right of the top of the stairs. The section down low has so far never been climbed.'
+      grade='5.12c',
+      FA='Kalel Chester',
+      description='50\', Sport, 9 bolts. Start on a narrow ledge to the right of the top of the stairs.'
       )
 Route(name='Criss Cross Applesauce',
       parent=book.formations['Garden Cliff Middle'],
@@ -396,11 +397,11 @@ Variation(name='Ovulation Send-sation Extension',
           description='A two bolt extension takes this climb or its neighbor from a ledge to the top of the cliff. Probably doesn\'t change the grade.'
           )
 Variation(name='Honeycomb Traverse',
-          parent=book.routes['Honeycomb Project'],
+          parent=book.routes['Spin Glass'],
           grade='5.12a',
           rating=2,
           FA='Jayson Nissen',
-          description='50\', Sport, 9 bolts. Start on Criss Cross Apple Sauce and traverse into Honeycomb after the third bolt. Avoids the blank section down low.'
+          description='50\', Sport, 9 bolts. Start on Criss Cross Apple Sauce and traverse into Spin Glass (formerly known as the Honeycomb Project) after the third bolt. Avoids the blank section down low.'
           )
 Variation(name='A Victem of the Times',
           parent=book.routes['Where Do You Go When the Sun Goes Down'],

@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.4546875"
-     inkscape:cx="640"
-     inkscape:cy="1312.9897"
+     inkscape:zoom="0.32151261"
+     inkscape:cx="-219.276"
+     inkscape:cy="618.94928"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
@@ -57,5 +57,29 @@
        cy="1338.2817"
        rx="35.189003"
        ry="29.690722" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5;stroke-dasharray:none"
+       d="M 659.79381,903.91753 C 686.02927,715.70658 289.06385,786.76385 265.17903,586.24077 241.40628,386.65854 350.47223,322.81111 314.50172,153.95189"
+       id="path290"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5;stroke-dasharray:none"
+       id="path995"
+       cx="314.14008"
+       cy="678.04492"
+       rx="26.437532"
+       ry="24.882383" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5;stroke-dasharray:none"
+       d="M 684.26553,1189.689 C 642.27651,990.62987 910.36525,1006.224 1018.6226,933.08936 1172.3986,829.20386 1153.9205,690.48613 1125.9278,525.64034"
+       id="path997"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5;stroke-dasharray:none"
+       id="path999"
+       cx="1020.1777"
+       cy="935.42206"
+       rx="26.437532"
+       ry="27.215107" />
   </g>
 </svg>

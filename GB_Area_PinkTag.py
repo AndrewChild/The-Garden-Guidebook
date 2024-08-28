@@ -57,6 +57,7 @@ Route(name='Lippity Split',
 Route(name='Le Lemét',
       parent=book.formations['Frat House'],
       grade=9,
+      rating=1,
       FA='Jonah Kreitzberg',
       grade_unconfirmed=True,
       description='Sit start on jugs in the big pod climb up and right on thin edges.')
