@@ -43,6 +43,7 @@ Routes to add:
 Topos to redo:
 - blowie
 - Francois
+- Slam Dunk
 
 Topos to add:
 - Methlab Prow
@@ -59,7 +60,6 @@ Routes with no star rating
 - Left Corner
 - Simple Math
 - Hueco Wabo
-- Garden Variety
 - Chock Stone Highball
 - Angel Face
 - Two Blows One Stroke

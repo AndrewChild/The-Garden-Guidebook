@@ -516,10 +516,10 @@ Route(name='Smackdown',
                   'and follow the line of crimps to a top out left.')
 Route(name='Heisenburg',
       parent=book.formations['Meth Lab'],
-      grade=9,
+      grade=7,
       grade_unconfirmed=True,
-      description='Sit start with opposing side pulls on a low flake. follow a slopey rib possibly making use of small'
-                  ' holds further left.')
+      FA='Matt Slayton',
+      description='Start on a blocky jug at the base of a right facing rib. The difficulty of this route has been thought to be anywhere between V6 and V9 depending on beta.')
 Route(name='Guillotine',
       name_unconfirmed=True,
       parent=book.formations['Meth Lab'],
@@ -744,6 +744,14 @@ Route(name='Ground up Blowie',
       description='Start at the base of a diagonal finger crack. Follow the crack around a dabby tree and onto an easy '
                   'slab. This route was named as an homage to the first ascent when the top out was cleaned via '
                   'leaf blower from a stance mid route.')
+Route(name='Piranesi',
+      parent=book.formations['Azain'],
+      grade='6/7',
+      FA='Andrew Child',
+      rating=2,
+      serious=1,
+      description='Start as for Ground up Blowie but exit the crack early and climb straight up the tall face. The risk factor of this climb can be mostly diminished with enough pads and good spotters.',
+      )
 Route(name='Into the Light',
       parent=book.formations['Light Cave'],
       grade=6,
@@ -761,6 +769,11 @@ Route(name='Sometimes',
       grade=3,
       rating=1,
       description='Starting on Garden Groove traverse right around the corner on reachy holds until you can scramble onto a big ledge over the main trail, drop off. Staying lower in the middle section adds difficulty.')
+Route(name='Brontosaurus',
+      parent=book.formations['Azain'],
+      serious=3,
+      FA='Matt Slayton',
+      description='Climb the North East corner of the Azain wall to the top of the formation. Be aware that the rock quality at the top of the wall is incredibly poor.')
 Route(name='Simpson\'s First',
       parent=book.formations['Azain'],
       grade=0,
@@ -816,10 +829,8 @@ Route(name='Garden Project',
 Route(name='Garden Variety',
       parent=book.formations['Garden Roof'],
       grade=4,
-      grade_unconfirmed=True,
-      description='Reportedly there is a way to start the center of the overhanging face if you are tall or using a '
-                  'pad stack. Does this even count as a distinct route or is it just a lame way to tick a line when '
-                  'you can\'t pull the harder moves down low?')
+      rating=1,
+      description='Use a pad stack to start on high side pulls climb straight up the shallow grove topping in the same place as The Arboretum. The difficulty of this route is probably dependent on how tall you are or how many pads you stack.')
 Route(name='The Arboretum',
       parent=book.formations['Garden Roof'],
       grade=11,
@@ -1090,6 +1101,11 @@ Variation(name='Layup',
           grade=4,
           rating=2,
           description='Start as for Slam Dunk but stay low and use good holds out left to avoid the crux.')
+Variation(name='Baller',
+          parent=book.routes['Slam Dunk'],
+          grade=7,
+          rating=2,
+          description='Start as for Slam Dunk but climb to the right using a far single pad side pull to crank a similar slam dunk maneuver but with opposite hands. This route blurs the line between an eliminate and a variation.')
 Variation(name='Chillum Sit',
           parent=book.routes['Chillum'],
           grade=8,

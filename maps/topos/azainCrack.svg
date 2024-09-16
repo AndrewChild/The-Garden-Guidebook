@@ -27,7 +27,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.65188174"
-     inkscape:cx="546.87833"
+     inkscape:cx="362.79587"
      inkscape:cy="670.36699"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
@@ -67,5 +67,16 @@
        cx="770.07831"
        cy="1113.699"
        r="9.2041235" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 1017.0556,1228.7505 C 960.29688,1012.4536 929.61647,1029.3278 934.21853,925.01441 938.82059,820.70101 965.07978,712.2849 931.15049,648.8907 872.8577,539.97524 831.41666,475.73145 745.53399,452.53606 547.79429,399.13008 423.38967,99.711337 380.4371,95.109277"
+       id="path1280"
+       sodipodi:nodetypes="csssc" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1282"
+       cx="941.88861"
+       cy="817.633"
+       r="21.476288" />
   </g>
 </svg>
