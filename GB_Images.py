@@ -1648,7 +1648,7 @@ SubAreaMap(name='Strangelove',
                'path2130':book.climbs['Algebra'],
                'path14664':book.climbs['War Room'],
                'path14662':book.climbs['Dr. Strangelove'],
-               'path756':book.climbs['Dr. Strangelove'],
+               'path756':book.climbs['MGB'],
            })
 SubAreaMap(name='Machete Monkey',
            parent=book.subareas['Machete Monkey'],
