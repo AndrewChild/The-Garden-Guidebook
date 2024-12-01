@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1220" width="921.43549" height="715.66339" viewBox="84.729698 86.242729 921.43549 715.66339" ns1:docname="littleEnchilada.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1224" />
+  <ns1:namedview id="namedview1222" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.66092529" ns2:cx="542.42137" ns2:cy="452.39606" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1226" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1226">
+    <ns0:image width="1240" height="934" preserveAspectRatio="none" ns3:href="littleEnchilada.jpg" id="image1228" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:6.93;stroke-dasharray:none" d="M 473.95418,604.47881 C 396.92325,558.47423 332.73081,396.92325 341.28981,255.69989" id="path1347" />
+    <ns0:path id="path1347_clone" style="fill:none;stroke:#FFFFFF;stroke-width:6.93;stroke-dasharray:29.7, 29.7" d="M 473.95418,604.47881 C 396.92325,558.47423 332.73081,396.92325 341.28981,255.69989" />
+    <ns0:circle id="path1349" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:2.9699999999999998;stroke-dasharray:none;stroke-opacity:1" cx="363.22223" cy="433.83389" r="31.0068" />
+    <ns0:text id="path1349_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.99;stroke-dasharray:none;stroke-opacity:1" x="342.90743000000003" y="448.08988999999997">
+      <ns0:text id="path1349_text" x="342.90743000000003" y="448.08988999999997" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.64px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">21</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>
