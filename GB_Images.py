@@ -200,9 +200,7 @@ Topo(name='Three Star Ledge',
      size='h',
      routes={
          'path2023':book.climbs['Three Star Ledge'],
-         'path2021':book.climbs['Three Star Ledge Variation'],
-         'path2019':book.climbs['Three Star Ledge Variation'],
-         'path2017':book.climbs['Three Star Ledge Variation'],
+         'path2017':book.climbs['Three Star Ledge'],
      })
 Topo(name='The Good',
      parent=book.routes['The Good'],

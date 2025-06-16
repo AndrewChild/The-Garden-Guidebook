@@ -297,38 +297,38 @@
   <ns0:g ns2:groupmode="layer" id="layer2" ns2:label="border" transform="matrix(0.49220473,0,0,0.72855333,248.92707,74.928632)" />
   <ns0:g ns2:groupmode="layer" id="layer8" ns2:label="Upper Forest">
     <ns0:circle id="rect3951" style="fill:#00B5BD;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.9299999999999999;stroke-dasharray:none;stroke-opacity:1" cx="154.359458" cy="255.98827" r="9.7092" />
-    <ns0:text id="rect3951_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.31;stroke-dasharray:none;stroke-opacity:1" x="150.609658" y="260.45227">
-      <ns0:text id="rect3951_text" x="150.609658" y="260.45227" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">A</ns0:text>
+    <ns0:text id="rect3951_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.31;stroke-dasharray:none;stroke-opacity:1" x="151.178858" y="260.45227">
+      <ns0:text id="rect3951_text" x="151.178858" y="260.45227" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">F</ns0:text>
     </ns0:text>
   </ns0:g>
   <ns0:g ns2:groupmode="layer" id="layer5" ns2:label="Strangelove">
     <ns0:circle id="rect14556" style="fill:#00B5BD;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.9299999999999999;stroke-dasharray:none;stroke-opacity:1" cx="462.1100805" cy="218.1677125" r="9.7092" />
     <ns0:text id="rect14556_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.31;stroke-dasharray:none;stroke-opacity:1" x="458.3602805" y="222.6317125">
-      <ns0:text id="rect14556_text" x="458.3602805" y="222.6317125" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">D</ns0:text>
+      <ns0:text id="rect14556_text" x="458.3602805" y="222.6317125" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">C</ns0:text>
     </ns0:text>
   </ns0:g>
   <ns0:g ns2:groupmode="layer" id="layer7" ns2:label="Middle">
     <ns0:circle id="rect2363" style="fill:#00B5BD;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.9299999999999999;stroke-dasharray:none;stroke-opacity:1" cx="590.9916185" cy="243.10725" r="9.7092" />
-    <ns0:text id="rect2363_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.31;stroke-dasharray:none;stroke-opacity:1" x="587.8110184999999" y="247.57125">
-      <ns0:text id="rect2363_text" x="587.8110184999999" y="247.57125" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">F</ns0:text>
+    <ns0:text id="rect2363_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.31;stroke-dasharray:none;stroke-opacity:1" x="587.2418184999999" y="247.57125">
+      <ns0:text id="rect2363_text" x="587.2418184999999" y="247.57125" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">E</ns0:text>
     </ns0:text>
   </ns0:g>
   <ns0:g ns2:groupmode="layer" id="layer6" ns2:label="Machete Monkey" ns1:insensitive="true">
     <ns0:circle id="rect14669" style="fill:#00B5BD;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.9299999999999999;stroke-dasharray:none;stroke-opacity:1" cx="535.1333445" cy="215.349736" r="9.7092" />
     <ns0:text id="rect14669_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.31;stroke-dasharray:none;stroke-opacity:1" x="531.3835445" y="219.813736">
-      <ns0:text id="rect14669_text" x="531.3835445" y="219.813736" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">E</ns0:text>
+      <ns0:text id="rect14669_text" x="531.3835445" y="219.813736" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">D</ns0:text>
     </ns0:text>
   </ns0:g>
   <ns0:g ns2:groupmode="layer" id="layer3" ns2:label="Entrance" ns1:insensitive="true">
     <ns0:circle id="rect27051" style="fill:#00B5BD;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.9299999999999999;stroke-dasharray:none;stroke-opacity:1" cx="327.19766599999997" cy="276.0797755" r="9.7092" />
     <ns0:text id="rect27051_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.31;stroke-dasharray:none;stroke-opacity:1" x="323.447866" y="280.5437755">
-      <ns0:text id="rect27051_text" x="323.447866" y="280.5437755" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">B</ns0:text>
+      <ns0:text id="rect27051_text" x="323.447866" y="280.5437755" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">A</ns0:text>
     </ns0:text>
   </ns0:g>
   <ns0:g ns2:groupmode="layer" id="layer4" ns2:label="Bread" ns1:insensitive="true">
     <ns0:circle id="rect27128" style="fill:#00B5BD;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.9299999999999999;stroke-dasharray:none;stroke-opacity:1" cx="385.675902" cy="273.27584" r="9.7092" />
     <ns0:text id="rect27128_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.31;stroke-dasharray:none;stroke-opacity:1" x="381.926102" y="277.73984">
-      <ns0:text id="rect27128_text" x="381.926102" y="277.73984" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">C</ns0:text>
+      <ns0:text id="rect27128_text" x="381.926102" y="277.73984" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.16px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">B</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

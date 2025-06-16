@@ -16,10 +16,7 @@ Area(name='Upper Garden',
                  '\n\n'
                  'Although the Upper Garden appears overgrown, this entire area was clear cut in the early 2000s. Following the clear cut there was almost no vegetation in the area and it was relatively easy to approach and develop the Upper Garden\'s many boulders. This is why the photos in this guide look dramatically different from photos in guides from that era. Even the most isolated and overgrown boulders in this area already have names and routes on them, many of these boulders have been omitted from this guide since they have been swallowed by the poison oak.',)
                  
-
-Subarea(name='Upper Forest',
-        parent=book.areas['Upper Garden'],
-        note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',)                 
+               
 Subarea(name='Entrance Area',
         item_id = 'entranceUpper',
         gps='44.43961303214984, -122.58215061970166',
@@ -43,13 +40,17 @@ Subarea(name='Middle Garden',
         parent=book.areas['Upper Garden'],
         note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
         description='There are many boulders under the cliff line east of the Machete Monkey area. Rediscovering and reestablishing this sector is an ongoing project. In 2024 a new trail was established which allows access to this area directly from the road.')
+Subarea(name='Upper Forest',
+        parent=book.areas['Upper Garden'],
+        description='This is a catch all sub area for everything further up the gravel road from the main Upper Garden trail. Although many boulders in this sector have been climbed historically the Upper Forest has become overgrown and is only recently (2025) being re-established.',
+        note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',)  
                     
 Formation(name='The Story of O Boulder',
            parent=book.subareas['Upper Forest'],
            description='This secluded boulder can be found about 50\' west of the forest road. When heading up hill enter the bushes just before a tall rotten stump approximately 50\' before the fork in the logging road.')
 Formation(name='Titanium Boulder',
            parent=book.subareas['Upper Forest'],
-           description='From the fork in the logging road look for a faint trail that leads through a section of low under bush and across a few improvised log bridges through a swampy section.')
+           description='From the fork in the logging road look for a faint trail that leads through a section of low under bush and across a few improvised log bridges through a swampy section. Watch out for poison oak just uphill of this boulder.')
 Formation(name='Foxglove Boulder',
            parent=book.subareas['Upper Forest'],
            description='Approximately 70\' up the logging road past the fork head left into the bushes to find this little boulder after roughly 50\' of bush whacking.')
