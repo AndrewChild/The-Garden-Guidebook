@@ -1,0 +1,19 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg750" width="4127.752" height="3383.8494" viewBox="562.46289 489.88705 4127.752 3383.8494" ns1:docname="GrizzlyFace.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs754" />
+  <ns1:namedview id="namedview752" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.11022949" ns2:cx="2463.0432" ns2:cy="2322.4275" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g756" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g756">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="GrizzlyFace.jpg" id="image758" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:31.150000000000002;stroke-dasharray:none" d="M 3367.8016,2546.6995 C 3027.814,1995.0215 3059.8883,859.59127 3059.8883,859.59127" id="path877" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:31.150000000000002;stroke-dasharray:none" d="m 1706.3528,2585.1887 c -211.6904,-532.4334 -250.1795,-975.0588 12.8297,-1218.8235 263.0093,-243.7647 615.8266,-404.13617 615.8266,-404.13617" id="path885" />
+    <ns0:path id="path877_clone" style="fill:none;stroke:#FFFFFF;stroke-width:31.150000000000002;stroke-dasharray:133.5, 133.5" d="M 3367.8016,2546.6995 C 3027.814,1995.0215 3059.8883,859.59127 3059.8883,859.59127" />
+    <ns0:path id="path885_clone" style="fill:none;stroke:#FFFFFF;stroke-width:31.150000000000002;stroke-dasharray:133.5, 133.5" d="m 1706.3528,2585.1887 c -211.6904,-532.4334 -250.1795,-975.0588 12.8297,-1218.8235 263.0093,-243.7647 615.8266,-404.13617 615.8266,-404.13617" />
+    <ns0:circle id="path883" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.350000000000001;stroke-dasharray:none;stroke-opacity:1" cx="3101.585" cy="1655.0339" r="139.374" />
+    <ns0:text id="path883_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.45;stroke-dasharray:none;stroke-opacity:1" x="3010.271" y="1719.1138999999998">
+      <ns0:text id="path883_text" x="3010.271" y="1719.1138999999998" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:160.20000000000002px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">10</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path887" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.350000000000001;stroke-dasharray:none;stroke-opacity:1" cx="1574.8481" cy="1578.0557" r="139.374" />
+    <ns0:text id="path887_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.45;stroke-dasharray:none;stroke-opacity:1" x="1529.1911" y="1642.1356999999998">
+      <ns0:text id="path887_text" x="1529.1911" y="1642.1356999999998" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:160.20000000000002px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">9</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

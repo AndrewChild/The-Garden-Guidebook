@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1060"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="DoubleStump.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1064" />
+  <sodipodi:namedview
+     id="namedview1062"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.11022949"
+     inkscape:cx="2435.8272"
+     inkscape:cy="1923.2602"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1066" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1066">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="DoubleStump.jpg"
+       id="image1068" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 1465.1251,2912.1063 C 1233.7896,2349.6434 1249.4787,1968.9939 1378.9413,1710.0687 1551.309,1365.3333 2000.3721,1006.99 2000.3721,1006.99"
+       id="path1187"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1189"
+       cx="1342.6533"
+       cy="1791.7166"
+       rx="49.895901"
+       ry="45.359913" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 3270.4496,3098.0819 C 3483.6412,2453.9712 3025.5061,1945.9402 2875.8184,1828.0044 2726.1307,1710.0687 1959.5482,1324.5094 2000.3721,1020.598"
+       id="path1191" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1193"
+       cx="2569.6389"
+       cy="1628.4208"
+       rx="38.555923"
+       ry="68.039864" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 3270.4496,3084.474 c 557.9269,-562.4629 607.6602,-924.9043 603.2868,-1279.1495 -4.536,-367.4153 -557.9269,-1088.6379 -703.0786,-1197.50169"
+       id="path1195"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1197"
+       cx="3628.793"
+       cy="1188.4297"
+       rx="22.679956"
+       ry="27.215946" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect1199"
+       width="4345.4795"
+       height="3928.1682"
+       x="734.83057"
+       y="108.86378" />
+  </g>
+</svg>

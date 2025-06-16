@@ -2,9 +2,9 @@
 <svg
    version="1.1"
    id="svg873"
-   width="813.480660952381"
-   height="1154.2631"
-   viewBox="513.5200745238095 42.750484 813.480660952381 1154.2631"
+   width="1925.12"
+   height="1285.12"
+   viewBox="513.52007 42.750484 1925.12 1285.12"
    sodipodi:docname="bitchin.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.62853226"
-     inkscape:cx="293.54102"
-     inkscape:cy="593.44608"
+     inkscape:cx="716.74921"
+     inkscape:cy="672.99648"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
@@ -36,7 +36,8 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g879">
+     id="g879"
+     transform="translate(513.52007,42.750484)">
     <image
        width="1925.12"
        height="1285.12"
@@ -45,89 +46,30 @@
        id="image881" />
     <path
        d="M 1167.9095,899.17368 C 1068.2709,857.78323 1013.3512,749.33287 1005.2936,643.04661"
-       style="fill:none;stroke:#4169e1;stroke-width:2.4499999999999997;stroke-dasharray:none"
+       style="fill:none;stroke:#ff0000;stroke-width:2.45;stroke-dasharray:none"
        id="path1014" />
     <path
-       style="fill:none;stroke:#008000;stroke-width:2.4499999999999997;stroke-dasharray:none"
+       style="fill:none;stroke:#ff0000;stroke-width:2.45;stroke-dasharray:none"
        d="m 1005.1841,642.79259 c -3.7507,-49.47412 2.6523,-98.47934 19.4252,-140.03398 45.0018,-110.35166 66.8224,-108.18856 85.9145,-243.42426 7.8633,-55.69831 -1.591,-70.00437 -1.591,-70.00437"
        id="path1002"
        sodipodi:nodetypes="ccsc" />
-    <path
-       id="path1014_clone"
-       style="fill:none;stroke:#FFFFFF;stroke-width:2.4499999999999997;stroke-dasharray:10.5, 10.5"
-       d="M 1167.9095,899.17368 C 1068.2709,857.78323 1013.3512,749.33287 1005.2936,643.04661" />
-    <path
-       id="path1002_clone"
-       style="fill:none;stroke:#FFFFFF;stroke-width:2.4499999999999997;stroke-dasharray:10.5, 10.5"
-       d="m 1005.1841,642.79259 c -3.7507,-49.47412 2.6523,-98.47934 19.4252,-140.03398 45.0018,-110.35166 66.8224,-108.18856 85.9145,-243.42426 7.8633,-55.69831 -1.591,-70.00437 -1.591,-70.00437" />
-    <text
-       id="path1029_label"
-       style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.35;stroke-dasharray:none;stroke-opacity:1"
-       x="1024.6706000000001"
-       y="501.17062000000004"><text
-         id="path1029_text"
-         x="1024.6706000000001"
-         y="501.17062000000004"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.6px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</text><text
-         id="text10"
-         x="1024.6706000000001"
-         y="501.17062000000004"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.6px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</text></text>
-    <text
-       id="path1031_label"
-       style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.35;stroke-dasharray:none;stroke-opacity:1"
-       x="1073.3926999999999"
-       y="838.67446"><text
-         id="path1031_text"
-         x="1073.3926999999999"
-         y="838.67446"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.6px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1a</text><text
-         id="text14"
-         x="1073.3926999999999"
-         y="838.67446"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.6px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1a</text></text>
-    <path
-       id="path17"
-       style="fill:none;stroke:#FFFFFF;stroke-width:2.4499999999999997;stroke-dasharray:10.5, 10.5"
-       d="M 1167.9095,899.17368 C 1068.2709,857.78323 1013.3512,749.33287 1005.2936,643.04661" />
-    <path
-       id="path19"
-       style="fill:none;stroke:#FFFFFF;stroke-width:2.4499999999999997;stroke-dasharray:10.5, 10.5"
-       d="m 1005.1841,642.79259 c -3.7507,-49.47412 2.6523,-98.47934 19.4252,-140.03398 45.0018,-110.35166 66.8224,-108.18856 85.9145,-243.42426 7.8633,-55.69831 -1.591,-70.00437 -1.591,-70.00437" />
     <circle
        id="path1029"
-       style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:1.0499999999999998;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.05;stroke-dasharray:none;stroke-opacity:1"
        cx="1028.2616"
        cy="496.13062"
        r="10.962" />
-    <text
-       id="text24"
-       style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.35;stroke-dasharray:none;stroke-opacity:1"
-       x="1024.6706000000001"
-       y="501.17062000000004"><text
-         id="text22"
-         x="1024.6706000000001"
-         y="501.17062000000004"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.6px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</text></text>
     <circle
        id="path1031"
-       style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:1.0499999999999998;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.05;stroke-dasharray:none;stroke-opacity:1"
        cx="1080.5747"
        cy="833.63446"
        r="10.962" />
-    <text
-       id="text29"
-       style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.35;stroke-dasharray:none;stroke-opacity:1"
-       x="1073.3926999999999"
-       y="838.67446"><text
-         id="text27"
-         x="1073.3926999999999"
-         y="838.67446"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.6px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1a</text></text>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:5"
-       d="M 883.64925,671.63259 C 642.89653,448.88007 587.77091,423.00478 645.14656,331.87875 702.52221,240.75272 849.89887,96.751095 849.89887,96.751095"
-       id="path314" />
+       d="M 1041.1591,778.23014 C 961.09818,622.29997 587.77091,423.00478 645.14656,331.87875 702.52221,240.75272 849.89887,96.751095 849.89887,96.751095"
+       id="path314"
+       sodipodi:nodetypes="csc" />
     <ellipse
        style="fill:none;stroke:#ff0000;stroke-width:5"
        id="path368"
@@ -135,5 +77,24 @@
        cy="278.44064"
        rx="14.062659"
        ry="11.812634" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 1165.8335,893.93988 c 76.3683,-122.50763 160.6917,-472.52944 178.1929,-507.53162"
+       id="path450"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path551"
+       cx="1310.6152"
+       cy="501.75638"
+       rx="14.319074"
+       ry="13.52357" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5.38516"
+       id="rect362"
+       width="1148.3228"
+       height="1164.2329"
+       x="366.12448"
+       y="30.421738" />
   </g>
 </svg>

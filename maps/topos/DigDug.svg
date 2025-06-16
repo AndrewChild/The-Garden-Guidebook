@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg477"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="DigDug.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs481" />
+  <sodipodi:namedview
+     id="namedview479"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.11022949"
+     inkscape:cx="1601.2049"
+     inkscape:cy="1859.7564"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g483" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g483">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="DigDug.jpg"
+       id="image485" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 1256.4695,1401.6213 C 1029.67,2136.4518 1097.7099,2776.0266 1097.7099,2776.0266"
+       id="path604" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path606"
+       cx="1124.9258"
+       cy="2079.752"
+       rx="54.431892"
+       ry="29.483942" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 1914.1883,2853.1384 c -4.536,-458.1351 -117.8519,-459.9359 -231.3356,-698.5426 -176.9037,-371.9513 -136.0797,-716.6866 -49.8959,-857.3023"
+       id="path608"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path706"
+       cx="1630.6888"
+       cy="2038.928"
+       rx="29.483942"
+       ry="38.555923" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 2381.3953,2308.8195 c 158.7597,-299.3754 58.9679,-857.3023 58.9679,-857.3023"
+       id="path708" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path710"
+       cx="2469.8472"
+       cy="1907.3843"
+       rx="56.69989"
+       ry="65.771873" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 1914.1883,2839.5305 c -13.608,-226.7996 371.9512,-217.7276 476.279,-544.319"
+       id="path712" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path714"
+       cx="2159.1318"
+       cy="2569.6389"
+       rx="40.823921"
+       ry="56.69989" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 3669.6168,2599.1229 C 3565.289,2358.7154 3433.7453,2376.8594 3052.722,2127.3798 2891.4949,2021.8144 2884.8904,1614.8128 2884.8904,1614.8128"
+       id="path716"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 3665.0808,2585.515 c -244.9435,-344.7354 -36.2879,-848.2304 -36.2879,-848.2304"
+       id="path718" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path720"
+       cx="3197.8738"
+       cy="2213.5637"
+       rx="45.359913"
+       ry="18.143965" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path722"
+       cx="3558.4851"
+       cy="2013.9801"
+       rx="29.483942"
+       ry="36.28793" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 3007.3621,766.5825 c -195.0476,308.4474 -181.4396,521.639 -181.4396,521.639"
+       id="path724" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path726"
+       cx="2878.0864"
+       cy="1025.134"
+       rx="34.019932"
+       ry="27.215946" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect728"
+       width="5207.3174"
+       height="3175.1936"
+       x="163.29567"
+       y="426.38315" />
+  </g>
+</svg>

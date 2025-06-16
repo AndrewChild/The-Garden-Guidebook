@@ -37,11 +37,11 @@
 
 ### Garden Main
 Routes to add:
-- other lines on bitchin corners
 - earned V2s?
 
 Topos to redo:
 - blowie
+- Overhand
 - Francois
 - Slam Dunk
 
@@ -107,8 +107,11 @@ Routes with no star rating
 Routes to add
 - Left start to kick it?
 - brick house?
-- Thing on the main face of machete monkey
 - Pumpkin spice low
+- Routes on Titaniam Boulder
+- Story of O Boulder
+- Foxglove boulder
+- Fuzzy Dice boulder
 
 Topos to add:
 
@@ -117,6 +120,8 @@ Routes with no star rating
 - Caliban's War
 
 ### Quartzville Creek
+Routes to add:
+
 Topos to add:
 - moss boss
 
@@ -124,7 +129,42 @@ Routes with no star rating
 - Dank Commander
 - Unsalted Almonds
 
+### Clear Cut
+Draw area map
+
+Routes with no star rating
+- Tear Duct Finish
+- Baloo
+- Br'er Bear
+- Unknown on Cuneiform
+
 ### Other
 Topos to redo:
 - Big Iron
 - Wild Roses
+
+## Trail Day Activities
+Blackberry Clearing:
+- Trail Between Machete man and Strangelove
+- Trail Between fairytale wall and Cabbage patch
+- Trail between forest road and breadloaves
+- Top of Methlab
+- Top of Francious
+- Cabbage patch/Thunderdome walls
+- Trail between Jonah's Dab Rig and Farley Prep
+
+Trail improvement:
+- Steps on trail past the good
+- Steps on trail between Prince Albert and Deep Sea Diver
+- Steps on trail between Deep Sea Diver and Deforestation
+- Steps on trail from road to prince albert (?)
+- Re-enforce loose rock on trail between road and Fight Club
+- Build cairns on trails in the upper garden
+
+Trail/route re-establishment:
+- Build trail to Pete's rail and other upper forest boulders (may involve clearing poison oak)
+- Build trail to story of O boulder
+
+Other:
+- Trash pickup
+- Remove bad bolts from Big Frank

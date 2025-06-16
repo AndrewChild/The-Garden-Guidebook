@@ -265,6 +265,12 @@ Route(name='Overhand',
       serious=1,
       FA='Matt Slayton',
       description='Climbs a short overhang starting at the bottom of the left arête. Try not to blow the last move. Also known as Evolve to Be More.')
+Route(name='Goose Egg',
+      parent=book.formations['Overhand'],
+      grade=5,
+      rating=1,
+      FA='Isaac Tuomi',
+      description='On the right side of the roof of the overhand boulder. Scrunchy start with left hand on the big ledge and right hand on an opposing corner.')
 Route(name='All Sorts of Ease',
       parent=book.formations['All Sorts of Ease'],
       grade='B',
@@ -624,14 +630,20 @@ Route(name='The Bubbler',
       rating=2,
       description='This short boulder is surprisingly hard. Sit start with left hand near the base of big left facing side pull rail and right hand on a cool narrow pinch. This route was originally climbed without using the jug ledge out right, climbing in this style is a fun challenge.')
 Route(name='Left Corner',
-      grade=2,
       parent=book.formations['Bitchin Corners'],
+      description='Credible sources claim that the master gardeners of the early 2000\'s era did a line that links the sit start of Bitchin Corners into the upper left arête on the boulder. Looks heinous or morpho or both.'
       )
 Route(name='Bitchin Corners',
       grade=2,
       rating=1,
       parent=book.formations['Bitchin Corners'],
       description='Stand start with left hand on a high diagonal crimp and right hand on an arête pinch.'
+      )
+Route(name='Bitchin Arête',
+      grade=6,
+      grade_unconfirmed=True,
+      parent=book.formations['Bitchin Corners'],
+      description='Sit start as for Bitchin Corners sit and climb the right side of the arête.'
       )
 Route(name='Frontside Baldo',
       parent=book.formations['Baldo'],

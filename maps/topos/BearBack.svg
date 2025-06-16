@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg901"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="BearBack.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs905" />
+  <sodipodi:namedview
+     id="namedview903"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.11022949"
+     inkscape:cx="2844.0664"
+     inkscape:cy="1959.5482"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g907" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g907">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="BearBack.jpg"
+       id="image909" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 1932.3322,2100.1639 c -358.3433,-535.247 -371.9512,-694.0066 -235.8715,-848.2303 136.0797,-154.2237 303.9114,-285.76749 303.9114,-285.76749"
+       id="path1028" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1030"
+       cx="1653.3688"
+       cy="1610.2769"
+       rx="15.875969"
+       ry="36.28793" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 3347.5615,2571.907 c 145.1517,-494.4231 -580.6069,-666.7907 -635.0388,-911.7342 -54.4319,-244.9436 22.68,-544.319 22.68,-544.319"
+       id="path1032" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1034"
+       cx="2903.0344"
+       cy="1873.3644"
+       rx="27.215946"
+       ry="36.28793" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 3347.5615,2567.371 c 244.9435,-403.7032 154.2237,-734.8306 77.1118,-866.3743 -77.1118,-131.5438 -294.8394,-435.4552 -294.8394,-435.4552"
+       id="path1036" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1038"
+       cx="3361.1694"
+       cy="1596.6688"
+       rx="40.823921"
+       ry="45.359913" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 4535.9911,2898.4983 C 4395.3754,2277.0676 3460.9612,1365.3333 3460.9612,1365.3333"
+       id="path1040" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1042"
+       cx="3814.7686"
+       cy="1741.8206"
+       rx="31.751938"
+       ry="22.679956" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect1044"
+       width="5189.1738"
+       height="3084.4739"
+       x="90.719826"
+       y="680.39868" />
+  </g>
+</svg>

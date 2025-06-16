@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1213"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="DoubleStump2.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1217" />
+  <sodipodi:namedview
+     id="namedview1215"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.11022949"
+     inkscape:cx="2263.4596"
+     inkscape:cy="2485.7231"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1219" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1219">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="DoubleStump2.jpg"
+       id="image1221" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 3093.546,2653.5548 c 222.2635,-331.1273 131.5437,-1374.4053 -45.36,-1632.9568"
+       id="path1340" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1342"
+       cx="3191.0698"
+       cy="1505.9491"
+       rx="34.019932"
+       ry="40.823921" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect1344"
+       width="4291.0479"
+       height="2975.6101"
+       x="517.10297"
+       y="798.33441" />
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1049"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="titanium.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1053" />
+  <sodipodi:namedview
+     id="namedview1051"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.10656738"
+     inkscape:cx="3983.3952"
+     inkscape:cy="3725.3425"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1055" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1055">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="titanium.jpg"
+       id="image1057" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 2345.9336,2693.1317 C 2824.504,2566.4513 3190.4696,882.07102 3087.2486,628.71019"
+       id="path1176" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1178"
+       cx="2796.3528"
+       cy="2106.6484"
+       rx="37.534939"
+       ry="46.918671" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect1180"
+       width="4795.0884"
+       height="4025.6221"
+       x="150.13976"
+       y="28.151203" />
+  </g>
+</svg>

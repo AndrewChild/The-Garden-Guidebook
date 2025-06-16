@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1049" width="4795.0884" height="4025.6221" viewBox="150.13976 28.151203 4795.0884 4025.6221" ns1:docname="titanium.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1053" />
+  <ns1:namedview id="namedview1051" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.10656738" ns2:cx="3983.3952" ns2:cy="3725.3425" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1055" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1055">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="titanium.jpg" id="image1057" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:36.19;stroke-dasharray:none" d="M 2345.9336,2693.1317 C 2824.504,2566.4513 3190.4696,882.07102 3087.2486,628.71019" id="path1176" />
+    <ns0:path id="path1176_clone" style="fill:none;stroke:#FFFFFF;stroke-width:36.19;stroke-dasharray:155.1, 155.1" d="M 2345.9336,2693.1317 C 2824.504,2566.4513 3190.4696,882.07102 3087.2486,628.71019" />
+    <ns0:circle id="path1178" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:15.51;stroke-dasharray:none;stroke-opacity:1" cx="2796.3528" cy="2106.6484" r="161.9244" />
+    <ns0:text id="path1178_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:5.17;stroke-dasharray:none;stroke-opacity:1" x="2743.3086000000003" y="2181.0964">
+      <ns0:text id="path1178_text" x="2743.3086000000003" y="2181.0964" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:186.12px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

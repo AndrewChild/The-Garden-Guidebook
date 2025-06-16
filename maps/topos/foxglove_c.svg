@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1190" width="4062.8638" height="3601.741" viewBox="-24.925543 697.91522 4062.8638 3601.741" ns1:docname="foxglove.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1194" />
+  <ns1:namedview id="namedview1192" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.080238971" ns2:cx="355.189" ns2:cy="2841.512" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1196" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1196">
+    <ns0:image width="4096" height="5440" preserveAspectRatio="none" ns3:href="foxglove.jpg" id="image1198" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:30.59;stroke-dasharray:none" d="M 2112.4399,3171.7755 C 2399.0836,2648.3391 1950.4238,1352.2107 1638.8545,1096.7239" id="path1317" ns1:nodetypes="cc" />
+    <ns0:path id="path1317_clone" style="fill:none;stroke:#FFFFFF;stroke-width:30.59;stroke-dasharray:131.1, 131.1" d="M 2112.4399,3171.7755 C 2399.0836,2648.3391 1950.4238,1352.2107 1638.8545,1096.7239" />
+    <ns0:circle id="path1319" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.11;stroke-dasharray:none;stroke-opacity:1" cx="2118.6711" cy="2099.9771" r="136.8684" />
+    <ns0:text id="path1319_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.37;stroke-dasharray:none;stroke-opacity:1" x="2073.8349" y="2162.9051">
+      <ns0:text id="path1319_text" x="2073.8349" y="2162.9051" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:157.32px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

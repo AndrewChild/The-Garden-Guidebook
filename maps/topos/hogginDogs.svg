@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg894"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="hogginDogs.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs898" />
+  <sodipodi:namedview
+     id="namedview896"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.21313476"
+     inkscape:cx="2303.7068"
+     inkscape:cy="2603.9863"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g900" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g900">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="hogginDogs.jpg"
+       id="image902" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 3462.5979,3016.8706 c -319.0469,-79.7618 -731.9313,-398.8088 -685.0126,-699.0883 66.7045,-606.8165 636.5915,-1292.3137 502.0298,-1773.52571"
+       id="path1021"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 2782.2772,3162.3184 c 356.5819,-145.4478 365.9657,-248.6689 206.4422,-403.5005"
+       id="path1023"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1025"
+       cx="3009.833"
+       cy="2777.5852"
+       rx="21.113401"
+       ry="37.534939" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 1717.2234,2927.7251 c 417.5761,112.6048 1022.827,-107.913 1065.0538,-661.5533"
+       id="path1027" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1029"
+       cx="2266.1719"
+       cy="2894.8821"
+       rx="42.226803"
+       ry="51.610538" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 2421.0034,2833.8877 C 2843.2715,2481.9977 1130.74,1778.2176 1163.583,1435.7113 1196.4261,1093.205 2223.945,426.95991 2223.945,89.145475"
+       id="path1031"
+       sodipodi:nodetypes="csc" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1033"
+       cx="1468.5544"
+       cy="1796.9851"
+       r="32.843071" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect1047"
+       width="5423.7983"
+       height="3894.2498"
+       x="0"
+       y="37.534939" />
+  </g>
+</svg>

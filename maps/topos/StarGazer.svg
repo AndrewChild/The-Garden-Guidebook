@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="StarGazer.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15588804"
+     inkscape:cx="2357.4611"
+     inkscape:cy="2155.393"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="StarGazer.jpg"
+       id="image10" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 2821.3865,3220.5537 C 3392.9214,2617.2669 3733.1207,975.2381 3592.505,630.50277"
+       id="path293" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path347"
+       cx="3320.3455"
+       cy="2324.6956"
+       rx="68.039864"
+       ry="79.379845" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 2127.3798,2939.3223 C 2177.2757,2059.34 2757.8826,857.30233 2943.8583,793.79845"
+       id="path349" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path351"
+       cx="2556.031"
+       cy="1394.8173"
+       rx="65.771873"
+       ry="52.163898" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 1773.5725,2830.4585 c -72.5758,-589.6789 571.5349,-1682.8527 571.5349,-1682.8527"
+       id="path353" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path355"
+       cx="2016.248"
+       cy="1798.5205"
+       rx="79.379845"
+       ry="61.235882" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect463"
+       width="3925.8945"
+       height="3399.876"
+       x="795.44269"
+       y="205.27553" />
+  </g>
+</svg>

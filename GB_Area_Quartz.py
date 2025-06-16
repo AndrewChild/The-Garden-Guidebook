@@ -109,7 +109,11 @@ Route(name='Dank Commander',
       FA='Griffin Thoms',
       grade_unconfirmed=True,
       description='Start as for Unsalted Almonds, but go straight up.')
-Variation(name='Monorail Extension Project',
+Variation(name='Mondorail',
+          item_id='Monorail Extension Project',
+          grade=10,
+          rating=3,
+          FA='Zachary Radke',
           parent=book.routes['Monorail'],
           description='Climb Monorail and ride the lip the whole way across the boulder.') 
       

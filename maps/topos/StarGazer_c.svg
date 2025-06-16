@@ -1,0 +1,25 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg2" width="3925.8945" height="3399.876" viewBox="795.44269 205.27553 3925.8945 3399.876" ns1:docname="StarGazer.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs6" />
+  <ns1:namedview id="namedview4" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.15588804" ns2:cx="2357.4611" ns2:cy="2155.393" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g8" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g8">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="StarGazer.jpg" id="image10" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:29.610000000000003;stroke-dasharray:none" d="M 2821.3865,3220.5537 C 3392.9214,2617.2669 3733.1207,975.2381 3592.505,630.50277" id="path293" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:29.610000000000003;stroke-dasharray:none" d="M 2127.3798,2939.3223 C 2177.2757,2059.34 2757.8826,857.30233 2943.8583,793.79845" id="path349" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:29.610000000000003;stroke-dasharray:none" d="m 1773.5725,2830.4585 c -72.5758,-589.6789 571.5349,-1682.8527 571.5349,-1682.8527" id="path353" />
+    <ns0:path id="path293_clone" style="fill:none;stroke:#FFFFFF;stroke-width:29.610000000000003;stroke-dasharray:126.9, 126.9" d="M 2821.3865,3220.5537 C 3392.9214,2617.2669 3733.1207,975.2381 3592.505,630.50277" />
+    <ns0:path id="path349_clone" style="fill:none;stroke:#FFFFFF;stroke-width:29.610000000000003;stroke-dasharray:126.9, 126.9" d="M 2127.3798,2939.3223 C 2177.2757,2059.34 2757.8826,857.30233 2943.8583,793.79845" />
+    <ns0:path id="path353_clone" style="fill:none;stroke:#FFFFFF;stroke-width:29.610000000000003;stroke-dasharray:126.9, 126.9" d="m 1773.5725,2830.4585 c -72.5758,-589.6789 571.5349,-1682.8527 571.5349,-1682.8527" />
+    <ns0:circle id="path347" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:12.690000000000001;stroke-dasharray:none;stroke-opacity:1" cx="3320.3455" cy="2324.6956" r="132.4836" />
+    <ns0:text id="path347_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.23;stroke-dasharray:none;stroke-opacity:1" x="3276.9456999999998" y="2385.6076">
+      <ns0:text id="path347_text" x="3276.9456999999998" y="2385.6076" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:152.28000000000003px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">3</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path351" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:12.690000000000001;stroke-dasharray:none;stroke-opacity:1" cx="2556.031" cy="1394.8173" r="132.4836" />
+    <ns0:text id="path351_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.23;stroke-dasharray:none;stroke-opacity:1" x="2512.6312" y="1455.7293">
+      <ns0:text id="path351_text" x="2512.6312" y="1455.7293" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:152.28000000000003px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">2</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path355" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:12.690000000000001;stroke-dasharray:none;stroke-opacity:1" cx="2016.248" cy="1798.5205" r="132.4836" />
+    <ns0:text id="path355_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.23;stroke-dasharray:none;stroke-opacity:1" x="1972.8482000000001" y="1859.4325000000001">
+      <ns0:text id="path355_text" x="1972.8482000000001" y="1859.4325000000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:152.28000000000003px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg1213" width="4291.0479" height="2975.6101" viewBox="517.10297 798.33441 4291.0479 2975.6101" ns1:docname="DoubleStump2.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs1217" />
+  <ns1:namedview id="namedview1215" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.11022949" ns2:cx="2263.4596" ns2:cy="2485.7231" ns2:window-width="1536" ns2:window-height="811" ns2:window-x="1912" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="g1219" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g1219">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="DoubleStump2.jpg" id="image1221" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:32.34;stroke-dasharray:none" d="m 3093.546,2653.5548 c 222.2635,-331.1273 131.5437,-1374.4053 -45.36,-1632.9568" id="path1340" />
+    <ns0:path id="path1340_clone" style="fill:none;stroke:#FFFFFF;stroke-width:32.34;stroke-dasharray:138.6, 138.6" d="m 3093.546,2653.5548 c 222.2635,-331.1273 131.5437,-1374.4053 -45.36,-1632.9568" />
+    <ns0:circle id="path1342" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.86;stroke-dasharray:none;stroke-opacity:1" cx="3191.0698" cy="1505.9491" r="144.6984" />
+    <ns0:text id="path1342_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.62;stroke-dasharray:none;stroke-opacity:1" x="3096.2674" y="1572.4771">
+      <ns0:text id="path1342_text" x="3096.2674" y="1572.4771" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:166.32px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">17</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

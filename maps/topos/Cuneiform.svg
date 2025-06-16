@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1354"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="Cuneiform.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1358" />
+  <sodipodi:namedview
+     id="namedview1356"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15588804"
+     inkscape:cx="2363.876"
+     inkscape:cy="1719.1825"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1360" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1360">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="Cuneiform.jpg"
+       id="image1362" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 1628.4208,2689.8427 C 1483.2691,1655.6368 1800.7885,825.55039 1800.7885,825.55039"
+       id="path1481" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1483"
+       cx="1598.9369"
+       cy="1916.4563"
+       rx="56.69989"
+       ry="38.555923" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 2921.1783,3039.1141 C 2567.371,2199.9557 2363.2514,870.9103 2363.2514,870.9103"
+       id="path1485" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1487"
+       cx="2476.6511"
+       cy="1483.269"
+       rx="36.28793"
+       ry="27.215946" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 3710.4408,3043.6501 C 3565.289,2476.6512 3247.7697,1941.4042 3034.5781,1723.6766 2821.3865,1505.9491 2385.9313,1106.7818 2367.7874,889.05426"
+       id="path1489" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1491"
+       cx="3268.1816"
+       cy="2038.9281"
+       rx="47.627907"
+       ry="83.915833" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 3710.4408,3048.186 c -72.5759,-263.0874 -58.9679,-621.4307 -58.9679,-621.4307"
+       id="path1493" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1495"
+       cx="3646.9368"
+       cy="2585.5149"
+       rx="54.431892"
+       ry="58.967884" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect1497"
+       width="4490.4023"
+       height="3316.4827"
+       x="134.71207"
+       y="686.39001" />
+  </g>
+</svg>

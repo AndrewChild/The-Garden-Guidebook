@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg750"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="GrizzlyFace.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs754" />
+  <sodipodi:namedview
+     id="namedview752"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.11022949"
+     inkscape:cx="2463.0432"
+     inkscape:cy="2322.4275"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g756" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g756">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="GrizzlyFace.jpg"
+       id="image758" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 3367.8016,2546.6995 C 3027.814,1995.0215 3059.8883,859.59127 3059.8883,859.59127"
+       id="path877" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path883"
+       cx="3101.585"
+       cy="1655.0339"
+       rx="67.356033"
+       ry="121.88235" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 1706.3528,2585.1887 c -211.6904,-532.4334 -250.1795,-975.0588 12.8297,-1218.8235 263.0093,-243.7647 615.8266,-404.13617 615.8266,-404.13617"
+       id="path885" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path887"
+       cx="1574.8481"
+       cy="1578.0557"
+       rx="41.69659"
+       ry="32.074303" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect889"
+       width="4127.752"
+       height="3383.8494"
+       x="562.46289"
+       y="489.88705" />
+  </g>
+</svg>
