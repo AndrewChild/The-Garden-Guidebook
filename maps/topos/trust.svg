@@ -27,12 +27,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.35585845"
-     inkscape:cx="931.55018"
-     inkscape:cy="601.36271"
-     inkscape:window-width="1536"
-     inkscape:window-height="811"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:cx="594.33744"
+     inkscape:cy="604.17281"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
      inkscape:window-maximized="1"
      inkscape:current-layer="g145" />
   <g
@@ -112,5 +112,12 @@
        cy="660.37494"
        rx="22.480848"
        ry="23.885902" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect1523"
+       width="1551.1786"
+       height="1039.7393"
+       x="5.6202121"
+       y="8.4303179" />
   </g>
 </svg>

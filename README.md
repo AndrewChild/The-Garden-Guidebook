@@ -7,6 +7,7 @@
 - write descriptions for placeholder routes
 
 ## Things that I'm not sure if I should add
+- Consider rearranging all routes to read left to right (right now cliff reads right to left)
 - Essay/Flavor text inserts
   - Ethics of developing the Meth Lab prow
   - Who is E?
@@ -32,8 +33,9 @@
 - should the upper garden be split into upper and middle?
 - Should variations be indexed? maybe there should be a tier below variation that doesn't get indexed?
 - Should all routes be included in the subarea layout maps (right now if there are two badges that would overlap I just include one)
+- Should areas be reordered? Right now they are listed main first then in order of how close they are to the main. Might make more sense to list them in terms of distance from Sweethome
 
-## Things that need to be done in the field
+## Area specific ToDo
 
 ### Garden Main
 Routes to add:
@@ -51,9 +53,10 @@ Topos to add:
 - Minnesota With Love
 - Into the Light
 
-Routes with placeholder descriptions
+Routes with placeholder/out of date descriptions
 - chockstone highball
 - Left corner
+- E's low start
 
 Routes with no star rating
 - Routes on the backside of the office
@@ -108,10 +111,8 @@ Routes to add
 - Left start to kick it?
 - brick house?
 - Pumpkin spice low
-- Routes on Titaniam Boulder
-- Story of O Boulder
-- Foxglove boulder
 - Fuzzy Dice boulder
+- back seat driver
 
 Topos to add:
 
