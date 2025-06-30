@@ -32,20 +32,20 @@
 \contentsline {chapter}{\numberline {5}Clear Cut Boulders}{83}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Quartzville Creek}{88}{chapter.6}%
 \contentsline {section}{A - Redneck Riviera}{89}{section*.569}%
-\contentsline {section}{B - Old Miner's Camp}{92}{section*.589}%
-\contentsline {chapter}{\numberline {7}Other Areas}{93}{chapter.7}%
-\contentsline {section}{A - The Upper Garden Cliffs}{93}{section*.595}%
-\contentsline {section}{B - Highway 11 Wall}{93}{section*.597}%
-\contentsline {section}{C - Highway 11 Pillar}{94}{section*.599}%
-\contentsline {section}{D - Cascadia Cave}{94}{section*.602}%
-\contentsline {section}{E - Canyon Creek}{95}{section*.604}%
-\contentsline {section}{F - Horse Rock}{95}{section*.606}%
-\contentsline {section}{G - Gordon Ridge}{96}{section*.608}%
-\contentsline {section}{H - The Menagerie Wilderness}{96}{section*.610}%
-\contentsline {section}{I - Santiam Pinnacle}{97}{section*.613}%
-\contentsline {section}{J - Iron Mountain}{98}{section*.615}%
-\contentsline {section}{K - The Needles}{99}{section*.625}%
-\contentsline {chapter}{Index}{100}{section*.626}%
-\contentsline {section}{Routes Alphabetical}{100}{section*.628}%
-\contentsline {section}{Routes by grade}{104}{section*.629}%
-\contentsline {section}{Known First Ascents}{108}{section*.630}%
+\contentsline {section}{B - Old Miner's Camp}{93}{section*.590}%
+\contentsline {chapter}{\numberline {7}Other Areas}{94}{chapter.7}%
+\contentsline {section}{A - The Upper Garden Cliffs}{94}{section*.596}%
+\contentsline {section}{B - Highway 11 Wall}{94}{section*.598}%
+\contentsline {section}{C - Highway 11 Pillar}{95}{section*.600}%
+\contentsline {section}{D - Cascadia Cave}{95}{section*.603}%
+\contentsline {section}{E - Canyon Creek}{96}{section*.605}%
+\contentsline {section}{F - Horse Rock}{96}{section*.607}%
+\contentsline {section}{G - Gordon Ridge}{97}{section*.609}%
+\contentsline {section}{H - The Menagerie Wilderness}{97}{section*.611}%
+\contentsline {section}{I - Santiam Pinnacle}{98}{section*.614}%
+\contentsline {section}{J - Iron Mountain}{99}{section*.616}%
+\contentsline {section}{K - The Needles}{100}{section*.626}%
+\contentsline {chapter}{Index}{101}{section*.627}%
+\contentsline {section}{Routes Alphabetical}{101}{section*.629}%
+\contentsline {section}{Routes by grade}{105}{section*.630}%
+\contentsline {section}{Known First Ascents}{109}{section*.631}%

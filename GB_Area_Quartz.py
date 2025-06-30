@@ -53,14 +53,14 @@ Route(name='Pony Boy',
                   'this thing is probably not worth getting your pads wet.')
 Route(name='Monorail',
       parent=book.formations['Monorail'],
-      grade='8+', 
+      grade=8, 
       rating=3,
       FA='Zachary Radke',
       description='Start on the far right and traverse left along the lip. Topping in a shallow divot on the center left of the boulder.') 
 Route(name='Deliverance',
       parent=book.formations['Monorail'],
       grade=7,
-      rating=3,
+      rating=2,
       FA='Nick Scarpelli',
       description='Sit start and climb the steep roof using a left hand side pull and the right facing rib. Top as for Monorail.') 
 Route(name='Ugly Face',
@@ -116,6 +116,11 @@ Variation(name='Mondorail',
           FA='Zachary Radke',
           parent=book.routes['Monorail'],
           description='Climb Monorail and ride the lip the whole way across the boulder.') 
+Variation(name='Deliverance Low Start Project',
+          item_id='Deliverance Low',
+          grade='?',
+          parent=book.routes['Deliverance'],
+          description='Logical start all the way at the bottom of the right facing rib. Link into the Mondorail for maximal points.') 
       
 
 if __name__ == '__main__':
