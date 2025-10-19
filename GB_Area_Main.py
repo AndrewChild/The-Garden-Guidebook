@@ -814,6 +814,11 @@ Route(name='Locksmith',
       description='Also known as Hula. Sit start with a juggy left hand side pull and right hand on an under cling edge. Pull a few '
                   'crimpy moves until you can reach a good hold on the arête. Rock over onto the slab and quest to '
                   'the top. Be sure to clean the upper section before attempting this rig.')
+Route(name='Brain Hemorrhage',
+      parent=book.formations['Locksmith'],
+      grade=6,
+      rating=2,
+      description='Start as for locksmith and traverse right topping in the vicinity of philanthropy.',)
 Route(name='Philanthropy',
       parent=book.formations['Locksmith'],
       grade=4,
@@ -858,12 +863,9 @@ Route(name='The Arboretum',
       description='Stand start with left hand on a big under cling and right in a small dish. Climb up and left.')
 Route(name='The Other Berned',
       parent=book.formations['Garden Roof'],
-      rating=0,
-      grade=10,
-      grade_unconfirmed=True,
-      description='Sit start on small opposing crimps at the far right of the block, climb more or less straight up '
-                  'on exfoliating rock. Due to the crumbly nature of the rock its hard to tell what, if anything, '
-                  'this ever was. It\'s unclear if this has been climbed in its current state.')
+      rating=2,
+      grade=5,
+      description='Stand start on small opposing crimps at the far right of the block. The right hand crimp is fairly deep into the crack. Either top straight up or (for full value) traverse the scoop and top in the same spot as The Arboretum')
 Route(name='Somewhere In-Between',
       parent=book.formations['Gumby Wall'],
       grade=1,
@@ -1152,12 +1154,6 @@ Variation(name='Azain Crack',
           grade=1,
           rating=2,
           description='Climb to the top of the crack then drop off or down climb.',)
-Variation(name='Brain Hemorrhage',
-          parent=book.routes['Locksmith'],
-          grade=7,
-          rating=2,
-          description='Start as for locksmith and traverse right into philanthropy.',
-          grade_unconfirmed=True, )
 Variation(name='Dream Weaver',
           parent=book.routes['Full Stroke'],
           grade=2,
@@ -1175,12 +1171,6 @@ Variation(name='Arboretum Sit Start',
           parent=book.routes['The Arboretum'],
           grade='?',
           description='Sit Start somewhere in the vicinity of the Other Bearned, somehow link into Arboretum. Legend has it that this was climbed by a Eugene local in the early 2000s at V13. No one knows the name of said mystery crusher.', )
-Variation(name='The Siren Stand Start',
-          parent=book.routes['The Siren'],
-          grade=3,
-          rating=2,
-          description='Start with your left hand on the left arête and right hand on a good side pull just above the sit '
-                      'start holds.', )
 Variation(name='Bag of Tricks',
           parent=book.routes['Gumby Slab'],
           grade=3,

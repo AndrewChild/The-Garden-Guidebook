@@ -162,10 +162,12 @@ Route(name='Rain Shadow',
       FA='Jayson Nissen',
       description='30\', Sport, 3 bolts. Pull a few juggy moves through broken rock down low and negotiate a techy dihedral to clip the chains.'
       )
-Route(name='Lenticular Cloud Project',
+Route(name='Lenticular Cloud',
       parent=book.formations['Garden Cliff Right Side'],
-      grade='5.?',
-      description='Open Project. 40\', Sport, 8 bolts. Start on Rain shadow but traverse left after the second bolt and follow a weakness out the big roof, long slings are required on several bolts to prevent rope drag. A blank section immediately after the roof has foiled all ascent attempts so far. This project has been opend by it\'s developer with the caveat that he requests the FA to name the route \"Lenticular Cloud\".'
+      grade='5.12d',
+      rating=2,
+      FA='Zachary Radke',
+      description='40\', Sport, 8 bolts. Start on Rain shadow but traverse left after the second bolt and follow a weakness out the big roof, long slings are required on several bolts to prevent rope drag. The crux is an awkward blank section just after the roof.'
       )
 Route(name='Vine Project',
       parent=book.formations['Garden Cliff Right Side'],

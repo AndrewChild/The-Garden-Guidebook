@@ -40,6 +40,11 @@
 ### Garden Main
 Routes to add:
 - earned V2s?
+- Goosebumps
+- Eskimo Roll
+- Golden Boy
+- Z's VB
+- Ed's Cave
 
 Topos to redo:
 - blowie
@@ -78,6 +83,9 @@ Routes with no star rating
 - Leave it to Jesus Sit Left
 
 ### Pink Tag
+Routes to add:
+- Aquamarine/Stone Ocean
+
 Routes with no star rating
 - Pissings
 - Lippity Split
@@ -86,6 +94,10 @@ Routes with no star rating
 - Le Lemet
 
 ### Garden Cliffs
+Routes to add:
+- Meniscus Terror Project
+- Whirlybird Project
+
 Topos to add:
 - Lady Bug
 - cabbage patch
@@ -112,7 +124,9 @@ Routes to add
 - brick house?
 - Pumpkin spice low
 - Fuzzy Dice boulder
-- back seat driver
+- Freedom of the Press
+- Back Seat Driver
+- Surfs Up
 
 Topos to add:
 
