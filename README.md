@@ -177,6 +177,7 @@ Trail improvement:
 - Build cairns on trails in the upper garden
 
 Trail/route re-establishment:
+- Build trail to freedom of the press and upper forest cliff
 - Build trail to Pete's rail and other upper forest boulders (may involve clearing poison oak)
 - Build trail to story of O boulder
 
