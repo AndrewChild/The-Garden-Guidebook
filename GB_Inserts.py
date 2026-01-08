@@ -1,4 +1,4 @@
-from dataStructure import TextInsert
+from dataStructure.TextInsert import TextInsert
 from GB_Book import book
 
 TextInsert(name='The Garden\'s Greatest Mystery',

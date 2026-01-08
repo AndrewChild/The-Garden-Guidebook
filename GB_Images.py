@@ -1,4 +1,7 @@
-from dataStructure import Photo, Topo, AreaMap, SubAreaMap
+from dataStructure.Photo import Photo
+from dataStructure.Topo import Topo
+from dataStructure.AreaMap import AreaMap
+from dataStructure.SubAreaMap import SubAreaMap
 from GB_Book import book
 
 

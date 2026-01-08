@@ -1,4 +1,4 @@
-from dataStructure import *
+from dataStructure.Book import Book
 
 
 book = Book(
