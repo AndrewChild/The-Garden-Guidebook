@@ -13,23 +13,36 @@ Area(name='Garden Cliffs',
      
 Subarea(name='The Garden Cliff',
         parent=book.areas['Garden Cliffs'],
+        gps='44.44153, -122.57378',
+        format_options=['suppress_gps'],
         description='The largest of the area\'s cliffs is also conveniently the closest to the road. This cliff features varied climbing at grades ranging from 5.9 to 5.13- in a variety of styles. Many sections of the wall are shaded by large maple trees, which provide some relief in the hotter months. See area description for approach')
 Subarea(name='Fairy Tale Wall',
+        gps='44.44176, -122.57468',
+        format_options=['suppress_gps'],
         parent=book.areas['Garden Cliffs'],
         description='Following the main trail past the Garden Cliff brings you to a second, much smaller cliff.' )
 Subarea(name='Cabbage Patch/ Thunderdome',
+        item_id='Cabbage Patch Thunderdome',
+        gps='44.44207, -122.57538',
+        format_options=['suppress_gps'],
         description='Even further down the main trail is a third cliff which hosts a good selection of more moderate climbs.',
         note = 'This area is incomplete. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
         parent=book.areas['Garden Cliffs'], )
         
         
 Formation(name='Garden Cliff Right Side',
+          gps='44.44137, -122.57316',
+          format_options=['suppress_gps'],
           parent=book.subareas['The Garden Cliff'],
           description='')
 Formation(name='Garden Cliff Middle',
+          gps='44.44153, -122.57378',
+          format_options=['suppress_gps'],
           parent=book.subareas['The Garden Cliff'],
           description='')
 Formation(name='Garden Cliff Left Side',
+          gps='44.44163, -122.57421',
+          format_options=['suppress_gps'],
           parent=book.subareas['The Garden Cliff'],
           description='')
 Formation(name='',
@@ -37,10 +50,15 @@ Formation(name='',
           parent=book.subareas['Fairy Tale Wall'],
           description='')
 Formation(name='Cabbage Patch',
-          parent=book.subareas['Cabbage Patch/ Thunderdome'],
+          format_options=['suppress_gps'],
+          gps='44.44207, -122.57538',
+          parent=book.subareas['Cabbage Patch Thunderdome'],
           description='')
 Formation(name='Johny Cash\'s Thunderdome',
-          parent=book.subareas['Cabbage Patch/ Thunderdome'],
+          item_id='Thunderdome',
+          format_options=['suppress_gps'],
+          gps='44.44219, -122.57582',
+          parent=book.subareas['Cabbage Patch Thunderdome'],
           description='')
           
           
@@ -334,42 +352,42 @@ Route(name='Kim Chi Corner',
       grade_unconfirmed=True,
       )
 Route(name='Where Do You Go When the Sun Goes Down',
-      parent=book.formations['Johny Cash\'s Thunderdome'],
+      parent=book.formations['Thunderdome'],
       grade='5.11a',
       FA='Jayson Nissen',
       grade_unconfirmed=True,
       description='45\', Sport, 8 bolts. Follow a shallow right facing corner to a ledge, then trend left and up over a large detached flake.'
       )
 Route(name='I Dropped a Man in Reno',
-      parent=book.formations['Johny Cash\'s Thunderdome'],
+      parent=book.formations['Thunderdome'],
       grade='5.7',
       FA='Jayson Nissen',
       grade_unconfirmed=True,
       description='45\', Sport, 11 bolts. Start on the right side of a large flake. Traverse right along a shallow ledge (crossing over Where Do You Go When the Sun Goes Down) to a grove and follow it to the top.'
       )
 Route(name='I Fell for You Like a Child',
-      parent=book.formations['Johny Cash\'s Thunderdome'],
+      parent=book.formations['Thunderdome'],
       grade='5.8',
       rating=2,
       FA='Jayson Nissen',
       description='35\', Sport, 6 bolts. Start on the right side of a large flake. From a stance at the top of the flake trend slightly right, off of the flake before continuing up through small pods.'
       )
 Route(name='I Will Let You Down',
-      parent=book.formations['Johny Cash\'s Thunderdome'],
+      parent=book.formations['Thunderdome'],
       grade='5.6',
       rating=2,
       FA='Jayson Nissen',
       description='35\', Sport, 6 bolts. Climb the center of the large flake then continue up the right face of a low angle corner.',
       )
 Route(name='A Million Dollars of Good',
-      parent=book.formations['Johny Cash\'s Thunderdome'],
+      parent=book.formations['Thunderdome'],
       grade='5.8',
       rating=2,
       FA='Jayson Nissen',
       description='35\', Sport, 7/6 bolts. Climb the left corner of the large flake before pulling onto a technical slab. Alternatively you can start as for I Will Let You Down and clip a connector bolt as you walk across the top of the flake skipping the first two bolts. This route would get full stars if the rock quality were better.'
       )
 Route(name='Stop Once to Wipe the Sweat Away',
-      parent=book.formations['Johny Cash\'s Thunderdome'],
+      parent=book.formations['Thunderdome'],
       grade='5.10a',
       rating=1,
       FA='Jayson Nissen',
