@@ -34,6 +34,10 @@
 - Should variations be indexed? maybe there should be a tier below variation that doesn't get indexed?
 - Should all routes be included in the subarea layout maps (right now if there are two badges that would overlap I just include one)
 - Should areas be reordered? Right now they are listed main first then in order of how close they are to the main. Might make more sense to list them in terms of distance from Sweethome
+- Routes with some confusion:
+ - E's low start
+ - Socializmo/dab rig
+ - Ice Spice
 
 ## Area specific ToDo
 
