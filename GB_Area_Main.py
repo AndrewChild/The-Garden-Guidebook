@@ -788,16 +788,16 @@ Route(name='Mini Hydrotube',
       parent=book.formations['Big'],
       description='Climb the well featured face using holds on both sides of a blunt corner. The top of this is pure choss and more committing than it looks, maybe just do it on TR.')
 Route(name='All Berned Down',
-      grade=10,
-      grade_unconfirmed=True,
+      grade=8,
+      rating=2,
       parent=book.formations['Big'],
-      description='Starting in the vicinity of All Berned Up and climb straight up the steep face to gain friable holds on the blunt arête. This route and its twin, All Berned Up, have been the source of much confusion over the decades. Credible sources have verified that both routes have been climbed but they have not seen traffic in the recent past.')
+      description='Sit Start as with hands on a good edge and climb straight up the short overhang to gain friable holds on the blunt arête. This route and its twin, All Berned Up, have been the source of much confusion over the decades.')
 Route(name='All Berned Up',
-      grade=10,
-      grade_unconfirmed=True,
+      grade=8,
+      rating=2,
       parent=book.formations['Big'],
-      description='Follows a hanging knife flake. Apparently there were multiple holds along both sides of the flake, but '
-                  'they all broke off. It\'s unclear if this line has been climbed in it\'s current state.')
+      description='Start as for All Berned Down but stay lower by Following the a hanging knife edge to the right. Legend tells that there were multiple holds along both sides of the flake, but '
+                  'they all broke off. The new school beta takes advantage of holds on the face and the lip but still tops on the far right.')
 Route(name='Slabarific',
       parent=book.formations['Big'],
       grade=1,
