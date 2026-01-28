@@ -9,14 +9,13 @@
    viewBox="0 0 772.15997 744"
    sodipodi:docname="overhand2.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1052" />
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1052" /><sodipodi:namedview
      id="namedview1050"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -26,50 +25,73 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.1733871"
-     inkscape:cx="284.21993"
-     inkscape:cy="373.27835"
+     inkscape:zoom="0.41485499"
+     inkscape:cx="336.26208"
+     inkscape:cy="373.62453"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="379"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1054" />
-  <g
+     inkscape:current-layer="g1054" /><g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g1054">
-    <image
-       width="772.15997"
-       height="744"
+     id="g1054"><image
+       width="1607.4777"
+       height="2134.9314"
        preserveAspectRatio="none"
        xlink:href="overhand2.jpg"
-       id="image1056" />
-    <path
+       id="image930"
+       x="-399.78"
+       y="-640.44342" /><path
        style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
-       d="M 243.73883,392.02749 C 347.71134,345.15464 343.45017,287.20275 335.78007,233.51203 328.10997,179.82131 394.58419,29.828179 394.58419,29.828179"
-       id="path1175" />
-    <ellipse
+       d="M 83.518899,385.20962 C 187.49141,338.33677 297.98221,316.40677 276.12372,163.62887 253.25698,3.8039908 245.88902,-128.75503 304.24742,-220.72852"
+       id="path1175"
+       sodipodi:nodetypes="csc" /><ellipse
        style="fill:none;fill-opacity:0.978723;stroke:#ff0000;stroke-width:5"
        id="path1177"
-       cx="339.189"
-       cy="185.36082"
+       cx="242.03436"
+       cy="301.26462"
        rx="11.931272"
-       ry="9.8006868" />
-    <path
+       ry="9.8006868" /><path
        style="fill:none;stroke:#ff0000;stroke-width:5"
-       d="M 597.41581,480.65979 C 663.0378,506.2268 751.6701,373.27835 751.6701,373.27835"
-       id="path414" />
-    <path
+       d="M 641.73196,506.2268 C 707.89347,562.5464 872.83464,325.4302 869.27835,122.72165"
+       id="path414"
+       sodipodi:nodetypes="cc" /><path
        style="fill:none;stroke:#ff0000;stroke-width:5"
-       d="M 680.08247,571.8488 C 636.61855,524.97594 634.91409,489.18213 662.18557,467.87629"
-       id="path416" />
-    <ellipse
+       d="M 801.09965,629.80069 C 757.63573,582.92783 708.20618,502.81787 752.52234,449.12715"
+       id="path416"
+       sodipodi:nodetypes="cc" /><ellipse
        style="fill:none;stroke:#ff0000;stroke-width:5"
        id="path470"
-       cx="697.12714"
+       cx="761.89691"
        cy="440.17868"
        rx="9.3745708"
-       ry="9.8006868" />
-  </g>
-</svg>
+       ry="9.8006868" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 117.60825,698.83161 C 214.76289,666.44673 -68.178694,323.8488 -68.178694,323.8488"
+       id="path935" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 289.75945,625.53952 C 158.51546,639.17526 134.65292,639.17526 121.01718,608.49484"
+       id="path937" /><ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path939"
+       cx="-41.759449"
+       cy="360.49484"
+       rx="11.079038"
+       ry="16.19244" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 78.405498,530.08935 C 34.089347,468.72852 64.769759,392.02749 95.450172,380.09622"
+       id="path943" /><ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path947"
+       cx="102.26804"
+       cy="570.99652"
+       rx="22.158075"
+       ry="17.044674" /><rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect1016"
+       width="1593.3278"
+       height="1205.2405"
+       x="-390.49789"
+       y="-342.28827" /></g></svg>

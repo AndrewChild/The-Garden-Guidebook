@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1018"
+   width="4096"
+   height="5440"
+   viewBox="0 0 4096 5440"
+   sodipodi:docname="aquamarine.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1022" />
+  <sodipodi:namedview
+     id="namedview1020"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.16599265"
+     inkscape:cx="1328.3721"
+     inkscape:cy="2241.0631"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1024" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1024">
+    <image
+       width="4096"
+       height="5440"
+       preserveAspectRatio="none"
+       xlink:href="aquamarine.jpg"
+       id="image1026" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 3295.3267,2289.258 c -747.0211,156.6335 -1078.361,-246.9989 -1114.5072,-560.2658 -36.1462,-313.2668 60.2436,-1162.70206 60.2436,-1162.70206"
+       id="path1161" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 2433.8427,2620.598 c 433.7542,-54.2193 144.5848,-391.5836 -48.1948,-493.9978"
+       id="path1163"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1165"
+       cx="2168.7708"
+       cy="1554.2858"
+       r="54.219269" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 2012.1373,3331.4729 C 2795.3045,3385.6921 3632.691,2554.33 3632.691,2554.33"
+       id="path1167" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="m 2783.2558,3313.3998 c -6.0243,-120.4873 138.5604,-234.9502 138.5604,-234.9502"
+       id="path1169" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1171"
+       cx="3108.5715"
+       cy="2966.9988"
+       rx="42.170544"
+       ry="45.182724" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect1173"
+       width="4054.3965"
+       height="3777.2756"
+       x="18.07309"
+       y="204.82835" />
+  </g>
+</svg>
