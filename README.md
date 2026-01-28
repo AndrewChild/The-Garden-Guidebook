@@ -64,7 +64,6 @@ Topos to add:
 
 Routes with placeholder/out of date descriptions
 - chockstone highball
-- Left corner
 - E's low start
 
 Routes with no star rating
