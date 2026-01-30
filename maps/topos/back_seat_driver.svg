@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1187"
+   width="4096"
+   height="5440"
+   viewBox="0 0 4096 5440"
+   sodipodi:docname="back_seat_driver.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1191" />
+  <sodipodi:namedview
+     id="namedview1189"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.16599265"
+     inkscape:cx="1361.5061"
+     inkscape:cy="1759.1141"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1193" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1193">
+    <image
+       width="4096"
+       height="5440"
+       preserveAspectRatio="none"
+       xlink:href="back_seat_driver.jpg"
+       id="image1195" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       d="M 2180.8195,4030.299 C 2006.113,3482.0819 1843.4551,2519.3857 1843.4551,2277.2093 c 0,-319.2912 72.8121,-255.2247 54.2193,-596.412 -18.6613,-342.444 -245.3684,-751.55704 -319.2912,-740.99664"
+       id="path1314"
+       sodipodi:nodetypes="cssc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="path1316"
+       cx="1942.8572"
+       cy="3006.1572"
+       rx="99.401993"
+       ry="84.341087" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:5"
+       id="rect1318"
+       width="4024.2742"
+       height="4162.8345"
+       x="36.146179"
+       y="650.63123" />
+  </g>
+</svg>

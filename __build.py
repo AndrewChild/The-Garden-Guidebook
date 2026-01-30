@@ -25,3 +25,24 @@ if __name__ == '__main__':
     book.format_options.append('skip_text_inserts')
     book.file_name = 'guideBook'
     book.gen()
+
+    with open('missing_info.txt', 'w') as f:
+        f.write('----Formations with no gps----\n')
+        for formation in book.formations.values():
+            if not formation.gps and formation.name:
+                f.write(formation.name+'\n')
+
+        f.write('\n----climbs with no description----\n')
+        for climb in book.climbs.values():
+            if not climb.description or 'PLACEHOLDER' in climb.description:
+                f.write(climb.name+'\n')
+
+        f.write('\n----climbs with no rating----\n')
+        for climb in book.climbs.values():
+            if climb.rating == -1 and 'Project' not in climb.name:
+                f.write(climb.name+'\n')
+
+        f.write('\n----climbs with no topo----\n')
+        for climb in book.climbs.values():
+            if not climb.hasTopo:
+                f.write(climb.name+'\n')

@@ -3,7 +3,7 @@
   <ns1:namedview id="namedview749" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.88887886" ns2:cx="682.3202" ns2:cy="804.38408" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g753" />
   <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g753">
     <ns0:image width="1925.12" height="1285.12" preserveAspectRatio="none" ns3:href="Methlab.jpg" id="image755" />
-    <ns0:path style="fill:none;stroke:#000000;stroke-width:3.4299999999999997;stroke-dasharray:none" d="m 1806.7705,717.19562 c 3.375,-14.62517 -53.4381,-55.68813 -31.5004,-84.93846" id="path1039" />
+    <ns0:path style="fill:none;stroke:#b8860b;stroke-width:3.4299999999999997;stroke-dasharray:none" d="m 1806.7705,717.19562 c 3.375,-14.62517 -53.4381,-55.68813 -31.5004,-84.93846" id="path1039" />
     <ns0:path style="fill:none;stroke:#b8860b;stroke-width:3.4299999999999997;stroke-dasharray:none" d="M 604.69434,927.01049 C 631.69465,880.88497 632.81966,830.8219 552.94376,793.69648 473.06785,756.57106 434.25491,736.88334 440.44248,699.19541" id="path1856" ns1:nodetypes="csc" />
     <ns0:path style="fill:none;stroke:#b8860b;stroke-width:3.4299999999999997;stroke-dasharray:none" d="M 636.55442,1034.0542 C 607.86659,987.36618 578.05376,972.17848 605.05406,926.05292" id="path1856-2" ns1:nodetypes="cc" />
     <ns0:path style="fill:none;stroke:#b8860b;stroke-width:3.4299999999999997;stroke-dasharray:none" d="M 971.44849,907.32277 C 921.94793,838.69699 882.57248,818.44677 905.63524,775.69628 928.698,732.9458 1058.0745,687.94529 1029.9492,618.19449" id="path1858" ns1:nodetypes="csc" />
@@ -61,7 +61,7 @@
     <ns0:text id="path1892_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.49;stroke-dasharray:none;stroke-opacity:1" x="1855.8002000000001" y="516.5763900000001">
       <ns0:text id="path1892_text" x="1855.8002000000001" y="516.5763900000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.64px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">19</ns0:text>
     </ns0:text>
-    <ns0:circle id="path1042" style="fill:#000000;fill-opacity:1;stroke:#FFFFFF;stroke-width:1.47;stroke-dasharray:none;stroke-opacity:1" cx="1786.239" cy="682.6015" r="20.3742" />
+    <ns0:circle id="path1042" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:1.47;stroke-dasharray:none;stroke-opacity:1" cx="1786.239" cy="682.6015" r="20.3742" />
     <ns0:text id="path1042_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.49;stroke-dasharray:none;stroke-opacity:1" x="1771.1568" y="689.6575">
       <ns0:text id="path1042_text" x="1771.1568" y="689.6575" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.64px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">19a</ns0:text>
     </ns0:text>

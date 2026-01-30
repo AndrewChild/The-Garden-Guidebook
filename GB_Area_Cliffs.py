@@ -26,7 +26,7 @@ Subarea(name='Cabbage Patch/ Thunderdome',
         gps='44.44207, -122.57538',
         format_options=['suppress_gps'],
         description='Even further down the main trail is a third cliff which hosts a good selection of more moderate climbs.',
-        note = 'This area is incomplete. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
+        note = 'This area is located in a huge blackberry patch the trail to this cliff and some of the routes are overgrown with blackberries which must be cleared each spring.',
         parent=book.areas['Garden Cliffs'], )
         
         
@@ -154,6 +154,7 @@ Route(name='Butterfly Effect',
       parent=book.formations['Garden Cliff Right Side'],
       grade='5.13a/b',
       FA='Evan Powers',
+      rating=3,
       description='40\', Sport, 6 bolts. Climbs more or less straight up through a low bolcky ledge followed by thin crimps and a bouldery roof pull. Reportedly climbs like low 5.12 endurance into V7/8 with no rest. The middle of the route is equipped with permas.'
       )
 Route(name='Slithering Skink',
@@ -206,6 +207,7 @@ Route(name='Heirloom',
 Route(name='Chimeras',
       parent=book.formations['Garden Cliff Middle'],
       grade='5.13a',
+      rating=3,
       FA='JD Merritt',
       description='70\', Sport, 9 bolts. CLimb through the middle of a big scoop with a bouldery exit. Ignore the first bolt to prevent rope drag.'
       )
@@ -332,24 +334,28 @@ Route(name='Don\'t Forget the Nooch',
       grade='5.4',
       FA='Jayson Nissen',
       grade_unconfirmed=True,
+      description='30\', Sport 6 Bolts.'
       )
 Route(name='Tabouli',
       parent=book.formations['Cabbage Patch'],
       grade='5.7',
       FA='Jayson Nissen',
       grade_unconfirmed=True,
+      description='30\', Sport 6 Bolts.'
       )
 Route(name='Babaganoush',
       parent=book.formations['Cabbage Patch'],
       grade='5.10b',
       FA='Mike Gunnels',
       grade_unconfirmed=True,
+      description='30\', Sport 5 Bolts.'
       )
 Route(name='Kim Chi Corner',
       parent=book.formations['Cabbage Patch'],
       grade='5.11a',
       FA='Jayson Nissen',
       grade_unconfirmed=True,
+      description='30\', Sport 6 Bolts.'
       )
 Route(name='Where Do You Go When the Sun Goes Down',
       parent=book.formations['Thunderdome'],

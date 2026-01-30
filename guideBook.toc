@@ -10,50 +10,50 @@
 \contentsline {section}{Acknowledgements}{7}{section*.10}%
 \contentsline {chapter}{\numberline {1}The Garden Main}{13}{chapter.1}%
 \contentsline {section}{A - Entrance Area}{14}{section*.16}%
-\contentsline {section}{B - Fight Club}{19}{section*.60}%
-\contentsline {section}{C - Undertow}{24}{section*.100}%
-\contentsline {section}{D - Meth Lab}{28}{section*.135}%
-\contentsline {section}{E - Big}{35}{section*.197}%
-\contentsline {section}{F - Azain}{39}{section*.233}%
-\contentsline {section}{G - Child of God}{43}{section*.265}%
-\contentsline {section}{H - François}{48}{section*.297}%
+\contentsline {section}{B - Fight Club}{19}{section*.62}%
+\contentsline {section}{C - Undertow}{24}{section*.102}%
+\contentsline {section}{D - Meth Lab}{28}{section*.137}%
+\contentsline {section}{E - Big}{35}{section*.199}%
+\contentsline {section}{F - Azain}{39}{section*.235}%
+\contentsline {section}{G - Child of God}{43}{section*.267}%
+\contentsline {section}{H - François}{48}{section*.301}%
 \contentsline {chapter}{\numberline {2}Pink Tag Boulders}{51}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Garden Cliffs}{54}{chapter.3}%
-\contentsline {section}{A - The Garden Cliff}{55}{section*.337}%
-\contentsline {section}{B - Fairy Tale Wall}{62}{section*.386}%
-\contentsline {section}{C - Cabbage Patch/ Thunderdome}{63}{section*.393}%
-\contentsline {chapter}{\numberline {4}Upper Garden}{65}{chapter.4}%
-\contentsline {section}{A - Entrance Area}{67}{section*.411}%
-\contentsline {section}{B - The Bread Loaves/Scratch and Spliff}{68}{section*.421}%
-\contentsline {section}{C - Dr. Strangelove}{72}{section*.445}%
-\contentsline {section}{D - Machete Monkey}{74}{section*.461}%
-\contentsline {section}{E - Middle Garden}{78}{section*.494}%
-\contentsline {section}{F - Upper Forest}{81}{section*.512}%
-\contentsline {chapter}{\numberline {5}Clear Cut Boulders}{84}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Quartzville Creek}{89}{chapter.6}%
-\contentsline {section}{A - Redneck Riviera}{90}{section*.569}%
-\contentsline {section}{B - Old Miner's Camp}{94}{section*.592}%
-\contentsline {chapter}{\numberline {7}Other Areas}{95}{chapter.7}%
-\contentsline {section}{A - The Upper Garden Cliffs}{95}{section*.598}%
-\contentsline {section}{B - Highway 11 Wall}{95}{section*.600}%
-\contentsline {section}{C - Highway 11 Pillar}{96}{section*.602}%
-\contentsline {section}{D - Cascadia Cave}{96}{section*.605}%
-\contentsline {section}{E - Canyon Creek}{97}{section*.607}%
-\contentsline {section}{F - Horse Rock}{97}{section*.609}%
-\contentsline {section}{G - Gordon Ridge}{98}{section*.611}%
-\contentsline {section}{H - The Menagerie Wilderness}{98}{section*.613}%
-\contentsline {section}{I - Santiam Pinnacle}{99}{section*.616}%
-\contentsline {section}{J - Iron Mountain}{100}{section*.618}%
-\contentsline {section}{K - The Needles}{101}{section*.628}%
-\contentsline {chapter}{Index}{102}{section*.629}%
-\contentsline {section}{Routes Alphabetical}{102}{section*.631}%
-\contentsline {section}{Routes by grade}{106}{section*.632}%
-\contentsline {section}{Approximate GPS Locations}{110}{section*.633}%
-\contentsline {subsection}{Formations in The Garden Main}{110}{subsection*.634}%
-\contentsline {subsection}{Formations in Pink Tag Boulders}{111}{subsection*.635}%
-\contentsline {subsection}{Formations in Garden Cliffs}{112}{subsection*.636}%
-\contentsline {subsection}{Formations in Upper Garden}{112}{subsection*.637}%
-\contentsline {subsection}{Formations in Clear Cut Boulders}{112}{subsection*.638}%
-\contentsline {subsection}{Formations in Quartzville Creek}{112}{subsection*.639}%
-\contentsline {subsection}{Formations in Other Areas}{112}{subsection*.640}%
-\contentsline {section}{Known First Ascents}{112}{section*.641}%
+\contentsline {chapter}{\numberline {3}Garden Cliffs}{55}{chapter.3}%
+\contentsline {section}{A - The Garden Cliff}{56}{section*.345}%
+\contentsline {section}{B - Fairy Tale Wall}{63}{section*.394}%
+\contentsline {section}{C - Cabbage Patch/ Thunderdome}{64}{section*.401}%
+\contentsline {chapter}{\numberline {4}Upper Garden}{66}{chapter.4}%
+\contentsline {section}{A - Entrance Area}{68}{section*.419}%
+\contentsline {section}{B - The Bread Loaves/Scratch and Spliff}{70}{section*.430}%
+\contentsline {section}{C - Dr. Strangelove}{74}{section*.454}%
+\contentsline {section}{D - Machete Monkey}{76}{section*.470}%
+\contentsline {section}{E - Middle Garden}{80}{section*.503}%
+\contentsline {section}{F - Upper Forest}{83}{section*.524}%
+\contentsline {chapter}{\numberline {5}Clear Cut Boulders}{86}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Quartzville Creek}{91}{chapter.6}%
+\contentsline {section}{A - Redneck Riviera}{92}{section*.581}%
+\contentsline {section}{B - Old Miner's Camp}{96}{section*.604}%
+\contentsline {chapter}{\numberline {7}Other Areas}{97}{chapter.7}%
+\contentsline {section}{A - The Upper Garden Cliffs}{97}{section*.610}%
+\contentsline {section}{B - Highway 11 Wall}{97}{section*.612}%
+\contentsline {section}{C - Highway 11 Pillar}{98}{section*.614}%
+\contentsline {section}{D - Cascadia Cave}{98}{section*.617}%
+\contentsline {section}{E - Canyon Creek}{99}{section*.619}%
+\contentsline {section}{F - Horse Rock}{99}{section*.621}%
+\contentsline {section}{G - Gordon Ridge}{100}{section*.623}%
+\contentsline {section}{H - The Menagerie Wilderness}{100}{section*.625}%
+\contentsline {section}{I - Santiam Pinnacle}{101}{section*.628}%
+\contentsline {section}{J - Iron Mountain}{102}{section*.630}%
+\contentsline {section}{K - The Needles}{103}{section*.640}%
+\contentsline {chapter}{Index}{104}{section*.641}%
+\contentsline {section}{Routes Alphabetical}{104}{section*.643}%
+\contentsline {section}{Routes by grade}{108}{section*.644}%
+\contentsline {section}{Approximate GPS Locations}{112}{section*.645}%
+\contentsline {subsection}{Formations in The Garden Main}{112}{subsection*.646}%
+\contentsline {subsection}{Formations in Pink Tag Boulders}{114}{subsection*.647}%
+\contentsline {subsection}{Formations in Garden Cliffs}{114}{subsection*.648}%
+\contentsline {subsection}{Formations in Upper Garden}{114}{subsection*.649}%
+\contentsline {subsection}{Formations in Clear Cut Boulders}{114}{subsection*.650}%
+\contentsline {subsection}{Formations in Quartzville Creek}{115}{subsection*.651}%
+\contentsline {subsection}{Formations in Other Areas}{115}{subsection*.652}%
+\contentsline {section}{Known First Ascents}{115}{section*.653}%

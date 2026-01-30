@@ -34,37 +34,26 @@
 - Should variations be indexed? maybe there should be a tier below variation that doesn't get indexed?
 - Should all routes be included in the subarea layout maps (right now if there are two badges that would overlap I just include one)
 - Should areas be reordered? Right now they are listed main first then in order of how close they are to the main. Might make more sense to list them in terms of distance from Sweethome
-- Routes with some confusion:
- - E's low start
- - Socializmo/dab rig
- - Ice Spice
 
 ## Area specific ToDo
 
 ### Garden Main
 Routes to add:
 - earned V2s?
-- Goosebumps
 - Eskimo Roll
-- Golden Boy
-- Z's VB
 - Ed's Cave
 
 Topos to redo:
 - blowie
-- Overhand
 - Francois
 - Slam Dunk
 
 Topos to add:
+- Golden Boy
 - Methlab Prow
 - Phallacy
 - Minnesota With Love
 - Into the Light
-
-Routes with placeholder/out of date descriptions
-- chockstone highball
-- E's low start
 
 Routes with no star rating
 - Routes on the backside of the office
