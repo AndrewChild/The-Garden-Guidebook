@@ -1,16 +1,23 @@
 import sys
 sys.path.insert(1, '../LocalBoulders')
-from GB_Book import book
-from GB_Area_Main import *
-from GB_Area_PinkTag import *
-from GB_Area_Cliffs import *
-from GB_Area_Upper import *
-from GB_Area_ClearCut import *
-from GB_Area_Quartz import *
-from GB_Area_Other import *
-from GB_Images import *
-# from GB_Images_test import *
-from GB_Inserts import *
+from data.GB_Book import book
+from data.GB_Area_Main import *
+from data.GB_Area_PinkTag import *
+from data.GB_Area_Cliffs import *
+from data.GB_Area_Upper import *
+from data.GB_Area_ClearCut import *
+from data.GB_Area_Quartz import *
+from data.GB_Area_Other import *
+from images.GB_Images_high_priority import *
+from images.GB_Images_Main import *
+from images.GB_Images_PinkTag import *
+from images.GB_Images_Cliffs import *
+from images.GB_Images_Upper import *
+from images.GB_Images_ClearCut import *
+from images.GB_Images_Quartz import *
+from images.GB_Images_Other import *
+from images.GB_Images_low_priority import *
+from images.GB_Inserts import *
 
 
 if __name__ == '__main__':

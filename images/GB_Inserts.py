@@ -1,5 +1,5 @@
 from dataStructure.TextInsert import TextInsert
-from GB_Book import book
+from data.GB_Book import book
 
 TextInsert(name='The Garden\'s Greatest Mystery',
            parent=book.formations['Garden Cliff Middle'],

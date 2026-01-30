@@ -3,7 +3,7 @@ from dataStructure.Subarea import Subarea
 from dataStructure.Formation import Formation
 from dataStructure.Route import Route
 from dataStructure.Variation import Variation
-from GB_Book import book
+from data.GB_Book import book
 
 
 Area(name='Quartzville Creek',
