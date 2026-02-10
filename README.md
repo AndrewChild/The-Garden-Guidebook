@@ -7,7 +7,8 @@
 - write descriptions for placeholder routes
 
 ## Things that I'm not sure if I should add
-- Consider rearranging all routes to read left to right (right now cliff reads right to left)
+- Consider rearranging all routes to read left to right (right now cliff reads right to left)/counter clockwise around formation
+- Maybe add dates for FAs and action photos
 - Essay/Flavor text inserts
   - Ethics of developing the Meth Lab prow
   - Who is E?
