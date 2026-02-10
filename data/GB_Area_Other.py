@@ -7,7 +7,7 @@ from data.GB_Book import book
 
 Area(name='Other Areas',
      parent=book,
-        format_options=['suppress_histogram'],
+     format_options=['suppress_histogram'],
      description='The following areas are nearby Sweet Home and the Garden. They are included here in limited detail either due to their obscurity, the author\'s lack of familiarity, or both. These areas are roughly organized in descending order of their distance to the Garden.',)
 Subarea(name='The Upper Garden Cliffs',
         parent=book.areas['Other Areas'],
@@ -61,7 +61,7 @@ Subarea(name='Iron Mountain',
 Subarea(name='The Needles',
         parent=book.areas['Other Areas'],
         gps='44.59672447306725, -122.15597149494864',
-        description='The Needles is a large formation of basalt pillars located high in the hills south of Detroit Lake. The walls are around 100\' tall in some sections.\n\nAndrew Child and Alex Funk went on an expedition to this crag in the Summer of 2018. They climbed a few routes on the main face and the a spire at the top of the wall, which they later learned was the highest point on the formation. The area has also apparently been explored for its bouldering potential as it is listed in the book Portland Bouldering as the "Lucky Boulders", not much detail is provided. The rock isn\'t as solid as the garden cliffs but it is of good enough quality for climbing, there is substantial potential for adventure trad climbing here. It is possible that this crag was adversely effected by the 2020 wildfires. If you would like to explore this area feel free to reach out to the author of this guide for more information.',)
+        description='The Needles is a large formation of basalt pillars located high in the hills south of Detroit Lake. The walls are around 100\' tall in some sections.\n\nAndrew Child and Alex Funk went on an expedition to this crag in the Summer of 2018. They climbed a few routes on the main face and a spire at the top of the wall, which they later learned was the highest point on the formation. The area has also apparently been explored for its bouldering potential as it is listed in the book Portland Bouldering as the "Lucky Boulders", not much detail is provided. The rock isn\'t as solid as the garden cliffs but it is of good enough quality for climbing, there is substantial potential for adventure trad climbing here. It is possible that this crag was adversely effected by the 2020 wildfires. If you would like to explore this area feel free to reach out to the author of this guide for more information.',)
 Formation(name='Big Iron',
           parent=book.subareas['Iron Mountain'],
           gps='44.391455952052134, -122.14586484301212',
