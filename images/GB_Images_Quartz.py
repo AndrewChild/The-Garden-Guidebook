@@ -11,6 +11,7 @@ Topo(name='Monorail',
         'topo_i': r'./images/maps/topos/Quartz/'},
      file_name='Monorail.svg',
      size='f',
+     loc='e',
      routes={
          'path973':book.climbs['Deliverance'],
          'path975':book.climbs['Deliverance'],

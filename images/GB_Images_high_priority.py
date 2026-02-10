@@ -300,6 +300,7 @@ SubAreaMap(name='Machete Monkey',
            file_name='upperGarden.svg',
            layers=['Machete Monkey', 'Base_Upper'],
            border='rect14669',
+           size='f',
            routes={
                'path1393':book.climbs['June 69th'],
                'path2024':book.climbs['Deforestation'],
