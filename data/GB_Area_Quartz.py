@@ -10,13 +10,13 @@ Area(name='Quartzville Creek',
      parent=book,
      description='About an hour further down the road from the main area there are a few interesting boulders '
                  'in a creek. Generally lower temperatures, free camping, and pleasant swimming holes make this '
-                 'a nice mid summer spot.')
+                 'a nice mid summer spot. Unlike other areas documented in this book the subareas for this section are fairly spread out. See navigation instructions for each spot in the subarea descriptions.')
                  
                  
 Subarea(name='Redneck Riviera',
         parent=book.areas['Quartzville Creek'],
         gps='44.570410945356336, -122.4060701729652',
-        description='Redneck riviera is located on Quartzville road approximately 20.6 miles from highway 20 park in '
+        description='Redneck riviera is located on Quartzville road approximately 20.6 miles from highway 20. Park in '
                     'the gravel pull out on the creek side of the road. This '
                     'is a nice spot with good swimming access and a few established routes on both sides of the river. '
                     'The locals like to use this spot to pan for gold. Often they are friendly and willing '
