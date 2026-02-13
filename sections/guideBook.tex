@@ -52,7 +52,10 @@
   {}
   {0pt}
   {\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}
+% hazard scale for highballs
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
+% used for max width images
+\newcommand\measurepage{\dimexpr\pagegoal-\pagetotal-\baselineskip\relax}
 \mdfsetup{skipabove=\topskip,skipbelow=\topskip}
 \mdfdefinestyle{textinsert}{
   backgroundcolor=\chapterColor!40,
@@ -71,7 +74,7 @@
 %-------------- Document -------------------
 \begin{document}
 \title{The Garden}
-\date{2026-02-12}
+\date{2026-02-13}
 \maketitle
 \newcommand\chapterColor{MidnightBlue}
 \input{acknowledgements}
