@@ -1,4 +1,5 @@
 import sys
+import time
 sys.path.insert(1, '../LocalBoulders')
 from data.GB_Book import book
 from data.GB_Area_Main import *
@@ -21,6 +22,8 @@ from images.GB_Inserts import *
 
 
 if __name__ == '__main__':
+    # Record the start time
+    start_time = time.perf_counter()
     book.file_name = 'guideBook_print'
     book.format_options.append('blank_page_after_title')
     book.format_options.append('no_image_rotation')
@@ -53,3 +56,6 @@ if __name__ == '__main__':
         for climb in book.climbs.values():
             if not climb.hasTopo:
                 f.write(climb.name+'\n')
+
+    elapsed_time = time.perf_counter() - start_time
+    print(f"Elapsed time: {elapsed_time:.4f} seconds")
