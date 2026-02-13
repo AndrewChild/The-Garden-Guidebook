@@ -21,6 +21,32 @@ book = Book(
         'area_i': './images/maps/area/',
         'area_o': './images/maps/area/out/',
     },
+    special_thanks=[
+    'The Willamette Valley Climbers Coalition',
+    'The Valley Rock Gym Climbing Community',
+    'Austin Alexander',
+    'Eric Brown',
+    'Mitchel Brown',
+    'Kerstin Cullen',
+    'Frankie D',
+    'Carson Denison',
+    'Jonah Koilpillai',
+    'Jonah Krietzburg',
+    'Ed Friesen',
+    'Michael Gardener-Brown',
+    'Rose Holdorf',
+    'Craig Malik',
+    'Cyrus McDowell',
+    'Jayson Nissen',
+    'Catrina Nowakowski',
+    'Zach Radke',
+    'Matt Slayton',
+    'Griffin Thoms',
+    'Silas Thoms',
+    'Paul Waters',
+    'Cameron Watson',
+    'Andrew Young',
+    ]
 )
 
 
