@@ -2,12 +2,12 @@ from dataStructure.TextInsert import TextInsert
 from data.GB_Book import book
 
 TextInsert(name='The Garden\'s Greatest Mystery',
-           parent=book.formations['Garden Cliff Middle'],
-           loc='b',
+           parent=book,
+           loc='e',
            description='When local route developers, Jayson and Keirsten, originally cut a trail to the garden cliffs in 2014 they were surprised to find a fully bolted route already established on the steep black stone of the main cliff. None of the early 2000s generation garden climbers seem to know anything about this strange line, which was dubbed the heirloom project. To this day the origins of the route are unknown. Perhaps it has always existed, waiting for a suitor since the primordial chaos at the beginning of time itself.\n\n'
            'In the fall of 2023 Evan Powers performed the first known ascent of the route. Although its possible that the route had been climbed previously it seems unlikely since bail gear was present low on the route when it was initially discovered. Not to mention an ascent of a route so difficult would likely be known by at least someone the community.')
 TextInsert(name='Lets Talk About Fight Club',
-           parent=book.subareas['Fight Club'],
+           parent=book,
            loc='e',
            size='f',
            description='What is it about the name Fight Club that so many route developers find so compelling? You may have noticed a multitude of routes with this name at the Garden. These Fight Clubs are not to be confused with Fight Club (V4) at Carver, or Fight Club (5.13b) in the Owens River Gorge, or even Sean Rabatoue\'s recent FA of Fight Club (V14) in Ticino Switzerland. Further research will reveal that there are Fight Clubs everywhere.\n\n'
@@ -17,7 +17,7 @@ TextInsert(name='What Makes a Route a Route?',
            loc='b',
            description='The eastern face of the undertow boulder is quite the mishmash of routes. Spray Skirt, Riptide, Undertow Sit Start, and Simple Math can all easily be climbed into each other via the good holds mid way up the boulder. Since these four routes each start and end in different spots does that mean that there are potentially 16 different lines on this boulder? No, no it does not. Some notable linkups are documented here, such as Spray Against the Undertow, but the list does not particularly need expansion. If you should climb an undocumented link up, Undertow Sit Start into Riptide for example, just tick it as whatever route it most closely resembles (undertow sit start in this example) and move on with your life.')
 TextInsert(name='How do We Know Where a Route Starts?',
-           parent=book.subareas['Machete Monkey'],
+           parent=book,
            loc='e',
            size='f',
            description='The simplest answer to this question is that a route starts wherever everyone agrees that it starts, but where should a route start? Some will tell you that routes should start at the lowest possible point, this can be called the "lowest viable start" (LVS). Another school of thought is that routes should start on a good obvious hold when possible even if that\'s not the LVS, this theory can be called the "lowest reasonable start" or LRS.\n\n'

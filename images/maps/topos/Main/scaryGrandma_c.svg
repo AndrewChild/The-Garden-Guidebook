@@ -11,7 +11,7 @@
     <ns0:path id="path607_clone" style="fill:none;stroke:#FFFFFF;stroke-width:9.030000000000001;stroke-dasharray:38.7, 38.7" d="m 1020.9411,997.61559 c -1.7942,44.85681 37.6798,202.75281 25.1199,170.45591" />
     <ns0:circle id="path609" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.87;stroke-dasharray:none;stroke-opacity:1" cx="706.04626" cy="985.95282" r="40.4028" />
     <ns0:text id="path609_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.29;stroke-dasharray:none;stroke-opacity:1" x="692.8108599999999" y="1004.52882">
-      <ns0:text id="path609_text" x="692.8108599999999" y="1004.52882" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.44px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">8</ns0:text>
+      <ns0:text id="path609_text" x="692.8108599999999" y="1004.52882" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.44px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
     </ns0:text>
     <ns0:circle id="path611" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.87;stroke-dasharray:none;stroke-opacity:1" cx="972.49579" cy="1100.7863" r="40.4028" />
     <ns0:text id="path611_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.29;stroke-dasharray:none;stroke-opacity:1" x="959.26039" y="1119.3623">
@@ -19,7 +19,7 @@
     </ns0:text>
     <ns0:circle id="path613" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:3.87;stroke-dasharray:none;stroke-opacity:1" cx="1035.2953" cy="1098.0948" r="40.4028" />
     <ns0:text id="path613_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:1.29;stroke-dasharray:none;stroke-opacity:1" x="1022.0599" y="1116.6708">
-      <ns0:text id="path613_text" x="1022.0599" y="1116.6708" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.44px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
+      <ns0:text id="path613_text" x="1022.0599" y="1116.6708" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.44px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">8</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

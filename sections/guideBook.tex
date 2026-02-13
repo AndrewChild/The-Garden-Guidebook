@@ -1,7 +1,7 @@
 \documentclass[10pt, twoside]{report}
  \renewcommand{\familydefault}{\sfdefault}
 \usepackage[utf8]{inputenc}
-\usepackage[a5paper,margin=0.5cm,bottom=0.5cm,top=1.5cm]{geometry}
+\usepackage[papersize={6.09in,8.66in},inner=0.63in,outer=0.38in,bottom=0.38in,top=0.83in]{geometry} %A5 with 0.13" bleed
 \usepackage{enumitem}
 \usepackage[explicit]{titlesec}
 \usepackage{graphicx}
@@ -25,15 +25,19 @@
 \usepackage{colortbl}
 \usepackage{varioref}
 \usepackage[framemethod=TikZ]{mdframed}
-
+\usepackage{soul}
 %-------------- Formatting -------------------
 \usepackage{fancyhdr}
 \pagestyle{fancy}
+\fancyhf{} % Clears all header and footer fields
 \setlength\parindent{0pt}
 \setlength{\tabcolsep}{3pt}
 \setcounter{secnumdepth}{0} % prevents section (sub area) numbering
 \graphicspath{ {../} }
-
+% these next three lines prevent page numbers from showing up on chapter header pages
+\makeatletter
+\let\ps@plain\ps@empty
+\makeatother
 \titleformat{\chapter}[display]
   {\normalfont\color{white} \begin {shaded*}\bfseries}
   {}
@@ -48,7 +52,6 @@
   {}
   {0pt}
   {\colorbox{\chapterColor}{\parbox{\dimexpr\columnwidth-2\fboxsep}{\Large#1}}}
-
 \newcommand{\warn}{\ooalign{$\bigtriangleup$\cr\hidewidth!\hidewidth}}
 \mdfsetup{skipabove=\topskip,skipbelow=\topskip}
 \mdfdefinestyle{textinsert}{
@@ -68,17 +71,15 @@
 %-------------- Document -------------------
 \begin{document}
 \title{The Garden}
-\date{2026-01-30}
+\date{2026-02-12}
 \maketitle
 \newcommand\chapterColor{MidnightBlue}
-
 \input{acknowledgements}
 \phantomsection\label{pt:WACC}
 	\includepdf[picturecommand*={}]{./images/photos/WACC.pdf}
-
 \phantomsection\label{pt:Overview}
   \begin{landscape}
-	\includepdf[angle=90, picturecommand*={\put (400,10) {
+	\includepdf[angle=90, picturecommand*={\put (380,20) {
 \rotatebox[origin =lb]{90}{
 \colorbox{\chapterColor}{
 \parbox{0.6\paperheight}{
@@ -87,8 +88,6 @@ Garden areas overview. Parking areas marked in dark blue.
 }}}}}
 }]{./images/photos/areaOverview.pdf}
   \end{landscape}
-
-
 \tableofcontents
 \clearpage
 \renewcommand\chapterColor{BrickRed}
@@ -107,6 +106,4 @@ Garden areas overview. Parking areas marked in dark blue.
 \input{Other Areas}
 \renewcommand\chapterColor{MidnightBlue}
 \input{index}
-
-
 \end{document}

@@ -2,26 +2,25 @@
 \colorlet{shadecolor}{\chapterColor}
 \addcontentsline{toc}{chapter}{Introduction}
 \chapter*{Introduction}
-
 \fancyhead{}
 \lhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}\hspace{4pt}\protect\thepage\hspace{1ex}-\hspace{1ex}Introduction}
 \rhead[\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}\hspace{-\textwidth}\color{white}Introduction \protect\thepage \hspace{4pt}]{\textcolor{\chapterColor}{\rule[-2pt]{\textwidth}{15pt}}}
 \fancyhead[RO]{}
 \fancyhead[RE]{\color{white}Introduction\hspace{1ex}-\hspace{1ex}\protect\thepage \hspace{4pt}}
-
 \raggedcolumns
 \begin{multicols}{2}
 \input{intro}
 \section{Acknowledgements}
-\setbox0=\hbox{\includegraphics[width=0.45\linewidth]{./images/maps/qr/The Garden_qr.png}}% Store image in \box0
+\setbox0=\hbox{\includegraphics[width=0.4\linewidth]{./images/maps/qr/The Garden_qr.png}}% Store image in \box0
 \needspace{\ht0}% Need at least the height of \box0
-\begin{center}
-\includegraphics[width=0.45\linewidth]{./images/maps/qr/The Garden_qr.png}
-\end{center}
-\begin{center}
-\underline{\textcolor{blue}{\href{https://github.com/AndrewChild/The-Garden-Guidebook/raw/main/guideBook.pdf}{Get the latest revision of this book}}}
-\end{center}
-
+\begin{minipage}[c]{0.5\linewidth}{
+\includegraphics[width=0.8\linewidth]{./images/maps/qr/The Garden_qr.png}}
+\end{minipage}
+\begin{minipage}[c]{0.5\linewidth}{
+\textcolor{blue}{\parbox{0.8\linewidth}{\href{https://github.com/AndrewChild/The-Garden-Guidebook/raw/main/guideBook.pdf}{\ul{Get the latest revision of this book}}}}}
+\end{minipage}
+\\
+\\
 This guidebook is a collaborative effort built with the localBoulders framework. It is intended to be a living document if you notice any mistakes, errors, or omissions get in touch with the creators of this document or submit your own contribution via the book's \underline{\textcolor{blue}{\href{https://andrewchild.github.io/The-Garden-Guidebook/}{github repository}}}.
 \end{multicols}
 \clearpage
