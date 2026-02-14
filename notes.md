@@ -46,51 +46,12 @@ Topos to redo:
 - Francois
 - Slam Dunk
 
-Topos to add:
-- Golden Boy
-- Methlab Prow
-- Phallacy
-- Minnesota With Love
-- Into the Light
-
-Routes with no star rating
-- Routes on the backside of the office
-- Left Corner
-- Simple Math
-- Hueco Wabo
-- Chock Stone Highball
-- Angel Face
-- Two Blows One Stroke
-- Into the Light
-- Leave it to Jesus Sit
-- Headbanger's Ball
-- Chillum Sit
-- Phallacy
-- Heisenburg
-- Into the light sit
-- All Berned Down
-- All Berned Upper
-- Leave it to Jesus Sit Left
-
 ### Pink Tag
-Routes to add:
-- Aquamarine/Stone Ocean
-
-Routes with no star rating
-- Pissings
-- Lippity Split
-- Knowledge is good
-- Farley Prep
-- Le Lemet
 
 ### Garden Cliffs
 Routes to add:
 - Meniscus Terror Project
 - Whirlybird Project
-
-Topos to add:
-- Lady Bug
-- cabbage patch
 
 Routes with placeholder descriptions
 - Don't Forget the Nooch
@@ -98,50 +59,18 @@ Routes with placeholder descriptions
 - Babaganoush
 - Kim Chi Corner
 
-Routes with no star rating
-- Don't Forget the Nooch
-- Tabouli
-- I Dropped a Man in Reno
-- Blackberry Jam
-- A Victim of the Times
-- Kim Chi Corner
-- Where do you go When the Sun Goes Down
-- Ovulation Extension
-
 ### Upper Garden
 Routes to add
 - Left start to kick it?
 - brick house?
-- Pumpkin spice low
 - Fuzzy Dice boulder
 - Freedom of the Press
-- Back Seat Driver
 - Surfs Up
 
-Topos to add:
-
-Routes with no star rating
-- Stoned Age
-- Caliban's War
-
 ### Quartzville Creek
-Routes to add:
-
-Topos to add:
-- moss boss
-
-Routes with no star rating
-- Dank Commander
-- Unsalted Almonds
 
 ### Clear Cut
 Draw area map
-
-Routes with no star rating
-- Tear Duct Finish
-- Baloo
-- Br'er Bear
-- Unknown on Cuneiform
 
 ### Other
 Topos to redo:
