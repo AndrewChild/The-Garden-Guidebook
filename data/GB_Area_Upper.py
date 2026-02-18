@@ -13,7 +13,7 @@ Area(name='Upper Garden',
                  'about 0.1 miles before you reach a left hand turnoff to a gated logging road (MS-310). Follow the '
                  'logging road approximately 200 yards up hill until it veers slightly to the right. Look for a '
                  'trail that cuts right through a thin patch of trees to the boulder field (Note: there are a '
-                 'couple of trails and its worth getting on the most tread one as the others are unpleasant). This '
+                 'couple of trails and its worth getting on the most tread one as the others are unpleasant). You can also access the area from the other end of the trail which dumps out to the road by Prince Albert (see approach instructions for Middle Garden). This '
                  'area is also known as Armageddon or The Clear Cut.'
                  '\n\n'
                  'Many sections of this area are covered in poison oak. Climbers are advised to wear close toed shoes and pants when recreating in this area. If unfamiliar with the plant review the section on poison oak in this book\'s introduction.'
@@ -35,23 +35,23 @@ Subarea(name='The Bread Loaves/Scratch and Spliff',
 Subarea(name='Dr. Strangelove',
         #gps='44.44032, -122.58091',
         parent=book.areas['Upper Garden'],
-        note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
+        note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on GitHub.',
         description='More boulders lay under the canopy beyond the talus NE of the scratch and spliff area. Although there is a lot of poison oak in the way there is one passage which avoids most of it. From the scratch and spliff boulder walk across jumbled talus towards the cliff band for ~100\' until you pass a large fir tree. From here the distinctive prow of the Dr. Stanglove boulder should be barely visible through the trees. Walk more or less directly towards it bushwhacking along a feint trail once you get into the trees. There is much less poison oak under the canopy but it can still be found in some patches. Alternatively you can follow the approach trail through the Middle Garden and avoid all of the poison oak.')
 Subarea(name='Machete Monkey',
         #gps='44.44034, -122.58015',
         parent=book.areas['Upper Garden'],
-        note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
+        note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on GitHub.',
         description='About 100\' east of Dr. Strangelove there is a narrow wash of boulders in a clearing. If Approaching from the west follow a faint trail leading from the backside of the Dr. Strangelove boulder to the cliff and walk along the base of the cliff until the trail leads down a steep hill towards the Machete Monkey boulder. If approaching from the East head west from the Jaws boulder ~75\' until you reach the Duck Twirler boulder.')
 Subarea(name='Middle Garden',
         #gps='44.44034, -122.57973',
         parent=book.areas['Upper Garden'],
-        note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',
+        note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on GitHub.',
         description='There are many boulders under the cliff line east of the Machete Monkey area. Rediscovering and reestablishing this sector is an ongoing project. In 2024 a new trail was established which allows access to this area directly from the road.')
 Subarea(name='Upper Forest',
         #gps='44.43944, -122.58402',
         parent=book.areas['Upper Garden'],
-        description='This is a catch all sub area for everything further up the gravel road from the main Upper Garden trail. Although many boulders in this sector have been climbed historically the Upper Forest has become overgrown and is only recently (2025) being re-established.',
-        note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on github.',)  
+        description='This is a catch all sub area for everything further up the gravel road from the main Upper Garden trail. Although many boulders in this sector have been climbed historically, but the Upper Forest has become overgrown and is only recently (2025) being re-established.',
+        note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on GitHub.',)  
                     
 Formation(name='The Story of O Boulder',
            gps='44.43944, -122.58402',

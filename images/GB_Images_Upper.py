@@ -349,6 +349,7 @@ Topo(name='Duck Twirler 2',
         'topo_i': r'./images/maps/topos/Upper/'},
      file_name='duckTwirl2.svg',
      size='h',
+     format_options=['fill_to_bottom'],
      loc='e',
      routes={
          'path1379':book.climbs['DT 1'],

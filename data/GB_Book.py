@@ -46,7 +46,8 @@ book = Book(
     'Paul Waters',
     'Cameron Watson',
     'Andrew Young',
-    ]
+    ],
+    format_options = ['skip_acknowledgments']
 )
 
 

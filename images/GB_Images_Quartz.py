@@ -64,6 +64,7 @@ Topo(name='Dab Rig',
         'topo_i': r'./images/maps/topos/Quartz/'},
      file_name='DabRig.svg',
      size='f',
+     format_options=['fill_to_bottom'],
      routes={
          'path456':book.climbs['Dank Commander'],
          'path454':book.climbs['Dank Commander'],
