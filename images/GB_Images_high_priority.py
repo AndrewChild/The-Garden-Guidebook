@@ -4,7 +4,7 @@ from dataStructure.AreaMap import AreaMap
 from dataStructure.SubAreaMap import SubAreaMap
 from data.GB_Book import book
 """
-High Priority Images get loaded before everything else and will there for always be placed after other images
+High Priority Images get loaded before everything else and will there for always be placed before other images
 """
       
 AreaMap(name='The Garden Main Area Overview',
@@ -38,7 +38,8 @@ AreaMap(name='Armageddon Area Overview',
         parent=book.areas['Upper Garden'],
         file_name='upperGarden.svg',
         sub_areas={
-            'rect3951': book.subareas['Upper Forest'],
+            'rect2702': book.subareas['Upper Forest'],
+            'rect3951': book.subareas['Forest Road'],
             'rect27128': book.subareas['The Bread Loaves'],
             'rect27051': book.subareas['entranceUpper'],
             'rect14556': book.subareas['Dr. Strangelove'],
@@ -47,7 +48,7 @@ AreaMap(name='Armageddon Area Overview',
         },
         layers=['Base_Upper', 'border'],
         border='rect27048',
-        size='f',
+        size='pr',
         loc='b')
 SubAreaMap(name='Entrance Area map',
            parent=book.subareas['Entrance Area'],
@@ -237,11 +238,11 @@ SubAreaMap(name='Pink Tag area map',
                'path3715':book.climbs['Workshop 68'],
                'path3713':book.climbs['Territorial Pissings'],
            })
-SubAreaMap(name='Upper Forest map',
-           parent=book.subareas['Upper Forest'],
-           out_file_name='upperForest_c.png',
+SubAreaMap(name='Forest Road map',
+           parent=book.subareas['Forest Road'],
+           out_file_name='Forest Road_c.png',
            file_name='upperGarden.svg',
-           layers=['Upper Forest', 'Base_Upper'],
+           layers=['Forest Road', 'Base_Upper'],
            border='rect3951',
            size='f',
            routes={
@@ -252,6 +253,23 @@ SubAreaMap(name='Upper Forest map',
                'path13852':book.climbs['wikiFeet'],
                'path13850':book.climbs['Santa Cruz Ski Trip'],
                'path13848':book.climbs['The Story of O'],
+           })
+SubAreaMap(name='Upper Forest map',
+           parent=book.subareas['Upper Forest'],
+           out_file_name='Upper Forest_c.png',
+           file_name='upperGarden.svg',
+           layers=['Upper Forest', 'Base_Upper'],
+           border='rect2702',
+           size='f',
+           routes={
+               'path2822':book.climbs['Roof Crack'],
+               'path2820':book.climbs['RC_1'],
+               'path2818':book.climbs['Mind the Gap'],
+               'path2816':book.climbs['Roll out the Carpet'],
+               'path2814':book.climbs['Apex'],
+               'path2812':book.climbs['Fitzcarraldo Project'],
+               'path2810':book.climbs['PR_1'],
+               'path2808':book.climbs['Basic Economy'],
            })
 SubAreaMap(name='Entrance area map',
            parent=book.subareas['entranceUpper'],

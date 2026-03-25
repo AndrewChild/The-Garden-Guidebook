@@ -4,6 +4,78 @@ from dataStructure.AreaMap import AreaMap
 from dataStructure.SubAreaMap import SubAreaMap
 from data.GB_Book import book
 
+Topo(name='Apex',
+     parent=book.formations['Apex'],
+     paths={
+        'topo_o': r'./images/maps/topos/Upper/',
+        'topo_i': r'./images/maps/topos/Upper/'},
+     file_name='Apex.svg',
+     size='h',
+     loc='b',
+     border='rect4486',
+     routes={
+         'path4067':book.climbs['Apex'],
+         'path4432':book.climbs['Apex'],
+     })
+Topo(name='Carpet',
+     parent=book.formations['Roll out the Carpet'],
+     paths={
+        'topo_o': r'./images/maps/topos/Upper/',
+        'topo_i': r'./images/maps/topos/Upper/'},
+     file_name='Carpet.svg',
+     size='f',
+     loc='b',
+     border='rect5726',
+     routes={
+         'path5722':book.climbs['Mind the Gap'],
+         'path5716':book.climbs['Mind the Gap'],
+         'path5720':book.climbs['Ridin\' Dirty'],
+         'path5714':book.climbs['Ridin\' Dirty'],
+         'path5718':book.climbs['Roll out the Carpet'],
+         'path5712':book.climbs['Roll out the Carpet'],
+     })
+Topo(name='Economy',
+     parent=book.formations['Economy'],
+     paths={
+        'topo_o': r'./images/maps/topos/Upper/',
+        'topo_i': r'./images/maps/topos/Upper/'},
+     file_name='Economy.svg',
+     size='h',
+     loc='b',
+     routes={
+         'path5869':book.climbs['Basic Economy'],
+         'path5867':book.climbs['Basic Economy'],
+     })
+Topo(name='Pete\'s Rail',
+     parent=book.formations['Pete\'s Rail'],
+     paths={
+        'topo_o': r'./images/maps/topos/Upper/',
+        'topo_i': r'./images/maps/topos/Upper/'},
+     file_name='Petes.svg',
+     size='h',
+     loc='b',
+     border='rect6821',
+     routes={
+         'path6021':book.climbs['Fitzcarraldo Project'],
+         'path6025':book.climbs['Fitzcarraldo Project'],
+         'path6023':book.climbs['PR_1'],
+         'path6019':book.climbs['PR_1'],
+     })
+Topo(name='Roof Crack',
+     parent=book.formations['Roof Crack'],
+     paths={
+        'topo_o': r'./images/maps/topos/Upper/',
+        'topo_i': r'./images/maps/topos/Upper/'},
+     file_name='Roof Crack1.svg',
+     size='f',
+     loc='e',
+     border='rect6446',
+     routes={
+         'path6169':book.climbs['Roof Crack'],
+         'path6167':book.climbs['Roof Crack'],
+         'path6165':book.climbs['RC_1'],
+         'path6163':book.climbs['RC_1'],
+     })
 Topo(name='Story of O',
      parent=book.formations['The Story of O Boulder'],
      paths={

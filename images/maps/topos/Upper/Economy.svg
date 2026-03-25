@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg5740"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="Econony.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5744" />
+  <sodipodi:namedview
+     id="namedview5742"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15588804"
+     inkscape:cx="1841.0649"
+     inkscape:cy="1680.6934"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5746" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g5746">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="Economy.jpg"
+       id="image5748" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3168.9409,3233.0895 c -102.6377,-724.8792 -44.904,-930.1547 186.031,-1141.8451 230.9349,-211.6904 519.6037,-686.39 461.8699,-981.4736"
+       id="path5867"
+       sodipodi:nodetypes="csc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path5869"
+       cx="3117.6221"
+       cy="2880.2722"
+       rx="109.05262"
+       ry="102.63776" />
+  </g>
+</svg>

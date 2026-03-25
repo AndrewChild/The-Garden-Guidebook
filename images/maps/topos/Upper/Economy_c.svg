@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg5740" width="5440" height="4096" viewBox="0 0 5440 4096" ns1:docname="Econony.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs5744" />
+  <ns1:namedview id="namedview5742" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.15588804" ns2:cx="1841.0649" ns2:cy="1680.6934" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g5746" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g5746">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="Economy.jpg" id="image5748" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:41.02;stroke-dasharray:none" d="m 3168.9409,3233.0895 c -102.6377,-724.8792 -44.904,-930.1547 186.031,-1141.8451 230.9349,-211.6904 519.6037,-686.39 461.8699,-981.4736" id="path5867" ns1:nodetypes="csc" />
+    <ns0:path id="path5867_clone" style="fill:none;stroke:#FFFFFF;stroke-width:41.02;stroke-dasharray:175.8, 175.8" d="m 3168.9409,3233.0895 c -102.6377,-724.8792 -44.904,-930.1547 186.031,-1141.8451 230.9349,-211.6904 519.6037,-686.39 461.8699,-981.4736" />
+    <ns0:circle id="path5869" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:17.580000000000002;stroke-dasharray:none;stroke-opacity:1" cx="3117.6221" cy="2880.2722" r="183.5352" />
+    <ns0:text id="path5869_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:5.86;stroke-dasharray:none;stroke-opacity:1" x="3057.4985" y="2964.6562">
+      <ns0:text id="path5869_text" x="3057.4985" y="2964.6562" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:210.96px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">1</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

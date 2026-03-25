@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg3940"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="Apex.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3944" />
+  <sodipodi:namedview
+     id="namedview3942"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15588804"
+     inkscape:cx="3364.5942"
+     inkscape:cy="2014.2661"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3946" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g3946">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="Apex.jpg"
+       id="image3948" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10;stroke-dasharray:none"
+       d="M 3347.5615,3138.9059 C 2481.1872,2585.515 2322.4275,1560.381 2340.5714,1229.2536 c 18.144,-331.12735 294.8395,-821.0144 294.8395,-821.0144"
+       id="path4067" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10;stroke-dasharray:none"
+       id="path4432"
+       cx="2476.6511"
+       cy="2000.3721"
+       rx="49.895901"
+       ry="54.431892" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10;stroke-dasharray:none"
+       id="rect4486"
+       width="4560.9653"
+       height="3675.7151"
+       x="404.1362"
+       y="269.42413" />
+  </g>
+</svg>

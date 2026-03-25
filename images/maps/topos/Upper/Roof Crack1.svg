@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg6036"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="Roof Crack1.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6040" />
+  <sodipodi:namedview
+     id="namedview6038"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15588804"
+     inkscape:cx="2094.4519"
+     inkscape:cy="1841.0649"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6042" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g6042">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="Roof%20Crack1.jpg"
+       id="image6044" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1968.6202,2966.5382 c 476.279,-430.9192 639.5747,-517.103 566.9988,-821.0144 -72.5758,-303.9114 -449.0631,-435.4552 -498.959,-848.2303 -33.7493,-279.1991 49.8959,-317.51941 49.8959,-317.51941"
+       id="path6163"
+       sodipodi:nodetypes="cssc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path6165"
+       cx="2519.7432"
+       cy="2093.3599"
+       rx="56.69989"
+       ry="47.627907" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3814.7685,2045.732 c -140.6157,-40.8239 -99.7918,-222.2636 -104.3277,-435.4551 -4.536,-213.1916 -181.4397,-757.51057 -285.7675,-852.76638"
+       id="path6167" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path6169"
+       cx="3628.793"
+       cy="1206.5736"
+       rx="81.647842"
+       ry="54.431892" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect6446"
+       width="5176.792"
+       height="3213.8452"
+       x="57.733753"
+       y="436.21048" />
+  </g>
+</svg>

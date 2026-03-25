@@ -27,12 +27,14 @@ if __name__ == '__main__':
     book.file_name = 'guideBook_print'
     book.format_options.append('blank_page_after_title')
     book.format_options.append('no_image_rotation')
+    book.options['bleed_box'] = 9.36
     book.update()
     book.gen()
     book.format_options.remove('blank_page_after_title')
     book.format_options.remove('no_image_rotation')
     book.format_options.append('skip_action_photos')
     book.format_options.append('skip_text_inserts')
+    book.options['bleed_box'] = False
     book.file_name = 'guideBook'
     book.gen()
 

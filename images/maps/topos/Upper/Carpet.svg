@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg5585"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="Carpet.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5589" />
+  <sodipodi:namedview
+     id="namedview5587"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.22045898"
+     inkscape:cx="2537.887"
+     inkscape:cy="1896.0443"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5591" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g5591">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="Carpet.jpg"
+       id="image5593" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 2328.5942,2610.8481 c 41.6966,-606.2043 182.8236,-728.0866 327.1579,-1007.1331 144.3344,-279.0464 118.6749,-952.60669 118.6749,-952.60669"
+       id="path5712" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path5718"
+       cx="2673.3931"
+       cy="1571.6407"
+       rx="40.092876"
+       ry="35.281731" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 2363.876,2290.1051 c 73.7709,-339.9876 -147.5418,-651.1083 -227.7276,-715.2569 -80.1857,-64.1486 0,-320.743 0,-320.743"
+       id="path5714" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path5720"
+       cx="2277.2754"
+       cy="1772.1051"
+       rx="57.733742"
+       ry="56.130028" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 1584.4705,2049.5478 c -12.8298,-214.8978 500.359,-439.4179 545.2631,-779.4055"
+       id="path5716"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path5722"
+       cx="1813.8018"
+       cy="1730.4086"
+       r="46.507736" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect5726"
+       width="5071.2388"
+       height="3184.2656"
+       x="294.83942"
+       y="403.70322" />
+  </g>
+</svg>

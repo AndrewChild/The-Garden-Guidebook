@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg5892"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="Petes.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5896" />
+  <sodipodi:namedview
+     id="namedview5894"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.11022949"
+     inkscape:cx="3451.8893"
+     inkscape:cy="1560.381"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5898" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g5898">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="Petes.jpg"
+       id="image5900" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="M 3973.5282,2644.4828 C 3379.3134,1106.7818 3297.6656,222.26357 3297.6656,222.26357"
+       id="path6019" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 2095.6279,2485.7231 c 81.6478,-485.351 -172.3677,-1374.4053 -172.3677,-1374.4053"
+       id="path6021" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path6023"
+       cx="3581.165"
+       cy="1490.0731"
+       rx="56.69989"
+       ry="61.235882" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path6025"
+       cx="2093.3599"
+       cy="1984.4961"
+       rx="34.019932"
+       ry="47.627907" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect6821"
+       width="4182.1836"
+       height="3792.0886"
+       x="952.55817"
+       y="63.503876" />
+  </g>
+</svg>
