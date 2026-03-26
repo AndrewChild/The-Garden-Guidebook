@@ -58,7 +58,7 @@ Subarea(name='Upper Forest',
         description='This cluster of boulders nestled against the cliff is not far Northwest of the Entrance area however walking straight from that direction will almost certainly get you covered in poison oak. The upper forest is best accessed by walking up the forest road approximately 1/4 mile from the gate then following a feint trail to the upper forest cliff. Follow the cliff for a few hundred yards until you see a secluded grove of boulders.',
         note = 'This sub area is still being rediscovered. Look forward to more information in future revisions of this book or contribute your own knowledge on GitHub.',)  
                     
-Formation(name='Economy',
+Formation(name='Gibraltar',
            gps='44.44066, -122.58273',
            format_options=['suppress_gps'],
            parent=book.subareas['Upper Forest'],
@@ -187,8 +187,8 @@ Formation(name='Prince Albert',
            description='This cool spire is surprisingly hard to see from the road. Several lines have been established and forgotten on all aspects of the pillar. Note that getting off of this rod can be a challenge, either bring a rope and rappel off the bolted anchor or down climb the tall and chossy slab.')
            
            
-Route(name='Basic Economy',
-      parent=book.formations['Economy'],
+Route(name='Gibraltar',
+      parent=book.formations['Gibraltar'],
       grade=1,
       rating=1,
       description='Sit start on a the leftmost of two in cut edges on the face. A few scrunchy moves lead to a low top out.')       
@@ -518,12 +518,17 @@ Route(name='Easy Up, Easy Down',
       rating=1,
       serious=2,
       description='Climb the chossy slab. The name is kind of a sandbag because getting down is not that easy.')
-      
-Variation(name='Pete\'s Rail',
+
+Variation(name='Pete\'s Rail Dyno',
           parent=book.routes['PR_1'],
           grade=4,
           rating=2,
-          description='Start as for Right Arête, but eliminate the arête by using the cool crimp on the face. Dynoing from the start to the top is similarly difficult if not a bit easier.')
+          description='Dyno from the start of Right Arête to the lip.')      
+Variation(name='Pete\'s Rail',
+          parent=book.routes['PR_1'],
+          grade='4+',
+          rating=1,
+          description='Highly contrived, but included for historical significance. Start as for Right Arête, but eliminate the arête and climb through the cool crimp on the face. Harder than just dynoing to the top.')
 Variation(name='Arnold Palmer',
           parent=book.routes['Santa Cruz Ski Trip'],
           grade='4/5',

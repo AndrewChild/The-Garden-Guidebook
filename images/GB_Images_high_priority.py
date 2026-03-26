@@ -269,7 +269,7 @@ SubAreaMap(name='Upper Forest map',
                'path2814':book.climbs['Apex'],
                'path2812':book.climbs['Fitzcarraldo Project'],
                'path2810':book.climbs['PR_1'],
-               'path2808':book.climbs['Basic Economy'],
+               'path2808':book.climbs['Gibraltar'],
            })
 SubAreaMap(name='Entrance area map',
            parent=book.subareas['entranceUpper'],
