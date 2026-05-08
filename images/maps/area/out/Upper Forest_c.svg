@@ -332,7 +332,7 @@
     </ns0:text>
     <ns0:circle id="path2816" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.09;stroke-dasharray:none;stroke-opacity:1" cx="222.64322" cy="131.51534" r="0.9396" />
     <ns0:text id="path2816_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.03;stroke-dasharray:none;stroke-opacity:1" x="222.33542000000003" y="131.94734">
-      <ns0:text id="path2816_text" x="222.33542000000003" y="131.94734" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.08px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
+      <ns0:text id="path2816_text" x="222.33542000000003" y="131.94734" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.08px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
     </ns0:text>
     <ns0:circle id="path2818" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.09;stroke-dasharray:none;stroke-opacity:1" cx="220.80988" cy="127.7408" r="0.9396" />
     <ns0:text id="path2818_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.03;stroke-dasharray:none;stroke-opacity:1" x="220.50208" y="128.1728">
@@ -340,11 +340,11 @@
     </ns0:text>
     <ns0:circle id="path2820" style="fill:#b8860b;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.09;stroke-dasharray:none;stroke-opacity:1" cx="237.52563" cy="135.50554" r="0.9396" />
     <ns0:text id="path2820_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.03;stroke-dasharray:none;stroke-opacity:1" x="237.21783000000002" y="135.93753999999998">
-      <ns0:text id="path2820_text" x="237.21783000000002" y="135.93753999999998" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.08px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">8</ns0:text>
+      <ns0:text id="path2820_text" x="237.21783000000002" y="135.93753999999998" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.08px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
     </ns0:text>
     <ns0:circle id="path2822" style="fill:#4169e1;fill-opacity:1;stroke:#FFFFFF;stroke-width:0.09;stroke-dasharray:none;stroke-opacity:1" cx="244.3737" cy="126.77021" r="0.9396" />
-    <ns0:text id="path2822_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.03;stroke-dasharray:none;stroke-opacity:1" x="243.7581" y="127.20221000000001">
-      <ns0:text id="path2822_text" x="243.7581" y="127.20221000000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.08px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">10</ns0:text>
+    <ns0:text id="path2822_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.03;stroke-dasharray:none;stroke-opacity:1" x="244.06590000000003" y="127.20221000000001">
+      <ns0:text id="path2822_text" x="244.06590000000003" y="127.20221000000001" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.08px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">9</ns0:text>
     </ns0:text>
   </ns0:g>
 </ns0:svg>

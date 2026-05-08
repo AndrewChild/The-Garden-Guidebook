@@ -3,11 +3,11 @@
 
 <svg
    version="1.1"
-   id="svg5585"
+   id="svg2"
    width="5440"
    height="4096"
    viewBox="0 0 5440 4096"
-   sodipodi:docname="Carpet.svg"
+   sodipodi:docname="pluto.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -15,9 +15,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs5589" />
+     id="defs6" />
   <sodipodi:namedview
-     id="namedview5587"
+     id="namedview4"
      pagecolor="#ffffff"
      bordercolor="#cccccc"
      borderopacity="1"
@@ -26,54 +26,55 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.22045898"
-     inkscape:cx="2018.5161"
-     inkscape:cy="1896.0443"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="379"
+     inkscape:zoom="0.15070904"
+     inkscape:cx="2823.3211"
+     inkscape:cy="2083.4849"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5591" />
+     inkscape:current-layer="g8" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g5591">
+     id="g8">
     <image
        width="5440"
        height="4096"
        preserveAspectRatio="none"
-       xlink:href="Carpet.jpg"
-       id="image5593" />
+       xlink:href="pluto.jpg"
+       id="image10" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:10"
-       d="m 2328.5942,2610.8481 c 41.6966,-606.2043 123.8557,-755.3025 268.19,-1034.349 144.3344,-279.0464 14.3471,-966.21471 14.3471,-966.21471"
-       id="path5712"
+       d="M 3045.0218,3434.4467 C 3297.579,2470.8829 2743.4845,2103.7103 2658.3701,1692.7042 2592.9114,1376.6129 2417.5416,1395.4168 2280.2474,1332.4903"
+       id="path293"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 2768.2016,1961.2004 c -117.2967,-225.2096 500.8722,-445.6613 600.559,-708.4719 103.2211,-272.12827 84.4536,-342.50628 -23.4593,-487.95416"
+       id="path393"
        sodipodi:nodetypes="csc" />
     <ellipse
        style="fill:none;stroke:#ff0000;stroke-width:10"
-       id="path5718"
-       cx="2591.7451"
-       cy="1580.7128"
-       rx="40.092876"
-       ry="35.281731" />
-    <path
+       id="path447"
+       cx="2514.8408"
+       cy="1421.6357"
+       rx="65.686142"
+       ry="56.302406" />
+    <ellipse
        style="fill:none;stroke:#ff0000;stroke-width:10"
-       d="m 1584.4705,2049.5478 c -12.8298,-214.8978 500.359,-439.4179 545.2631,-779.4055"
-       id="path5716"
-       sodipodi:nodetypes="cc" />
-    <circle
-       style="fill:none;stroke:#ff0000;stroke-width:10"
-       id="path5722"
-       cx="1813.8018"
-       cy="1730.4086"
-       r="46.507736" />
+       id="path449"
+       cx="3410.9873"
+       cy="1135.4319"
+       rx="32.843071"
+       ry="46.918671" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:10"
-       id="rect5726"
-       width="5071.2388"
-       height="3184.2656"
-       x="294.83942"
-       y="403.70322" />
+       id="rect503"
+       width="3622.8752"
+       height="3788.7573"
+       x="723.24792"
+       y="258.77679" />
   </g>
 </svg>

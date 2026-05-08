@@ -29,8 +29,6 @@ Topo(name='Carpet',
      routes={
          'path5722':book.climbs['Mind the Gap'],
          'path5716':book.climbs['Mind the Gap'],
-         'path5720':book.climbs['Ridin\' Dirty'],
-         'path5714':book.climbs['Ridin\' Dirty'],
          'path5718':book.climbs['Roll out the Carpet'],
          'path5712':book.climbs['Roll out the Carpet'],
      })
@@ -56,8 +54,8 @@ Topo(name='Pete\'s Rail',
      loc='b',
      border='rect6821',
      routes={
-         'path6021':book.climbs['Fitzcarraldo Project'],
-         'path6025':book.climbs['Fitzcarraldo Project'],
+         'path6021':book.climbs['PR_2'],
+         'path6025':book.climbs['PR_2'],
          'path6023':book.climbs['PR_1'],
          'path6019':book.climbs['PR_1'],
      })
@@ -137,6 +135,21 @@ Topo(name='Foxglove',
      routes={
          'path1319':book.climbs['Foxglove'],
          'path1317':book.climbs['Foxglove'],
+     })
+Topo(name='Pluto',
+     parent=book.formations['Pluto'],
+     paths={
+        'topo_o': r'./images/maps/topos/Upper/',
+        'topo_i': r'./images/maps/topos/Upper/'},
+     file_name='pluto.svg',
+     size='h',
+     loc='e',
+     border='rect503',
+     routes={
+         'path449':book.climbs['Pluto Arête'],
+         'path393':book.climbs['Pluto Arête'],
+         'path447':book.climbs['Pluto'],
+         'path293':book.climbs['Pluto'],
      })
 Topo(name='Pumpkin',
      parent=book.formations['Pumpkin'],
