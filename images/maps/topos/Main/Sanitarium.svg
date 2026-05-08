@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg467"
+   width="5440"
+   height="4096"
+   viewBox="0 0 5440 4096"
+   sodipodi:docname="Sanitarium.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs471" />
+  <sodipodi:namedview
+     id="namedview469"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.15070904"
+     inkscape:cx="1764.9904"
+     inkscape:cy="1818.0728"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="379"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g473" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g473">
+    <image
+       width="5440"
+       height="4096"
+       preserveAspectRatio="none"
+       xlink:href="Sanitarium.jpg"
+       id="image475" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="m 3251.4639,2191.1019 c -666.2451,-197.0584 -900.8385,-403.5005 -900.8385,-633.402 0,-229.9015 -44.7331,-473.228 -145.4479,-581.79154 -151.6976,-163.51945 65.6862,-675.62886 65.6862,-675.62886"
+       id="path594"
+       sodipodi:nodetypes="cssc" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path692"
+       cx="2721.283"
+       cy="1989.3517"
+       rx="37.534939"
+       ry="32.843071" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       d="M 1182.3505,2134.7995 C 1290.2635,1614.0023 1083.8213,867.99542 1083.8213,867.99542"
+       id="path694" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path696"
+       cx="1198.7721"
+       cy="1496.7056"
+       rx="35.189003"
+       ry="23.459335" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="rect750"
+       width="4031.1091"
+       height="3113.123"
+       x="271.04706"
+       y="143.64256" />
+  </g>
+</svg>

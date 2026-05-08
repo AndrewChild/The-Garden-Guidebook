@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.68203125"
-     inkscape:cx="766.09393"
-     inkscape:cy="523.43643"
+     inkscape:cx="590.14891"
+     inkscape:cy="759.49599"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
@@ -68,5 +68,16 @@
        cx="942.03894"
        cy="634.13519"
        r="15.395189" />
+    <path
+       style="fill:none;stroke-width:10;stroke:#ff0000"
+       d="M 582.08477,906.11684 C 844.53608,824.00916 911.98167,746.30011 911.98167,746.30011"
+       id="path292" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:10"
+       id="path454"
+       cx="796.88428"
+       cy="824.00916"
+       rx="18.327606"
+       ry="20.526918" />
   </g>
 </svg>

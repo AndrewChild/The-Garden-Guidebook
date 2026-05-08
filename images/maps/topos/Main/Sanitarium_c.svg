@@ -1,0 +1,19 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" version="1.1" id="svg467" width="4031.1091" height="3113.123" viewBox="271.04706 143.64256 4031.1091 3113.123" ns1:docname="Sanitarium.svg" ns2:version="1.2 (dc2aedaf03, 2022-05-15)">
+  <ns0:defs id="defs471" />
+  <ns1:namedview id="namedview469" pagecolor="#ffffff" bordercolor="#cccccc" borderopacity="1" ns2:showpageshadow="0" ns2:pageopacity="1" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="0.15070904" ns2:cx="1764.9904" ns2:cy="1818.0728" ns2:window-width="1920" ns2:window-height="1027" ns2:window-x="-8" ns2:window-y="379" ns2:window-maximized="1" ns2:current-layer="g473" />
+  <ns0:g ns2:groupmode="layer" ns2:label="Image" id="g473">
+    <ns0:image width="5440" height="4096" preserveAspectRatio="none" ns3:href="Sanitarium.jpg" id="image475" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:30.38;stroke-dasharray:none" d="m 3251.4639,2191.1019 c -666.2451,-197.0584 -900.8385,-403.5005 -900.8385,-633.402 0,-229.9015 -44.7331,-473.228 -145.4479,-581.79154 -151.6976,-163.51945 65.6862,-675.62886 65.6862,-675.62886" id="path594" ns1:nodetypes="cssc" />
+    <ns0:path style="fill:none;stroke:#008000;stroke-width:30.38;stroke-dasharray:none" d="M 1182.3505,2134.7995 C 1290.2635,1614.0023 1083.8213,867.99542 1083.8213,867.99542" id="path694" />
+    <ns0:path id="path594_clone" style="fill:none;stroke:#FFFFFF;stroke-width:30.38;stroke-dasharray:130.2, 130.2" d="m 3251.4639,2191.1019 c -666.2451,-197.0584 -900.8385,-403.5005 -900.8385,-633.402 0,-229.9015 -44.7331,-473.228 -145.4479,-581.79154 -151.6976,-163.51945 65.6862,-675.62886 65.6862,-675.62886" />
+    <ns0:path id="path694_clone" style="fill:none;stroke:#FFFFFF;stroke-width:30.38;stroke-dasharray:130.2, 130.2" d="M 1182.3505,2134.7995 C 1290.2635,1614.0023 1083.8213,867.99542 1083.8213,867.99542" />
+    <ns0:circle id="path692" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.02;stroke-dasharray:none;stroke-opacity:1" cx="2721.283" cy="1989.3517" r="135.9288" />
+    <ns0:text id="path692_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.34;stroke-dasharray:none;stroke-opacity:1" x="2676.7545999999998" y="2051.8477">
+      <ns0:text id="path692_text" x="2676.7545999999998" y="2051.8477" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:156.24px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">6</ns0:text>
+    </ns0:text>
+    <ns0:circle id="path696" style="fill:#008000;fill-opacity:1;stroke:#FFFFFF;stroke-width:13.02;stroke-dasharray:none;stroke-opacity:1" cx="1198.7721" cy="1496.7056" r="135.9288" />
+    <ns0:text id="path696_label" style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.34;stroke-dasharray:none;stroke-opacity:1" x="1154.2437" y="1559.2016">
+      <ns0:text id="path696_text" x="1154.2437" y="1559.2016" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:156.24px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#FFFFFF;fill-opacity:1;stroke:none">7</ns0:text>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>
