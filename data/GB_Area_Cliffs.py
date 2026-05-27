@@ -332,23 +332,23 @@ Route(name='Fee-Fi-Fo-Fum',
 Route(name='Don\'t Forget the Nooch',
       parent=book.formations['Cabbage Patch'],
       grade='5.4',
+      rating=1,
       FA='Jayson Nissen',
-      grade_unconfirmed=True,
-      description='30\', Sport 6 Bolts.'
+      description='30\', Sport 3 Bolts. Follow a right facing corner crack up a low angle slope. Seeps in spring, usually dirty.'
       )
 Route(name='Tabouli',
       parent=book.formations['Cabbage Patch'],
       grade='5.7',
       FA='Jayson Nissen',
       grade_unconfirmed=True,
-      description='30\', Sport 6 Bolts.'
+      description='30\', Sport 4 Bolts. Follow the bolt line up a shallow left facing corner. The bolts are unfortunately placed in a water streak and may be covered in mud and vegetation.'
       )
 Route(name='Babaganoush',
       parent=book.formations['Cabbage Patch'],
       grade='5.10b',
+      rating=1,
       FA='Mike Gunnels',
-      grade_unconfirmed=True,
-      description='30\', Sport 5 Bolts.'
+      description='30\', Sport 4 Bolts. A bouldery sequence in a right facing corner gives way to a bulbous ledge at the first bolt followed by 5.easy terrain to the top.'
       )
 Route(name='Kim Chi Corner',
       parent=book.formations['Cabbage Patch'],
