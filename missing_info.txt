@@ -29,9 +29,7 @@ Farley Prep
 Knowledge is Good
 Blackberry Jam
 Spin Glass
-Don't Forget the Nooch
 Tabouli
-Babaganoush
 Kim Chi Corner
 Where Do You Go When the Sun Goes Down
 I Dropped a Man in Reno
@@ -73,10 +71,9 @@ Knowledge is Good
 Bonsai
 Ladybug
 Blackberry Jam
-Don't Forget the Nooch
-Tabouli
-Babaganoush
-Kim Chi Corner
+Open Project
+Open Project
+Open Project
 John to Snug Linkup
 A Victem of the Times
 Cracked Egg

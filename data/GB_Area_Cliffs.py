@@ -211,6 +211,11 @@ Route(name='Chimeras',
       FA='JD Merritt',
       description='70\', Sport, 9 bolts. CLimb through the middle of a big scoop with a bouldery exit. Ignore the first bolt to prevent rope drag.'
       )
+Route(name='Open Project',
+      item_id='cliffs_proj_2',
+      parent=book.formations['Garden Cliff Middle'],
+      description='Climbs the steep column to the left of Chimeras. Links into the top of Littlest Birds.',
+      )
 Route(name='Castle Black',
       parent=book.formations['Garden Cliff Middle'],
       grade='5.11a',
@@ -259,6 +264,11 @@ Route(name='Vandals in the Graveyard',
       FA='Chris Nord',
       description='45\', Sport, 5 bolts. Start on Criss Cross Applesauce but continue straight up after the 3rd bolt. After a short bouldery sequence gain a left facing ramp and follow easy terrain back to the chains of Criss Cross Apple Sauce.',
       )
+Route(name='Open Project',
+      item_id='cliffs_proj_3',
+      parent=book.formations['Garden Cliff Middle'],
+      description='The route to the left of Vandals was a closed project, but it was opened up by the developer after he tore his meniscus climbing on it.',
+      )
 Route(name='Ovulation Send-sation',
       parent=book.formations['Garden Cliff Left Side'],
       grade='5.12a',
@@ -272,6 +282,11 @@ Route(name='Fertile Crescent',
       rating=3,
       FA='Jayson Nissen',
       description='45\', Sport, 6 bolts. Climb the large left facing crescent feature until you join with Ovulation after the fourth bolt.',
+      )
+Route(name='Open Project',
+      item_id='cliffs_proj_4',
+      parent=book.formations['Garden Cliff Left Side'],
+      description='The bolt line in the corner to the left of Fertile Crescent has been abandoned for many years.',
       )
 Route(name='My Secret Garden',
       parent=book.formations['Garden Cliff Left Side'],
@@ -350,12 +365,17 @@ Route(name='Babaganoush',
       FA='Mike Gunnels',
       description='30\', Sport 4 Bolts. A bouldery sequence in a right facing corner gives way to a bulbous ledge at the first bolt followed by 5.easy terrain to the top.'
       )
+Route(name='Open Project',
+      item_id='cliffs_proj_5',
+      parent=book.formations['Cabbage Patch'],
+      description='30\', Sport 3 Bolts. A section of dirty and friable rock leads up a slight overhang. Difficulty eases as the cliff slabs out at the third bolt.'
+      )
 Route(name='Kim Chi Corner',
       parent=book.formations['Cabbage Patch'],
       grade='5.11a',
       FA='Jayson Nissen',
       grade_unconfirmed=True,
-      description='30\', Sport 6 Bolts.'
+      description='30\', Sport 5 Bolts. Vertical climbing follows a 20\' right facing corner to a horizontal seam followed by slab to the top.'
       )
 Route(name='Where Do You Go When the Sun Goes Down',
       parent=book.formations['Thunderdome'],
